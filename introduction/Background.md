@@ -2,7 +2,8 @@
 layout: subpage
 title: Background
 permalink: /introduction/background
----# 1.1 Background: Why does WEF-Nexus thinking matter?
+---
+# 1.1 Background: Why does WEF-Nexus thinking matter?
 
 # 1.1 Background: Challenges for achieving WEF-Security
 
