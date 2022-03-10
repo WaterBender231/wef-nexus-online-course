@@ -31,9 +31,3 @@ Security
 - WEF Nexus Assessment tools: qualitative, quantitative and governance related tools
 - Overview on Nexus governance related measures and solutions – case studies
 - Nexus sound solutions and technologies that support integrated resources management
-
-
-Jump to:
-[1.1 Background](1%20Introduc%208c4d3/1%201%20Backgr%20ca457.md)
-
-[1.2 Nexus-Interconnections](1%20Introduc%208c4d3/1%202%20Nexus-%2025e00.md) 
