@@ -5,7 +5,7 @@ permalink: /introduction/
 ---
 # 1. Introduction
 
-![wef-banner.PNG](1%20Introduc%208c4d3/wef-banner.png)
+![WEF-Nexus Banner](/assets/BANNER_GITHUB.png)
 
 ## Learning Unit 01
 Introduction to the Water-Energy-Food
