@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The content is being developed by the ITT in Cologne. You can find our homepage here:
+[ITT, TH Köln](https://www.tt.th-koeln.de/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The development of the WEF-Nexus online course is also being supported by:
+[DAAD](https://www.daad.de/)
 
 
-[jekyll-organization]: https://github.com/jekyll
+Hope to see you back here soon!
