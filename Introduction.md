@@ -1,3 +1,8 @@
+---
+layout: page
+title: Introduction
+permalink: /introduction/
+---
 # 1. Introduction
 
 ![wef-banner.PNG](1%20Introduc%208c4d3/wef-banner.png)
