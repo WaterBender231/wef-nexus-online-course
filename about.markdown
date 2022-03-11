@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nav_order: 1
 ---
 
 Welcome to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 

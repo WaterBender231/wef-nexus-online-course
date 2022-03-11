@@ -3,6 +3,7 @@ layout: page
 title: Interconnections
 permalink: /interconnections/
 has_children: false
+nav_order: 3
 ---
 # 2. Interconnections and the WEF-Nexus
 
