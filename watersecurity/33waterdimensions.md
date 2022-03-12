@@ -2,7 +2,7 @@
 layout: page
 title: 3. Dimensions
 permalink: /watersecurity/dimensions
-parent: Water Security
+parent: Learning Unit 3 - Water Security
 ---
 # 3.3 Dimensions, indicators, and sources
 

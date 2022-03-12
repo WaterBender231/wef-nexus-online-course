@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Food Security
+title: Learning Unit 5 - Food Security
 permalink: /foodsecurity/
 has_children: true
 nav_order: 6

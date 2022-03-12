@@ -2,7 +2,7 @@
 layout: page
 title: 1. Definitions
 permalink: /watersecurity/definitions
-parent: Water Security
+parent: Learning Unit 3 - Water Security
 ---
 # 3.1 Water Security Definitions
 

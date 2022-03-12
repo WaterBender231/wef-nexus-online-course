@@ -2,7 +2,7 @@
 layout: page
 title: 5. References
 permalink: /watersecurity/references
-parent: Water Security
+parent: Learning Unit 3 - Water Security
 ---
 # 3.5 References
 

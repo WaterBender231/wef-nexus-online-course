@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Water Security
+title: Learning Unit 3 - Water Security
 permalink: /watersecurity/
 has_children: true
 nav_order: 4
