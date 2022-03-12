@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2.Concepts
+title: 2. Concepts
 permalink: /watersecurity/concepts
 parent: Water Security
 ---

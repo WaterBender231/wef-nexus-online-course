@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1.Definitions
+title: 1. Definitions
 permalink: /watersecurity/definitions
 parent: Water Security
 ---
