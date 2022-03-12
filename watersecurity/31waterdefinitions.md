@@ -35,4 +35,12 @@ Target 6.6“… protect and restore water-related ecosystems…”
 “Water Security refers to the availability of an acceptable quantity and quality of water for health, livelihoods, ecosystems, and production, coupled with an acceptable level of water-related risks to people, environments, and economies.” (Grey and Sadoff, 2007)
 
 ## 3.2 **Varying Water Security assessment frameworks**
-insert image
+
+
+| Dimensions        | Scale/ Focus          | Authors |
+|:-------------|:------------------|:------|
+| Catchment disturbance, pollution, water resource development, biotic factors
+           | global | Vörösmarty (2010)  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
