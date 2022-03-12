@@ -5,6 +5,8 @@ permalink: /about/
 nav_order: 1
 ---
 
+![Explore Banner](/assets/about_banner.png)
+
 Welcome to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
 
 **The Water Energy Food (WEF) Nexus Course consists of the following Learning Units (LUs):**
