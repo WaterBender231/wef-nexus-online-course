@@ -2,7 +2,7 @@
 layout: page
 title: Water Security Concepts
 permalink: /watersecurity/concepts
-parent: WaterSecurity
+parent: Water Security
 ---
 # 3.2 Different Concepts about how to assess water security
 

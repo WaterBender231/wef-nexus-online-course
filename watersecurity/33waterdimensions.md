@@ -2,7 +2,7 @@
 layout: page
 title: Water Security Dimensions
 permalink: /watersecurity/dimensions
-parent: WaterSecurity
+parent: Water Security
 ---
 # 3.3 Dimensions, indicators, and sources
 

@@ -2,7 +2,7 @@
 layout: page
 title: Water Security Definitions
 permalink: /watersecurity/definitions
-parent: WaterSecurity
+parent: Water Security
 ---
 # 3.1 Water Security Definitions
 

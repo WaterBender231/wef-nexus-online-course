@@ -2,7 +2,7 @@
 layout: page
 title: Water Security - References
 permalink: /watersecurity/references
-parent: WaterSecurity
+parent: Water Security
 ---
 # 3.5 References
 
