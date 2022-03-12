@@ -14,7 +14,7 @@ parent: Water Security
 
 ## 3.4 **Indices to measure water accessibility**
 
-![water accessibility](/assets/accessibility_dimension.png)
+![water accessibility](/wef-nexus-online-course/assets/accessibility_dimension.png)
 
 ## 3.5 **Indices to measure water safety and quality**
 
