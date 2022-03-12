@@ -2,7 +2,7 @@
 layout: page
 title: Water Security Questions
 permalink: /watersecurity/questions
-parent: WaterSecurity
+parent: Water Security
 ---
 # 3.4 Self-Assessment
 
