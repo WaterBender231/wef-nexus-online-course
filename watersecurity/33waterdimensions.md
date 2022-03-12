@@ -6,7 +6,7 @@ parent: Water Security
 ---
 # 3.3 Dimensions, indicators, and sources
 
-![Water Security Banner](/assets/water-dimensions.png)
+![Water Security Banner](~/assets/water-dimensions.png)
 
 ## 3.3 **Indices to measure water availability**
 
