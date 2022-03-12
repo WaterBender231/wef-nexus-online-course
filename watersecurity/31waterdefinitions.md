@@ -16,15 +16,15 @@ parent: Water Security
 
 **Goal 6: Ensure availability and sustainable management of water and sanitation for all**
 
-![SDG 6](sdg6.png)
+![SDG 6](/assets/sdg6.png)
 
-Target 6.1“… safe and affordable drinking water for all”
-Target 6.2 “… achieve access to adequate and equitable sanitation…”
-Target 6.3 “… improve water quality…”
+- Target 6.1“… safe and affordable drinking water for all”
+- Target 6.2 “… achieve access to adequate and equitable sanitation…”
+- Target 6.3 “… improve water quality…”
 
-Target 6.4 “… increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity…”
-Target 6.5 “… implement integrated water resources management…”
-Target 6.6“… protect and restore water-related ecosystems…”
+- Target 6.4 “… increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity…”
+- Target 6.5 “… implement integrated water resources management…”
+- Target 6.6“… protect and restore water-related ecosystems…”
 
 *However: the aspects of protection against water-related hazards are covered in Target 11.5!*
 
@@ -39,8 +39,11 @@ Target 6.6“… protect and restore water-related ecosystems…”
 
 | Dimensions        | Scale/ Focus          | Authors |
 |:-------------|:------------------|:------|
-| Catchment disturbance, pollution, water resource development, biotic factors
-           | global | Vörösmarty (2010)  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Catchment disturbance, pollution, water resource development, biotic factors | global   | Vörösmart 2010)  |
+| Economic, Household, Urban, Environmental, Resilience           | national      | ADB (2013)   |
+| ..           | global/national | Fischer et al. (2015)  |
+| ..           | national | Author  |
+| ..           | review/rural | Author  |
+| ..           | global | Author  |
+| ..           | national/urban | Author  |
+| ..           | urban/city scale | Author  |
