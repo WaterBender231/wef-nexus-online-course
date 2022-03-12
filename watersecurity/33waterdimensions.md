@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Water Security Dimensions
+title: 3.Dimensions
 permalink: /watersecurity/dimensions
 parent: Water Security
 ---

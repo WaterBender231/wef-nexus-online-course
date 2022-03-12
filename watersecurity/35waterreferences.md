@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Water Security - References
+title: 5.References
 permalink: /watersecurity/references
 parent: Water Security
 ---

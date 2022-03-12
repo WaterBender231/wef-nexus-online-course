@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Background
+title: 1.Background
 permalink: /introduction/background
 parent: Introduction
 ---
