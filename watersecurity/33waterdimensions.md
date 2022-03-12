@@ -20,13 +20,13 @@ parent: Water Security
 
 ![water safety and quality](/assets/quality_dimension.png)
 
-### 3.6 **Indices to measure water governance performance**
+## 3.6 **Indices to measure water governance performance**
 
 ![water governance](/assets/governance_dimension.png)
 
-# **These are major sources for data to evaluate Water Security and calculate respective indicators:**
+### **These are major sources for data to evaluate Water Security and calculate respective indicators:**
 
-**Water resources database:** AQUASTAT
-**World Bank:** Open data
-**Transboundary Water Indicators:** TWAP RB
-**Water, Sanitation, and Hygiene:** WHO/UNICEF
+- **Water resources database:** AQUASTAT
+- **World Bank:** Open data
+- **Transboundary Water Indicators:** TWAP RB
+- **Water, Sanitation, and Hygiene:** WHO/UNICEF
