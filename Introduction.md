@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Introduction
+title: Learning Unit 1
+Introduction
 permalink: /introduction/
 has_children: true
 nav_order: 2
