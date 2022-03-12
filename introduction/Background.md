@@ -2,7 +2,7 @@
 layout: page
 title: 1. Background
 permalink: /introduction/background
-parent: Learning Unit 1 - Introduction
+parent: Introduction
 ---
 # 1.1 Background: Why does WEF-Nexus thinking matter?
 

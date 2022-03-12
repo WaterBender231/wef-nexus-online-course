@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Unit 4 - Energy Security
+title: Energy Security
 permalink: /energysecurity/
 has_children: true
 nav_order: 5

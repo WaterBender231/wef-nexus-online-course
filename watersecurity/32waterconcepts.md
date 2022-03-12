@@ -2,7 +2,7 @@
 layout: page
 title: 2. Concepts
 permalink: /watersecurity/concepts
-parent: Learning Unit 3 - Water Security
+parent: Water Security
 ---
 # 3.2 Different Concepts about how to assess water security
 
