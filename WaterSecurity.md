@@ -9,5 +9,5 @@ nav_order: 4
 
 ![Water Security Banner](/assets/water-dimensions.png)
 
-## Learning Unit 02
+## Learning Unit 03
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)
