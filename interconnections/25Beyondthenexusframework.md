@@ -30,7 +30,7 @@ Hatfield et al. 2017 put an emphasis on soil as important element of the water, 
 
 ## 2.5.3 WEF Nexus: The Environmental Livelihood Security (ELS)
 
-![ELS Nexus](/wef-nexus-online-course/livelihood_nexus.PNG)
+![ELS Nexus](/wef-nexus-online-course/assets/livelihood_nexus.PNG)
 
 Biggs et al. (2015) put livelihoods in the center of the WEF Nexus circle: the Environmental Livelihood Security (ELS). ELS refers to the “challenges of maintaining global food security and universal access to freshwater and energy to sustain livelihoods and promote inclusive economic growth, whilst sustaining key environmental systems functionality, particularly under variable climatic regimes’’ (Biggs et al., 2014). This concept also considers external influencing factors such as climate change, population growth, and governance, which all affect the attainment of ELS.
 
@@ -43,7 +43,7 @@ In the light of global warming, it is important to keep in mind that all three s
 
 Trade-offs may exist between GHG reduction and resource security and a comprehensive nexus assessment can provide the insight needed into these trade-offs. For example, nuclear power is commonly seen as a carbon-free alternative but at the same time, it is extremely water-intensive which then can compromise the water security of a region (IRENA, 2015). Another central question for a GHG-WEF-Nexus could be to identify how increasing demands for water, energy or food can be balanced with the need to reduce global GHG emissions.
 
-![GHG Nexus](/wef-nexus-online-course/long-version_GHG-WEF.png)
+![GHG Nexus](/wef-nexus-online-course/assets/long-version_GHG-WEF.png)
 
 ### GHG emissions from the agriculture, forestry and other land use (AFOLU) sector 
 Crippa et al., 2021 estimate that the world‘s food systems are responsible for more than one-third of global anthropogenic GHG emissions. The study is based on a new database for global food emissions called “EDGAR-FOOD”. The database estimates GHG emissions for the years 1990–2015. Several steps along food supply chains release GHGs and require energy, including farming, generation of fertilizers, harvesting (e.g., using machinery), transport, processing, packaging, distribution, preparation, and disposal of residuals.
