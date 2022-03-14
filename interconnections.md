@@ -10,3 +10,4 @@ nav_order: 3
 ![WEF-Nexus Banner](/assets/BANNER_GITHUB.png)
 
 ## Learning Unit 02
+#### Dr. Alexandra Nauditt

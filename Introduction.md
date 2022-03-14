@@ -11,6 +11,8 @@ nav_order: 2
 
 ## Learning Unit 01
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)
+#### Dr. Alexandra Nauditt 
+
 
 **Content**
 
