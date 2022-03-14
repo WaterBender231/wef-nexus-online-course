@@ -8,8 +8,11 @@ nav_order: 3
 
 ## Learning Unit 02
 Interconnections within the Water-Energy-Food Nexus
+ 
+![WEF-Nexus Banner](/assets/BANNER_GITHUB.png)
 
 #### Dr. Alexandra Nauditt, Silvia Krautzik
+ 
 
 
 **This Learning Unit introduces you to a selection of WEF Nexus interconnections, frameworks, and related studies. The main learning outcomes are:**
