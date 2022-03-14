@@ -20,8 +20,11 @@ Welcome to the WEF-Nexus online course. Our website is under construction. You c
 - Nexus sound solutions and integrated technologies that support the clean supply of water, energy and food
 
 
-The content is being developed by the ITT in Cologne. You can find our homepage here:
+The learning units are being developed by lecturers teaching at ITT in Cologne. 
 [ITT, TH Köln](https://www.tt.th-koeln.de/)
+
+**** Contributers: ****
+(List)
 
 The development of the WEF-Nexus online course is also being supported by:
 [DAAD](https://www.daad.de/)
