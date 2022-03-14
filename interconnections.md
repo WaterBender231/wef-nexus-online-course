@@ -10,7 +10,7 @@ nav_order: 3
 Interconnections within the Water-Energy-Food Nexus
  
 ![WEF-Nexus Banner](/assets/BANNER_GITHUB.png)
-
+<br>
 #### Dr. Alexandra Nauditt, Silvia Krautzik
  
 
