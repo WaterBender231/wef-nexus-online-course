@@ -6,7 +6,9 @@ parent: Interconnections
 ---
 # 2.5 Beyond the basic Nexus framework
 
-![Beyond Basic Nexus](/wef-nexus-online-course/assets/beyond_frameworks.PNG) 
+<p align="center">
+![Beyond Basic Nexus](/wef-nexus-online-course/assets/beyond_frameworks.PNG)
+</p>
 
 - The “WEF Nexus” concept is not restricted to water, energy and Food and invites to incorporate other components
 - Each Nexus system depends on an individual composite of varying components
