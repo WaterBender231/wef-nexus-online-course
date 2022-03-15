@@ -18,6 +18,11 @@ parent: Interconnections
 
 ![Global Resource Nexus](/wef-nexus-online-course/assets/resource_nexus.PNG) 
 
+<figure>
+        <figcaption class="caption-text">Global Resource Nexus. after Andrews-Speed et al. 2012</figcaption> 
+    </a>
+</figure>
+
 Andrews-Speed et al. 2012 conceptualize a nexus focusing on five key resources: water, energy, minerals, food, and land. The Global resource nexus analyzes physical, technological, social and institutional aspects of sectoral interactions.
 
 A key claim of the approach is that one needs to understand the key actor‘s decision-making processes over resource management. Thus, the global resource nexus approach requires a closer look at supply chains of companies, the strategic planning of politicians or public administrations, and the basic needs of local populations.
