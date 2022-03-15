@@ -5,7 +5,7 @@ permalink: /introduction/
 has_children: true
 nav_order: 2
 ---
-# **1. Introduction***
+# **1. Introduction**
 <br/> <br/>
  
 ![WEF-Nexus Banner](/assets/BANNER_GITHUB.png)
