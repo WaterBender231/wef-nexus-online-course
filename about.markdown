@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 <!-- Static Header -->
-<div style="background: url(/wef-nexus-online-course/assets/about-header2.png)" class="jumbotron bg-cover text-white">
+<div style="background: url(/wef-nexus-online-course/assets/about-header.png)" class="jumbotron bg-cover text-white">
     <div class="container py-5 text-center">
         <h1 class="display-4 font-weight-bold">WEF-Nexus Online Course</h1>
         <p class="font-italic mb-0 font-weight-bold">This course provides an introduction to the basic concepts related to the WEF Nexus and beyond.</p>
