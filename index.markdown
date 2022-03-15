@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<p align="center"> <span class="fs-8">
+[Link button](http://example.com/){: .btn .btn-blue }
+</span> </p>
