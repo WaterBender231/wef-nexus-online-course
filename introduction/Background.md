@@ -20,8 +20,6 @@ parent: Introduction
 ### Future Challenges:
 
 **Increasing demands!**
-
-![energy 2035y](/wef-nexus-online-course/assets/energydemand2035.png){: style="float: left"}
 - Due to population growth, economic development and changing consumption patterns
 - The uncertainties of global change exacerbate the difficulty in achieving these goals
 
