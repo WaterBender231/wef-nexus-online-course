@@ -6,11 +6,11 @@ redirectFrom: /
 nav_order: 1
 ---
 
-## 
-Welcome to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
+## Welcome 
+to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
 
 <span class="fs-8">
-[Get started!](https://waterbender231.github.io/wef-nexus-online-course/introduction/){: .btn ..bg-yellow-300 }
+[Get started!](https://waterbender231.github.io/wef-nexus-online-course/introduction/){: .btn .btn-purple }
 </span>
 
 **The Water Energy Food (WEF) Nexus Course consists of the following Learning Units (LUs):**
