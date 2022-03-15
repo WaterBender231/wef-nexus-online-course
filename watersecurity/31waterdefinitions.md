@@ -37,13 +37,14 @@ parent: Water Security
 ## 3.2 **Varying Water Security assessment frameworks**
 
 
-| Dimensions        | Scale/ Focus          | Authors |
-|:-------------|:------------------|:------|
-| Catchment disturbance, pollution, water resource development, biotic factors | global   | Vörösmart 2010)  |
-| Economic, Household, Urban, Environmental, Resilience           | national      | ADB (2013)   |
-| ..           | global/national | Fischer et al. (2015)  |
-| ..           | national | Author  |
-| ..           | review/rural | Author  |
-| ..           | global | Author  |
-| ..           | national/urban | Author  |
-| ..           | urban/city scale | Author  |
+
+| Dimensions | Scale/Focus | Authors |
+| --- | --- | --- |
+| Catchment disturbance, pollution, water resource development, biotic factors | Global | Vörösmarty (2010) |
+| Economic, Household, Urban, Environmental, Resilience | National | ADB (2013) |
+| Total renewable water resources per capita, ratio of annual water withdrawal to total renewable water resources, runoff variability, ratio of external to total renewable water resources | National/Global | Fischer et al. (2015) |
+| Droughts and water scarcity, floods, water supply and sanitation, ecosystem degradation and pollution. | National | Sadoff et al. (2015) |
+| Water resources, environment, water delivery system, community capacity and capital, access and equity, health and wellbeing | Review/rural | Dickson et al. (2016) |
+| Availability, accessibility, safety and quality, management | Global | Gain et al. (2016) |
+| Resources, access, risks, and governance | National/Urban | Jensen and Wu (2018) |
+| Productivity, Supply and sanitation, Governance, Environment, Risks | Urban/City Scale | Babel et al. (2020) |
