@@ -4,8 +4,8 @@
 
 layout: home
 ---
-<p align="center">
+
 <span class="fs-8">
 [Get started!](https://waterbender231.github.io/wef-nexus-online-course/introduction/){: .btn .btn-blue }
 </span>
-</p>
+
