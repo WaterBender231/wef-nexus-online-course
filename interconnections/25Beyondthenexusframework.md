@@ -7,7 +7,7 @@ parent: Interconnections
 # 2.5 Beyond the basic Nexus framework
 
 ![Beyond Basic Nexus](/wef-nexus-online-course/assets/beyond_frameworks.PNG)
-
+##### Figure 1: Beyond the basic nexus framework.
 
 - The “WEF Nexus” concept is not restricted to water, energy and Food and invites to incorporate other components
 - Each Nexus system depends on an individual composite of varying components
@@ -18,10 +18,7 @@ parent: Interconnections
 
 ![Global Resource Nexus](/wef-nexus-online-course/assets/resource_nexus.PNG) 
 
-<figure>
-        <figcaption class="caption-text">Global Resource Nexus. after Andrews-Speed et al. 2012</figcaption> 
-    </a>
-</figure>
+##### Figure 2: Global Resource Nexus. after Andrews-Speed et al. 2012.
 
 Andrews-Speed et al. 2012 conceptualize a nexus focusing on five key resources: water, energy, minerals, food, and land. The Global resource nexus analyzes physical, technological, social and institutional aspects of sectoral interactions.
 
