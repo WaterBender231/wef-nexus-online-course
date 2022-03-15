@@ -6,22 +6,25 @@ redirectFrom: /
 nav_order: 1
 ---
 
-<!-- Bootstrap Static Header -->
+<!-- Static Header -->
 <div style="background: url(/wef-nexus-online-course/assets/about-header.png)" class="jumbotron bg-cover text-white">
     <div class="container py-5 text-center">
         <h1 class="display-4 font-weight-bold">WEF-Nexus Online Course</h1>
         <p class="font-italic mb-0">Using simple jumbotron-style component, create a nice Bootstrap 4 header with a background image.</p>
+        <br/> <br/>
+        <span class="fs-8"> [Get started!](https://waterbender231.github.io/wef-nexus-online-course/introduction/){: .btn .btn-purple } </span>
         <a href="#" role="button" class="btn btn-primary px-5">Get started</a>
     </div>
 </div>
 
-
+<br/> <br/>
 ## Welcome 
 to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
+<br/> <br/>
 
-<span class="fs-8">
+<!-- <span class="fs-8">  #this is an old button 
 [Get started!](https://waterbender231.github.io/wef-nexus-online-course/introduction/){: .btn .btn-purple }
-</span>
+</span> -->
 
 **The Water Energy Food (WEF) Nexus Course consists of the following Learning Units (LUs):**
 
