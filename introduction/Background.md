@@ -4,11 +4,11 @@ title: 1. Background
 permalink: /introduction/background
 parent: Introduction
 ---
-# 1.1 Background: Why does WEF-Nexus thinking matter?
+# **1.1 Background: Why does WEF-Nexus thinking matter?**
 
 ## Challenges for achieving WEF-Security
 
-### Present
+### Present Challenges:
 
 **Unmet demands!**
 
@@ -16,12 +16,12 @@ parent: Introduction
 - 1.4 billion people have no or unreliable access to electricity
 - 1 billion people have insufficient food supply
 
-(insert images)
 
-## Future
+### Future Challenges:
 
 **Increasing demands!**
 
+![energy 2035y](/wef-nexus-online-course/assets/energydemand2035.png){: style="float: left"}
 - Due to population growth, economic development and changing consumption patterns
 - The uncertainties of global change exacerbate the difficulty in achieving these goals
 
