@@ -12,7 +12,7 @@ nav_order: 1
         <h1 class="display-4 font-weight-bold">WEF-Nexus Online Course</h1>
         <p class="font-italic mb-0">This course provides an introduction to the basic concepts related to the WEF Nexus and beyond.</p>
         <br/> <br/>                   
-        <a href="#" role="button" class="btn btn-primary px-5">Get started>https://waterbender231.github.io/wef-nexus-online-course/introduction/</a>
+        <a href="#" role="button" class="btn btn-primary px-5">Get started</a>
     </div>
 </div>
 
