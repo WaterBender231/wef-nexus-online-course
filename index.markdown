@@ -4,9 +4,8 @@
 
 layout: home
 ---
-
+<p align="center">
 <span class="fs-8">
-[Link button](http://example.com/){: .btn .btn-blue }
+[Get started!](https://waterbender231.github.io/wef-nexus-online-course/introduction/){: .btn .btn-blue }
 </span>
-
-[Link button](http://example.com/){: .btn .btn-purple }
+</p>
