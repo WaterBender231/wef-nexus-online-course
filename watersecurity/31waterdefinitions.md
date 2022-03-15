@@ -36,16 +36,6 @@ parent: Water Security
 
 ## 3.2 **Varying Water Security assessment frameworks**
 
-<style>
-    .WSframeworks th {
-        background:  #b3d9ff;
-    }
-    .WSframeworks tr:nth-child() { background:  #e6f2ff; }
-</style>
-
-<div class="WSframeworks">
-        
-
 | Dimensions | Scale/Focus | Authors |
 | --- | --- | --- |
 | Catchment disturbance, pollution, water resource development, biotic factors | Global | Vörösmarty (2010) |
@@ -56,5 +46,3 @@ parent: Water Security
 | Availability, accessibility, safety and quality, management | Global | Gain et al. (2016) |
 | Resources, access, risks, and governance | National/Urban | Jensen and Wu (2018) |
 | Productivity, Supply and sanitation, Governance, Environment, Risks | Urban/City Scale | Babel et al. (2020) |
-
-</div>
