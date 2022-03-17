@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-redirectFrom: /
 nav_order: 1
 ---
 
