@@ -16,6 +16,20 @@ nav_order: 1
     </div>
 </div>
 
+<img src="supported.png" alt="Funding and support">
+
+<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="DAAD Logo" alt="DAAD" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="supported by icon.PNG" alt="Ministry" style="width:100%">
+  </div>
+</div>
+
 <br/> <br/>
 ## Welcome 
 to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
@@ -41,9 +55,5 @@ The learning units are being developed by lecturers teaching at ITT in Cologne.
 
 **** Contributers: ****
 (List)
-
-The development of the WEF-Nexus online course is also being supported by:
-[DAAD](https://www.daad.de/)
-
 
 Hope to see you back here soon!
