@@ -10,7 +10,6 @@ nav_order: 3
 
 ## Learning Unit 02
 ### Interconnections within the Water-Energy-Food Nexus
-### Interconnections from Case Studies
 #### Dr. Alexandra Nauditt
 <br/> <br/>
 

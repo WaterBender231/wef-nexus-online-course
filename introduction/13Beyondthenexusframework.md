@@ -6,8 +6,10 @@ parent: Introduction
 ---
 # 1.3 Beyond the basic Nexus framework
 
-![Beyond Basic Nexus](/wef-nexus-online-course/assets/beyond_frameworks.PNG)
-##### Figure 1: Beyond the basic nexus framework.
+<img src="/wef-nexus-online-course/assets/beyond_frameworks.PNG" alt="Beyond the basic nexus" class="center">
+
+##### Figure 1: Beyond the basic nexus framework. #####
+<br/> <br/>
 
 - The “WEF Nexus” concept is not restricted to water, energy and Food and invites to incorporate other components
 - Each Nexus system depends on an individual composite of varying components
@@ -73,7 +75,7 @@ However, Rothausen & Conway (2011) stress that links between the water and energ
 
 - *Biggs, EM., Bruce, E., Boruff, B., Duncan, JMA., Horsley, J., Pauli, N., McNeill, K., Neef, A., Ogtrop, FV., Curnow, J., Haworth, B., Duce, S. & Imanari, Y. (2015), ‘Sustainable development and the water-energy-food nexus: A perspective on livelihoods’, Environmental Science and Policy, vol. 54, pp. 389–397.*
 
-***1.3.4 Greenhouse gases (GHGs) and the WEF-Nexus**
+***1.3.4 Greenhouse gases (GHGs) and the WEF-Nexus***
 - *Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F. N., & Leip, A. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. Nature Food, 2(3), 198–209. doi:10.1038/s43016-021-00225-9*
 
 - *FAO, (2018), Emissions due to agriculture. Global, regional and country trends 2000–2018, FAOSTAT Analytical Brief Series No 18, Rome.*
