@@ -17,6 +17,8 @@ nav_order: 1
 
 <img src="/wef-nexus-online-course/assets/supported.png" alt="Funding and support">
 
+![Funding](/wef-nexus-online-course/assets/supported.png)
+
 <br/> <br/>
 ## Welcome 
 to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
