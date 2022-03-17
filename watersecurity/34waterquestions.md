@@ -12,5 +12,5 @@ parent: Water Security
 - Which indicators would best describe or assess these pressures?
 <br/> <br/>
 <br/> <br/>
-[Check out references](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/references){: .btn .btn-purple .mr-4}}
+[Check out references](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/references){: .btn .btn-purple .mr-4}
 [Go to next learning unit](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/){: .btn .btn-green }
