@@ -7,12 +7,14 @@ nav_order: 4
 ---
 # **3. Water Security**
 
-![Water Security Banner](/assets/water-dimensions.png)
+<img src="/assets/water-dimensions.png"
+     alt="Water Security"
+     width="400"
+     height="341">
 
 ## Learning Unit 03
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)
 #### Dr. Alexandra Nauditt 
 <br/> <br/>
-
 In this learning unit you will learn more about the concept of water security and its distinct 
 dimensions. Additionally, you will get an overview of indices that can help you  quantifiy water security.
