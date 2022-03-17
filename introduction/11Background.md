@@ -23,8 +23,6 @@ parent: Introduction
 - Due to population growth, economic development and changing consumption patterns
 - The uncertainties of global change exacerbate the difficulty in achieving these goals
 
-(insert images)
-
 At present, a significant percentage of the global population is far from attaining water, energy or food security. For example, on top of the 1.1 billion without access to electricity, approximately a further 1.1 billion is estimated to have no or unreliable access to electricity. Current estimates show that around 9 percent of the world population suffers from hunger. If recent trends continue, the number of people affected by hunger will surpass 840 million by 2030, or 9.8 percent of the global population. According to UN (2020), one third of the world population does not have access to safe drinking water and water scarcity affects more than 40 per cent of the global population and is projected to rise (UN, 2020).
 The world population is likely to increase to over 8 billion by 2030 and 9.5 or even 10 billion by 2050, while economic development and consumption patterns are likely to change, leading to even higher water, energy and food demands per capita. We therefore face the combined challenge of compensating for the unmet current demands and meeting additional future demands. Climate change adds uncertainty to the future availability of natural resources.
 
