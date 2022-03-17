@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 5. Beyond the basic Nexus framework
-permalink: /interconnections/beyond
-parent: Interconnections
+title: 3. Beyond the basic Nexus framework
+permalink: /introduction/beyond
+parent: Introduction
 ---
-# 2.5 Beyond the basic Nexus framework
+# 1.3 Beyond the basic Nexus framework
 
 ![Beyond Basic Nexus](/wef-nexus-online-course/assets/beyond_frameworks.PNG)
 ##### Figure 1: Beyond the basic nexus framework.
@@ -13,7 +13,7 @@ parent: Interconnections
 - Each Nexus system depends on an individual composite of varying components
 - As every region is unique in terms of resources availability and use, we need to adapt the concept to address the case-specific challenges
 
-## 2.5.1 Global Resource Nexus
+## 1.3.1 Global Resource Nexus
 ### five resources: water, energy, minerals, food and land
 
 ![Global Resource Nexus](/wef-nexus-online-course/assets/resource_nexus.PNG) 
@@ -24,14 +24,14 @@ Andrews-Speed et al. 2012 conceptualize a nexus focusing on five key resources: 
 
 A key claim of the approach is that one needs to understand the key actor‘s decision-making processes over resource management. Thus, the global resource nexus approach requires a closer look at supply chains of companies, the strategic planning of politicians or public administrations, and the basic needs of local populations.
 
-## 2.5.2 Water-Energy-Food-Soil (WEFS) Nexus
+## 1.3.2 Water-Energy-Food-Soil (WEFS) Nexus
 ### Adding soil as component
 
 ![WEFS Nexus](/wef-nexus-online-course/assets/soil_nexus.PNG) 
 
 Hatfield et al. 2017 put an emphasis on soil as important element of the water, food, energy nexus.
 
-## 2.5.3 WEF Nexus: The Environmental Livelihood Security (ELS)
+## 1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)
 
 ![ELS Nexus](/wef-nexus-online-course/assets/livelihood_nexus.PNG)
 
@@ -39,7 +39,7 @@ Biggs et al. (2015) put livelihoods in the center of the WEF Nexus circle: the E
 
 After evaluating different Nexus approaches to improve the understanding about the interrelated dynamics between human populations and the natural environment, they present an integrated framework with the capacity to measure and monitor environmental livelihood security of whole systems by accounting for the water, energy and food requisites for livelihoods at multiple spatial scales and institutional levels
 
-## 2.5.4 Greenhouse gases (GHGs) and the WEF-Nexus
+## 1.3.4 Greenhouse gases (GHGs) and the WEF-Nexus
 ### Integrating aspects of global warming into the WEF-Nexus 
 
 In the light of global warming, it is important to keep in mind that all three sectors (WEF) are key emitters of GHGs. A nexus analysis can be used to determine the sources of GHG emissions within the different components of a system. More importantly, trade-offs or synergies can be identified through the nexus lens:
@@ -61,19 +61,19 @@ However, Rothausen & Conway (2011) stress that links between the water and energ
 
 ### *References*
 
-***2.5.1 Global Resource Nexus - five resources: water, energy, minerals, food and land***
+***1.3.1 Global Resource Nexus - five resources: water, energy, minerals, food and land***
 
 *Andrews-Speed, P., R. Bleischwitz, G. Kemp, S. VanDeveer, T. Boersma and C. Johnson 2012. The Global Resource Nexus. The Struggles for Land, Energy, Food, Water and Minerals, 2012, Washington D.C., Transatlantic Academy.*
 
-***2.5.2 Water-Energy-Food-Soil (WEFS) Nexus***
+***1.3.2 Water-Energy-Food-Soil (WEFS) Nexus***
 
 *Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: [https://doi.org/10.1016/bs.agron.2017.02.001](https://doi.org/10.1016/bs.agron.2017.02.001)*
 
-***2.5.3 WEF Nexus: The Environmental Livelihood Security (ELS)***
+***1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)***
 
 *Biggs, EM., Bruce, E., Boruff, B., Duncan, JMA., Horsley, J., Pauli, N., McNeill, K., Neef, A., Ogtrop, FV., Curnow, J., Haworth, B., Duce, S. & Imanari, Y. (2015), ‘Sustainable development and the water-energy-food nexus: A perspective on livelihoods’, Environmental Science and Policy, vol. 54, pp. 389–397.*
 
-***2.5.4 Greenhouse gases (GHGs) and the WEF-Nexus**
+***1.3.4 Greenhouse gases (GHGs) and the WEF-Nexus**
 *Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F. N., & Leip, A. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. Nature Food, 2(3), 198–209. doi:10.1038/s43016-021-00225-9*
 
 *FAO, (2018), Emissions due to agriculture. Global, regional and country trends 2000–2018, FAOSTAT Analytical Brief Series No 18, Rome.*
