@@ -122,30 +122,37 @@ By addressing trade-offs with other sectors and emphasizing the identification o
 
 ### *References*
 
-***1.1 Background: Challenges for achieving WEF-Security**
-- UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/)
+***1.1 Background: Challenges for achieving WEF-Security***
+- *UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/)
 United Nations Department of Economic and Social Affairs (UNDESA) (2014) International Decade for Action WATER FOR LIFE 2005-
-2015 [http://www.un.org/waterforlifedecade/water_and_energy.shtml](http://www.un.org/waterforlifedecade/water_and_energy.shtml)
-- Alexandratos N, Bruinsma J. 2012. World agriculture towards 2030/2050 (Available from
-[http://www.fao.org/docrep/016/ap106e/ap106e.pdf](http://www.fao.org/docrep/016/ap106e/ap106e.pdf)) (Accessed on 01.8.2020)
-- CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS) (2020.), ‘Food Security’,
+2015 [http://www.un.org/waterforlifedecade/water_and_energy.shtml](http://www.un.org/waterforlifedecade/water_and_energy.shtml)*
+
+- *Alexandratos N, Bruinsma J. 2012. World agriculture towards 2030/2050 (Available from
+[http://www.fao.org/docrep/016/ap106e/ap106e.pdf](http://www.fao.org/docrep/016/ap106e/ap106e.pdf)) (Accessed on 01.8.2020)*
+
+- *CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS) (2020.), ‘Food Security’,
 [https://ccafs.cgiar.org/bigfacts/#theme=food-security](https://ccafs.cgiar.org/bigfacts/#theme=food-security) (Accessed on 02.8.2020)*
 
-***1.2 The Sustainable Development Goals -
-Water, Energy, and Food Security: pillars of development!**
-- United Nations General Assembly (2015) Transforming our world: the 2030 Agenda for Sustainable Development,
-[https://sustainabledevelopment.un.org/post2015/transformingourworld](https://sustainabledevelopment.un.org/post2015/transformingourworld).
-- UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/)*
+***1.2 The Sustainable Development Goals - Water, Energy, and Food Security: pillars of development!***
+- *United Nations General Assembly (2015) Transforming our world: the 2030 Agenda for Sustainable Development,
+[https://sustainabledevelopment.un.org/post2015/transformingourworld](https://sustainabledevelopment.un.org/post2015/transformingourworld).*
 
-***2. Why Nexus Thinking? Sector specific goals may interfere with interests of other sectors**
-- U.S. Department of Energy (2006), ‘Energy Demands on Water Resources’, Report to Congress on the Interdependence of Energy and
-Water [https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB2011103657.xhtml](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB2011103657.xhtml)
-LaB (2010), ‘Fertilizers and their Impact on Watershed Ecology’, Available from: [http://lab.visual-logic.com/2010/02/864/](http://lab.visual-logic.com/2010/02/864/)*
+- *UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/)*
 
-***2.1 The Bonn 2011 Nexus Conference: The Water, Energy and Food Security Nexus**
-- WEF (2009) Water Security: The Water-Food-Energy-Climate Nexus [https://www.weforum.org/reports/water-security-water-energy-food](https://www.weforum.org/reports/water-security-water-energy-food)climate-nexus.
-- Hoff, H. (2011). Understanding the Nexus. Background Paper for the Bonn2011 Conference: The Water, Energy and Food Security
+***2. Why Nexus Thinking? Sector specific goals may interfere with interests of other sectors***
+
+- *U.S. Department of Energy (2006), ‘Energy Demands on Water Resources’, Report to Congress on the Interdependence of Energy and
+Water [https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB2011103657.xhtml](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB2011103657.xhtml)*
+
+- *LaB (2010), ‘Fertilizers and their Impact on Watershed Ecology’, Available from: [http://lab.visual-logic.com/2010/02/864/](http://lab.visual-logic.com/2010/02/864/)*
+
+***2.1 The Bonn 2011 Nexus Conference: The Water, Energy and Food Security Nexus***
+
+- *WEF (2009) Water Security: The Water-Food-Energy-Climate Nexus [https://www.weforum.org/reports/water-security-water-energy-food](https://www.weforum.org/reports/water-security-water-energy-food)climate-nexus.*
+
+- *Hoff, H. (2011). Understanding the Nexus. Background Paper for the Bonn2011 Conference: The Water, Energy and Food Security
 Nexus. Stockholm Environment Institute, Stockholm*
 
 ***2.2 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU***
+
 - *GIZ (2016), ‘Water, Energy & food Nexus in a Nutshell’, Available from: www.water-energy[food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue](http://food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue)Programme_Phase1_2016-18.pdf*
