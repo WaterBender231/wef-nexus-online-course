@@ -46,3 +46,5 @@ parent: Water Security
 | Availability, accessibility, safety and quality, management | Global | Gain et al. (2016) |
 | Resources, access, risks, and governance | National/Urban | Jensen and Wu (2018) |
 | Productivity, Supply and sanitation, Governance, Environment, Risks | Urban/City Scale | Babel et al. (2020) |
+<br/> <br/>
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/concepts){: .btn .btn-purple .mr-4}

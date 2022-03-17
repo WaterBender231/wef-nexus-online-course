@@ -50,3 +50,5 @@ CREATIVE COMMONS: [https://iopscience.iop.org/article/10.1088/1748-9326/11/12/12
 ### **Urban Water Security – Example Bangkok Babel et al., 2020**
 
 ![Untitled](3%202%20Differ%20aaf7f/Untitled.png)
+<br/> <br/>
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions){: .btn .btn-purple .mr-4}
