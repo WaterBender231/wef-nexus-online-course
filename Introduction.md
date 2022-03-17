@@ -7,7 +7,7 @@ nav_order: 2
 ---
 ## **1. Introduction**
  
-![WEF-Nexus Banner](/assets/BANNER_GITHUB.png)
+![WEF-Nexus Banner](/wef-nexus-online-course/assets/BANNER_GITHUB.png)
 
 ## Learning Unit 01
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)
