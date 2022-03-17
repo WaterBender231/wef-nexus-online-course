@@ -15,19 +15,7 @@ nav_order: 1
     </div>
 </div>
 
-<img src="supported.png" alt="Funding and support">
-
-<div class="row">
-  <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="DAAD Logo" alt="DAAD" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="supported by icon.PNG" alt="Ministry" style="width:100%">
-  </div>
-</div>
+<img src="/wef-nexus-online-course/assets/supported.png" alt="Funding and support">
 
 <br/> <br/>
 ## Welcome 
