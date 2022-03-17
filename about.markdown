@@ -39,7 +39,8 @@ to the WEF-Nexus online course. Our website is under construction. You can find 
 The learning units are being developed by lecturers teaching at ITT in Cologne. 
 [ITT, TH Köln](https://www.tt.th-koeln.de/)
 
-**** Contributers: ****
+**** Contributers of the WEF-Nexus Online Course: ****
 (List)
-
-Hope to see you back here soon!
+<ul class="list-style-none">
+<li class="d-inline-block mr-1"> <a href="https://www.th-koeln.de/personen/alexandra.nauditt/"><img src="https://www.th-koeln.de/pseimg/568a6307a083b51fb3e3c6375bd20a894d817e11.png" width="32" height="32" alt="pmarsceill"></a></li>
+</ul>
