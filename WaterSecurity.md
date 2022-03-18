@@ -9,7 +9,7 @@ nav_order: 4
 
 <img src="/wef-nexus-online-course/assets/water-dimensions.png"
      alt="Water Security"
-     width="400"
+     width="380"
      height="300">
 
 ## Learning Unit 03
