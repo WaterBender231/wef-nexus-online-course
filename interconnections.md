@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Additional Learning Unit 02
 ### Further Interconnections within the Water-Energy-Food Nexus
-#### Dr. Alexandra Nauditt
+#### Alexandra Nauditt
 <br/> <br/>
 
 

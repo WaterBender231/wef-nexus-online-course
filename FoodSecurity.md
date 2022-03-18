@@ -11,5 +11,5 @@ nav_order: 6
 
 ## Learning Unit 05
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)
-#### Authors
+#### Alexandra Nauditt, Lars Ribbe, Silvia Krautzik
 <br/> <br/>

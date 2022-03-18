@@ -11,5 +11,5 @@ nav_order: 7
 
 ## Learning Unit 06
 ### Tools and datasets to assess Water-Energy-Food Nexus systems
-#### Dr. Alexandra Nauditt 
+#### Alexandra Nauditt 
 <br/> <br/>
