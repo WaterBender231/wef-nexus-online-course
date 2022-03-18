@@ -6,7 +6,7 @@ parent: Introduction
 ---
 # 1.3 Beyond the basic Nexus framework
 
-<img src="/wef-nexus-online-course/assets/beyond_frameworks.PNG" alt="Beyond the basic nexus" class="center">
+<img src="/wef-nexus-online-course/assets/beyond_frameworks.PNG" alt="Girl in a jacket" alt="Beyond the basic nexus" class="center" width="600" height="600">
 
 ##### Figure 1: Beyond the basic nexus framework. #####
 <br/> <br/>
