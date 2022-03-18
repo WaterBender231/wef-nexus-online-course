@@ -43,5 +43,7 @@ to the WEF-Nexus online course. Our website is under construction. You can find 
 <li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/jakob-schmid-1a9331172/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQGGmKeQGAmqBA/profile-displayphoto-shrink_400_400/0/1633425413307?e=1652918400&v=beta&t=JheuMuTVhMUKr2rACq21dMpLXhk0j80nPySnEWQHrVU" width="32" height="32" alt="pmarsceill"></a></li>
 <li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/daniel-knopp-baa16514a/"><img src="https://media-exp1.licdn.com/dms/image/D4E35AQEoycJpgtKhkA/profile-framedphoto-shrink_400_400/0/1626643972324?e=1647687600&v=beta&t=X0j90aj9kXZFAErm1ZKitU_WZaC4HMtc_VHxfum4PdU" width="32" height="32" alt="pmarsceill"></a>
 </li>
+<li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/thao-trinh-53a650188/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGCcWZbKwDjjA/profile-displayphoto-shrink_400_400/0/1647439778091?e=1652918400&v=beta&t=T-oNmO6xJS9XkuKeHodhj85F8uPWSuedFeVMI8oP460" width="32" height="32" alt="pmarsceill"></a>
+</li>
 <li class="d-inline-block mr-1"> <a href="http://www.jf-gestaltung.de/"><img src="/wef-nexus-online-course/assets/default_contributor.png" width="32" height="32" alt="pmarsceill"></a></li>
 </ul>
