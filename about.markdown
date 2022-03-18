@@ -32,8 +32,10 @@ to the WEF-Nexus online course. Our website is under construction. You can find 
 - WEF Nexus governance: assessment and measures + case studies
 - Nexus sound solutions and integrated technologies that support the clean supply of water, energy and food
 
+<br/> <br/>
+<br/> <br/>
 
-**Thank you to the Contributers of the WEF-Nexus Online Course and Website:**
+#### **Thank you to the Contributers of the WEF-Nexus Online Course and Website:**
 
 <ul class="list-style-none">
 <li class="d-inline-block mr-1"> <a href="https://www.th-koeln.de/personen/alexandra.nauditt/"><img src="https://www.th-koeln.de/pseimg/568a6307a083b51fb3e3c6375bd20a894d817e11.png" width="32" height="32" alt="pmarsceill"></a></li>
