@@ -21,9 +21,6 @@ nav_order: 1
 to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
 <br/> <br/>
 
-<!-- <span class="fs-8">  #this is an old button 
-[Get started!](https://waterbender231.github.io/wef-nexus-online-course/introduction/){: .btn .btn-purple }
-</span> -->
 
 **The Water Energy Food (WEF) Nexus Course consists of the following Learning Units (LUs):**
 
@@ -36,11 +33,8 @@ to the WEF-Nexus online course. Our website is under construction. You can find 
 - Nexus sound solutions and integrated technologies that support the clean supply of water, energy and food
 
 
-The learning units are being developed by lecturers teaching at ITT in Cologne. 
-[ITT, TH Köln](https://www.tt.th-koeln.de/)
+**Thank you to the Contributers of the WEF-Nexus Online Course and Website:**
 
-**** Contributers of the WEF-Nexus Online Course: ****
-(List)
 <ul class="list-style-none">
 <li class="d-inline-block mr-1"> <a href="https://www.th-koeln.de/personen/alexandra.nauditt/"><img src="https://www.th-koeln.de/pseimg/568a6307a083b51fb3e3c6375bd20a894d817e11.png" width="32" height="32" alt="pmarsceill"></a></li>
 <li class="d-inline-block mr-1"> <a href="https://www.th-koeln.de/personen/lars.ribbe/"><img src="https://www.th-koeln.de/pseimg/0f80822b8435059013c7d78225da1d56060405ab.png" width="32" height="32" alt="pmarsceill"></a></li>
