@@ -15,10 +15,7 @@ FAO, 2015
 The prevalence of undernourishment is defined as the “proportion of the population whose dietary energy consumption is less than a pre-determined threshold. This threshold is country specific and is measured in terms of the number of kilocalories required to conduct sedentary or light activities.” (FAO, 2008)
 
 This map shows the percentage of the population in each country that is affected by undernourishment from 2014 to 2016. The lightest shade of red refers to 5-15% of the population being affected by undernourishment. In total, approximately 793 million people in the world still lack sufficient food for conducting an active and healthy life. Even though the MDG target to prevent undernourishment between 2000 and 2015 was achieved in many countries, it failed in others. Thus, more efforts are necessary to continue reducing the existing levels of undernourishment. In addition to systematic development challenges, natural and human-induced disasters and political instability have contributed to protracted crises, and have increased vulnerability and food insecurity among large sections of the population.
-––––––––––––––––
-References
-FAO (2008), ‘An Introduction to the Basic Concepts of Food Security’, Practical Guide, Available from: [http://www.fao.org/docrep/013/al936e/al936e00.pdf](http://www.fao.org/docrep/013/al936e/al936e00.pdf)
-FAO (2015), ‘FAO Hunger Map 2015: Millennium Development Goal 1 and World Food Summit Hunger Targets’, [http://www.fao.org/3/a-i4674e.pdf](http://www.fao.org/3/a-i4674e.pdf)
+
 
 ### 5.2.2 **Net food trade (2020)**
 
@@ -49,9 +46,6 @@ Why has European food production fallen since the 1980s?
 In contrast, why has US food production increased over the whole time period?
 Finally, and very importantly, why has African food production declined over the 40 year period despite independence, development and billions of dollars of multilateral aid support?
 
-––––––––––––––––
-References
-The British Geographer (n.d.), ‘Spatial Patterns of Food’, Available from: [http://thebritishgeographer.weebly.com/spatial-patterns-of-food.html](http://thebritishgeographer.weebly.com/spatial-patterns-of-food.html)
 
 ### 5.2.5 **Yield gap for major cereals**
 
@@ -61,10 +55,8 @@ Mueller et al., 2012
 
 The yield gap refers to the difference between two levels of yield. On this slide, these two levels are the observed yields and the attainable yields (the best yield achieved through skilful use of the best available technology) for maize, wheat and rice. The yield gaps are presented as a percentage of the attainable yield. (Mueller et al., 2012; FAO, 2015)
 This figure shows the yield gap for major cereals at a global scale. In parts of Africa, achieved yields are a mere 10% of the attainable yield. The values for USA, Canada, Western Europe and some parts of China and India are typically >80%. The situation in Central Europe, Latin America and Central Asia is mixed and varies widely. Overall, this figure shows that many regions in the world are still far from approaching attainable yield. Increasing yields are possible through agricultural management practices such as water and nutrient provision and disease control.
-––––––––––––––––
-References
-FAO (2015), ‘Yield gap analysis of field crops: Methods and case studies’, FAO, Rome, Italy. Available from: [http://www.fao.org/3/a-i4695e.pdf](http://www.fao.org/3/a-i4695e.pdf)
-Mueller, N.D., Gerber, J.S., Johnston, M., Ray, D.K., Ramankutty, R. & Foley, J.A. (2012), ‘Closing yield gaps through nutrient and water management, Nature, vol. 490, pp. 254-257. [https://doi.org/10.1038/nature11420](https://doi.org/10.1038/nature11420)
+
+
 
 ### 5.2.6 **Contribution of family and smallholder farming to National and Global Food Security**
 
