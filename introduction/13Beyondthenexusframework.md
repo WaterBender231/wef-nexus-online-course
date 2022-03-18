@@ -6,19 +6,7 @@ parent: Introduction
 ---
 # 1.3 Beyond the basic Nexus framework
 
-<div class="verticalhorizontal">
-    <img src="/wef-nexus-online-course/assets/beyond_frameworks.PNG" alt="centered image" />
-</div>
-
-<style>
-.verticalhorizontal {
-    display: table-cell;
-    height: 300px;
-    text-align: center;
-    width: 300px;
-    vertical-align: middle;
-}
-</style>
+<img src="/wef-nexus-online-course/assets/beyond_frameworks.PNG" alt="Beyond frameworks" alt="Beyond the basic nexus" class="center" width="600" height="600">
 
 ##### Figure 1: Beyond the basic nexus framework. #####
 <br/> <br/>
