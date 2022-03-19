@@ -19,12 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: WEF-Nexus Online Course
-logo: "wef-nexus-online-course/assets/ONLINE_COURSE.png"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This online course provides an introduction to the basic concepts related to the water-energy-food (WEF) nexus and beyond.
 baseurl: "wef-nexus-online-course" # the subpath of your site, e.g. /blog
 url: "https://waterbender231.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Waterbender231
