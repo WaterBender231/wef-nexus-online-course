@@ -3,7 +3,7 @@ layout: page
 title: Governance
 permalink: /governance/
 has_children: true
-nav_order: 8
+nav_order: 7
 ---
 # **7. Governance**
 

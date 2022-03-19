@@ -3,7 +3,7 @@ layout: page
 title: Solutions
 permalink: /solutions/
 has_children: true
-nav_order: 9
+nav_order: 8
 ---
 # **8. Nexus Sound Solutions**
 

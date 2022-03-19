@@ -3,7 +3,7 @@ layout: page
 title: Energy Security
 permalink: /energysecurity/
 has_children: true
-nav_order: 5
+nav_order: 4
 ---
 # **4. Energy Security**
 

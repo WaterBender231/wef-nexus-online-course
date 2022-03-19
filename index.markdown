@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Home
+title: About
+nav_order: 1
 ---
 
 <!-- Static Header -->
