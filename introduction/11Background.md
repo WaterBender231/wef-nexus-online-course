@@ -118,6 +118,10 @@ WEF security Nexus thinking hence aims at better understanding the links between
 
 By addressing trade-offs with other sectors and emphasizing the identification of synergies, the Nexus approach provides support for better decision making. This approach shows the mutual benefits of cooperation (between ministries, sectors, stakeholders, etc.). The WEF Nexus has emerged as an important conceptual framework for improving resource governance. By accounting for the complex interdependencies between water, energy, and food systems, such an approach can support decision-makers in managing resource tradeoffs across different economic sectors and actors.
 
+<br/> <br/>
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/introduction/interconnections){: .btn .btn-purple .mr-4}
+<br/> <br/>
+
 ### *References*
 
 ***1.1 Background: Challenges for achieving WEF-Security***

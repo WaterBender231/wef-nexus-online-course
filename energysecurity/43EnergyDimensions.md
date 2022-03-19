@@ -163,7 +163,12 @@ The high performing countries are located in Northern America, Western Europe, A
 Asia. The worst performing countries are typically located in Sub-Saharan Africa. In the MENA and LAC
 regions, most countries are medium or poor performers, with Colombia, Chile, Uruguay and a several Gulf
 countries being an exception.
-––––––––––––––––
+
+<br/> <br/>
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/indicators){: .btn .btn-purple .mr-4}
+<br/> <br/>
+
+
 References
 World Economic Forum (WEF) (2016), ‘Global Energy Architecture Performance Index Report 2016’, Geneva. Available from:
 [http://www3.weforum.org/docs/WEF_Energy_Architecture_Performance_Index_2016.pdf](http://www3.weforum.org/docs/WEF_Energy_Architecture_Performance_Index_2016.pdf)

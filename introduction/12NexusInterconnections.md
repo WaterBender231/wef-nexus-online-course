@@ -61,6 +61,10 @@ In 2014, approximately 70% of the global water withdrawal was used for irrigatio
 - Irrigation: Food production vs. water scarcity (demand higher than availability)
 - Food production vs. deteriorated water quality (diffuse pollution with nutrients and pesticides)
 
+<br/> <br/>
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/introduction/beyondbasics){: .btn .btn-purple .mr-4}
+<br/> <br/>
+
 ### *References*
 
 ***1.2 Nexus-Interconnections: The WEF sectors are closely related***

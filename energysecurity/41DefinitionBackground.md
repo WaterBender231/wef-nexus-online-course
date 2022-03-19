@@ -35,6 +35,10 @@ Target 7.A “… enhance international cooperation to facilitate access to cle
 Target 7.B “… expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries…”
 
 It is estimated that in 2015 approximately 2.8 billion people had no access to modern energy services. Of these, over 1.1 billion did not have access to electricity. Thus, the key development goal for many regions is to provide access to energy. Current estimates show that air pollution due to unclean energy sources are responsible for the death of 4.3 million people every year. In addition, energy production is the main source of greenhouse gases. Therefore, the promotion of renewable energies and increased energy efficiencies is seen as crucial. The SDG 7 targets aim to work towards a sustainable, energy-secure world.
-––––––––––––––––
+
+<br/> <br/>
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/challenges){: .btn .btn-purple .mr-4}
+<br/> <br/>
+
 References
 UN (2020), ‘Sustainable Development Goals’, [https://sustainabledevelopment.un.org/sdg](https://sustainabledevelopment.un.org/sdg)

@@ -176,7 +176,12 @@ Images by (1) Robert Linder; (2) Patrick Federi and (3) rahul g on Unsplash
 
 To avoid outages, generation must be stable and the distribution system must be maintained properly. Fluctuations both in load and in generation have to be compensated, which requires back-up generation. A reliable grid infrastructure is achievable only through efficient investments from the public sector. Since lowincome countries already spend a higher percentage of their GDP on infrastructure, the development of the private sector as well as aid from development partners are also needed. (Gurara et al. 2018) Another approach for the future is for developing countries to “skip” the centralized approach and further develop decentralized systems through micro generation. This could help to decrease the reliance on the public grid, while the financing is easier. Currently however, the costs for small systems are still too high and a connection to the grid is needed to secure a general energy supply in most regions. (Levin and Thomas 2016) Demand-side management (DSM) is also considered as a possible way to reduce outages and their negative
 effects. DSM describes the shifting of electric loads at the consumer’s side in order to reduce peak-demands and thus reduce pressures on the grid. While this is projected to significantly decrease the duration and the costs of outages, it requires the use of network-controlled smart technology, which comes along with high initial investment costs. (Closepet 2013; Natarajan and Closepet 2012)
-––––––––––––––––
+
+
+<br/> <br/>
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/dimensions){: .btn .btn-purple .mr-4}
+<br/> <br/>
+
 References
 Gurara, Daniel; Klyuev, Vladimir; Mwase, Nkunde; Presbitero, Andrea F. (2018): Trends and Challenges in Infrastructure Investment in
 Developing Countries. In poldev (10.1). DOI: 10.4000/poldev.2802.

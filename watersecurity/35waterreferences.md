@@ -31,3 +31,6 @@ parent: Water Security
 - UN Water. (2013). Water Security &Global Water Agenda - A UN-Water Analytical Brief. Retrieved from [https://www.unwater.org/publications/water-security-global-water-agenda/](https://www.unwater.org/publications/water-security-global-water-agenda/)
 
 - Vörösmarty, C. J., McIntyre, P. B., Gessner, M. O., Dudgeon, D., Prusevich, A., Green, P., … Davies, P. M. (2010). Global threats to human water security and river biodiversity. Nature, 467(7315), 555–561. [https://doi.org/10.1038/nature09440](https://doi.org/10.1038/nature09440)
+
+<br/> <br/>
+[Go to next learning unit](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/){: .btn .btn-green }
