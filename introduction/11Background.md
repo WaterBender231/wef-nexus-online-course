@@ -89,11 +89,11 @@ As energy production based on fossil primary energy resources and nuclear is wat
 
 The second example refers to the potential impact of agricultural intensification. The positive effect on food security may be compensated by reduced water security as the downstream water is unfit for certain purposes due to water quality deterioration. 
 
-These trade-offs are the reason why a Nexus approach is needed: in order to systematically address what is often hidden or not being considered in planning and management, given that a “silo” approach (i.e. single mindedly pursuing individual goals) has no means to consider these types of externalities
+These trade-offs are the reason why a Nexus approach is needed: in order to systematically address what is often hidden or not being considered in planning and management, given that a “silo” approach (i.e. single mindedly pursuing individual goals) has no means to consider these types of externalities.
 
 ## 2.1 The Bonn 2011 Nexus Conference: The Water, Energy and Food Security Nexus
 
-(insert image)
+<center><img src="wef-nexus-online-course/assets/hoff_2011.png" alt="Hoff, 2011" height="150" width="200"></center>
 
 The WEF Nexus for the first time was raised at the World Economic Forum Annual Meeting in 2008, where representatives of the Water, Energy and Food sectors wanted to increase awareness that these are strongly linked, and that actions in one sector often have impacts on one or both of the others (WEF, 2009).
 
@@ -101,12 +101,11 @@ In November 2011, 550 researchers and stakeholders from worldwide met in Bonn, G
 
 After this conference, the concept was adopted and promoted by many actors of policy, economy and academia. As a consequence, the Rio+20 summit, Sendai Framework for Disaster Risk Reduction and other high level global political agreements concerning sustainable development acknowledge the need for an integrated approach in addressing water, energy and food concerns. 
 
-This “first” Nexus concept (Hoff, 2011) looked at the security of water supply, food and energy from a water perspective: water is placed in the center of the Nexus. It also emphasized external driving forces such as
-urbanization, population growth and climate change, which all exert pressure to the system.
+This “first” Nexus concept (Hoff, 2011) looked at the security of water supply, food and energy from a water perspective: water is placed in the center of the Nexus. It also emphasized external driving forces such as urbanization, population growth and climate change, which all exert pressure to the system.
 
 ## 2.2 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU
 
-(insert image)
+<center><img src="wef-nexus-online-course/assets/EWEF_GIZ.png" alt="Ecosystem Perspective, GIZ/EU 2016" height="150" width="200"></center>
 
 Since 2011, numerous concepts have been developed, each focusing on different aspects. The one developed to guide the “Nexus Dialogue Program” (GIZ, 2016), suggests a more integrated way of looking at the Nexus with the ecosystem located in the center. The three resources are equally allocated to it. The three ‘supply securities’ of water, energy and food depend on ecosystems and they interact with each other. The resources land, water and energy are part of this ecosystem and must be used and protected in a balanced manner.
 
@@ -119,8 +118,7 @@ The Nexus Dialogue Program was coordinated by the European Commission (EC, DG DE
 - Supports sustainability pathways through the coordinated management and use of natural resources across sectors
 - Facilitates the alignment of development strategies
 
-The WEF Nexus emerged as a necessary reaction to failures of sector-driven management strategies. It represents the current need to engage in knowledge-based debates about the consequences of increasing
-interconnections between natural resources and the tools to improve the securities of water, energy and food at the same time. The presumption is that academia and policymaking lack such ‘integrated view’ on use issues of natural resources.
+The WEF Nexus emerged as a necessary reaction to failures of sector-driven management strategies. It represents the current need to engage in knowledge-based debates about the consequences of increasing interconnections between natural resources and the tools to improve the securities of water, energy and food at the same time. The presumption is that academia and policymaking lack such ‘integrated view’ on use issues of natural resources.
 
 WEF security Nexus thinking hence aims at better understanding the links between these three sectors in order to improve both planning and development. Thus, it contributes to achieving water, energy and food security as pillars of development and well-being and reducing poverty.
 
