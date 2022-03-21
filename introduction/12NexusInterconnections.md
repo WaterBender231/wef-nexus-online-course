@@ -4,7 +4,7 @@ title: 2. Interconnections
 permalink: /introduction/interconnections
 parent: Introduction
 ---
-# 1.2 Nexus-Interconnections: The WEF sectors are closely related
+# **1.2 Nexus-Interconnections: The WEF sectors are closely related**
 
 (insert image)
 
@@ -13,14 +13,17 @@ In this context, we need to be aware that Agriculture accounts for 70% of total 
 
 ## 1.2.1 Interconnections between Water and Energy
 
-(insert image)
 
-This figure introduces you to some examples for interconnections between water and energy.
+<img src="/wef-nexus-online-course/assets/water-for-energy.png"
+     alt="W-E">
 
-**Key questions addressed are:**
 
-- How relevant are water resources for energy generation and security?
-- What are the implications of energy production on the quantity and quality of water resources?
+The figure above introduces you to some examples for interconnections between water and energy.
+
+### **Key questions addressed are:**
+
+- **How relevant are water resources for energy generation and security?**
+- **What are the implications of energy production on the quantity and quality of water resources?**
 
 Water is used for extraction, mining, processing, refining, cooling power plants and residue disposal of fossil fuels, as well as for growing crops for biofuels and hydropower. The water quantity needed varies in the energy sector, with oil and gas production requiring much less water than oil from tar sands or biofuels. Many forms of energy production through fossil fuels are highly polluting in addition to being water demanding, especially extraction from tar sands and shale and extraction through hydraulic fracturing. Furthermore, return flows from power plants to rivers are warmer than the water that was taken in, and/or are highly polluted and can consequently compromise other downstream usage, including ecosystems.
 
@@ -28,14 +31,15 @@ On the other hand, energy is required for water abstraction, pumping for irrigat
 
 ## 1.2.2 Interconnections between Energy and Food
 
-(insert image)
+<img src="/wef-nexus-online-course/assets/energy-for-food.png"
+     alt="W-E">
 
-This figure introduces you to some examples for interconnections between food (land) and energy.
+This figure introduces you to some examples for interconnections between food production (including land) and energy.
 
-**The key questions addressed are:**
+## **The key questions addressed are:**
 
-- How much energy is needed for food production and security?
-- To what extent should agricultural products contribute to energy generation?
+- **How much energy is needed for food production and security?**
+- **To what extent should agricultural products contribute to energy generation?**
 
 The increased food security that has resulted from agricultural mechanization has strongly increased the energy demand. The food production and supply chain claims approximately 30% of total global energy demand (Popp et al., 2014).
 
@@ -45,21 +49,22 @@ The energy sector can also have negative impacts on the food sector when mining 
 
 ## 1.2.3 Interconnections between Water and Food
 
-(insert image)
+<img src="/wef-nexus-online-course/assets/water-for-food.png"
+     alt="W-E">
 
 And finally, here you find examples for interconnections between water and food.
 
-**The key questions addressed are:**
+### **The key questions addressed are:**
 
-- How much water is needed for food production and security?
-- What are the implications of agricultural activities on the quantity and quality of water resources?
+- **How much water is needed for food production and security?**
+- **What are the implications of agricultural activities on the quantity and quality of water resources?**
 
 In 2014, approximately 70% of the global water withdrawal was used for irrigation. The vast majority (96%) of global water withdrawals are from freshwater sources, i.e. lakes, rivers and underground sources (FAO, 2014). On the other hand, agricultural production worldwide leads to severe surface and groundwater water quality degradation. Farms discharge large quantities of agrochemicals, organic matter, drug residues, sediments and saline drainage into water bodies. The resultant water pollution poses severe risks to aquatic ecosystems, human health and productive activities (UNEP, 2016).
 
-**Trade-offs to be highlighted:**
+### **Trade-offs to be highlighted:**
 
-- Irrigation: Food production vs. water scarcity (demand higher than availability)
-- Food production vs. deteriorated water quality (diffuse pollution with nutrients and pesticides)
+- **Irrigation: Food production vs. water scarcity (demand higher than availability)**
+- **Food production vs. deteriorated water quality (diffuse pollution with nutrients and pesticides)**
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/introduction/beyondbasics){: .btn .btn-purple .mr-4}

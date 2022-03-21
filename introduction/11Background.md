@@ -26,8 +26,8 @@ parent: Introduction
 At present, a significant percentage of the global population is far from attaining water, energy or food security. For example, on top of the 1.1 billion without access to electricity, approximately a further 1.1 billion is estimated to have no or unreliable access to electricity. Current estimates show that around 9 percent of the world population suffers from hunger. If recent trends continue, the number of people affected by hunger will surpass 840 million by 2030, or 9.8 percent of the global population. According to UN (2020), one third of the world population does not have access to safe drinking water and water scarcity affects more than 40 per cent of the global population and is projected to rise (UN, 2020).
 The world population is likely to increase to over 8 billion by 2030 and 9.5 or even 10 billion by 2050, while economic development and consumption patterns are likely to change, leading to even higher water, energy and food demands per capita. We therefore face the combined challenge of compensating for the unmet current demands and meeting additional future demands. Climate change adds uncertainty to the future availability of natural resources.
 
-## 1.1. The Sustainable Development Goals - <br> 
-## Water, Energy, and Food Security are key pillars of development!
+<h2>1.1. The Sustainable Development Goals <br>
+- Water, Energy, and Food Security are key pillars of development!</h2>
 
 ![SDG-Goals](/wef-nexus-online-course/assets/SDG_Goals.png)
 
@@ -46,21 +46,21 @@ Therefore, the Sustainable Development Goals (SDGs) address the areas of action 
 - Consumption and production patterns (12) will determine our energy demands
 - Education (4) and partnerships (17) will determine how to reach future WEF security
 
-# **2. Nexus Concepts and History - Sector specific goals may interfere with interests of other sectors**
+## **2. Nexus Concepts and History - Sector specific goals may interfere with interests of other sectors**
 
-## **Example 1: Increasing electricity production affects water resources**
+### Example 1: Increasing electricity production affects water resources
 
 - Goal: Increase energy security
 - Energy generation requires water for cooling and mining
 
-And as a result:
+**And as a result:**
 
 - Less water is available for other sectors and the environment, water is more polluted
 - Less water security
 
 (insert image)
 
-## **Example 2: Intensifying agricultural production**
+### Example 2: Intensifying agricultural production
 
 - Goal: Increase food security
 - Competition for land resources (eg. biofuels vs. crops as food)

@@ -22,7 +22,6 @@ to the WEF-Nexus online course. Our website is under construction. You can find 
 
 
 
-
 **The Water Energy Food (WEF) Nexus Course consists of the following Learning Units (LUs):**
 
 - Introduction to the Water Energy Food Security Nexus, WEF Nexus Interconnections
