@@ -4,6 +4,7 @@ title: 7.3.1 Agrivoltaics
 permalink: /solutions/examples/agrivoltaics
 parent: 7.3 Examples
 grand_parent: Solutions
+nav_order: 1
 ---
 # 7.3.1 Integration of Photovoltaics and Agriculture: Agrivoltaics
 
