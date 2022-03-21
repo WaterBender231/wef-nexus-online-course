@@ -5,14 +5,14 @@ permalink: /watersecurity/
 has_children: true
 nav_order: 3
 ---
-# **3. Water Security**
+# **2. Water Security**
 
 <img src="/wef-nexus-online-course/assets/water-dimensions.png"
      alt="Water Security"
      width="619"
      height="399">
 
-## Learning Unit 03
+## Learning Unit 02
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)
 #### Alexandra Nauditt 
 <br/> <br/>
