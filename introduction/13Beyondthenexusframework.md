@@ -67,7 +67,7 @@ Water supplies depend on energy. Running water pumps or treating wastewater are 
 However, Rothausen & Conway (2011) stress that links between the water and energy sector are not thoroughly studied, and the assessment of GHG from the water sector depends on the chosen boundaries for the water system itself. For example, end-use purposes such as residential water heating might be excluded from the assessment since this process occurs outside of the water sector.
 
 <br/> <br/>
-[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/introduction/beyondbasics){: .btn .btn-purple .mr-4}
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/introduction/selfassessment){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
 

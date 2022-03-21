@@ -69,7 +69,7 @@ Facilitating coordinated representation of interests from the local to the natio
 #### You will learn more about governance in learning unit 7 ####
 
 <br/> <br/>
-[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/questions){: .btn .btn-purple .mr-4}
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/questions){: .btn .btn-purple .mr-4}
 [Continue with "LU 07 Governance" ](https://waterbender231.github.io/wef-nexus-online-course/governance/){: .btn .btn-green }
 
 ––––––––––––––––
