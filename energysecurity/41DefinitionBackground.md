@@ -10,7 +10,8 @@ parent: Energy Security
 
 **What does “Energy Security” mean?** 
 
-The International Energy Agency (IEA) provided a simple definition of Energy Security in 2014:
+The International Energy Agency (IEA) provided a simple definition 
+of Energy Security in 2014:
 ![ES simple definition](/wef-nexus-online-course/assets/simpleESdef.PNG)
 
 Energy security is crucial to ensure long and short-term economic development and social stability. According to the IEA, three components are essential when assessing energy security:
