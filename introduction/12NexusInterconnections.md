@@ -74,10 +74,10 @@ In 2014, approximately 70% of the global water withdrawal was used for irrigatio
 - *FAO (2014), ‘The Water-Energy-Food Nexus - A new approach in support of food security and sustainable agriculture’, Food and Agriculture Organization of the United Nations, pp.1–11.*
 - *WWAP. The United Nations World Water Development Report (2014). Water and Energy; World Water Assessment Program, UNESCO: Paris, 2014.*
 
-***1.2.1 Interconnections between Water and Energy**
+***1.2.1 Interconnections between Water and Energy***
 - *WWAP. The United Nations World Water Development Report (2014). Water and Energy; World Water Assessment Programme, UNESCO: Paris, 2014.*
 
-***1.2.2 Interconnections between Energy and Food**
+***1.2.2 Interconnections between Energy and Food***
 - *FAO (2008), ‘Climate change, biofuels and land’, Available from: [http://www.fao.org/tempref/docrep/fao/010/i0142e/i0142e05.pdf](http://www.fao.org/tempref/docrep/fao/010/i0142e/i0142e05.pdf)*
 - *FAO (2012), ‘World Agriculture towards 2030/2050: the 2012 Revision’, ESA Working Paper No. 12-03. Food and Agriculture Organization of the United Nations, Rome, Italy.*
 - *Popp, J., Lakner, Z., Harangi-Rákos, M. & Fári, M. (2014), ‘The effect of bioenergy expansion: Food, energy, and environment’, Renewable and Sustainable Energy Reviews, vol. 32, pp. 559-578.*

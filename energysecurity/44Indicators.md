@@ -4,9 +4,9 @@ title: 4.4 Indicators
 permalink: /energysecurity/indicators
 parent: Energy Security
 ---
-# 4.4 Energy Security Indices
+# **3.4 Energy Security Indices**
 
-Energy Security Dimensions and Indices
+## Energy Security Dimensions and Indices
 
 ![Untitled](4%204%20Energy%2020238/Untitled.png)
 
@@ -17,7 +17,7 @@ References
 APERC, 2007. A Quest for Energy Security in the 21st Century: Resources and Constraints. [https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf](https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf)
 Cherp, A., & Jewell, J. (2014). The concept of energy security: Beyond the four As. Energy Policy, 75, 415–421. [https://doi.org/10.1016/j.enpol.2014.09.005](https://doi.org/10.1016/j.enpol.2014.09.005)
 
-**Indices for Availability**
+### Indices for Availability
 
 ![Untitled](4%204%20Energy%2020238/Untitled%201.png)
 
@@ -48,7 +48,7 @@ IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Dev
 IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. [https://www.iea.org/data-and-statistics](https://www.iea.org/data-and-statistics) .
 World Bank (2017) ‘Access to electricity (% of population)’. [https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS)
 
-**Indices for Accessibility**
+### Indices for Accessibility
 
 | Index Name | Formula | Units | Literature Sources | Data Sources |
 | --- | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Dev
 IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. [https://www.iea.org/data-and-statistics](https://www.iea.org/data-and-statistics) .
 World Bank (2017) ‘Access to electricity (% of population)’. [https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS)
 
-**Indices for Affordability**
+### Indices for Affordability
 
 | Index Name | Formula | Units | Literature Sources | Data Sources |
 | --- | --- | --- | --- | --- |

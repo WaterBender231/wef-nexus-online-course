@@ -15,24 +15,24 @@ parent: Introduction
 - Each Nexus system depends on an individual composite of varying components
 - As every region is unique in terms of resources availability and use, we need to adapt the concept to address the case-specific challenges
 
-## 1.3.1 Global Resource Nexus
-### five resources: water, energy, minerals, food and land
+<h2>1.3.1 Global Resource Nexus <br>
+- five resources: water, energy, minerals, food and land</h2>
+<br/> <br/>
 
 ![Global Resource Nexus](/wef-nexus-online-course/assets/resource_nexus.PNG) 
 
 ##### Figure 2: Global Resource Nexus. after Andrews-Speed et al. 2012.
-<br/> <br/>
 
 Andrews-Speed et al. 2012 conceptualize a nexus focusing on five key resources: water, energy, minerals, food, and land. The Global resource nexus analyzes physical, technological, social and institutional aspects of sectoral interactions.
 
 A key claim of the approach is that one needs to understand the key actor‘s decision-making processes over resource management. Thus, the global resource nexus approach requires a closer look at supply chains of companies, the strategic planning of politicians or public administrations, and the basic needs of local populations.
 
-## 1.3.2 Water-Energy-Food-Soil (WEFS) Nexus
-### Adding soil as component
+<h2>1.3.2 Water-Energy-Food-Soil (WEFS) Nexus <br>
+Adding soil as component</h2>
+<br/> <br/>
 
 ![WEFS Nexus](/wef-nexus-online-course/assets/soil_nexus.PNG) 
 ##### Figure 3: WEFS-Nexus after Hatfield et al. 2017.
-<br/> <br/>
 
 Hatfield et al. 2017 put an emphasis on soil as important element of the water, food, energy nexus.
 
@@ -40,7 +40,6 @@ Hatfield et al. 2017 put an emphasis on soil as important element of the water, 
 
 ![ELS Nexus](/wef-nexus-online-course/assets/livelihood_nexus.PNG)
 ##### Figure 4: WEF-Nexus and Environmental Livelihood Security after Biggs et al. 2015.
-<br/> <br/>
 
 Biggs et al. (2015) put livelihoods in the center of the WEF Nexus circle: the Environmental Livelihood Security (ELS). ELS refers to the “challenges of maintaining global food security and universal access to freshwater and energy to sustain livelihoods and promote inclusive economic growth, whilst sustaining key environmental systems functionality, particularly under variable climatic regimes’’ (Biggs et al., 2014). This concept also considers external influencing factors such as climate change, population growth, and governance, which all affect the attainment of ELS.
 
@@ -55,7 +54,6 @@ Trade-offs may exist between GHG reduction and resource security and a comprehen
 
 ![GHG Nexus](/wef-nexus-online-course/assets/long-version_GHG-WEF.png)
 ##### Figure 5: WEF-Nexus and GHG emissions (Figure: S. Krautzik, based on various data sources).
-<br/> <br/>
 
 ### GHG emissions from the agriculture, forestry and other land use (AFOLU) sector 
 Crippa et al., 2021 estimate that the world‘s food systems are responsible for more than one-third of global anthropogenic GHG emissions. The study is based on a new database for global food emissions called “EDGAR-FOOD”. The database estimates GHG emissions for the years 1990–2015. Several steps along food supply chains release GHGs and require energy, including farming, generation of fertilizers, harvesting (e.g., using machinery), transport, processing, packaging, distribution, preparation, and disposal of residuals.
@@ -100,4 +98,5 @@ However, Rothausen & Conway (2011) stress that links between the water and energ
 
 <br/> <br/>
 
-#### **Additional Information:** *EDGAR-FOOD database available at: [https://edgar.jrc.ec.europa.eu/](https://edgar.jrc.ec.europa.eu/)*
+### **Additional Information:** 
+*EDGAR-FOOD database available at: [https://edgar.jrc.ec.europa.eu/](https://edgar.jrc.ec.europa.eu/)*

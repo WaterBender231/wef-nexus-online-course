@@ -11,14 +11,13 @@ parent: Energy Security
 **What does “Energy Security” mean?** 
 
 The International Energy Agency (IEA) provided a simple definition of Energy Security in 2014:
-C:\Users\skrautzi\nexus-website\wef-nexus-online-course\assets\simpleESdef.PNG
+![ES simple definition](/wef-nexus-online-course/assets/simpleESdef.PNG)
 
 Energy security is crucial to ensure long and short-term economic development and social stability. According to the IEA, three components are essential when assessing energy security:
-**Reliability, Affordability and Accessibility of supply.**
+- **Reliability, Affordability and Accessibility of supply.**
 
 
 ### Key messages of SDG 7 (abridged)
-
 **Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all.**
 
 <style type="text/css">

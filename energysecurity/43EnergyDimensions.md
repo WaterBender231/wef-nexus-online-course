@@ -4,7 +4,7 @@ title: 4.3 Concepts and dimensions
 permalink: /energysecurity/dimensions
 parent: Energy Security
 ---
-# 4.3 Different Energy Security concepts and dimensions
+# 3.3 Different Energy Security concepts and dimensions
 
 APERC (2007): The 4 A´s
 

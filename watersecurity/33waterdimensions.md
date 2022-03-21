@@ -8,19 +8,19 @@ parent: Water Security
 
 ![Water Security Banner](/wef-nexus-online-course/assets/water-dimensions.png)
 
-## **2.3 Indices to measure water availability**
+## 2.3 Indices to measure water availability
 
 ![Water availability](/wef-nexus-online-course/assets/availability_dimension.png)
 
-## **2.4 Indices to measure water accessibility**
+## 2.4 Indices to measure water accessibility
 
 ![water accessibility](/wef-nexus-online-course/assets/accessibility_dimension.png)
 
-## **2.5 Indices to measure water safety and quality**
+## 2.5 Indices to measure water safety and quality
 
 ![water safety and quality](/wef-nexus-online-course/assets/quality_dimension.png)
 
-## **2.6 Indices to measure water governance performance**
+## 2.6 Indices to measure water governance performance
 
 ![water governance](/wef-nexus-online-course/assets/governance_dimension.png)
 
