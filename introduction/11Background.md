@@ -28,6 +28,7 @@ The world population is likely to increase to over 8 billion by 2030 and 9.5 or 
 
 <h2>1.1. The Sustainable Development Goals <br>
 - Water, Energy, and Food Security are key pillars of development!</h2>
+<br/> <br/>
 
 ![SDG-Goals](/wef-nexus-online-course/assets/SDG_Goals.png)
 
@@ -46,7 +47,10 @@ Therefore, the Sustainable Development Goals (SDGs) address the areas of action 
 - Consumption and production patterns (12) will determine our energy demands
 - Education (4) and partnerships (17) will determine how to reach future WEF security
 
-## **2. Nexus Concepts and History - Sector specific goals may interfere with interests of other sectors**
+<h2>1.1. 2. Nexus Concepts and History <br>
+- Sector specific goals may interfere with interests of other sectors</h2>
+<br/> <br/>
+
 
 ### Example 1: Increasing electricity production affects water resources
 
@@ -74,9 +78,7 @@ Therefore, the Sustainable Development Goals (SDGs) address the areas of action 
     <p>- Less water security</p>
 </div>
 
-<br/> <br/>
-<p style="color:#FF8840;">Hence, there is a need for a systematic approach such as the WEF Nexus approach!</p>
-<br/> <br/>
+<p style="color:red;">Hence, there is a need for a systematic approach such as the WEF Nexus approach!</p>
 
 
 While the quest for development and the growing demands for energy, water and food will likely require an intensification in resources use, the achievement of one goal may negatively impact the performance of another goal. The increase of one security domain often has trade-offs with another security domain.
@@ -89,7 +91,7 @@ These trade-offs are the reason why a Nexus approach is needed: in order to syst
 
 ## 2.1 The Bonn 2011 Nexus Conference: The Water, Energy and Food Security Nexus
 
-<center><img src="wef-nexus-online-course/assets/hoff_2011.png" alt="Hoff, 2011" height="150" width="200"></center>
+![Hoff 2011](/wef-nexus-online-course/assets/hoff_2011.png)
 
 The WEF Nexus for the first time was raised at the World Economic Forum Annual Meeting in 2008, where representatives of the Water, Energy and Food sectors wanted to increase awareness that these are strongly linked, and that actions in one sector often have impacts on one or both of the others (WEF, 2009).
 
@@ -101,14 +103,14 @@ This “first” Nexus concept (Hoff, 2011) looked at the security of water supp
 
 ## 2.2 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU
 
-<center><img src="wef-nexus-online-course/assets/EWEF_GIZ.png" alt="Ecosystem Perspective, GIZ/EU 2016" height="150" width="200"></center>
+![Ecosystem Perspective, GIZ/EU 2016](/wef-nexus-online-course/assets/EWEF_GIZ.png)
 
 Since 2011, numerous concepts have been developed, each focusing on different aspects. The one developed to guide the “Nexus Dialogue Program” (GIZ, 2016), suggests a more integrated way of looking at the Nexus with the ecosystem located in the center. The three resources are equally allocated to it. The three ‘supply securities’ of water, energy and food depend on ecosystems and they interact with each other. The resources land, water and energy are part of this ecosystem and must be used and protected in a balanced manner.
 
 The Nexus Dialogue Program was coordinated by the European Commission (EC, DG DEVCO) and the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) on behalf of the German Ministry for Economic Development and Development Cooperation (BMZ). The program aimed at supporting several Regional Nexus Dialogues: the Niger Basin with Niger Basin Authority (NBA), South African Development Community (SADC), in the Mediterranean Region by the League of Arab States (LAS), in Latin America by the Economic Commission for Latin America and the Caribbean (ECLAC) and the Latin American Water Directors, CODIA (with support from the Government of Spain), national governments and initiatives.
 
 ## 2.3 What are the benefits of WEF Nexus thinking?
-<br/> <br/>
+
 - It helps to understand the complex and interrelated nature of different systems
 - Identifies and evaluates trade-offs and synergies between different sectors to support decision making
 - Supports sustainability pathways through the coordinated management and use of natural resources across sectors
@@ -122,6 +124,7 @@ By addressing trade-offs with other sectors and emphasizing the identification o
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/introduction/interconnections){: .btn .btn-purple .mr-4}
+<br/> <br/>
 <br/> <br/>
 
 ### *References*
@@ -152,11 +155,11 @@ Water [https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB20111036
 
 ***2.1 The Bonn 2011 Nexus Conference: The Water, Energy and Food Security Nexus***
 
-- *WEF (2009) Water Security: The Water-Food-Energy-Climate Nexus [https://www.weforum.org/reports/water-security-water-energy-food](https://www.weforum.org/reports/water-security-water-energy-food/climate-nexus.*
+- *WEF (2009) Water Security: The Water-Food-Energy-Climate Nexus [https://www.weforum.org/reports/water-security-water-energy-food](https://www.weforum.org/reports/water-security-water-energy-food/climate-nexus)*
 
 - *Hoff, H. (2011). Understanding the Nexus. Background Paper for the Bonn2011 Conference: The Water, Energy and Food Security
 Nexus. Stockholm Environment Institute, Stockholm*
 
 ***2.2 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU***
 
-- *GIZ (2016), ‘Water, Energy & food Nexus in a Nutshell’, Available from: www.water-energy[food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue](http://food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue/Programme_Phase1_2016-18.pdf*
+- *GIZ (2016), ‘Water, Energy & food Nexus in a Nutshell’, Available from: www.water-energy-food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue](http://food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue/Programme_Phase1_2016-18.pdf)*

@@ -12,6 +12,9 @@ parent: Water Security
 
 <img src="https://www.unwater.org/app/uploads/2017/05/Screen-Shot-2017-05-08-at-10.02.09.png" alt="UN: What is Water Security? Infographic">
 
+##### Figure 1: What is Water Security? Infographic (UN, 2013). #####
+<br/> <br/>
+
 UN Water (2013) suggested a „Water Security“ concept addressing key aspects of water related challenges. Their infographic shows key aspects of water security: 
 - Access to safe and sufficient drinking water at an affordable cost 
 - Protection of livelihoods, human rights, and cultural and recreational values
@@ -35,6 +38,9 @@ UN Water (2013) suggested a „Water Security“ concept addressing key aspects 
 </style>
 <img src="/wef-nexus-online-course/assets/sdg6.png"
 class="centerImage" alt="CH Logo" height="120" width="350">
+
+##### Figure 2: SDG 6 (UN, 2020). #####
+<br/> <br/>
 
 - Target 6.1 “… safe and affordable drinking water for all”
 - Target 6.2 “… achieve access to adequate and equitable sanitation …”
