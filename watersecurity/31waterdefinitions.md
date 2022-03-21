@@ -38,7 +38,7 @@ UN Water (2013) suggested a „Water Security“ concept addressing key aspects 
 }
 </style>
 <img src="/wef-nexus-online-course/assets/sdg6.png"
-class="centerImage" alt="CH Logo" height="120" width="350">
+class="centerImage" alt="SDG 6" height="120" width="350">
 
 ##### Figure 2: SDG 6 (UN, 2020). #####
 
