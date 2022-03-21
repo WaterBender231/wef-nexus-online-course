@@ -27,7 +27,7 @@ Four different themes were defined and for each theme important stressors identi
 ##### Figure 2: Asian Water Development Outlook (Asian Development Bank 2013) #####
 <br/> <br/>
 
-The ADB (2013) applied a framework looking at five dimensions to assess national water security. The methodology has been applied for all Asian countries and here the main dimensions and indicators are presented. The scale used for national water security goes from 1 to 5 using the following qualitative interpretation: 1 = hazardous, 2 = engaged, 3 = capable, 4 = effective, 5 = model-
+The ADB (2013) applied a framework looking at five dimensions to assess national water security. The methodology has been applied for all Asian countries and here the main dimensions and indicators are presented. The scale used for national water security goes from 1 to 5 using the following qualitative interpretation: 1 = hazardous, 2 = engaged, 3 = capable, 4 = effective, 5 = model
 
 The key dimensions (KD) are listed below:
 - KD1: Household water security

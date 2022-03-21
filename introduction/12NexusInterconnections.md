@@ -34,7 +34,7 @@ On the other hand, energy is required for water abstraction, pumping for irrigat
 
 This figure introduces you to some examples for interconnections between food production (including land) and energy.
 
-## **The key questions addressed are:**
+### **The key questions addressed are:**
 
 - **How much energy is needed for food production and security?**
 - **To what extent should agricultural products contribute to energy generation?**
@@ -71,7 +71,7 @@ In 2014, approximately 70% of the global water withdrawal was used for irrigatio
 ### *References*
 
 ***1.2 Nexus-Interconnections: The WEF sectors are closely related***
-- *FAO (2014), ‘The Water-Energy-Food Nexus - A new approach in support of food security and sustainable agriculture’, Food and Agriculture Organization of the United Nations, pp.1–11.
+- *FAO (2014), ‘The Water-Energy-Food Nexus - A new approach in support of food security and sustainable agriculture’, Food and Agriculture Organization of the United Nations, pp.1–11.*
 - *WWAP. The United Nations World Water Development Report (2014). Water and Energy; World Water Assessment Program, UNESCO: Paris, 2014.*
 
 ***1.2.1 Interconnections between Water and Energy**
