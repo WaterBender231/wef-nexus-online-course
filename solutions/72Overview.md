@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 7.2 Nexus sound solutions - Overview
+title: 7.2 Overview
 permalink: /solutions/overview
 parent: Solutions
 ---
