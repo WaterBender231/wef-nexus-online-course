@@ -6,16 +6,14 @@ parent: Introduction
 ---
 # **1.2 Nexus-Interconnections: The WEF sectors are closely related**
 
-(insert image)
-
 The WEF Nexus framework shows that the three sectors are strongly linked, and that actions in one sector can have impacts on one or both of the other sectors. In the following slides, we would like to highlight the key interconnections and important it is to have an integrated view of WEF sectors and the environmental resources needed for each of them.
-In this context, we need to be aware that Agriculture accounts for 70% of total global freshwater withdrawals (FAO, 2014), 90% of energy produced today is water-intensive (WWAP, 2014) and Agriculture & food chains account for 33% of global energy demand.
+In this context, we need to be aware that Agriculture accounts for 70% of total global freshwater withdrawals (FAO, 2014), 90% of energy produced today is water-intensive (WWAP, 2014), and agriculture and food chains account for 33% of global energy demand.
 
 ## 1.2.1 Interconnections between Water and Energy
 
 
-<img src="/wef-nexus-online-course/assets/water-for-energy.png"
-     alt="W-E">
+<center><img src="/wef-nexus-online-course/assets/water-for-energy.png"
+     alt="W-E"></center>
 
 
 The figure above introduces you to some examples for interconnections between water and energy.

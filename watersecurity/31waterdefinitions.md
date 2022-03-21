@@ -8,12 +8,11 @@ parent: Water Security
 
 ## 2.1 What does “Water Security” mean?
 
-’’The capacity of a population to safeguard sustainable access to adequate quantities of and acceptable quality water for sustaining livelihoods, human well-being, and socio-economic development, for ensuring protection against water-borne pollution and water-related disasters, and for preserving ecosystems in a climate of peace and political stability.’’ (UN Water, 2013)
+’’The capacity of a population to safeguard sustainable access to adequate quantities of and acceptable quality water for sustaining livelihoods, human well-being, and socio-economic development, for ensuring protection against water-borne pollution and water-related disasters, and for preserving ecosystems in a climate of peace and political stability’’ (UN Water, 2013).
 
 <img src="https://www.unwater.org/app/uploads/2017/05/Screen-Shot-2017-05-08-at-10.02.09.png" alt="UN: What is Water Security? Infographic">
 
 ##### Figure 1: What is Water Security? Infographic (UN, 2013). #####
-<br/> <br/>
 
 UN Water (2013) suggested a „Water Security“ concept addressing key aspects of water related challenges. Their infographic shows key aspects of water security: 
 - Access to safe and sufficient drinking water at an affordable cost 
@@ -24,6 +23,8 @@ UN Water (2013) suggested a „Water Security“ concept addressing key aspects 
 - Collaborative approaches to transboundary water resources management within and between countries 
 - The ability to cope with uncertainties and risks of water-related hazards 
 - Good governance and accountability, and the due consideration of the interests of all stakeholders
+
+<br/> <br/>
 
 ### 2.1.2 Key messages of SDG 6 (abridged)
 
@@ -40,7 +41,6 @@ UN Water (2013) suggested a „Water Security“ concept addressing key aspects 
 class="centerImage" alt="CH Logo" height="120" width="350">
 
 ##### Figure 2: SDG 6 (UN, 2020). #####
-<br/> <br/>
 
 - Target 6.1 “… safe and affordable drinking water for all”
 - Target 6.2 “… achieve access to adequate and equitable sanitation …”
@@ -52,11 +52,13 @@ class="centerImage" alt="CH Logo" height="120" width="350">
 
 SDG 6 lists the key targets related to water security. This overview highlights  key messages of SDG 6 in an abridged form. SDG 6 addresses crucial aspects of water security, including water security for people, ambient water quality, water use efficiency, the protection of water related ecosystems and integrated water resources management (IWRM). Aside from SDG 6, SDG 11 also addresses some water-related issues, with targets that relate to the protection against natural hazards, including hydro-meteorological hazards such as floods, droughts, and storms.
 
+<br/> <br/>
 
 ### 2.1.3 Earlier Definitions of Water Security
 
 Various definitions of Water Security exist, each reflecting the perspective and purpose of their application. Most incorporate the basic elements of water resources, environment, economy, water-related disasters, and human needs. Cook and Bakker (2012) identified four complementing themes in water security frameworks: availability; water-related hazards and vulnerability to those hazards; human needs; and, environmental sustainability. The Asian Development Bank (2013) added urban and economy, while Grey and Sadoff (2007) incorporated climate change and disease transmission into their definition of water security. This has led to a risk-based approach to water security as articulated by both Grey et al. (2013) and OECD (2013). Siwar and Ahmed (2014) used social elements of safety, access, and affordability in their framework. Given that water is essentially a coupled system (Bogardi et al. 2011) the integration of social and physical indicators is critical for representing and understanding local water security.
 
+<br/> <br/>
 
 ## 2.2 Varying Water Security assessment frameworks
 
@@ -76,6 +78,7 @@ Most WS frameworks incorporate basic elements of water resources, environment, e
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/concepts){: .btn .btn-purple .mr-4}
+<br/> <br/>
 <br/> <br/>
 
 ### *References*
