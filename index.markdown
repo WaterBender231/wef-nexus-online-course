@@ -21,6 +21,20 @@ to the WEF-Nexus online course. Our website is under construction. You can find 
 <br/> <br/>
 
 
+
+
+<div class="row">
+  <div class="column">
+    <img src="/wef-nexus-online-course/assets/itt_logo.png" alt="ITT, TH Köln" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/wef-nexus-online-course/assets/daad_logo.svg" alt="DAAD" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/wef-nexus-online-course/assets/supported by icon.PNG" alt="Federal Ministry for Economic Cooperation and Development" style="width:100%">
+  </div>
+</div>
+
 **The Water Energy Food (WEF) Nexus Course consists of the following Learning Units (LUs):**
 
 - Introduction to the Water Energy Food Security Nexus, WEF Nexus Interconnections
