@@ -137,11 +137,6 @@ To avoid outages, generation must be stable and the distribution system must be 
 effects. DSM describes the shifting of electric loads at the consumer’s side in order to reduce peak-demands and thus reduce pressures on the grid. While this is projected to significantly decrease the duration and the costs of outages, it requires the use of network-controlled smart technology, which comes along with high initial investment costs. (Closepet 2013; Natarajan and Closepet 2012)
 
 
-<br/> <br/>
-[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/dimensions){: .btn .btn-purple .mr-4}
-<br/> <br/>
-
-
 **Acceptability – death rates and greenhouse gas emissions related to energy production**
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%2011.png)
@@ -163,6 +158,9 @@ particular, most causalities are found in countries of lower-income, where tradi
 cooking.
 
 
+<br/> <br/>
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/dimensions){: .btn .btn-purple .mr-4}
+<br/> <br/>
 
 
 ### *References*

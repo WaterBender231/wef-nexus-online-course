@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 4.6 References
+title: 3.6 References
 permalink: /energysecurity/references
 parent: Energy Security
 ---
-# 4.6 References
+# 3.6 References
 
 ***Energy Security Concepts***
 - *Ang, B. W., Choong, W. L., & Ng, T. S. (2015). Energy security: Definitions, dimensions and indexes. Renewable and Sustainable Energy Reviews, 42, 1077–1093 [doi.org/10.1016/j.rser.2014.10.064](http://doi.org/10.1016/j.rser.2014.10.064)*

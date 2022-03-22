@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4.4 Indicators
+title: 3.4 Indicators
 permalink: /energysecurity/indicators
 parent: Energy Security
 ---
@@ -154,3 +154,8 @@ Enerdata (2020): Global Energy Statistical Yearbook. Available online at [https:
 IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. [https://www.iea.org/data-and-statistics](https://www.iea.org/data-and-statistics) .
 Ritchie, Hannah; Roser, Max (2018): Access to Energy. [OurWorldinData.org](http://ourworldindata.org/). Available online at [https://ourworldindata.org/energy-access#citation](https://ourworldindata.org/energy-access#citation).
 Sovacool, Benjamin K.; Andersen, R.; Sorensen, Steven; Sorensen, Kenneth; Tienda, Victor; Vainorius, Arturas et al. (2016): Balancing safety with sustainability: assessing the risk of accidents for modern low-carbon energy systems. In Journal of Cleaner Production 112, pp. 3952–3965. DOI: 10.1016/j.jclepro.2015.07.059.
+
+
+<br/> <br/>
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/questions){: .btn .btn-purple .mr-4}
+<br/> <br/>

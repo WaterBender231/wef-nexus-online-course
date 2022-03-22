@@ -5,7 +5,7 @@ permalink: /foodsecurity/
 has_children: true
 nav_order: 5
 ---
-# **5. Food Security**
+# **4. Food Security**
 
 <img src="/wef-nexus-online-course/assets/foodsecurity-banner.png)"
      alt="Energy Security"
@@ -13,7 +13,7 @@ nav_order: 5
      height="399">
 
 
-## Learning Unit 05
+## Learning Unit 04
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)
 #### Alexandra Nauditt, Lars Ribbe, Silvia Krautzik
 <br/> <br/>

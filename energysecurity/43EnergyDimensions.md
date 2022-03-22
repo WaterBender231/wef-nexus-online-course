@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4.3 Concepts and dimensions
+title: 3.3 Concepts and dimensions
 permalink: /energysecurity/dimensions
 parent: Energy Security
 ---
