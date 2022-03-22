@@ -24,24 +24,37 @@ The most recent definition of food security was established in 2001, adding the 
 In 2015, the concept of food security was strongly embedded in the Sustainable Development Goals (SDG), specifically the SDG 2 "End hunger, achieve food security and improved nutrition and promote sustainable agriculture“ (United Nations, 2015).
 
 
-### **4.1.2cCommon Terms related to Food Security**
+### **4.1.2 Common Terms related to Food Security**
 
-<h2 style="color: #ffffff; background-color: #d3a32b;">
+<h3 style="color: #ffffff; background-color: #d3a32b;">
     Food insecurity
-</h2>
+</h3>
 
-A situation that exists when people lack secure access to sufficient amounts of safe and nutritious food for normal growth and development and an active and healthy life. (FAO, 2001)
+A situation that exists when people lack secure access to sufficient amounts of safe and nutritious food for normal growth and development and an active and healthy life (FAO, 2001).
 
-**Hunger:**
+<h3 style="color: #ffffff; background-color: #d3a32b;">
+    Hunger
+</h3>
+
 Hunger is an uncomfortable or painful physical sensation caused by insufficient consumption of dietary energy. It becomes chronic when the person does not consume a sufficient amount of calories (dietary energy) on a regular basis to lead a normal, active and healthy life”.
 
-**Malnutrition:**
+<h3 style="color: #ffffff; background-color: #d3a32b;">
+    Malnutrition
+</h3>
+
 An abnormal physiological condition caused by deficiencies, excesses or imbalances in energy, protein and/or other nutrients.
 
-**Undernourishment:**
+
+<h3 style="color: #ffffff; background-color: #d3a32b;">
+    Undernourishment
+</h3>
+
 Food intake that is continuously insufficient to meet dietary energy requirements.
 
-**Undernutrition:**
+<h3 style="color: #ffffff; background-color: #d3a32b;">
+    Undernutrition
+</h3>
+
 The result of undernourishment, poor absorption and/or poor biological use of nutrients consumed.
 
 Food Insecurity  is a common term for food security that was used during the World Food Summit in 1996 and is continued to be seen as appropriate today. There are many causes of food insecurity. Low agricultural production is identified as one of these, as agricultural production is often prone to shocks such as those caused by natural hazards, in particular droughts. This is often combined with a low ability to buy food products on international markets and a high rate of post harvest losses due to insufficient logistics such as transport, storage and cooling.

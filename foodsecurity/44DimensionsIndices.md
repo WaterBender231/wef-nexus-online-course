@@ -260,7 +260,7 @@ Per capita food supply variability
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/questions){: .btn .btn-purple .mr-4}
 
 
-*References*
+### *References*
 ***4.4.1 Food Security Dimensions and Indices***
 - *FAO, 2012. Food Security Indicators. Rome, FAO. [http://www.fao.org/economic/ess/ess-fs/ess-fadata/en/](http://www.fao.org/economic/ess/ess-fs/ess-fadata/en/)*
 - *Jones, A.D., Ngure, F.M., Pelto, G. and Young, S.L., 2013. What are we assessing when we measure food security? A compendium and review of current metrics. Advances in Nutrition, 4(5), pp.481-505. [https://doi.org/10.3945/an.113.004119](https://doi.org/10.3945/an.113.004119)*
