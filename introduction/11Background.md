@@ -31,7 +31,7 @@ The world population is likely to increase to over 8 billion by 2030 and 9.5 or 
 
 ![SDG-Goals](/wef-nexus-online-course/assets/SDG_Goals.png)
 
-Source: UN, 2015 [SDG Goals](https://sdgs.un.org/goals) {: .fs-1 }
+<p><small>Source: UN, 2015</small></p>
 
 
 Therefore, the Sustainable Development Goals (SDGs) address the areas of action which are targeted in order to reach “the future we want”. The SDGs 2 (zero hunger), 6 (clean water and sanitation) and 7 (affordable and clean energy) directly address the demand for improving food, water and energy security.
