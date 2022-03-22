@@ -54,7 +54,8 @@ Therefore, the Sustainable Development Goals (SDGs) address the areas of action 
 
 ![US Department](/wef-nexus-online-course/assets/USDepartmentEnergy.png)
 
-Source: U.S. Department of Energy, 2006 {: .fs-1 }
+<p><small>Source: U.S. Department of Energy, 2006</small></p>
+
 
 
 ### Example 1: Increasing electricity production affects water resources
@@ -71,7 +72,8 @@ Source: U.S. Department of Energy, 2006 {: .fs-1 }
 
 ![LaB2010](/wef-nexus-online-course/assets/LaB2010.png)
 
-Source: LaB, 2010 {: .fs-1 }
+<p><small>Source: LaB, 2010</small></p>
+
 
 
 ### Example 2: Intensifying agricultural production
@@ -101,7 +103,7 @@ These trade-offs are the reason why a Nexus approach is needed: in order to syst
 
 ![Hoff 2011](/wef-nexus-online-course/assets/hoff_2011.png)
 
-Source: Hoff, 2011 {: .fs-1 }
+<p><small>Source: Hoff, 2011</small></p>
 
 The WEF Nexus for the first time was raised at the World Economic Forum Annual Meeting in 2008, where representatives of the Water, Energy and Food sectors wanted to increase awareness that these are strongly linked, and that actions in one sector often have impacts on one or both of the others (WEF, 2009).
 
@@ -115,7 +117,8 @@ This “first” Nexus concept (Hoff, 2011) looked at the security of water supp
 
 ![Ecosystem Perspective, GIZ/EU 2016](/wef-nexus-online-course/assets/EWEF_GIZ.png)
 
-Source: GIZ/EU 2016 {: .fs-1 }
+<p><small>Source: GIZ/EU 2016</small></p>
+
 
 Since 2011, numerous concepts have been developed, each focusing on different aspects. The one developed to guide the “Nexus Dialogue Program” (GIZ, 2016), suggests a more integrated way of looking at the Nexus with the ecosystem located in the center. The three resources are equally allocated to it. The three ‘supply securities’ of water, energy and food depend on ecosystems and they interact with each other. The resources land, water and energy are part of this ecosystem and must be used and protected in a balanced manner.
 
