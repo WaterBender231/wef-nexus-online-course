@@ -13,7 +13,8 @@ In this context, we need to be aware that Agriculture accounts for 70% of total 
 
 
 <center><img src="/wef-nexus-online-course/assets/water-for-energy.png"
-     alt="W-E"></center>
+     alt="W-E" width="400" height="400"></center>
+Source: Alexandra Nauditt, Antonia Fedlmeier {: .fs-1 }
 
 
 The figure above introduces you to some examples for interconnections between water and energy.
