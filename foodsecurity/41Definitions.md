@@ -26,7 +26,7 @@ In 2015, the concept of food security was strongly embedded in the Sustainable D
 
 ### **4.1.2cCommon Terms related to Food Security**
 
-<h2 style="background-color: #d3a32b;">
+<h2 style="color: #ffffff; background-color: #d3a32b;">
     Food insecurity
 </h2>
 
