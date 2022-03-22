@@ -36,7 +36,7 @@ Biowaste to Biogas - GIZ
 
 Feedstock for biogas production
 The first step in the production of biogas is the procurement and management of the feedstock. This step includes the delivery, storage, processing, preparation and injection into the fermenter. Generally, all types of organic material have energetic value. One major restriction of anaerobic digestion however is that material with high lignin contents, meaning most wooden residues, cannot be used in greater amounts because they hinder the process of decomposition. Here, aerobic digestion (=composting) is preferred. (Fachverband Biogas and GIZ 2019)
-The slide illustrates the different sources of digestable substrate.
+This section illustrates the different sources of digestable substrate.
 Starting the process
 Before the digester is put into operation, it must be provided with a sufficient quantity of suitable bacteria.
 In simple setups, cow dung diluted with water is containing suitable microorganisms and can be used for this purpose. It should be ensured that at least one tenth of the fermenter is filled with the manure-water mixture. More mass here means a larger number of bacteria and, in the further course, faster biogas formation. The fermentation substrate should then be added gradually so that the bacteria can adapt at a sufficient rate. (Deublein and Steinhauser, 2010)
@@ -150,7 +150,7 @@ Kaltschmitt, Martin; Hartmann, Hans; Hofbauer, Hermann (Hg.) (2009): Energie aus
 
 table: Kossmann et al. n.d.; cited from Vögeli et al. 2014
 
-Anaerobic digestion can greatly increase energy security, since biogas is a non-fossil fuel that is easily storable and transportable. As shown in the previous slides, most biogas is used for power and/or heat generation. Furthermore, if the biogas is purified to biomethane, it can be injected into the natural gas grid or be compressed and used as a fuel for vehicles (Kaltschmitt et al. 2009).
+Anaerobic digestion can greatly increase energy security, since biogas is a non-fossil fuel that is easily storable and transportable. As shown in the previous sections, most biogas is used for power and/or heat generation. Furthermore, if the biogas is purified to biomethane, it can be injected into the natural gas grid or be compressed and used as a fuel for vehicles (Kaltschmitt et al. 2009).
 Additionally, with low-tech solutions available, it can provide energy for heat in decentralized and rural settings. The table shows further usages, if the gas is not to be processed (Vögeli et al. 2014). (Putting the numbers into context: In a simple setup, 10kg of biowaste make for roughly 1m³ or 1000l of biogas (Vögeli et al. 2014))
 When an increasing amount of biowaste is used, the land competition for energy crops and food-crops could potentially be reduced.
 The co-production of nutrient-rich wet fertilizer can provide favorable conditions for crops and can substitute fossil-based products (Vögeli et al. 2014).

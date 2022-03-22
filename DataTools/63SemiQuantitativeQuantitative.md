@@ -103,9 +103,11 @@ Percentage access to modern fuel for cooking and heating |
 | Energy availability | Electricity consumption
 Per capita electricity requirement/Population |
 
-This slide shows the WEF security indicators used to calculate the RAND FEW index. It is comprised of three sub-indices for food, energy and water. The index combines these sub-indices using an unweighted, geometric mean. To calculate the subindices, they used the dimensions Accessibility and Availability.
+The section above shows the WEF security indicators used to calculate the RAND FEW index. It is comprised of three sub-indices for food, energy and water. The index combines these sub-indices using an unweighted, geometric mean. To calculate the subindices, they used the dimensions Accessibility and Availability.
+
 **Availability** refers to the overall National availability of resources to support needs for dietary requirements, sanitation, energy and productivity. However, the distribution of those resources across society is also an important consideration. Accessibility therefore additionally looks at the percentage of population with access to resources. For the water sub-index, they additionally used the Index on Water Adaptive capacity.
-In the following sections, details are given related to the indices on the slide:
+
+In the following sections, details are given related to the indices:
 **Food accessibility**: Domestic Food Price Level Index— ratio of the food purchasing power parity by the general purchasing power parity, this indicator reflects economic access to food.
 **Energy availability**: Benchmark value for per capita electricity consumption: 4,000 kilowatt-hours (kWh) per capita is the level required to meet basic human needs (Pasternak, 2000; Steinberger and Roberts, 2009).
 They measure the availability of water resources by comparing country-wide total water withdrawals for municipal uses with water requirements for basic municipal purposes. Gleick (1996) calculated the per capita minimum level of water used for cooking, heating, and sanitation (i.e., municipal purposes) to be 50 liters per capita per day. More water withdrawals relative to basic requirements indicate greater security and more support for economic activities. This measure does not consider industrial or agricultural water use or requirements, as water use in these sectors is highly variable across countries, depending on the mix of economic activity and level and efficiency of irrigation for agriculture.

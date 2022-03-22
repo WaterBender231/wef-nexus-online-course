@@ -23,8 +23,8 @@ Arabia, Iceland and Australia.
 
 Note: 1 million Btu approximately equals to the energy derived from 30 litres of petrol
 
-The previous slide displayed the energy consumption per capita in 2018. The two graphs presented here show both the historical increase and projected future increases in energy consumption. The first graph separates the world into OECD and non-OECD countries, highlighting that it is in the non-OECD countries where energy demands are expected to show a sharper increase in the future. The second graph further separates these non-OECD countries according to world region.
-Note that these graphs should be considered in conjunction with the map presented on the previous slide. The most developed countries still tend to consume significantly more energy per capita than less developed countries.
+The previous section displayed the energy consumption per capita in 2018. The two graphs presented here show both the historical increase and projected future increases in energy consumption. The first graph separates the world into OECD and non-OECD countries, highlighting that it is in the non-OECD countries where energy demands are expected to show a sharper increase in the future. The second graph further separates these non-OECD countries according to world region.
+Note that these graphs should be considered in conjunction with the map presented on the previous section. The most developed countries still tend to consume significantly more energy per capita than less developed countries.
 
 
 ### Energy consumption: historical and future trends
@@ -81,7 +81,7 @@ together 4%).
 
 LLNC 2019
 
-National energy flow Sankey diagrams, illustrate the distribution of energy sources and uses by sector. The energy flow charts by Lawrence Livermore National Laboratory (2020) include solar, nuclear hydroelectric, wind, geothermal, natural gas coal, biomass, and petroleum. Energy is stored and transmitted as chemical energy (e.g. batteries, biomass, petroleum, natural gas, and coal) gravitational energy (e.g. hydropower), thermal energy (heat) and electrical energy (through wires, in capacitors). The slide shows the example of the US in 2019 with a relatively high share of petroleum and natural gas as primary energy source. Also the Energy Flows of other countries are shown on the website of Lawrence Livermore National Laboratory (2020).
+National energy flow Sankey diagrams, illustrate the distribution of energy sources and uses by sector. The energy flow charts by Lawrence Livermore National Laboratory (2020) include solar, nuclear hydroelectric, wind, geothermal, natural gas coal, biomass, and petroleum. Energy is stored and transmitted as chemical energy (e.g. batteries, biomass, petroleum, natural gas, and coal) gravitational energy (e.g. hydropower), thermal energy (heat) and electrical energy (through wires, in capacitors). The section shows the example of the US in 2019 with a relatively high share of petroleum and natural gas as primary energy source. Also the Energy Flows of other countries are shown on the website of Lawrence Livermore National Laboratory (2020).
 “Functions performed using energy which are means to obtain or facilitate desired end services or states” are termed “Energy Services” (Fell 2017). They can be allocated to the sectors residential, commercial, industrial, and transportation and include for example heating, cooling, cooking, lighting, and motive power (ibid.). Rejected energy is the energy lost due to conversion and transmission, mostly in the form of thermal energy (waste heat).
 
 

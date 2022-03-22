@@ -9,7 +9,7 @@ grand_parent: Solutions
 
 ![Untitled](7%203%207%20Wate%20e31ed/Untitled.png)
 
-Additional water-energy nexus synergies can be tapped when combining water and energy production in one system. For example, this can be reached via multistage solar photovoltaic membrane distillation (Wang et al., 2019) or photovoltaic-battery-reverse osmosis systems (Zein et al. 2018). A comparable system is visualized in the slide applying an energy system modeling logic (oemof, Hilpert 2018). The reverse osmosis unit acts as a flexible load (demand-side management) and the water tank as indirect energy storage). Thereby, the components increase the energy uptake from the fluctuating solar energy resource and thus the overall (cost) efficiency of the system.
+Additional water-energy nexus synergies can be tapped when combining water and energy production in one system. For example, this can be reached via multistage solar photovoltaic membrane distillation (Wang et al., 2019) or photovoltaic-battery-reverse osmosis systems (Zein et al. 2018). A comparable system is visualized in the section applying an energy system modeling logic (oemof, Hilpert 2018). The reverse osmosis unit acts as a flexible load (demand-side management) and the water tank as indirect energy storage). Thereby, the components increase the energy uptake from the fluctuating solar energy resource and thus the overall (cost) efficiency of the system.
 ––––––––––––––––
 References
 Hilpert S, Kaldemeyer C, Krien U, Günther S, Wingenbach C, Plessmann G (2018) The Open Energy Modelling Framework (oemof) - A new approach to facilitate open science in energy system modelling. Energy Strategy Reviews 22:16–25. [https://doi.org/10.1016/j.esr.2018.07.001](https://doi.org/10.1016/j.esr.2018.07.001)

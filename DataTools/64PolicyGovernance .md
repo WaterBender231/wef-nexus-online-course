@@ -18,7 +18,7 @@ parent: Tools and Data
 - How is it achieved?
 
 The next Learning Unit will introduce you to governance instruments and related case studies.
-The following slides summarize some key instruments.
+The following sections summarize some key instruments.
 Governance and Response measures to overcome Nexus conflicts and trade-offs should be based on a Nexus assessment
 Effective responses require strategic vision, appropriate policies, regulations and an enabling institutional setting
 Responses should be designed at the appropriate scale: local, regional, national or transboundary
@@ -59,7 +59,7 @@ Coordination between different levels of governance is realised through differen
 
 GIZ, 2017
 
-Vertical coordination between different levels is realised through various different mechanisms. Those listed on this slide are only some of the examples available (and these examples often also have different names in different national contexts).
+Vertical coordination between different levels is realised through various different mechanisms. Those listed on this section are only some of the examples available (and these examples often also have different names in different national contexts).
 **Dialogue processes and consultations can serve as strong mechanism for vertical integration by:**
 Building relationships and trust between national and local actors
 Clarifying mandates, policies and institutional arrangements

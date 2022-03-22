@@ -33,7 +33,7 @@ Nexus interconnections are assessed at different scales:
 - National scale: e.g. energy supply grid data
 - Provincial/community scale: e.g. agricultural census data and food production
 
-The quantitative analysis and the use of tools relies on data that are observed at different spatial scales. This slide presents typical scales for Nexus related data and information.
+The quantitative analysis and the use of tools relies on data that are observed at different spatial scales. This section presents typical scales for Nexus related data and information.
 To enable a Nexus assessment at the desired scale, it is therefore necessary to make the information of different Nexus sectors comparable.
 
 ### 5.1.3 **Categories of Nexus System Assessment Tools**

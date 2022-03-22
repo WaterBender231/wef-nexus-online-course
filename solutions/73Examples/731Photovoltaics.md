@@ -88,7 +88,7 @@ An APV system also comprises:
 (Fraunhofer ISE 2020)
 
 Sizing
-System sizes range from few kW peak and m² systems for the local supply (see case study in next slides) to large scale grid-connected projects with food production for regional, national and global markets (e.g., 1GWpeak on 107 m^2 Goji-Berry Agrivoltaic System near to Gobi desert in China (Bellini, 2020))
+System sizes range from few kW peak and m² systems for the local supply (see case study in next sections) to large scale grid-connected projects with food production for regional, national and global markets (e.g., 1GWpeak on 107 m^2 Goji-Berry Agrivoltaic System near to Gobi desert in China (Bellini, 2020))
 In Agrivoltaics systems featuring plants that do not require big machinery for cultivation and are of rather low height(e.g., berries, wine), the clearance height of the mounting structure can be reduced. As a result, lower material demand leads to overall lower construction costs and lower levelized cost of electricity (Fraunhofer ISE, 2020).
 In these special cultivation practices, protection from sunburn, hail, and strong winds and the integration with existing protection and cultivation structures (e.g., hop, wine) plead for agrivoltaic cropping systems.
 Performance

@@ -57,7 +57,7 @@ This figure shows the growth of food production between 1961 and 1999 (with 1961
 
 Mueller et al., 2012
 
-The yield gap refers to the difference between two levels of yield. On this slide, these two levels are the observed yields and the attainable yields (the best yield achieved through skilful use of the best available technology) for maize, wheat and rice. The yield gaps are presented as a percentage of the attainable yield. (Mueller et al., 2012; FAO, 2015).
+The yield gap refers to the difference between two levels of yield. On this section, these two levels are the observed yields and the attainable yields (the best yield achieved through skilful use of the best available technology) for maize, wheat and rice. The yield gaps are presented as a percentage of the attainable yield. (Mueller et al., 2012; FAO, 2015).
 
 This figure shows the yield gap for major cereals at a global scale. In parts of Africa, achieved yields are a mere 10% of the attainable yield. The values for USA, Canada, Western Europe and some parts of China and India are typically >80%. The situation in Central Europe, Latin America and Central Asia is mixed and varies widely. 
 
@@ -104,7 +104,7 @@ Income is important for smallholders’ access to food, manufactured goods and s
 
 Oxfam Australia, 2012
 
-This slide emphasises the problem of food waste. Next to large scale crop failure and destruction of harvest on the field contributing to the yield gap, post-harvest losses are often very significant! It is estimated that worldwide approximately 1/3 of global food production is wasted. In developing countries this is often due to a lack of storage, transport and refrigeration. In industrial countries it is often because retailers and consumers are actually throwing away food.
+This section emphasises the problem of food waste. Next to large scale crop failure and destruction of harvest on the field contributing to the yield gap, post-harvest losses are often very significant! It is estimated that worldwide approximately 1/3 of global food production is wasted. In developing countries this is often due to a lack of storage, transport and refrigeration. In industrial countries it is often because retailers and consumers are actually throwing away food.
 
 
 ### **4.2.9 Global impacts: COVID-19 outbreak**
