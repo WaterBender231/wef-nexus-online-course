@@ -5,11 +5,11 @@ permalink: /governance/
 has_children: true
 nav_order: 7
 ---
-# **7. Governance**
+# **6. Governance**
 
 ![Banner](/water-dimensions.png)
 
-## Learning Unit 07
+## Learning Unit 06
 ### Governance and  Case Studies
-#### Authors
+#### Justyna Sycz
 <br/> <br/>

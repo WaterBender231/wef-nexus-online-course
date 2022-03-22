@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 5.5 Questions
+title: 4.5 Questions
 permalink: /foodsecurity/questions
 parent: Food Security
 ---
-# 5.5 Exercise Questions for Case Studies:
+# 4.5 Exercise Questions for Case Studies:
 
 List the most pressing challenges related to food availability, accessibility, affordability and stability:
 
