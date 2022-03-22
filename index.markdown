@@ -54,6 +54,6 @@ to the WEF-Nexus online course. Our website is under construction. You can find 
 <li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/silvia-marie-krautzik-61202a132/"><img src="/wef-nexus-online-course/assets/sk_profile.jpg" width="32" height="32" alt="pmarsceill"></a></li>
 <li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/thao-trinh-53a650188/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGCcWZbKwDjjA/profile-displayphoto-shrink_400_400/0/1647439778091?e=1652918400&v=beta&t=T-oNmO6xJS9XkuKeHodhj85F8uPWSuedFeVMI8oP460" width="32" height="32" alt="pmarsceill"></a>
 </li>
-<li class="d-inline-block mr-1"> <a href="https://www.daad.de/de/"><img src="https://www.daad.de/daad_logo.svg" width="32" height="32" alt="pmarsceill"></a></li>
+<li class="d-inline-block mr-1"> <a href="https://www.daad.de/de/"><img src="/wef-nexus-online-course/assets/DAADLogo.PNG" width="32" height="32" alt="pmarsceill"></a></li>
 <li class="d-inline-block mr-1"> <a href="http://www.jf-gestaltung.de/"><img src="/wef-nexus-online-course/assets/default_contributor.png" width="32" height="32" alt="pmarsceill"></a></li>
 </ul>
