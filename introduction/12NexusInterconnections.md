@@ -14,6 +14,7 @@ In this context, we need to be aware that Agriculture accounts for 70% of total 
 
 <center><img src="/wef-nexus-online-course/assets/water-for-energy.png"
      alt="W-E" width="400" height="400"></center>
+
 Source: Alexandra Nauditt, Antonia Fedlmeier {: .fs-1 }
 
 
@@ -33,6 +34,8 @@ On the other hand, energy is required for water abstraction, pumping for irrigat
 <img src="/wef-nexus-online-course/assets/energy-for-food.png"
      alt="W-E">
 
+Source: Alexandra Nauditt, Antonia Fedlmeier {: .fs-1 }
+
 This figure introduces you to some examples for interconnections between food production (including land) and energy.
 
 ### **The key questions addressed are:**
@@ -50,6 +53,8 @@ The energy sector can also have negative impacts on the food sector when mining 
 
 <img src="/wef-nexus-online-course/assets/water-for-food.png"
      alt="W-E">
+     
+Source: Alexandra Nauditt, Antonia Fedlmeier {: .fs-1 }
 
 And finally, here you find examples for interconnections between water and food.
 

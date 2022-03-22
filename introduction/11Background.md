@@ -30,6 +30,7 @@ The world population is likely to increase to over 8 billion by 2030 and 9.5 or 
 - Water, Energy, and Food Security are key pillars of development!</h2>
 
 ![SDG-Goals](/wef-nexus-online-course/assets/SDG_Goals.png)
+
 Source: UN, 2015 [SDG Goals](https://sdgs.un.org/goals) {: .fs-1 }
 
 
@@ -52,6 +53,7 @@ Therefore, the Sustainable Development Goals (SDGs) address the areas of action 
 - Sector specific goals may interfere with interests of other sectors</h2>
 
 ![US Department](/wef-nexus-online-course/assets/USDepartmentEnergy.png)
+
 Source: U.S. Department of Energy, 2006 {: .fs-1 }
 
 
@@ -68,6 +70,7 @@ Source: U.S. Department of Energy, 2006 {: .fs-1 }
 <hr/>
 
 ![LaB2010](/wef-nexus-online-course/assets/LaB2010.png)
+
 Source: LaB, 2010 {: .fs-1 }
 
 
@@ -97,6 +100,7 @@ These trade-offs are the reason why a Nexus approach is needed: in order to syst
 ## 2.1 The Bonn 2011 Nexus Conference: The Water, Energy and Food Security Nexus
 
 ![Hoff 2011](/wef-nexus-online-course/assets/hoff_2011.png)
+
 Source: Hoff, 2011 {: .fs-1 }
 
 The WEF Nexus for the first time was raised at the World Economic Forum Annual Meeting in 2008, where representatives of the Water, Energy and Food sectors wanted to increase awareness that these are strongly linked, and that actions in one sector often have impacts on one or both of the others (WEF, 2009).
@@ -110,6 +114,7 @@ This “first” Nexus concept (Hoff, 2011) looked at the security of water supp
 ## 2.2 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU
 
 ![Ecosystem Perspective, GIZ/EU 2016](/wef-nexus-online-course/assets/EWEF_GIZ.png)
+
 Source: GIZ/EU 2016 {: .fs-1 }
 
 Since 2011, numerous concepts have been developed, each focusing on different aspects. The one developed to guide the “Nexus Dialogue Program” (GIZ, 2016), suggests a more integrated way of looking at the Nexus with the ecosystem located in the center. The three resources are equally allocated to it. The three ‘supply securities’ of water, energy and food depend on ecosystems and they interact with each other. The resources land, water and energy are part of this ecosystem and must be used and protected in a balanced manner.

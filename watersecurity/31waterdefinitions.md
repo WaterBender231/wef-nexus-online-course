@@ -11,8 +11,7 @@ parent: Water Security
 ’’The capacity of a population to safeguard sustainable access to adequate quantities of and acceptable quality water for sustaining livelihoods, human well-being, and socio-economic development, for ensuring protection against water-borne pollution and water-related disasters, and for preserving ecosystems in a climate of peace and political stability’’ (UN Water, 2013).
 
 <img src="https://www.unwater.org/app/uploads/2017/05/Screen-Shot-2017-05-08-at-10.02.09.png" alt="UN: What is Water Security? Infographic">
-
-##### Figure 1: What is Water Security? Infographic (UN, 2013). #####
+Source: What is Water Security? Infographic (UN, 2013). {: .fs-1 }
 <br/> <br/>
 
 UN Water (2013) suggested a „Water Security“ concept addressing key aspects of water related challenges. Their infographic shows key aspects of water security: 
