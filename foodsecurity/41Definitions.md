@@ -4,7 +4,7 @@ title: 4.1 Definitions and Concepts
 permalink: /foodsecurity/definitions
 parent: Food Security
 ---
-# **4.1 Food Security definitions and concepts (State of the Art)** .bg-green-000
+# **4.1 Food Security definitions and concepts (State of the Art)** 
 
 ### **4.1.1 What does “Food Security” mean?**
 
