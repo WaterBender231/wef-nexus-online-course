@@ -59,15 +59,12 @@ Following is a list of the indicators (in Bold font) and sub-indicators under th
 
 <details><summary><b>Indicators for affordability:</b></summary>
 <p>
-
-<ul><li>Food Consumption as a share of household expenditure
-<li>Proportion of population under global poverty line
-<li>GDP per capita at purchasing power parity (PPP)
-<li>Agricultural Import tariffs
-<li>Presence of food safety-net programmes (qualitative)
-<li>Access to financing for farmers (qualitative)</li>
-</ul> 
-
+Food Consumption as a share of household expenditure
+Proportion of population under global poverty line
+GDP per capita at purchasing power parity (PPP)
+Agricultural Import tariffs
+Presence of food safety-net programmes (qualitative)
+Access to financing for farmers (qualitative)
 </p>
 </details>
 
