@@ -58,17 +58,15 @@ Following is a list of the indicators (in Bold font) and sub-indicators under th
 
 <details><summary><b>Indicators for affordability:</b></summary>
 <p>
+
 <ul><li>Food Consumption as a share of household expenditure
 <li>Proportion of population under global poverty line
 <li>GDP per capita at purchasing power parity (PPP)
 <li>Agricultural Import tariffs
 <li>Presence of food safety-net programmes (qualitative)
 <li>Access to financing for farmers (qualitative)
-</li></ul>
-
-</p>
+</li></ul> </p>
 </details>
-
 
 <details><summary><b>Indicators for availability:</b></summary>
 <p><ul><li>1. Sufficiency of supply
@@ -85,9 +83,9 @@ Following is a list of the indicators (in Bold font) and sub-indicators under th
 <li>7. Urban absorption capacity
 <li>8. Food loss
 </li></ul>
-
 </p>
 </details>
+
 
 
 <details><summary><b>Indicators for quality and safety:</b></summary>

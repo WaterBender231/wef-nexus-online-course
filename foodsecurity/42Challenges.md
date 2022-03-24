@@ -140,7 +140,6 @@ In sum, the COVID‑19 outbreak will push global rates of hunger and food insecu
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/frameworks){: .btn .btn-purple .mr-4}
 
 
-</hr>
 
 
 ### *References*
