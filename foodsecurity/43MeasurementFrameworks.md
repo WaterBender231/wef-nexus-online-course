@@ -26,16 +26,18 @@ Different approaches have been developed to assess food security. These depend o
 ### **4.3.2 Food Security Index, FAO (2006)**
 
 ![Untitled](5%203%20Food%20S%20c495b/Untitled.png)
+<p><small>FAO (2006).</small></p>
+<p><small>  </small></p>
 
 FAO (2006) used the most common four dimensions: availability, accessibility, utilization, and stability. Definitions of the four dimensions can be found in FAO, 2006 and 2008 and recent publications Gil et al., 2019; El Bilali et al., 2019, Peng and Berry, 2019, Anderson, 2019:
 
-Food availability focuses on the supply side and expresses the availability of sufficient food quantities-produced domestically and imported. Food availability measures do show the household’s food security. 
+1. **Food availability** focuses on the supply side and expresses the availability of sufficient food quantities-produced domestically and imported. Food availability measures do show the household’s food security. 
 
-Accessibility reflects not only the ability to transport food to consumers (physical access) but also the latter’s purchasing power (economic access) to buy sufficient, nutritious, and preferred (sociocultural access) food. 
+2. **Accessibility** reflects not only the ability to transport food to consumers (physical access) but also the latter’s purchasing power (economic access) to buy sufficient, nutritious, and preferred (sociocultural access) food. 
 
-Food utilization expands food security dimensions to cover non-food inputs. It addresses the adequacy of an individual’s quantity and quality dietary intake to reach a state of nutritional well-being. 
+3. **Food utilization** expands food security dimensions to cover non-food inputs. It addresses the adequacy of an individual’s quantity and quality dietary intake to reach a state of nutritional well-being. 
 
-Stability—deals with the ability of a population, household or nation to cope with both the man-made (e.g. political instability, economic crises, rising prices, and wars) and the climatic (e.g. adverse weather conditions) shocks that could impact the food security status. In other words, stability is correlated to the availability, access and utilization dimensions.
+4. **Stability** deals with the ability of a population, household or nation to cope with both the man-made (e.g. political instability, economic crises, rising prices, and wars) and the climatic (e.g. adverse weather conditions) shocks that could impact the food security status. In other words, stability is correlated to the availability, access and utilization dimensions.
 
 While the availability dimension often refers to the national level, accessibility and utilization involve the household and individuals’ levels, respectively. The stability is considered to be the time dimension that involves all levels (Peng and Berry, 2019). Fundamentally, the four dimensions must be achieved simultaneously for maintain full food security. According to Gil et al., (2019), the four dimensions reflect different –but connected– food security aspects that should be aligned with the Sustainable Development Goal (SDG-2: End Hunger) targets. 
 
@@ -45,22 +47,29 @@ Shortly after establishing the SDGs in 2015, literature argued that food securit
 ### **4.3.3 Global Food Security Index (GFSI)**
 
 ![Untitled](5%203%20Food%20S%20c495b/Untitled%201.png)
+<p><small>Economist Intelligence Unit, 2012.</small></p>
+<p><small>  </small></p>
 
-Economist Intelligence Unit, 2012
-
-The Global Food Security Index (GFSI) was developed by The Economist Intelligence Unit (2012) and is a composite index that observes the trends in food security status at the country scale. The index ranks around 113 countries’ performance towards achieving food security. GFSI addresses three dimensions affordability, availability and quality and safety, using different weights: i.e. affordability 40%, availability, 44%, and quality and safety 16%.
+The **Global Food Security Index (GFSI)** was developed by The Economist Intelligence Unit (2012) and is a composite index that observes the trends in food security status at the country scale. The index ranks around 113 countries’ performance towards achieving food security. GFSI addresses three dimensions affordability, availability and quality and safety, using different weights: i.e. affordability 40%, availability, 44%, and quality and safety 16%.
 
 According to Pangaribowo et al. (2013), the affordability and quality and safety dimensions of the GFSI are similar to the accessibility and utilization dimensions defined by FAO. They use 33 indicators and sub-indicators, addressing the three dimensions (6, 13, and 14 indicators for the affordability, availability, and quality and safety, respectively). The index incorporates quantitative (19) and qualitative (9) indicators.
 
 Following is a list of the indicators (in Bold font) and sub-indicators under their corresponding dimensions as defined by Thomas et al. (2017):
-Indicators for affordability:
 
-- Food Consumption as a share of household expenditure
-- Proportion of population under global poverty line
-- GDP per capita at purchasing power parity (PPP)
-- Agricultural Import tariffs
-- Presence of food safety-net programmes (qualitative)
-- Access to financing for farmers (qualitative)
+<details><summary><b>Indicators for affordability:</b></summary>
+<p>
+<ul><li>Food Consumption as a share of household expenditure
+<li>Proportion of population under global poverty line
+<li>GDP per capita at purchasing power parity (PPP)
+<li>Agricultural Import tariffs
+<li>Presence of food safety-net programmes (qualitative)
+<li>Access to financing for farmers (qualitative)
+</li></ul>
+
+</p>
+</details>
+
+
 
 **Indicators for availability:**
 Sufficiency of supply

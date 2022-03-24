@@ -139,6 +139,10 @@ In sum, the COVID‑19 outbreak will push global rates of hunger and food insecu
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/frameworks){: .btn .btn-purple .mr-4}
 
+
+</hr>
+
+
 ### *References*
 ***4.2.6 Contribution of family and smallholder farming to National and Global Food Security***
 - *FAO (2014), ‘Family Farmers: Feeding the world, caring for the earth’, Available from: [http://www.fao.org/docrep/019/mj760e/mj760e.pdf](http://www.fao.org/docrep/019/mj760e/mj760e.pdf)*
