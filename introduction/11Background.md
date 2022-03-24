@@ -144,9 +144,9 @@ By addressing trade-offs with other sectors and emphasizing the identification o
 <hr/>
 
 ### *References*
-***1.1 Background: Challenges for achieving WEF-Security***{: .fs-3 } 
-- *UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/){: .fs-3 } 
-United Nations Department of Economic and Social Affairs (UNDESA) (2014) International Decade for Action WATER FOR LIFE 2005-
+***1.1 Background: Challenges for achieving WEF-Security***
+- *UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/) 
+- United Nations Department of Economic and Social Affairs (UNDESA) (2014) International Decade for Action WATER FOR LIFE 2005-
 2015 [http://www.un.org/waterforlifedecade/water_and_energy.shtml](http://www.un.org/waterforlifedecade/water_and_energy.shtml)* {: .fs-3 }
 
 - *Alexandratos N, Bruinsma J. 2012. World agriculture towards 2030/2050 (Available from
