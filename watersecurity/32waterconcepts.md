@@ -159,7 +159,7 @@ Below the selected indicators for each dimension are presented. The scale of dat
 </details>
 
 
-<details><summary><b>Accesibility (country scale):</b></summary>
+<details><summary><b>Accessibility (country scale):</b></summary>
 <p>
 
 - access to sanitation – source: Hsu et al. (2014) <br>
@@ -181,7 +181,7 @@ Below the selected indicators for each dimension are presented. The scale of dat
 </details>
 
 
-<details><summary><b>Management(country and river basin scale):</b></summary>
+<details><summary><b>Management (country and river basin scale):</b></summary>
 <p>
 
 - World governance index – source: Kaufmann et al., (2010) <br>
