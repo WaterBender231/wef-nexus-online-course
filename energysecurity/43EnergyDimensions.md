@@ -10,19 +10,23 @@ APERC (2007): The 4 A´s
 
 ![Untitled](4%203%20Differ%2018aa2/Untitled.png)
 
-APERC 2007
+<p><small>APERC 2007</small></p>
+<p><small>  </small></p>
 
 The Asia Pacific Energy Research Centre (APERC) in 2007 introduced four dimensions (or 4 As) to assess
 energy security, focusing mainly on the energy supply security of national energy systems based on fossil fuels.
+
 They can be described as follows:
-• Availability: It refers to the physical availability of primary energy sources including fossil fuels, radioactive
-matter, hydropower, biomass, wind and solar energy. The availability is high when the physical available
-primary energy is sufficient to meet demand.
+
+• Availability: It refers to the physical availability of primary energy sources including fossil fuels, radioactive matter, hydropower, biomass, wind and solar energy. The availability is high when the physical available primary energy is sufficient to meet demand.
+
 • Accessibility: Barriers to accessing energy resources like geopolitical factors, infrastructure, transport cost
 & distance, human resource capacity, financial subsidization, lack of commitment and limited access to
 advanced technology.
+
 • Affordability: With Affordability APERC (2007) refer to the capital cost of the infrastructure of different
 energy technologies. Further, fuel prices are mentioned, but not focused on.
+
 • Acceptability: According to APERC (2007), acceptability narrowly refers to the public perception of energy
 technologies regarding their contribution to climate change and their risk to cause environmental and
 nuclear hazards. In this sense, environmental policies to increase the environmental acceptability of the
@@ -51,28 +55,34 @@ What is missing:
 The four A’s got widely cited, advanced, criticized and adapted to build a more holistic and multi-dimensional
 understanding of energy security. Main shortcomings/critics are the focus on a conventional, centralized energy
 system based on finite fossil fuels like natural gas, oil and coal as well as nuclear fuels (uranium) while
-underestimating the potential of renewable energy for contributing to energy security. Furthermore, while
-environmental sustainability is stated as important objective in the introduction, it is not profoundly considered
-in the definition of the energy security dimensions. Additionally, social equity is not addressed in the definition
-of the dimensions.
+underestimating the potential of renewable energy for contributing to energy security. 
+
+Furthermore, while environmental sustainability is stated as important objective in the introduction, it is not profoundly considered in the definition of the energy security dimensions. Additionally, social equity is not addressed in the definition of the dimensions.
+
 Although the definition of the “4 As” by APERC (2007) has shortcomings, the unaddressed factors can be
 integrated within the “4 As”. The critics and advancements can be connected to the single dimensions as
 follows:
+
 • Availability: Decentralized renewable energy like solar, wind, hydropower, geothermal, tidal, and biogas
 and their potential for improving energy security energy security by e.g. decreasing import dependency,
 increasing primary energy supply diversity and lowering the negative impact on the environment shall be
 considered. In total the importance of a sustainable energy supply for long-term energy security is missing
 (Shah et al. 2019)
+
 • Accessibility: Economic factors within accessibility dimension interfere with capital cost infrastructure in
 affordability dimension (Hughes & Shupe, 2010).
+
 • Affordability: The affordability can have significant social and economic impacts (Hughes, 2012; Kruyt et al., 2009; Sovacool, 2011). Referring to social equity, Cherp and Jewell (2014) pose the
 question “affordable for whom?”
+
 • Acceptability: Sovacool (2011) and Hughes and Shupe add the themes of justice and
 equity, referring, for example, to the unjust displacements of indigenous people due to large
 energy projects.
+
 The meaning of energy security is highly dependent on the national, regional or local context,
 e.g., physical conditions and barriers, level of economic development, perceptions of risks, as
 well as the robustness of its energy system and current geopolitical issues (Ang et al., 2015).
+
 Furthermore, definitions and evaluations of energy security depend on the temporal and spatial
 scales (Pasqualetti & Sovacool, 2012) in focus.
 ––––––––––––––––
@@ -96,7 +106,9 @@ Energy Policy, 39(11), 7472–7479. [https://doi.org/10.1016/j.enpol.2010.10.008
 
 ![Untitled](4%203%20Differ%2018aa2/Untitled%201.png)
 
-Cherp & Jewell 2014
+<p><small>Cherp & Jewell 2014</small></p>
+<p><small>  </small></p>
+
 
 In another approach, Cherp and Jewell (2014) go “beyond the four A’s” and define energy security as “low
 vulnerability of vital energy systems” (compare Figure). According to them, “vital energy systems are energy
@@ -113,7 +125,9 @@ Cherp, A., & Jewell, J. (2014). The concept of energy security: Beyond the four 
 
 ![Untitled](4%203%20Differ%2018aa2/Untitled%202.png)
 
-World Energy Council 2020
+<p><small>World Energy Council 2020</small></p>
+<p><small>  </small></p>
+
 
 The World Energy Council (2020) provides an alternative approach to evaluate and assess energy security.
 They state energy security, energy equity and environmental sustainability as the three dimensions of the
@@ -132,11 +146,14 @@ World Energy Council (2020): World Energy Trilemma Index. With assistance of Oli
 
 ![Untitled](4%203%20Differ%2018aa2/Untitled%203.png)
 
-World Energy Council 2020
+<p><small>World Energy Council 2020</small></p>
+<p><small>  </small></p>
+
 
 The dimensions of the Energy Trilemma Index, the subdimensions, as well as the used indicators including
 their weighting can be seen in the figure above and the corresponding report of the World Energy Council
 (2020). Energy security is subdivided into security of supply and demand, and resilience of energy systems.
+
 Energy Equity consists out of the subdimensions energy access, quality of energy access, and energy
 affordability. Resource productivity, decarbonization, and emission and pollution form the dimension
 environmental sustainability. The country context is assed by indicators evaluating the macroeconomic
@@ -151,14 +168,17 @@ World Energy Council (2020): World Energy Trilemma Index. With assistance of Oli
 
 ![Untitled](4%203%20Differ%2018aa2/Untitled%204.png)
 
-World Economic Forum, 2016
+<p><small>World Economic Forum, 2016</small></p>
+<p><small>  </small></p>
 
 The World Economic Forum applied the Energy Access and Security Index to countries worldwide.
 They used the major dimensions:
+
 • Self-sufficiency (diversification of import counterparts and energy imports)
 • Diversity of supply (diversity of total primary energy supply)
 • Level and quality of access (electrification rate, quality of electricity supply and population using solid fuels
 for cooking)
+
 The high performing countries are located in Northern America, Western Europe, Australia and few countries in
 Asia. The worst performing countries are typically located in Sub-Saharan Africa. In the MENA and LAC
 regions, most countries are medium or poor performers, with Colombia, Chile, Uruguay and a several Gulf
