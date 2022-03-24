@@ -75,6 +75,7 @@ However, Rothausen & Conway (2011) stress that links between the water and energ
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/introduction/selfassessment){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
+<hr/>
 
 ### *References*
 

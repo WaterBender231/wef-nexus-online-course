@@ -76,6 +76,8 @@ Most WS frameworks incorporate basic elements of water resources, environment, e
 <br/> <br/>
 <br/> <br/>
 
+<hr/>
+
 ### *References*
 
 ***2.1 What does “Water Security” mean?***

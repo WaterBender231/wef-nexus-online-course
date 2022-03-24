@@ -75,6 +75,8 @@ In 2014, approximately 70% of the global water withdrawal was used for irrigatio
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/introduction/beyondbasics){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
+<hr/>
+
 ### *References*
 
 ***1.2 Nexus-Interconnections: The WEF sectors are closely related***

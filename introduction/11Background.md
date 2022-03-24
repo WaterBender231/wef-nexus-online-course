@@ -142,8 +142,9 @@ By addressing trade-offs with other sectors and emphasizing the identification o
 <br/> <br/>
 <br/> <br/>
 
-### *References*
+<hr/>
 
+### *References*
 ***1.1 Background: Challenges for achieving WEF-Security***
 - *UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/)
 United Nations Department of Economic and Social Affairs (UNDESA) (2014) International Decade for Action WATER FOR LIFE 2005-
