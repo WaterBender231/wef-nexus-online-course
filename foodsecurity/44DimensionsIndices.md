@@ -28,24 +28,21 @@ Following we list the **26 indicators** under their corresponding dimensions as 
 <li>Average protein supply
 <li>Average supply of protein of animal origin
 </li></ul>
-
 </p>
 </details>
 
+
 <details><summary><b>Indicators for affordability:</b></summary>
-<p>
 <ul><li>Rail lines density
 <li>Gross domestic product per capita (in purchasing power equivalent)
 <li>Prevalence of undernourishment
 <li>Prevalence of severe food insecurity in the total population
 <li>Prevalence of moderate or severe food insecurity in the total population
 </li></ul>
-
-</p>
 </details>
 
+
 <details><summary><b>Indicators for stability:</b></summary>
-<p>
 <ul><li>Cereal import dependency ratio
 <li>Percentage of arable land equipped for irrigation
 <li>Value of food imports over total merchandise exports
@@ -53,7 +50,6 @@ Following we list the **26 indicators** under their corresponding dimensions as 
 <li>Per capita food production variability
 <li>Per capita food supply variability
 </li></ul>
-</p>
 </details>
 
 
