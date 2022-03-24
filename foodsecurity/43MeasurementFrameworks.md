@@ -70,9 +70,9 @@ Following is a list of the indicators (in Bold font) and sub-indicators under th
 </details>
 
 
-
-<summary><b>Indicators for availability:</b></summary>
-<p><ul><li>1. Sufficiency of supply
+<details><summary><b>Indicators for availability:</b></summary>
+<p>
+<ul><li>1. Sufficiency of supply
 <li>1.1. Average food supply
 <li>1.2. Dependence on chronic food aid (qualitative)
 <li>2. Public expenditure on agricultural research & development
@@ -87,6 +87,39 @@ Following is a list of the indicators (in Bold font) and sub-indicators under th
 <li>8. Food loss
 </li></ul>
 </p>
+</details>
+
+<details><summary><b>Target 7.2</b></summary>
+<p>
+
+“… increase substantially the share of renewable energy in the global energy mix…”
+
+</p>
+</details>
+
+<details><summary><b>Target 7.3</b></summary>
+<p>
+
+“… by 2030 double the global rate of improvement in energy efficiency”
+
+</p>
+</details>
+
+<details><summary><b>Target 7.A</b></summary>
+<p>
+
+ “… enhance international cooperation to facilitate access to clean energy research and technology…”
+
+</p>
+</details>
+
+<details><summary><b>Target 7.B</b></summary>
+<p>
+
+“… expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries…”
+
+</p>
+</details>
 
 
 
