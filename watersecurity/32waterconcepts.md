@@ -9,7 +9,8 @@ parent: Water Security
 ## Global threats to human water security and river biodiversity
 
 ![Human water security](/wef-nexus-online-course/assets/voeroesmarty.png)
-##### Figure 1: Global threats to human water security and river biodiversity (Vörösmarty et al. 2010). #####
+<p><small>Global threats to human water security and river biodiversity (Vörösmarty et al. 2010).</small></p>
+<p><small>  </small></p>
 
 Vörösmarty et al. (2010) assessed human water security (HWS) and threats to biodiversity (BD). Drivers are the geographical representation of distinct stressors, and were selected to meet two requirements. First, drivers for which global-scale data sets of appropriate spatial resolution were either already available or could be generated in a defensible way from existing data were selected. And second, drivers whose chief mechanism of negatively impacting freshwaters was largely independent of the other drivers. A three-step procedure was used to convert driver values into standardized driver scores in order to calculate aggregate HWS and BD Threat indices. This conversion process allowed to account for downstream propagation of threats, normalize for longitudinal changes in discharge, and express all drivers on a common scale. 
 
