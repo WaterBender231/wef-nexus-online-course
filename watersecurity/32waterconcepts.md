@@ -113,7 +113,7 @@ There is not a uniform rule on how to weight indicators in a aggregated index. T
 <details><summary>Bonus Question</summary>
 <p>
 
-*Reflection: Do you think these weights are appropriate for your country/region? Why?*
+Do you think these weights are appropriate for your country/region? Why?
 
 </p>
 </details>
