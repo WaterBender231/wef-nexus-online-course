@@ -48,13 +48,12 @@ Vörösmarty et al. (2010) assessed human water security (HWS) and threats to bi
 </details>
 
 
-<br/> <br/>
-
 ### National Water Security Framework
-<br/> <br/> 
+<p><small>  </small></p>
 
 ![ADB Outlook](/wef-nexus-online-course/assets/asiandevelopmentbank.png)
-##### Figure 2: Asian Water Development Outlook (Asian Development Bank 2013) #####
+<p><small>Asian Water Development Outlook (Asian Development Bank 2013).</small></p>
+<p><small>  </small></p>
 
 The ADB (2013) applied a framework looking at five dimensions to assess national water security. The methodology has been applied for all Asian countries and here the main dimensions and indicators are presented. The scale used for national water security goes from 1 to 5 using the following qualitative interpretation: 1 = hazardous, 2 = engaged, 3 = capable, 4 = effective, 5 = model
 
@@ -117,7 +116,6 @@ Indicators: (i) access to piped water supply (%), (ii) access to improved sanita
 </p>
 </details>
 
-<br/> <br/>
 
 ### **Review on Water Security approaches for rural, remote or otherwise marginalized (RRM) communities** 
 
@@ -222,6 +220,3 @@ Do you think these weights are appropriate for your country/region? Why?
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions){: .btn .btn-purple .mr-4}
 
-
-<br/> <br/>
-<br/> <br/>
