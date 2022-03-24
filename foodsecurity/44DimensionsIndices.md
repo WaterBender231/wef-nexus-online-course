@@ -32,7 +32,7 @@ Following we list the **26 indicators** under their corresponding dimensions as 
 </p>
 </details>
 
-<details><summary><b>Indicators for accessibility:</b></summary>
+<details><summary><b>Indicators for affordability:</b></summary>
 <p>
 <ul><li>Rail lines density
 <li>Gross domestic product per capita (in purchasing power equivalent)
@@ -53,9 +53,9 @@ Following we list the **26 indicators** under their corresponding dimensions as 
 <li>Per capita food production variability
 <li>Per capita food supply variability
 </li></ul>
-
 </p>
 </details>
+
 
 ### **4.4.2 Food availability indices –how can I measure food availability?**
 
@@ -199,9 +199,7 @@ There are 14 different indicators that measure the progress towards sub-targets 
 
 
 <details><summary><b>Target 2.2: </b></summary>
-<p>
-
-“By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons”. Three indicators are employed to measure progress towards SDG 2.2:
+<p>“By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons”. Three indicators are employed to measure progress towards SDG 2.2:
  
  <details><summary><b>Indicator 2.2.1</b></summary>
  <p>Prevalence of stunting (where height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age: This indicator takes child growth as a proxy to reflect child nutritional status. The indicator is computed based on the distribution of heights of all children of a certain age. Prevalence of stunting is indicated when the average of differences from the median for each member of the reference population is <- 2. Data for this indicator mainly comes from nationally representative household surveys. UNICEF, WHO and the World Bank group compute the indicator based on data provided by ministries of health, national offices of statistics or national institutes of nutrition. Currently, Indicator 2.2.1 is available for more than 150 countries worldwide.
@@ -215,7 +213,6 @@ There are 14 different indicators that measure the progress towards sub-targets 
  <details><summary><b>Indicator 2.2.3</b></summary>
  <p>Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status as percentageThe indicators shows the percentage of women between 15−49 years with a haemoglobin concentration less than 120 g/L (for nonpregnant women and lactating women) or less than 110 g/L if women are pregnant. Data is mainly collected from population-based surveys. Survey reports are entered into Micronutrients Database of the WHO Vitamin and Mineral Information System (VMNIS). The WHO then compiles the data from the VMNIS and computes the indicator 2.2.3.</p>
  </details>
-
 </p>
 </details>
 
@@ -253,7 +250,6 @@ Indicators used in the database are classified according to the four dimensions 
 <li>Average vegetarian protein supply, (gr/capita/day)
 <li>Average supply of protein of animal origin, (gr/capita/day)
 </li></ul>
-
 </p>
 </details>
 
@@ -278,7 +274,6 @@ The **accessibility** dimension is divided into **economic access**, **physical 
 <li>Share of food expenditure of the poor, (%)
 <li>Depth of the food deficit  (%)
 <li>Prevalence of food inadequacy (%)</li></ul>
-
 </p>
 </details>
 
