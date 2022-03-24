@@ -21,7 +21,10 @@ Energy security is crucial to ensure long and short-term economic development an
 3. **Accessibility**
 4. **Supply**
 
-### Key messages of SDG 7 (abridged)
+<h3 style="color: #ffffff; background-color: #fbb413;">
+    Key messages of SDG 7 (abridged)
+</h3>
+
 *Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all.*
 
 <style type="text/css">
@@ -37,7 +40,7 @@ class="centerImage" alt="SDG 7" height="120" width="350">
 <p><small>SDG 7 (UN, 2020).</small></p>
 <p><small>  </small></p>
 
-<br></br>
+<br>
 
 <details><summary><b>Target 7.1</b></summary>
 <p>
