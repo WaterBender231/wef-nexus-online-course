@@ -144,13 +144,10 @@ By addressing trade-offs with other sectors and emphasizing the identification o
 <hr/>
 
 ### *References*
-
-<p class="fs-3">
- 	
-***1.1 Background: Challenges for achieving WEF-Security***
-- *UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/)
+***1.1 Background: Challenges for achieving WEF-Security***{: .fs-3 } 
+- *UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/){: .fs-3 } 
 United Nations Department of Economic and Social Affairs (UNDESA) (2014) International Decade for Action WATER FOR LIFE 2005-
-2015 [http://www.un.org/waterforlifedecade/water_and_energy.shtml](http://www.un.org/waterforlifedecade/water_and_energy.shtml)*
+2015 [http://www.un.org/waterforlifedecade/water_and_energy.shtml](http://www.un.org/waterforlifedecade/water_and_energy.shtml)* {: .fs-3 }
 
 - *Alexandratos N, Bruinsma J. 2012. World agriculture towards 2030/2050 (Available from
 [http://www.fao.org/docrep/016/ap106e/ap106e.pdf](http://www.fao.org/docrep/016/ap106e/ap106e.pdf)) (Accessed on 01.8.2020)*
@@ -181,4 +178,3 @@ Water [https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB20111036
 
 - *GIZ (2016), ‘Water, Energy & food Nexus in a Nutshell’, Available from: [www.water-energy-food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue](http://food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue/Programme_Phase1_2016-18.pdf)*
 
-</p>
