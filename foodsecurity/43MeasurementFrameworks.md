@@ -57,10 +57,16 @@ According to Pangaribowo et al. (2013), the affordability and quality and safety
 Following is a list of the indicators (in Bold font) and sub-indicators under their corresponding dimensions as defined by Thomas et al. (2017):
 
 
-<details><summary><b>Target 7.2</b></summary>
+<details><summary><b>Indicators for affordability:</b></summary>
 <p>
 
-“… increase substantially the share of renewable energy in the global energy mix…”
+<ul><li>Food Consumption as a share of household expenditure
+<li>Proportion of population under global poverty line
+<li>GDP per capita at purchasing power parity (PPP)
+<li>Agricultural Import tariffs
+<li>Presence of food safety-net programmes (qualitative)
+<li>Access to financing for farmers (qualitative)</li>
+</ul> 
 
 </p>
 </details>
