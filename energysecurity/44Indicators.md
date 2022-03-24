@@ -216,8 +216,8 @@ Unit: The unit is deaths per energy output, commonly expressed in Terra Watt Hou
 
 </hr>
 
-### References
-3.4.1 Energy Security Dimensions and Indices
+<p><b>References </b></p>
+<p><small><i> 3.4.1 Energy Security Dimensions and Indices 
 
 - APERC, 2007. A Quest for Energy Security in the 21st Century: Resources and Constraints. [https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf](https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf)
 
@@ -269,3 +269,5 @@ ofgem (2018): Energy spend as percentage of total household expenditure (UK). Av
 - Ritchie, Hannah; Roser, Max (2018): Access to Energy. [OurWorldinData.org](http://ourworldindata.org/). Available online at [https://ourworldindata.org/energy-access#citation](https://ourworldindata.org/energy-access#citation).
 
 - Sovacool, Benjamin K.; Andersen, R.; Sorensen, Steven; Sorensen, Kenneth; Tienda, Victor; Vainorius, Arturas et al. (2016): Balancing safety with sustainability: assessing the risk of accidents for modern low-carbon energy systems. In Journal of Cleaner Production 112, pp. 3952–3965. DOI: 10.1016/j.jclepro.2015.07.059.
+
+</p></small></i>
