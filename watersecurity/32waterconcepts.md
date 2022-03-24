@@ -9,7 +9,7 @@ parent: Water Security
 ## Global threats to human water security and river biodiversity
 
 ![Human water security](/wef-nexus-online-course/assets/voeroesmarty.png)
-<p><small>Global threats to human water security and river biodiversity (Vörösmarty et al. 2010).</small></p>
+<p><small>(Vörösmarty et al. 2010).</small></p>
 <p><small>  </small></p>
 
 Vörösmarty et al. (2010) assessed human water security (HWS) and threats to biodiversity (BD). Drivers are the geographical representation of distinct stressors, and were selected to meet two requirements. First, drivers for which global-scale data sets of appropriate spatial resolution were either already available or could be generated in a defensible way from existing data were selected. And second, drivers whose chief mechanism of negatively impacting freshwaters was largely independent of the other drivers. A three-step procedure was used to convert driver values into standardized driver scores in order to calculate aggregate HWS and BD Threat indices. This conversion process allowed to account for downstream propagation of threats, normalize for longitudinal changes in discharge, and express all drivers on a common scale. 
@@ -120,7 +120,8 @@ Indicators: (i) access to piped water supply (%), (ii) access to improved sanita
 ### **Review on Water Security approaches for rural, remote or otherwise marginalized (RRM) communities** 
 
 ![Untitled](Untitled%205.png)
-##### Figure 3: Review on Water Security approaches for RRM communities (Dickson et al. 2016) #####
+<p><small>Review on Water Security approaches for RRM communities (Dickson et al. 2016).</small></p>
+<p><small>  </small></p>
 
 Dickson et al. (2016) provided a literature review about water security related to rural, remote, or otherwise marginalized (RRM) communities. They evaluated, prioritized indicators for decision-making at local and supra-local scales. A list of indicators (n=176) was provided as an overview to select appropriate indicators depending on the dimension and on data availability.
 
@@ -128,7 +129,8 @@ Dickson et al. (2016) provided a literature review about water security related 
 ### **Global Water Security Index- Measuring global water security towards sustainable development goals
 
 ![Untitled](Untitled%206.png)
-##### Figure 4: Global water security framework, based on water availability, accessibility, safety and quality and management (Gain et al. 2016). #####
+<p><small>Global water security framework, based on water availability, accessibility, safety and quality and management (Gain et al. 2016).</small></p>
+<p><small>  </small></p>
 
 Gain et al. (2016) developed a water security framework to provide a global understanding of the status of water security, using a spatial multi-criteria analysis (MCA) going beyond available recent water scarcity assessments. In their study, physical dimensions are mainly based outputs from the state of the art global hydrologic model PCR-GLOBWB at a monthly temporal scale that go beyond traditional assessment at yearly scale. The framework integrates physical and socio-economic dimensions of security within a unique index.
 
@@ -139,7 +141,9 @@ According to the authors, a quantitative assessment of water security should be 
 ### **Country examples of the Global Water Security Index**
 
 ![Untitled](Untitled%207.png)
-##### Figure 5: Spider Diagram showing water security for selected countries (Gain et al., 2016) #####
+<p><small>Spider Diagram showing water security for selected countries (Gain et al., 2016).</small></p>
+<p><small>  </small></p>
+
 
 In this figure, examples for different countries can be compared according to the individual indicators (above) and the four defined dimensions (below). 
 Below the selected indicators for each dimension are presented. The scale of data is mainly at a national scale:
@@ -217,6 +221,10 @@ Do you think these weights are appropriate for your country/region? Why?
 ### **Urban Water Security – Example Bangkok Babel et al., 2020**
 
 ![Untitled](3%202%20Differ%20aaf7f/Untitled.png)
+
+<p><small>Urban Water Security (Babel et al., 2020).</small></p>
+<p><small>  </small></p>
+
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions){: .btn .btn-purple .mr-4}
 

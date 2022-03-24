@@ -32,8 +32,14 @@ AQUASTAT provides data at national level for the following indicators:
 
 The WSI, water scarcity index, defined as the ratio of total water withdrawal to the water availability considering environmental flow requirements. Water withdrawal includes both surface water and renewable groundwater use for agriculture (irrigation and livestock), industry and households. For assessing hydrological droughts, the monthly 80-percentile flow, Q80, was used (i.e. the mean monthly stream flow that is exceeded 80% of the time accounting for seasonal streamflow variability).
 
-#### **WSI equation**
-〖𝑊𝑆𝐼〗(insert equation)
+
+<details><summary>WSI equation</summary>
+<p>
+
+𝑊𝑆𝐼〗(insert equation)
+
+</p>
+</details>
 
 Where Ww is the water withdrawal and Aw is the water availability. Ew is the environmental flow requirement.
 Groundwater depletion, defined as the persistent removal of groundwater from aquifer storage owing to abstraction, has been estimated for the benchmark year 2010 at a 0.5° grid. Drought frequency was derived by counting the occurrences of drought events, i.e. when stream flow falls below the threshold Q80, and drought index was calculated by dividing drought frequency by the average frequency over the period 1960–2010.
@@ -42,14 +48,21 @@ ADB (2013) follows a different approach which also related water availability wi
 
 #### Exercise: Which indicators best represent the dimension „Availability “ in your country/region?
 
-### *Data:*
-For more data go to: [http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)
+<details><summary><h2>View Data Sources</h2></summary>
+<p>
 
-Global data set for human water stress can be downloaded here: [http://www.riverthreat.net/data.html](http://www.riverthreat.net/data.html)
+- For more data go to: [http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)
 
-water footprint statistics [https://waterfootprint.org/en/resources/waterstat/](https://waterfootprint.org/en/resources/waterstat/)
+- Global data set for human water stress can be downloaded here: [http://www.riverthreat.net/data.html](http://www.riverthreat.net/data.html)
 
-The worlds water data [https://www.worldwater.org/water-data/](https://www.worldwater.org/water-data/)
+- water footprint statistics [https://waterfootprint.org/en/resources/waterstat/](https://waterfootprint.org/en/resources/waterstat/)
+
+- The worlds water data [https://www.worldwater.org/water-data/](https://www.worldwater.org/water-data/)
+
+
+</p>
+</details>
+
 
 
 ## 2.4 Indices to measure water accessibility

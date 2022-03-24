@@ -11,8 +11,8 @@ parent: Water Security
 ’’The capacity of a population to safeguard sustainable access to adequate quantities of and acceptable quality water for sustaining livelihoods, human well-being, and socio-economic development, for ensuring protection against water-borne pollution and water-related disasters, and for preserving ecosystems in a climate of peace and political stability’’ (UN Water, 2013).
 
 <img src="https://www.unwater.org/app/uploads/2017/05/Screen-Shot-2017-05-08-at-10.02.09.png" alt="UN: What is Water Security? Infographic">
-Source: What is Water Security? Infographic (UN, 2013). {: .fs-1 }
-<br/> <br/>
+<p><small>What is Water Security? Infographic (UN, 2013).</small></p>
+<p><small>   </small></p>
 
 UN Water (2013) suggested a „Water Security“ concept addressing key aspects of water related challenges. Their infographic shows key aspects of water security: 
 - Access to safe and sufficient drinking water at an affordable cost 
@@ -26,7 +26,7 @@ UN Water (2013) suggested a „Water Security“ concept addressing key aspects 
 
 
 ### 2.1.2 Key messages of SDG 6 (abridged)
-**Goal 6: Ensure availability and sustainable management of water and sanitation for all**
+*Goal 6: Ensure availability and sustainable management of water and sanitation for all*
 
 <style type="text/css">
 .centerImage
@@ -38,15 +38,59 @@ UN Water (2013) suggested a „Water Security“ concept addressing key aspects 
 <img src="/wef-nexus-online-course/assets/sdg6.png"
 class="centerImage" alt="SDG 6" height="120" width="350">
 
-##### Figure 2: SDG 6 (UN, 2020). #####
-<br/> <br/>
-- Target 6.1 “… safe and affordable drinking water for all”
-- Target 6.2 “… achieve access to adequate and equitable sanitation …”
-- Target 6.3 “… improve water quality …”
+<p><small>SDG 6 (UN, 2020).</small></p>
 
-- Target 6.4 “… increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity…”
-- Target 6.5 “… implement integrated water resources management…”
-- Target 6.6“… protect and restore water-related ecosystems…”
+<br/> <br/>
+
+<details><summary>Target 6.1</summary>
+<p>
+
+“… safe and affordable drinking water for all”
+
+</p>
+</details>
+
+
+<details><summary>Target 6.2</summary>
+<p>
+
+“… achieve access to adequate and equitable sanitation …”
+</p>
+</details>
+
+
+<details><summary>Target 6.3</summary>
+<p>
+
+“… improve water quality …”
+
+</p>
+</details>
+
+<details><summary>Target 6.4</summary>
+<p>
+
+“… increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity…”
+
+</p>
+</details>
+
+<details><summary>Target 6.5</summary>
+<p>
+
+“… implement integrated water resources management…”
+
+</p>
+</details>
+
+
+<details><summary>Target 6.6</summary>
+<p>
+
+“… protect and restore water-related ecosystems…”
+
+</p>
+</details>
 
 SDG 6 lists the key targets related to water security. This overview highlights  key messages of SDG 6 in an abridged form. SDG 6 addresses crucial aspects of water security, including water security for people, ambient water quality, water use efficiency, the protection of water related ecosystems and integrated water resources management (IWRM). Aside from SDG 6, SDG 11 also addresses some water-related issues, with targets that relate to the protection against natural hazards, including hydro-meteorological hazards such as floods, droughts, and storms.
 
