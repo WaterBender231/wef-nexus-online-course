@@ -36,12 +36,45 @@ class="centerImage" alt="SDG 7" height="120" width="350">
 
 ##### Figure 2: SDG 7 (UN, 2020). #####
 
-- Target 7.1“… ensure universal access to affordable, reliable and modern energy services…”
-- Target 7.2 “… increase substantially the share of renewable energy in the global energy mix…”
+<details><summary><b>Target 7.1</b></summary>
+<p>
 
-- Target 7.3 “… by 2030 double the global rate of improvement in energy efficiency”
-- Target 7.A “… enhance international cooperation to facilitate access to clean energy research and technology…”
-- Target 7.B “… expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries…”
+“… ensure universal access to affordable, reliable and modern energy services…”
+
+</p>
+</details>
+
+<details><summary><b>Target 7.2</b></summary>
+<p>
+
+“… increase substantially the share of renewable energy in the global energy mix…”
+
+</p>
+</details>
+
+<details><summary><b>Target 7.3</b></summary>
+<p>
+
+“… by 2030 double the global rate of improvement in energy efficiency”
+
+</p>
+</details>
+
+<details><summary><b>Target 7.A</b></summary>
+<p>
+
+ “… enhance international cooperation to facilitate access to clean energy research and technology…”
+
+</p>
+</details>
+
+<details><summary><b>Target 7.B</b></summary>
+<p>
+
+“… expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries…”
+
+</p>
+</details>
 
 It is estimated that in 2015 approximately 2.8 billion people had no access to modern energy services. Of these, over 1.1 billion did not have access to electricity. Thus, the key development goal for many regions is to provide access to energy. Current estimates show that air pollution due to unclean energy sources are responsible for the death of 4.3 million people every year. In addition, energy production is the main source of greenhouse gases. 
 
