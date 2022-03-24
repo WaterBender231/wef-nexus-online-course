@@ -71,7 +71,7 @@ Following is a list of the indicators (in Bold font) and sub-indicators under th
 
 
 
-<details><summary><b>Indicators for availability:</b></summary>
+<summary><b>Indicators for availability:</b></summary>
 <p><ul><li>1. Sufficiency of supply
 <li>1.1. Average food supply
 <li>1.2. Dependence on chronic food aid (qualitative)
@@ -87,7 +87,6 @@ Following is a list of the indicators (in Bold font) and sub-indicators under th
 <li>8. Food loss
 </li></ul>
 </p>
-</details>
 
 
 
