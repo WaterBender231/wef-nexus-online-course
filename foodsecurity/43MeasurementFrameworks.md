@@ -70,44 +70,55 @@ Following is a list of the indicators (in Bold font) and sub-indicators under th
 </details>
 
 
+<details><summary><b>Indicators for availability:</b></summary>
+<p><ul><li>1. Sufficiency of supply
+<li>1.1. Average food supply
+<li>1.2. Dependence on chronic food aid (qualitative)
+<li>2. Public expenditure on agricultural research & development
+<li>3. Agriculture infrastructure
+<li>3.1. Existence of adequate crop storage facilities (qualitative)
+<li>3.2. Road infrastructure
+<li>3.3. Port infrastructure
+<li>4. Volatility of agricultural production
+<li>5. Political stability risk
+<li>6. Corruption
+<li>7. Urban absorption capacity
+<li>8. Food loss
+</li></ul>
 
-**Indicators for availability:**
-Sufficiency of supply
-1.1. Average food supply
-1.2. Dependence on chronic food aid (qualitative)
+</p>
+</details>
 
-Public expenditure on agricultural research & development
-Agriculture infrastructure
-3.1. Existence of adequate crop storage facilities (qualitative)
-3.2. Road infrastructure
-3.3. Port infrastructure
 
-Volatility of agricultural production
-Political stability risk
-Corruption
-Urban absorption capacity
-Food loss
+<details><summary><b>Indicators for quality and safety:</b></summary>
+<p>
+<ul><li>1. Diet diversification
+<li>2. Nutritional standards
+<li>2.1. National dietary guidelines (qualitative)
+<li>2.2. National nutrition plan or strategy (qualitative)
+<li>2.3. Nutrition monitoring and surveillance (qualitative)
+<li>3. Micronutrient availability
+<li>3.1. Dietary availability of vitamin A
+<li>3.2. Dietary availability of animal iron
+<li>3.3. Dietary availability of vegetal iron
+<li>Protein quality
+<li>5. Food safety
+<li>5.1. Agency to ensure the safety and health of food (qualitative)
+<li>5.2. Percentage of population with access to potable water
+<li>5.3. Presence of formal grocery sector (qualitative)
 
-Indicators for quality and safety:
-Diet diversification
-Nutritional standards
-2.1. National dietary guidelines (qualitative)
-2.2. National nutrition plan or strategy (qualitative)
-2.3. Nutrition monitoring and surveillance (qualitative)
-Micronutrient availability
-3.1. Dietary availability of vitamin A
-3.2. Dietary availability of animal iron
-3.3. Dietary availability of vegetal iron
-Protein quality
-Food safety
-5.1. Agency to ensure the safety and health of food (qualitative)
-5.2. Percentage of population with access to potable water
-5.3. Presence of formal grocery sector (qualitative)
+</li></ul>
+
+</p>
+</details>
+
 
 
 ### **4.3.4 FAO Prevalence of Undernourishment (PoU)**
 
 ![Untitled](5%203%20Food%20S%20c495b/Untitled%202.png)
+<p><small>Source.</small></p>
+<p><small>  </small></p>
 
 [https://farmpolicynews.illinois.edu/2019/07/fao-report-on-world-hunger-more-than-820-million-people-are-hungry/](https://farmpolicynews.illinois.edu/2019/07/fao-report-on-world-hunger-more-than-820-million-people-are-hungry/)
 
@@ -115,9 +126,14 @@ FAO Indicator the Prevalence of Undernourishment (PoU). Undernourishment is defi
 
 Although PoU was originally developed to monitor hunger as part of established Millennium Development Goals in 2000, it was adopted as an indicator for the SDG indicator 2.1.1 in 2015 (United Nations, 2015). PoU is defined as ”the proportion of the population whose habitual food consumption is insufficient to provide the dietary energy levels that are required to maintain a normal active and healthy life”, i.e. a proxy for food energy consumption (Pangaribowo et al., 2013). This indicator is measured by FAO and is produced annually at the national scale.
 
-Based on the review of Jones et al. (2013), PoU focuses mainly on food availability—with limited coverage to accessibility—by combining three parameters, namely (1) mean quantity of available calories for consumption, (2) the inequality in access to those calories, and (3) the minimum required amount of calories by the population (De Haen et al., 2011; Pangaribowo et al., 2013).
+Based on the review of Jones et al. (2013), PoU focuses mainly on food availability—with limited coverage to accessibility—by combining three parameters, namely 
+1. mean quantity of available calories for consumption, 
+2. the inequality in access to those calories, and 
+3. the minimum required amount of calories by the population (De Haen et al., 2011; Pangaribowo et al., 2013).
 
-Despite that PoU is available for most countries, it has several drawbacks. First, the high dependency and sensitivity of the indicator on the three abovementioned parameters limits the robustness of the indicator (Naiken, 2002; De Haen et al., 2011). Second, the indicator is criticized for its dependence on the calorie availability since the latter is considered to be insufficient variable for predicting nutritional development and mortality (Pangaribowo et al., 2013). 
+Despite that PoU is available for most countries, it has several drawbacks. First, the high dependency and sensitivity of the indicator on the three abovementioned parameters limits the robustness of the indicator (Naiken, 2002; De Haen et al., 2011). 
+
+Second, the indicator is criticized for its dependence on the calorie availability since the latter is considered to be insufficient variable for predicting nutritional development and mortality (Pangaribowo et al., 2013). 
 
 Third, the indicator assumes that the average dietary energy supply is equivalent to the distribution of calorie consumption among the population, ignoring information on food losses and distribution in the food balance sheets (Jones et al., 2013). 
 
