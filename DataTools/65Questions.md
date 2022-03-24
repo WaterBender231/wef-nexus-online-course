@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 6.5 Questions
+title: 5.5 Questions
 permalink: /tools/questions
 parent: Tools and Data
 ---
-# 6.5 Exercise Questions
+# 5.5 Exercise Questions
 
 Please answer with regard to your country or study region:
 

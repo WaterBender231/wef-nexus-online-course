@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 6.4 Policy and Governance Instruments
+title: 5.4 Policy and Governance Instruments
 permalink: /tools/policy-governance
 parent: Tools and Data
 ---
-# 6.4 Policy and Governance Instruments
+# 5.4 Policy and Governance Instruments
 
 **Nexus Governance**
 **We assume that inter-sectorial Nexus governance would lead to optimised resources management and hence improved overall welfare**
@@ -70,9 +70,9 @@ Facilitating coordinated representation of interests from the local to the natio
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/questions){: .btn .btn-purple .mr-4}
-[Continue with "LU 07 Governance" ](https://waterbender231.github.io/wef-nexus-online-course/governance/){: .btn .btn-green }
+[Continue with next unit](https://waterbender231.github.io/wef-nexus-online-course/governance/){: .btn .btn-green }
 
-––––––––––––––––
-References
-GIZ (2017), ‘The Urban Nexus Guide - Module 3: Strengthening Horizontal and Vertical Governance Structures’, [Powerpoint presentation].
+
+### References
+- GIZ (2017), ‘The Urban Nexus Guide - Module 3: Strengthening Horizontal and Vertical Governance Structures’, [Powerpoint presentation].
 
