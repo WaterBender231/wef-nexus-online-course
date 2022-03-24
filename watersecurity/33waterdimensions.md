@@ -157,7 +157,10 @@ Babel et al. (2020) used questionnaires under three indicators: (i) overall mana
 
 <br/> <br/>
 
-### These are major sources for data to evaluate Water Security and calculate respective indicators:
+</hr>
+
+## Data Overview
+### Major data sources to evaluate Water Security and calculate respective indicators
 
 - **Water resources database:** AQUASTAT
 - **World Bank:** Open data
