@@ -9,6 +9,8 @@ parent: Energy Security
 ## Global energy consumption (per capita)
 
 ![Untitled](4%202%20Global%20e75fb/Untitled.png)
+<p><small>Ritchie & Roser (2018).</small></p>
+<p><small>  </small></p>
 
 Ritchie and Roser (2018) illustrated the energy use per person at the national level on the website
 “[OurWorldinData.org](http://ourworldindata.org/)”. In general, the developed and energy-rich countries have the highest consumption per
@@ -20,25 +22,27 @@ Arabia, Iceland and Australia.
 ## Energy consumption: historical and future trends
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%201.png)
-
-Note: 1 million Btu approximately equals to the energy derived from 30 litres of petrol
+<p><small>Note: 1 million Btu approximately equals to the energy derived from 30 litres of petrol.</small></p>
+<p><small>  </small></p>
 
 The previous section displayed the energy consumption per capita in 2018. The two graphs presented here show both the historical increase and projected future increases in energy consumption. The first graph separates the world into OECD and non-OECD countries, highlighting that it is in the non-OECD countries where energy demands are expected to show a sharper increase in the future. The second graph further separates these non-OECD countries according to world region.
+
 Note that these graphs should be considered in conjunction with the map presented on the previous section. The most developed countries still tend to consume significantly more energy per capita than less developed countries.
 
 
 ### Energy consumption: historical and future trends
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%202.png)
+<p><small>EIA, 2017; REN21, 2012</small></p>
+<p><small>Note: 1 million Btu equals approximately the energy derived from 30 litres of petrol.</small></p>
+<p><small>  </small></p>
 
-Note: 1 million Btu equals approximately the energy derived from 30 litres of petrol
-
-EIA, 2017; REN21, 2012
 
 The top graph separates world energy consumption according to source, with historical data from 1990 to 2015
 and predictions from 2015 to 2040 (EIA, 2017). Today approximately 80% of the total energy produced is
 derived from fossil sources. The projection suggests a levelling off of global coal use, and a pronounced
 increase in the use of renewable energies to fulfil the void left in projected global energy demand.
+
 The second graph provides a breakdown of the different renewable energies that made up the global share of
 renewables in 2010 (REN 21, 2012). It is worth noting that the renewable share (16.7% at the time) was almost
 evenly divided into traditional biomass and what is termed “modern renewables”.
@@ -47,11 +51,12 @@ evenly divided into traditional biomass and what is termed “modern renewables�
 **Global Total Final Energy Consumption by Sector (2018)**
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%203.png)
-
-      IEA (2020a)
+<p><small>IEA (2020a)</small></p>
+<p><small>  </small></p>
 
 This figure shows the distribution of global final energy consumption over different demand sectors. In 2018,
 World energy is used predominantly for industry (29%), transport (29%) and residential (21%) purposes.
+
 Commercial, agriculture, forestry, fishing, non-energy and other uses account for 20% altogether (IEA 2020a).
 World energy production was 14.421 Mtoe in 2018. In general, the shares of individual sectors of the total
 global demand are not changing significantly from year to year.
@@ -61,10 +66,13 @@ global demand are not changing significantly from year to year.
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%204.png)
 
- IEA (2020b)
+<p><small>IEA (2020b).</small></p>
+<p><small>  </small></p>
+
 
 Energy supply/consumption also needs to be subdivided by energy type: heating and cooling for thermal
 energy, electricity for electrical energy and mobility for kinetic energy (transport).
+
 The term “electricity security”, refers to the supply security of electricity, so to speak, the energy flows which
 provide electricity to the end-users. The renewable share in global electricity generation was at 26% in 2018
 (IEA 2020b). The most prominent renewable energy is hydropower account for 62 % of renewable global
@@ -73,16 +81,18 @@ renewable electricity production. Further sources are waste, geothermal energy, 
 together 4%).
 
 
-
-
 **From Energy Source to Consumption: Energy Flows**
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%205.png)
 
-LLNC 2019
+<p><small>LLNC (2019).</small></p>
+<p><small>  </small></p>
+
 
 National energy flow Sankey diagrams, illustrate the distribution of energy sources and uses by sector. The energy flow charts by Lawrence Livermore National Laboratory (2020) include solar, nuclear hydroelectric, wind, geothermal, natural gas coal, biomass, and petroleum. Energy is stored and transmitted as chemical energy (e.g. batteries, biomass, petroleum, natural gas, and coal) gravitational energy (e.g. hydropower), thermal energy (heat) and electrical energy (through wires, in capacitors). The section shows the example of the US in 2019 with a relatively high share of petroleum and natural gas as primary energy source. Also the Energy Flows of other countries are shown on the website of Lawrence Livermore National Laboratory (2020).
-“Functions performed using energy which are means to obtain or facilitate desired end services or states” are termed “Energy Services” (Fell 2017). They can be allocated to the sectors residential, commercial, industrial, and transportation and include for example heating, cooling, cooking, lighting, and motive power (ibid.). Rejected energy is the energy lost due to conversion and transmission, mostly in the form of thermal energy (waste heat).
+
+> “Functions performed using energy which are means to obtain or facilitate desired end services or states” 
+are termed “Energy Services” (Fell 2017). They can be allocated to the sectors residential, commercial, industrial, and transportation and include for example heating, cooling, cooking, lighting, and motive power (ibid.). Rejected energy is the energy lost due to conversion and transmission, mostly in the form of thermal energy (waste heat).
 
 
 
@@ -94,7 +104,8 @@ Power generation; does not equal a connective grid; does not equal access to pow
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%207.png)
 
-Rentschler et al., 2019
+<p><small>Rentschler et al., 2019.</small></p>
+<p><small>  </small></p>
 
 The electrification rate is mostly assessed by the amount of households that are connected to the grid. This
 connection in itself however, does not guarantee a reliable service for the end users. Power outages are very
@@ -110,9 +121,12 @@ having no power for up to over 100 hours per month.
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%208.png)
 
-Rentschler et al., 2019
+<p><small>Rentschler et al., 2019.</small></p>
+<p><small>  </small></p>
 
-The study also found that the outages come along with considerable costs for the economy of the considered countries. In total, the estimated losses from sales due to the outages of these firms make up for around $US 82 billion annually (Runtschler et al. 2019), not considering the costs for alternative electricity generation. The map shows where the costs are highest. In addition to these financial losses, the unreliable access to energy proved to be a major barrier for market entry, since backup generators are expensive and mostly not available to small firms. This restricts  entrepreneurship and innovation, as well as external investments (Mensah 2018). Investments in back-up power generators are opportunity costs that hinder further growth. In the case of Africa, increasing the frequency of power outages by one percent is projected to lead to a reduction of the GDP per capita by as much as 2.9 % in the long run (Runtschler et al. 2019). Apart from the cost on firms and enterprises, there are also direct effects of outages on the general population. Frequent outages in Ethiopia and Nigeria have been shown to increase criminality and cause a heightened sense of insecurity among the population. (Amadi 2015; Meles 2020).
+The study also found that the outages come along with considerable costs for the economy of the considered countries. In total, the estimated losses from sales due to the outages of these firms make up for around $US 82 billion annually (Runtschler et al. 2019), not considering the costs for alternative electricity generation. The map shows where the costs are highest. In addition to these financial losses, the unreliable access to energy proved to be a major barrier for market entry, since backup generators are expensive and mostly not available to small firms. This restricts  entrepreneurship and innovation, as well as external investments (Mensah 2018). 
+
+Investments in back-up power generators are opportunity costs that hinder further growth. In the case of Africa, increasing the frequency of power outages by one percent is projected to lead to a reduction of the GDP per capita by as much as 2.9 % in the long run (Runtschler et al. 2019). Apart from the cost on firms and enterprises, there are also direct effects of outages on the general population. Frequent outages in Ethiopia and Nigeria have been shown to increase criminality and cause a heightened sense of insecurity among the population. (Amadi 2015; Meles 2020).
 
 
 **Relationship – power outages vs GDP**
@@ -121,9 +135,12 @@ The relation of outage frequency and the GDP
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%209.png)
 
-Rentschler et al., 2019
+<p><small>Rentschler et al., 2019.</small></p>
+<p><small>  </small></p>
 
-While outages are common even in high-income countries, the frequency decreases with an increasing GDP, due to possible investments from the public sector in infrastructure (Runtschler et al. 2019). In developed countries, power outages usually happen due to external effects, namely natural causes (lightning, ice, trees falling into the power lines, wildlife triggering a short circuit); equipment failures; or public damage (vehicle accidents, unsafe digging or overhead construction and vandalism). (Epcor 2021; Entergy LLC n.d.) While all of these can also happen in developing countries, the main reason here is the unreliable infrastructure, both in generation and distribution and thus the unstable supply of electricity from the grid. Most countries are severely lacking in adequate grid infrastructure due to missing public investments all in building, operating and maintaining a grid. (Fakih et al. 2020)
+While outages are common even in high-income countries, the frequency decreases with an increasing GDP, due to possible investments from the public sector in infrastructure (Runtschler et al. 2019). In developed countries, power outages usually happen due to external effects, namely natural causes (lightning, ice, trees falling into the power lines, wildlife triggering a short circuit); equipment failures; or public damage (vehicle accidents, unsafe digging or overhead construction and vandalism). (Epcor 2021; Entergy LLC n.d.) 
+
+While all of these can also happen in developing countries, the main reason here is the unreliable infrastructure, both in generation and distribution and thus the unstable supply of electricity from the grid. Most countries are severely lacking in adequate grid infrastructure due to missing public investments all in building, operating and maintaining a grid. (Fakih et al. 2020)
 
 
 
@@ -131,26 +148,35 @@ While outages are common even in high-income countries, the frequency decreases 
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%2010.png)
 
-Images by (1) Robert Linder; (2) Patrick Federi and (3) rahul g on Unsplash
 
-To avoid outages, generation must be stable and the distribution system must be maintained properly. Fluctuations both in load and in generation have to be compensated, which requires back-up generation. A reliable grid infrastructure is achievable only through efficient investments from the public sector. Since lowincome countries already spend a higher percentage of their GDP on infrastructure, the development of the private sector as well as aid from development partners are also needed. (Gurara et al. 2018) Another approach for the future is for developing countries to “skip” the centralized approach and further develop decentralized systems through micro generation. This could help to decrease the reliance on the public grid, while the financing is easier. Currently however, the costs for small systems are still too high and a connection to the grid is needed to secure a general energy supply in most regions. (Levin and Thomas 2016) Demand-side management (DSM) is also considered as a possible way to reduce outages and their negative
-effects. DSM describes the shifting of electric loads at the consumer’s side in order to reduce peak-demands and thus reduce pressures on the grid. While this is projected to significantly decrease the duration and the costs of outages, it requires the use of network-controlled smart technology, which comes along with high initial investment costs. (Closepet 2013; Natarajan and Closepet 2012)
+<p><small>Images by (1) Robert Linder; (2) Patrick Federi and (3) rahul g on Unsplash.</small></p>
+<p><small>  </small></p>
+
+To avoid outages, generation must be stable and the distribution system must be maintained properly. Fluctuations both in load and in generation have to be compensated, which requires back-up generation. A reliable grid infrastructure is achievable only through efficient investments from the public sector. Since lowincome countries already spend a higher percentage of their GDP on infrastructure, the development of the private sector as well as aid from development partners are also needed (Gurara et al. 2018). 
+
+Another approach for the future is for developing countries to “skip” the centralized approach and further develop decentralized systems through micro generation. This could help to decrease the reliance on the public grid, while the financing is easier. Currently however, the costs for small systems are still too high and a connection to the grid is needed to secure a general energy supply in most regions (Levin and Thomas 2016). 
+
+Demand-side management (DSM) is also considered as a possible way to reduce outages and their negative effects. DSM describes the shifting of electric loads at the consumer’s side in order to reduce peak-demands and thus reduce pressures on the grid. While this is projected to significantly decrease the duration and the costs of outages, it requires the use of network-controlled smart technology, which comes along with high initial investment costs (Closepet 2013; Natarajan and Closepet 2012).
 
 
 **Acceptability – death rates and greenhouse gas emissions related to energy production**
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%2011.png)
 
-Images by Hannah Ritchie and Max Roser
+<p><small>Ritchie & Roser (2018).</small></p>
+<p><small>  </small></p>
+
 
 Every form of energy comes along with costs and risks. As can be seen in this graph, the actual impacts both
 on human health and on the climate differ wildly between different technologies. Conventional energy sources,
 namely coal and oil, are unfavourable in both aspects. The emissions per TWh from a coal plant are 162 times
 higher than from solar generation. The death rate is 1,230 times higher.
+
 Renewable energies and nuclear power are less dangerous and by far have a lower impact on the
 environment. Biomass refers to both modern and traditional biomass, the latter having much higher impacts on
 human health and the environment. Including biomass, the low-emission technologies account for 20% of the
 global energy supply.
+
 The death rates per TWh include deaths from accidents (e.g. in mines) and from respiratory diseases that are
 caused by air pollution. In all coal, oil, natural gas and biomass the deaths caused by air pollution dominate. In
 total, they make up for 5,000,000 to 8,000,000 deaths per year, depending on the study. In biomass in
