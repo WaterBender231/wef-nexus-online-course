@@ -31,15 +31,28 @@ Resources-to production ratio
 The resources-to production ratio is the ratio of the energy resources remaining at the end of a year over the production of energy in that year. It evaluates lifetime of proven energy resources.
 “The purpose of this indicator is to measure the availability of national energy resources concerning corresponding fuel production. Resources are generally defined as concentrations of naturally occurring solid, liquid or gaseous material in or on the Earth’s crust in a form that makes economic extraction potentially feasible. Total resources include reserves and hypothetical and speculative undiscovered resources. This indicator considers fuels such as oil, natural gas, coal and uranium. It provides a relative measure of the length of time that resources would last if production were to continue at current levels.” (IAEA et al. 2005). Resources or reserves to production ratios are also applied by Gupta (2008).
 
-Formula:
+<details><summary><b>Formula:</b></summary>
+<p>
+
 (𝑎𝑣𝑎𝑖𝑙𝑎𝑏𝑙𝑒 𝑒𝑛𝑒𝑟𝑔𝑦 𝑟𝑒𝑠𝑜𝑢𝑟𝑐𝑒𝑠 (𝑐𝑜𝑎𝑙, 𝑜𝑖𝑙, 𝑔𝑎𝑠, 𝑢𝑟𝑎𝑛𝑖𝑢𝑚))/(𝑎𝑛𝑛𝑢𝑎𝑙 𝑝𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛 𝑜𝑓 𝑒𝑛𝑒𝑟𝑔𝑦 )
+</p>
+</details>
+
+
+
 
 Units: available energy resources (coal, oil, gas, uranium) and annual energy production express amounts of energy. Typical energy units are PJ, TWh, ktoe, or BTU.
 
 Energy production per capita
-Formula:
-(𝑡𝑜𝑡𝑎𝑙 𝑎𝑛𝑛𝑢𝑎𝑙 𝑒𝑛𝑒𝑟𝑔𝑦 𝑝𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛)/𝑝𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛
+<details><summary><b>Formula:</b></summary>
+<p>
+
+(𝑡𝑜𝑡𝑎𝑙 𝑎𝑛𝑛𝑢𝑎𝑙 𝑒𝑛𝑒𝑟𝑔𝑦 𝑝𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛)/𝑝𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛 <br>
 Units: Total annual energy production expresses an amount of energy. [1] = the number of inhabitants of the country:  [(𝑇𝑊ℎ,  𝑘𝑡𝑜𝑒, 𝐵𝑇𝑈, 𝑃𝐽 )/([1])]
+
+</p>
+</details>
+
 ––––––––––––––––
 References
 BGR (2019): Energy Study 2019. Data and Developments Concerning German and Global [www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy](http://www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy) Supplies. Summary. Available online at [https://48106](https://0.0.187.234/) , checked on 8/6/2020.
@@ -58,9 +71,18 @@ World Bank (2017) ‘Access to electricity (% of population)’. [https://data.w
 
 Energy Import Dependency:
 Energy import dependency represents net ratio of net import to total primary energy consumption (IAEA et al. 2005). High values indicate low primary energy production relative to the primary energy consumption and, therefore, a high energy import dependency of the country. Furthermore, positive values indicate that a country is a net primary energy importer; negative values that the country is net energy exporter (eg. IAEA et al. (2005) and World Energy Council (2020)).
-Formula:
-𝐸𝑛𝑒𝑟𝑔𝑦 𝐼𝑚𝑝𝑜𝑟𝑡 𝐷𝑒𝑝𝑒𝑛𝑑𝑒𝑛𝑐𝑦 =  (〖𝑇𝑃𝐸〗*𝒄𝒐𝒏−〖𝑇𝑃𝐸〗𝒑𝒓𝒐)/〖𝑇𝑃𝐸〗𝑐𝑜𝑛   〖𝑻𝑷𝑬〗(𝒄𝒐𝒏 ): total primary energy consumption;〖𝑻𝑷𝑬〗(𝒑𝒓𝒐 ): total primary energy production
+
+<details><summary><b>Formula:</b></summary>
+<p>
+
+
+𝐸𝑛𝑒𝑟𝑔𝑦 𝐼𝑚𝑝𝑜𝑟𝑡 𝐷𝑒𝑝𝑒𝑛𝑑𝑒𝑛𝑐𝑦 =  (〖𝑇𝑃𝐸〗*𝒄𝒐𝒏−〖𝑇𝑃𝐸〗𝒑𝒓𝒐)/〖𝑇𝑃𝐸〗𝑐𝑜𝑛   〖𝑻𝑷𝑬〗(𝒄𝒐𝒏 ): <br> 
+total primary energy consumption;〖𝑻𝑷𝑬〗(𝒑𝒓𝒐 ): total primary energy production
 Units: 〖𝑻𝑷𝑬〗*(𝒄𝒐𝒏 )und 〖𝑻𝑷𝑬〗_𝒑𝒓𝒐describe amounts of energy and therefore have energy units like PJ, TWh, BTU, ktoe. The quotient is dimensionless [1].
+
+</p>
+</details>
+
 
 Resources-to production ratio
 The resources-to production ratio is the ratio of the energy resources remaining at the end of a year over the production of energy in that year. It evaluates lifetime of proven energy resources.

@@ -121,9 +121,9 @@ Below the selected indicators for each dimension are presented. The scale of dat
 <details><summary><b>Availability (0.5° spatial resolution):</b></summary>
 <p>
 
-- water scarcity index – source: Wada et al. (2014)
+- water scarcity index – source: Wada et al. (2014) <br>
 
-- drought index – source: Wada et al. (2013)
+- drought index – source: Wada et al. (2013) <br>
 
 - groundwater depletion – source: Wada et al. (2012)
 
@@ -134,7 +134,7 @@ Below the selected indicators for each dimension are presented. The scale of dat
 <details><summary><b>Accesibility (country scale):</b></summary>
 <p>
 
-- access to sanitation – source: Hsu et al. (2014) 
+- access to sanitation – source: Hsu et al. (2014) <br>
 
 - access to drinking water – source: Hsu et al. (2014)
 
@@ -145,7 +145,7 @@ Below the selected indicators for each dimension are presented. The scale of dat
 <details><summary><b>Safety and quality (country scale):</b></summary>
 <p>
 
-- water quality index – source: Srebotnjak et al. (2012)
+- water quality index – source: Srebotnjak et al. (2012) <br>
 
 - flood frequency index – source: Center for H et al. (2005)
 
@@ -156,9 +156,9 @@ Below the selected indicators for each dimension are presented. The scale of dat
 <details><summary><b>Management(country and river basin scale):</b></summary>
 <p>
 
-- World governance index – source: Kaufmann et al., (2010)
+- World governance index – source: Kaufmann et al., (2010) <br>
 
-- transboundary legal framework – source: http://twap-rivers.org
+- transboundary legal framework – source: http://twap-rivers.org <br>
 
 - transboundary political tension – source: http://twap-rivers.org
 
