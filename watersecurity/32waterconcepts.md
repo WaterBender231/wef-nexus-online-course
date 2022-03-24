@@ -84,10 +84,17 @@ In this figure, examples for different countries can be compared according to th
 Below the selected indicators for each dimension are presented. The scale of data is mainly at a national scale:
 <br/> <br/>
 
-**Availability (0.5° spatial resolution):**
+<details><summary><b>Availability (0.5° spatial resolution):</b></summary>
+<p>
+
 - water scarcity index – source: Wada et al. (2014)
 - drought index – source: Wada et al. (2013)
 - groundwater depletion – source: Wada et al. (2012)
+
+</p>
+</details>
+
+
 
 **Accesibility (country scale):**
 - access to sanitation – source: Hsu et al. (2014) 
