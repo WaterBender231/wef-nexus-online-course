@@ -30,7 +30,6 @@ The world population is likely to increase to over 8 billion by 2030 and 9.5 or 
 - Water, Energy, and Food Security are key pillars of development!</h2>
 
 ![SDG-Goals](/wef-nexus-online-course/assets/SDG_Goals.png)
-
 <p><small>Source: UN, 2015</small></p>
 
 
@@ -87,9 +86,9 @@ Therefore, the Sustainable Development Goals (SDGs) address the areas of action 
 - Contamination of water resources
 - Less water security
 
-
-Hence, there is a need for a systematic approach such as the WEF Nexus approach!{: .fw-500 }
-
+<hr/>
+<h4><b>Hence, there is a need for a systematic approach such as the WEF Nexus approach!</b></h4>
+<hr/>
 
 While the quest for development and the growing demands for energy, water and food will likely require an intensification in resources use, the achievement of one goal may negatively impact the performance of another goal. The increase of one security domain often has trade-offs with another security domain.
 
@@ -145,6 +144,8 @@ By addressing trade-offs with other sectors and emphasizing the identification o
 <hr/>
 
 ### *References*
+<p><small>
+
 ***1.1 Background: Challenges for achieving WEF-Security***
 - *UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/)
 United Nations Department of Economic and Social Affairs (UNDESA) (2014) International Decade for Action WATER FOR LIFE 2005-
@@ -178,3 +179,5 @@ Water [https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB20111036
 ***2.2 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU***
 
 - *GIZ (2016), ‘Water, Energy & food Nexus in a Nutshell’, Available from: [www.water-energy-food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue](http://food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue/Programme_Phase1_2016-18.pdf)*
+
+</p></small>
