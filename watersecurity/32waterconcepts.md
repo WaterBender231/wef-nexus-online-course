@@ -110,7 +110,15 @@ INSERT TABLE
 There is not a uniform rule on how to weight indicators in a aggregated index. The weighting for the global water security index (Gain et al., 2016), for example, was defined based on qualitative estimations, eg. a higher relevance was given to availability compared to the other indicators. 
 <br/> <br/>
 
+<details><summary>Bonus Question</summary>
+<p>
+
 *Reflection: Do you think these weights are appropriate for your country/region? Why?*
+
+</p>
+</details>
+
+
 
 
 ### **Urban Water Security – Example Bangkok Babel et al., 2020**
