@@ -40,8 +40,6 @@ class="centerImage" alt="SDG 6" height="120" width="350">
 
 <p><small>SDG 6 (UN, 2020).</small></p>
 
-<br/> <br/>
-
 <details><summary>Target 6.1</summary>
 <p>
 

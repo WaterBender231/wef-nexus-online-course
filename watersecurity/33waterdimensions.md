@@ -48,7 +48,7 @@ ADB (2013) follows a different approach which also related water availability wi
 
 #### Exercise: Which indicators best represent the dimension „Availability “ in your country/region?
 
-<details><summary><h2>View Data Sources</h2></summary>
+<details><summary>View Data Sources</summary>
 <p>
 
 - For more data go to: [http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)
@@ -142,7 +142,15 @@ https://info.worldbank.org/governance/wgi/ |
 |  | Transboundary political tension | Risk of Potential Hydro-political Tensions due to Basin Development in Absence of Adequate Institutional Capacity. | Transboundary Waters Assessment Programme
 http://twap-rivers.org/indicators/ |
 
-#### *Question: Which indicators best represent the dimension „Management (Governance)“ in your country/region?*
+
+<details><summary>Exercise Question</summary>
+<p>
+
+Which indicators best represent the dimension „Management (Governance)“ in your country/region?
+
+</p>
+</details>
+
 
 To evaluate the ‘governance’ dimension, we need to be innovative, as there is no quantitative information. The approach and indicators should be selected based on the water challenges in the region you look at.  The  ‘world governance index’ developed by World Bank is calculated at country scale considering six different aspects: (i) Voice and accountability; (ii) Political stability and absence of violence; (iii) Government effectiveness; (iv) Regulatory quality, (v) Rule of law, (vi) Control of corruption. In addition, transboundary governance status of (i) legal framework and (ii) hydro political tension for 286 river basins of the world was assessed.
 

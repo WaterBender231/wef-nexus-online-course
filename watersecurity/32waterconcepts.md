@@ -117,7 +117,7 @@ Indicators: (i) access to piped water supply (%), (ii) access to improved sanita
 </details>
 
 
-### **Review on Water Security approaches for rural, remote or otherwise marginalized (RRM) communities** 
+### Review on Water Security approaches for rural, remote or otherwise marginalized (RRM) communities
 
 ![Untitled](Untitled%205.png)
 <p><small>Review on Water Security approaches for RRM communities (Dickson et al. 2016).</small></p>
@@ -126,7 +126,7 @@ Indicators: (i) access to piped water supply (%), (ii) access to improved sanita
 Dickson et al. (2016) provided a literature review about water security related to rural, remote, or otherwise marginalized (RRM) communities. They evaluated, prioritized indicators for decision-making at local and supra-local scales. A list of indicators (n=176) was provided as an overview to select appropriate indicators depending on the dimension and on data availability.
 
 
-### **Global Water Security Index- Measuring global water security towards sustainable development goals
+### Global Water Security Index- Measuring global water security towards sustainable development goals
 
 ![Untitled](Untitled%206.png)
 <p><small>Global water security framework, based on water availability, accessibility, safety and quality and management (Gain et al. 2016).</small></p>
@@ -138,7 +138,7 @@ The world map shows the results of the aggregation of the different sub-indicato
 
 According to the authors, a quantitative assessment of water security should be carried out taking into account physical, socioeconomic and governance dimensions, through the assessment of indicators covering four main criteria: availability, accessibility, safety and quality, and management. The term, ‘security’ is considered as the output of spatial MCA and is decomposed into these four criteria.
 
-### **Country examples of the Global Water Security Index**
+### Country examples of the Global Water Security Index
 
 ![Untitled](Untitled%207.png)
 <p><small>Spider Diagram showing water security for selected countries (Gain et al., 2016).</small></p>
@@ -200,7 +200,7 @@ Below the selected indicators for each dimension are presented. The scale of dat
 
 
 
-### **Weighting of Indices - Example Gain et al. 2016**
+### Weighting of Indices - Example Gain et al. 2016
 
 INSERT TABLE
 
@@ -218,7 +218,7 @@ Do you think these weights are appropriate for your country/region? Why?
 
 
 
-### **Urban Water Security – Example Bangkok Babel et al., 2020**
+### Urban Water Security – Example Bangkok Babel et al., 2020
 
 ![Untitled](3%202%20Differ%20aaf7f/Untitled.png)
 
