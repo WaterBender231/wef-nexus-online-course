@@ -6,19 +6,15 @@ parent: Energy Security
 ---
 # **3.4 Energy Security Indices**
 
-## Energy Security Dimensions and Indices
+## 3.4.1 Energy Security Dimensions and Indices
 
 ![Untitled](4%204%20Energy%2020238/Untitled.png)
 
 We selected the dimensions “Availability”, “Accessibility”, “Affordability” and “Acceptability” to summarize some of the easy to assess Energy Security indicators. The same indicator might be a proxy for different dimensions. Depending on the major energy sources and uses in a country, different indicators and indices can be used to evaluate each dimension.
 
 Although the concept of APERC (2007) to measure Energy Security was missing relevant aspects, the unaddressed factors can be integrated within the “4 As”. In the following, we integrate environmental sustainability in the acceptability dimension, and social equity in the dimensions affordability, accessibility, and acceptability.
-––––––––––––––––
-References
-APERC, 2007. A Quest for Energy Security in the 21st Century: Resources and Constraints. [https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf](https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf)
-Cherp, A., & Jewell, J. (2014). The concept of energy security: Beyond the four As. Energy Policy, 75, 415–421. [https://doi.org/10.1016/j.enpol.2014.09.005](https://doi.org/10.1016/j.enpol.2014.09.005)
 
-### Indices for Availability
+### 3.4.2 Indices for Availability
 
 ![Untitled](4%204%20Energy%2020238/Untitled%201.png)
 
@@ -64,15 +60,8 @@ Units: Total annual energy production expresses an amount of energy. [1] = the n
 </p>
 </details>
 
-––––––––––––––––
-References
-BGR (2019): Energy Study 2019. Data and Developments Concerning German and Global [www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy](http://www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy) Supplies. Summary. Available online at [https://48106](https://0.0.187.234/) , checked on 8/6/2020.
-Erahman, Qodri Febrilian; Purwanto, Widodo Wahyu; Sudibandriyo, Mahmud; Hidayatno, Akhmad (2016): An assessment of Indonesia's energy security index and comparison with seventy countries. In Energy 111, pp. 364–376. DOI: 10.1016/j.energy.2016.05.100.
-IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. [https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf)  (Accessed 15 July 2020).
-IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. [https://www.iea.org/data-and-statistics](https://www.iea.org/data-and-statistics) .
-World Bank (2017) ‘Access to electricity (% of population)’. [https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS)
 
-### Indices for Accessibility
+### 3.4.3 Indices for Accessibility
 
 | Index Name | Formula | Units | Literature Sources | Data Sources |
 | --- | --- | --- | --- | --- |
@@ -124,15 +113,7 @@ Units: Total annual energy production expresses an amount of energy. [1] = the n
 </p>
 </details>
 
-––––––––––––––––
-References
-BGR (2019): Energy Study 2019. Data and Developments Concerning German and Global [www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy](http://www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy) Supplies. Summary. Available online at [https://48106](https://0.0.187.234/) , checked on 8/6/2020.
-Erahman, Qodri Febrilian; Purwanto, Widodo Wahyu; Sudibandriyo, Mahmud; Hidayatno, Akhmad (2016): An assessment of Indonesia's energy security index and comparison with seventy countries. In Energy 111, pp. 364–376. DOI: 10.1016/j.energy.2016.05.100.
-IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. [https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf)  (Accessed 15 July 2020).
-IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. [https://www.iea.org/data-and-statistics](https://www.iea.org/data-and-statistics) .
-World Bank (2017) ‘Access to electricity (% of population)’. [https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS)
-
-### Indices for Affordability
+### 3.4.4 Indices for Affordability
 
 | Index Name | Formula | Units | Literature Sources | Data Sources |
 | --- | --- | --- | --- | --- |
@@ -175,17 +156,7 @@ Unit: [€/kWh], [$/kWh]
 </p>
 </details>
 
-––––––––––––––––
-References
-Aldersey-Williams, J.; Rubert, T. (2019): Levelised cost of energy – A theoretical justification and critical assessment. In Energy Policy 124, pp. 169–179. DOI: 10.1016/j.enpol.2018.10.004.
-Bacon, Robert; Bhattacharya, Soma; Kojima, Masami (2010): Expenditure of Low-Income Households on Energy. Evidence from Africa and Asia. World Bank. Available online at [https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf](https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf).[GlobalPetrolPrices.com](http://globalpetrolprices.com/) (2020): Retail Energy Price Data. Available online at [globalpetrolprices.com](http://globalpetrolprices.com/), checked on 7/21/2020.
-IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. [https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf)  (Accessed 15 July 2020).
-IEA (2020): Energy Prices. High-quality data on end-use energy prices. Available online at [https://www.iea.org/reports/energy-prices-2020](https://www.iea.org/reports/energy-prices-2020) .
-ofgem (2018): Energy spend as percentage of total household expenditure (UK). Available online at [https://www.ofgem.gov.uk/data-portal/energy-spend-percentage-total-household-expenditure-uk](https://www.ofgem.gov.uk/data-portal/energy-spend-percentage-total-household-expenditure-uk).
-Ritchie, Hannah; Roser, Max (2018): Access to Energy. [OurWorldinData.org](http://ourworldindata.org/). Available online at [https://ourworldindata.org/energy-access#citation](https://ourworldindata.org/energy-access#citation).
-Winkler, H. A. F. Simões, E. L. La Rovere, M. Alam, A. Rahman and S. Mwakasonda, World Development, 2011, 39, 1037–1050, [https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf](https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf).
-
-### Indices for Acceptability
+### 3.4.5 Indices for Acceptability
 
 | Index Name | Formula | Units | Literature Sources | Data Sources |
 | --- | --- | --- | --- | --- |
@@ -238,14 +209,63 @@ Unit: The unit is deaths per energy output, commonly expressed in Terra Watt Hou
 </details>
 
 
-––––––––––––––––
-References
-Enerdata (2020): Global Energy Statistical Yearbook. Available online at [https://yearbook.enerdata.net/](https://yearbook.enerdata.net/)
-IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. [https://www.iea.org/data-and-statistics](https://www.iea.org/data-and-statistics) .
-Ritchie, Hannah; Roser, Max (2018): Access to Energy. [OurWorldinData.org](http://ourworldindata.org/). Available online at [https://ourworldindata.org/energy-access#citation](https://ourworldindata.org/energy-access#citation).
-Sovacool, Benjamin K.; Andersen, R.; Sorensen, Steven; Sorensen, Kenneth; Tienda, Victor; Vainorius, Arturas et al. (2016): Balancing safety with sustainability: assessing the risk of accidents for modern low-carbon energy systems. In Journal of Cleaner Production 112, pp. 3952–3965. DOI: 10.1016/j.jclepro.2015.07.059.
-
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/questions){: .btn .btn-purple .mr-4}
 <br/> <br/>
+
+</hr>
+
+### References
+3.4.1 Energy Security Dimensions and Indices
+
+- APERC, 2007. A Quest for Energy Security in the 21st Century: Resources and Constraints. [https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf](https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf)
+
+- Cherp, A., & Jewell, J. (2014). The concept of energy security: Beyond the four As. Energy Policy, 75, 415–421. [https://doi.org/10.1016/j.enpol.2014.09.005](https://doi.org/10.1016/j.enpol.2014.09.005)
+
+3.4.2 Indices for Availability
+- BGR (2019): Energy Study 2019. Data and Developments Concerning German and Global [www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy](http://www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy) Supplies. Summary. Available online at [https://48106](https://0.0.187.234/) , checked on 8/6/2020.
+
+- Erahman, Qodri Febrilian; Purwanto, Widodo Wahyu; Sudibandriyo, Mahmud; Hidayatno, Akhmad (2016): An assessment of Indonesia's energy security index and comparison with seventy countries. In Energy 111, pp. 364–376. DOI: 10.1016/j.energy.2016.05.100.
+
+- IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. [https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf)  (Accessed 15 July 2020).
+
+- IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. [https://www.iea.org/data-and-statistics](https://www.iea.org/data-and-statistics) .
+
+- World Bank (2017) ‘Access to electricity (% of population)’. [https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS)
+
+3.4.3 Indices for Accessibility
+- BGR (2019): Energy Study 2019. Data and Developments Concerning German and Global [www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy](http://www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy) Supplies. Summary. Available online at [https://48106](https://0.0.187.234/) , checked on 8/6/2020.
+
+- Erahman, Qodri Febrilian; Purwanto, Widodo Wahyu; Sudibandriyo, Mahmud; Hidayatno, Akhmad (2016): An assessment of Indonesia's energy security index and comparison with seventy countries. In Energy 111, pp. 364–376. DOI: 10.1016/j.energy.2016.05.100.
+
+- IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. [https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf)  (Accessed 15 July 2020).
+
+- IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. [https://www.iea.org/data-and-statistics](https://www.iea.org/data-and-statistics) .
+
+- World Bank (2017) ‘Access to electricity (% of population)’. [https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS)
+
+3.4.4 Indices for Affordability
+- Aldersey-Williams, J.; Rubert, T. (2019): Levelised cost of energy – A theoretical justification and critical assessment. In Energy Policy 124, pp. 169–179. DOI: 10.1016/j.enpol.2018.10.004.
+
+- Bacon, Robert; Bhattacharya, Soma; Kojima, Masami (2010): Expenditure of Low-Income Households on Energy. Evidence from Africa and Asia. World Bank. Available online at [https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf](https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf).
+
+- [GlobalPetrolPrices.com](http://globalpetrolprices.com/) (2020): Retail Energy Price Data. Available online at [globalpetrolprices.com](http://globalpetrolprices.com/), checked on 7/21/2020.
+
+- IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. [https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf)  (Accessed 15 July 2020).
+
+- IEA (2020): Energy Prices. High-quality data on end-use energy prices. Available online at [https://www.iea.org/reports/energy-prices-2020](https://www.iea.org/reports/energy-prices-2020) .
+ofgem (2018): Energy spend as percentage of total household expenditure (UK). Available online at [https://www.ofgem.gov.uk/data-portal/energy-spend-percentage-total-household-expenditure-uk](https://www.ofgem.gov.uk/data-portal/energy-spend-percentage-total-household-expenditure-uk).
+
+- Ritchie, Hannah; Roser, Max (2018): Access to Energy. [OurWorldinData.org](http://ourworldindata.org/). Available online at [https://ourworldindata.org/energy-access#citation](https://ourworldindata.org/energy-access#citation).
+
+- Winkler, H. A. F. Simões, E. L. La Rovere, M. Alam, A. Rahman and S. Mwakasonda, World Development, 2011, 39, 1037–1050, [https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf](https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf).
+
+3.4.5 Indices for Acceptability
+- Enerdata (2020): Global Energy Statistical Yearbook. Available online at [https://yearbook.enerdata.net/](https://yearbook.enerdata.net/)
+
+- IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. [https://www.iea.org/data-and-statistics](https://www.iea.org/data-and-statistics) .
+
+- Ritchie, Hannah; Roser, Max (2018): Access to Energy. [OurWorldinData.org](http://ourworldindata.org/). Available online at [https://ourworldindata.org/energy-access#citation](https://ourworldindata.org/energy-access#citation).
+
+- Sovacool, Benjamin K.; Andersen, R.; Sorensen, Steven; Sorensen, Kenneth; Tienda, Victor; Vainorius, Arturas et al. (2016): Balancing safety with sustainability: assessing the risk of accidents for modern low-carbon energy systems. In Journal of Cleaner Production 112, pp. 3952–3965. DOI: 10.1016/j.jclepro.2015.07.059.
