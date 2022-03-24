@@ -15,8 +15,6 @@ of Energy Security in 2014:
 
 > "The uninterrupted availability of energy sources at an affordable price"
 
-![ES simple definition](/wef-nexus-online-course/assets/simpleESdef.PNG)
-
 Energy security is crucial to ensure long and short-term economic development and social stability. According to the IEA, three components are essential when assessing energy security:
 - **Reliability, Affordability and Accessibility of supply.**
 
