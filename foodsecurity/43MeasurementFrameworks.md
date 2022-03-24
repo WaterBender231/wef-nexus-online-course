@@ -68,30 +68,46 @@ Access to financing for farmers (qualitative)
 </p>
 </details>
 
-<details><summary><b>Target 7.3</b></summary>
+<details><summary><b>Indicators for availability:</b></summary>
 <p>
 
-“… by 2030 double the global rate of improvement in energy efficiency”
+1. Sufficiency of supply
+1.1. Average food supply
+1.2. Dependence on chronic food aid (qualitative)
+2. Public expenditure on agricultural research & development
+3. Agriculture infrastructure
+3.1. Existence of adequate crop storage facilities (qualitative)
+3.2. Road infrastructure
+3.3. Port infrastructure
+4. Volatility of agricultural production
+5. Political stability risk
+6. Corruption
+7. Urban absorption capacity
+8. Food loss
 
 </p>
 </details>
 
-<details><summary><b>Target 7.A</b></summary>
+<details><summary><b>Indicators for quality and safety:</b></summary>
 <p>
 
- “… enhance international cooperation to facilitate access to clean energy research and technology…”
+1. Diet diversification
+2. Nutritional standards
+2.1. National dietary guidelines (qualitative)
+2.2. National nutrition plan or strategy (qualitative)
+2.3. Nutrition monitoring and surveillance (qualitative)
+3. Micronutrient availability
+3.1. Dietary availability of vitamin A
+3.2. Dietary availability of animal iron
+3.3. Dietary availability of vegetal iron
+4. Protein quality
+5. Food safety
+5.1. Agency to ensure the safety and health of food (qualitative)
+5.2. Percentage of population with access to potable water
+5.3. Presence of formal grocery sector (qualitative)
 
 </p>
 </details>
-
-<details><summary><b>Target 7.B</b></summary>
-<p>
-
-“… expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries…”
-
-</p>
-</details>
-
 
 
 ### **4.3.4 FAO Prevalence of Undernourishment (PoU)**
