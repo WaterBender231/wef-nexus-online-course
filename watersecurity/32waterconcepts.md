@@ -30,29 +30,63 @@ Vörösmarty et al. (2010) assessed human water security (HWS) and threats to bi
 The ADB (2013) applied a framework looking at five dimensions to assess national water security. The methodology has been applied for all Asian countries and here the main dimensions and indicators are presented. The scale used for national water security goes from 1 to 5 using the following qualitative interpretation: 1 = hazardous, 2 = engaged, 3 = capable, 4 = effective, 5 = model
 
 The **key dimensions (KD)** are listed below:
-- KD1: Household water security
+
+<details><summary>KD1: Household water security</summary>
+<p>
+
 Indicators: (i) access to piped water supply (%), (ii) access to improved sanitation (%), (iii) hygiene (age-standardized disability-adjusted life years per 100,000 people for the incidence of diarrhea.
 
-- KD2: Economic water security
-Agricultural water security subindex: (i) productivity of irrigated agriculture, (ii) independence from imported water and goods, (iii) resilience (% of renewable water resources stored in large dams).
-Industrial water security subindex: (i) productivity (financial value of industrial goods relative to industrial water withdrawal), (ii) consumption rate (net virtual water consumed relative to water withdrawn from industry.
-Energy water security subindex: (i) utilization of total hydropower capacity, (ii) ratio of hydropower to total energy supply.
+</p>
+</details>
 
-- KD3: Urban water security
-(i) Water supply (%), (ii) wastewater treatment (%), (iii) drainage (measured as the extent of economic damage caused by floods and storms).
-Adjustment factors are included to indicate impacts of the urban growth rate and river health
+<details><summary>KD2: Economic water security</summary>
+<p>
 
-- KD4: Environmental water security
-Watershed disturbance: (i) cropland, (ii) imperviousness, (iii) livestock density, (iv) wetland disconnection
-Pollution: (i) soil salinization, (ii) nitrogen, (iii) phosphorous, (iv) mercury, (v) pesticides, (vi) total suspended solids, (vii) organic loads, (viii) potential acidification, (ix) thermal impacts from power plant cooling.
-Water resources development: (i) dam density, (ii) river network fragmentation, (iii) relative water consumption compared to supply, (iv) agriculture sector water stress, (v) residency time change downstream from dams.
-Biotic factors: (i) non-native species, (ii) non-native species richness, (iii) catch pressure, (iv) aquaculture
+<b>Agricultural water security subindex:</b> (i) productivity of irrigated agriculture, (ii) independence from imported water and goods, (iii) resilience (% of renewable water resources stored in large dams).
 
-- KD5: Resilience to water-related disasters
-Exposure: e.g. (i) population density, (ii) growth rate.
-Basic population vulnerability: e.g. (i) poverty rate, (ii) land use.
-Hard coping capacities: e.g. (i) telecommunications development
-Soft coping capacities: e.g. (i) literacy rate.
+<b>Industrial water security subindex</b>: (i) productivity (financial value of industrial goods relative to industrial water withdrawal), (ii) consumption rate (net virtual water consumed relative to water withdrawn from industry.
+
+<b>Energy water security subindex:</b> (i) utilization of total hydropower capacity, (ii) ratio of hydropower to total energy supply.
+
+</p>
+</details>
+
+
+<details><summary>KD3: Urban water security</summary>
+<p>
+
+(i) Water supply (%), (ii) wastewater treatment (%), (iii) drainage (measured as the extent of economic damage caused by floods and storms). Adjustment factors are included to indicate impacts of the urban growth rate and river health
+
+</p>
+</details>
+
+<details><summary>KD4: Environmental water security</summary>
+<p>
+
+<b>Watershed disturbance:</b> (i) cropland, (ii) imperviousness, (iii) livestock density, (iv) wetland disconnection
+
+<b>Pollution:</b> (i) soil salinization, (ii) nitrogen, (iii) phosphorous, (iv) mercury, (v) pesticides, (vi) total suspended solids, (vii) organic loads, (viii) potential acidification, (ix) thermal impacts from power plant cooling.
+
+<b>Water resources development:</b> (i) dam density, (ii) river network fragmentation, (iii) relative water consumption compared to supply, (iv) agriculture sector water stress, (v) residency time change downstream from dams.
+
+<b>Biotic factors:</b> (i) non-native species, (ii) non-native species richness, (iii) catch pressure, (iv) aquaculture
+
+</p>
+</details>
+
+<details><summary>KD5: Resilience to water-related disasters</summary>
+<p>
+
+<b>Exposure:</b> e.g. (i) population density, (ii) growth rate.
+
+<b>Basic population vulnerability:</b> e.g. (i) poverty rate, (ii) land use.
+
+<b>Hard coping capacities:</b> e.g. (i) telecommunications development
+
+<b>Soft coping capacities:</b> e.g. (i) literacy rate.
+
+</p>
+</details>
 
 <br/> <br/>
 
