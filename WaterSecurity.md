@@ -15,6 +15,6 @@ nav_order: 3
 ## Learning Unit 02
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)
 #### Alexandra Nauditt 
-<p><small>   </smal/><br/>
+<p><small>   </small><br/>
 In this learning unit you will learn more about the concept of water security and its distinct 
 dimensions. Additionally, you will get an overview of indices that can help you  quantifiy water security.
