@@ -97,30 +97,6 @@ Following is a list of the indicators (in Bold font) and sub-indicators under th
 
 
 
-<details><summary><b>Indicators for quality and safety:</b></summary>
-<p>
-<ul><li>1. Diet diversification
-<li>2. Nutritional standards
-<li>2.1. National dietary guidelines (qualitative)
-<li>2.2. National nutrition plan or strategy (qualitative)
-<li>2.3. Nutrition monitoring and surveillance (qualitative)
-<li>3. Micronutrient availability
-<li>3.1. Dietary availability of vitamin A
-<li>3.2. Dietary availability of animal iron
-<li>3.3. Dietary availability of vegetal iron
-<li>Protein quality
-<li>5. Food safety
-<li>5.1. Agency to ensure the safety and health of food (qualitative)
-<li>5.2. Percentage of population with access to potable water
-<li>5.3. Presence of formal grocery sector (qualitative)
-
-</li></ul>
-
-</p>
-</details>
-
-
-
 ### **4.3.4 FAO Prevalence of Undernourishment (PoU)**
 
 ![Untitled](5%203%20Food%20S%20c495b/Untitled%202.png)
