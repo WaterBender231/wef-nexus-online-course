@@ -34,6 +34,8 @@ class="centerImage" alt="SDG 7" height="120" width="350">
 
 ##### Figure 2: SDG 7 (UN, 2020). #####
 
+<br></br>
+
 <details><summary><b>Target 7.1</b></summary>
 <p>
 
