@@ -42,17 +42,16 @@ Prevalence of moderate or severe food insecurity in the total population
 </details>
 
 
-
 <details><summary><b>Indicators for stability:</b></summary>
-<ul><li>Cereal import dependency ratio
-<li>Percentage of arable land equipped for irrigation
-<li>Value of food imports over total merchandise exports
-<li>Political stability and absence of violence/terrorism
-<li>Per capita food production variability
-<li>Per capita food supply variability
-</li></ul>
+<p>
+Cereal import dependency ratio
+Percentage of arable land equipped for irrigation
+Value of food imports over total merchandise exports
+Political stability and absence of violence/terrorism
+Per capita food production variability
+Per capita food supply variability
+</p>
 </details>
-
 
 ### **4.4.2 Food availability indices –how can I measure food availability?**
 
