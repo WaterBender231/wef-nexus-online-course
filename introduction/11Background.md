@@ -144,8 +144,7 @@ By addressing trade-offs with other sectors and emphasizing the identification o
 <hr/>
 
 ### *References*
-<p><small>
-
+{: 	
 ***1.1 Background: Challenges for achieving WEF-Security***
 - *UN 2020, The Sustainable Development Goals, [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/)
 United Nations Department of Economic and Social Affairs (UNDESA) (2014) International Decade for Action WATER FOR LIFE 2005-
@@ -180,4 +179,4 @@ Water [https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB20111036
 
 - *GIZ (2016), ‘Water, Energy & food Nexus in a Nutshell’, Available from: [www.water-energy-food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue](http://food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue/Programme_Phase1_2016-18.pdf)*
 
-</p></small>
+.fs-3}
