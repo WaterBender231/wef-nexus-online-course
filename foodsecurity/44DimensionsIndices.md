@@ -20,26 +20,27 @@ Jones et al. (2013) emphasize that the additional indicators provide further inf
 
 Following we list the **26 indicators** under their corresponding dimensions as defined by FAO (2012):
 
+
 <details><summary><b>Indicators for availability:</b></summary>
 <p>
-<ul><li>Average dietary energy supply adequacy
-<li>Average value of food production
-<li>Share of dietary energy supply derived from cereals, roots and tubers
-<li>Average protein supply
-<li>Average supply of protein of animal origin
-</li></ul>
+Average dietary energy supply adequacy
+Average value of food production
+>Share of dietary energy supply derived from cereals, roots and tubers
+Average protein supply
+>Average supply of protein of animal origin
 </p>
 </details>
 
-
 <details><summary><b>Indicators for affordability:</b></summary>
-<ul><li>Rail lines density
-<li>Gross domestic product per capita (in purchasing power equivalent)
-<li>Prevalence of undernourishment
-<li>Prevalence of severe food insecurity in the total population
-<li>Prevalence of moderate or severe food insecurity in the total population
-</li></ul>
+<p>
+Rail lines density
+Gross domestic product per capita (in purchasing power equivalent)
+Prevalence of undernourishment
+Prevalence of severe food insecurity in the total population
+Prevalence of moderate or severe food insecurity in the total population
+</p>
 </details>
+
 
 
 <details><summary><b>Indicators for stability:</b></summary>
@@ -172,6 +173,7 @@ SDG Indicators. Metadata repository [New York] UN: https://unstats.un.org/sdgs/m
 The section above shows which indicators are used to monitor SDG 2. Recall that SDG 2 puts food security in its centre with the main objective to
 >“end hunger, achieve food security and improved nutrition and promote sustainable agriculture” (UN, 2021). 
 There are 14 different indicators that measure the progress towards sub-targets of SDG 2. We will focus on SDG 2.1 and SDG 2.2.
+
 
 <details><summary><b>Target 2.1</b></summary>
 <p>
