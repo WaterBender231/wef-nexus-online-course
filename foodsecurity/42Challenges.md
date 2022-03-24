@@ -10,7 +10,8 @@ parent: Food Security
 
 ![Untitled](5%202%20Challe%20d4626/Untitled.png)
 
-FAO, 2015
+<p><small>FAO, 2015.</small></p>
+<p><small>  </small></p>
 
 The prevalence of undernourishment is defined as the “proportion of the population whose dietary energy consumption is less than a pre-determined threshold. This threshold is country specific and is measured in terms of the number of kilocalories required to conduct sedentary or light activities.” (FAO, 2008)
 
@@ -22,6 +23,8 @@ In addition to systematic development challenges, natural and human-induced disa
 ### **4.2.2 Net food trade (in 2020)**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%201.png)
+<p><small>Source.</small></p>
+<p><small>  </small></p>
 
 Net food trade is defined as the net difference between food exports and food imports, presented as a percentage of the total food consumption within that country.
 
@@ -30,16 +33,18 @@ The main countries being food exporters are USA, Canada, Ukraine, Argentina and 
 ### **4.2.3 Bren D´Amour and Anderson, 2020: International trade and the stability of food supplies in the Global South**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%202.png)
+<p><small>Christopher Bren d’Amour and Weston Anderson 2020.</small></p>
+<p><small>  </small></p>
 
-Christopher Bren d’Amour and Weston Anderson 2020
+The importance of food imports across the Global South has increased since 1960 (figure 1). Countries in Africa (figures 1(b) and (c), red line), in particular, import a much larger share of their rice and wheat supplies. 
 
-The importance of food imports across the Global South has increased since 1960 (figure 1). Countries in Africa (figures 1(b) and (c), red line), in particular, import a much larger share of their rice and wheat supplies. Importantly, figure 1 only depicts countries whose caloric dependency ratio exceeds 10%, i.e. countries that get at least 10% of the total calorie supply through the specific crop. For wheat, average import dependency ratios (IDR) in Africa almost doubled from 1960 to 2013, from about 0.25 to almost 0.5. These numbers are not problematic per se; however, they indicate an increasing reliance on imported staple crops of countries in the Global South and potentially problematic exposure, for example to teleconnected food supply shocks (Bren d’Amour et al 2016).
+Importantly, the figure above only depicts countries whose caloric dependency ratio exceeds 10%, i.e. countries that get at least 10% of the total calorie supply through the specific crop. For wheat, average import dependency ratios (IDR) in Africa almost doubled from 1960 to 2013, from about 0.25 to almost 0.5. These numbers are not problematic per se; however, they indicate an increasing reliance on imported staple crops of countries in the Global South and potentially problematic exposure, for example to teleconnected food supply shocks (Bren d’Amour et al 2016).
 
 ### 4.2.4 **World Agricultural production (1961-1999)**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%203.png)
-
-The British Geographer, n.d.
+<p><small>The British Geographer, n.d. </small></p>
+<p><small>  </small></p>
 
 This figure shows the growth of food production between 1961 and 1999 (with 1961 as the base year for all statistics), from which the global increase in agricultural production was 140% (more than population growth). It shows that most of this production increase can be attributed to development in Asia. However in Africa, the production of food actually dropped in that time, partially explaining the food security challenge in many of its countries.
 
@@ -54,8 +59,8 @@ This figure shows the growth of food production between 1961 and 1999 (with 1961
 ### 4.2.5 **Yield gap for major cereals**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%204.png)
-
-Mueller et al., 2012
+<p><small>Mueller et al., 2012.</small></p>
+<p><small>  </small></p>
 
 The yield gap refers to the difference between two levels of yield. On this section, these two levels are the observed yields and the attainable yields (the best yield achieved through skilful use of the best available technology) for maize, wheat and rice. The yield gaps are presented as a percentage of the attainable yield. (Mueller et al., 2012; FAO, 2015).
 
@@ -68,8 +73,8 @@ Overall, this figure shows that many regions in the world are still far from app
 ### **4.2.6 Contribution of family and smallholder farming to National and Global Food Security**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%205.png)
-
-FAO, 2014
+<p><small>FAO, 2014</small></p>
+<p><small>  </small></p>
 
 Smallholder farming - often on less than 1 ha property - is estimated to account for 70-90% to global food production. It keeps food production and consumption at the local scale and avoids external dependencies, preserves traditional food products, maintains global agro-biodiversity, provides an important source of income and employment, and thus contributes to social stability and promotes the sustainable use of natural resources. Family and smallholder farming is therefore considered as a key activity in eradicating global food insecurity.
 
@@ -89,8 +94,9 @@ Smallholder farming - often on less than 1 ha property - is estimated to account
 **global breakdown of holding sizes**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%206.png)
+<p><small>HLPE, 2013</small></p>
+<p><small>  </small></p>
 
-HLPE, 2013
 
 This graph presents the breakdown of farmland areas held by different parties from an 81 country global subset, and divided according to world region. Note that the y-axis is a measure of the total plots of land, not the total land area occupied for farming.
 
@@ -101,8 +107,8 @@ Income is important for smallholders’ access to food, manufactured goods and s
 ### **4.2.8 Approximately one-third of global food is wasted**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%207.png)
-
-Oxfam Australia, 2012
+<p><small>Oxfam Australia, 2012</small></p>
+<p><small>  </small></p>
 
 This section emphasises the problem of food waste. Next to large scale crop failure and destruction of harvest on the field contributing to the yield gap, post-harvest losses are often very significant! It is estimated that worldwide approximately 1/3 of global food production is wasted. In developing countries this is often due to a lack of storage, transport and refrigeration. In industrial countries it is often because retailers and consumers are actually throwing away food.
 
@@ -110,8 +116,8 @@ This section emphasises the problem of food waste. Next to large scale crop fail
 ### **4.2.9 Global impacts: COVID-19 outbreak**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%208.png)
-
-UN, 2021
+<p><small>UN, 2021</small></p>
+<p><small>  </small></p>
 
 The COVID-19 pandemic has impacted every aspect of life, including the food security and nutrition status of millions of people across the globe. However, the number of undernourished people in the world was on the rise since 2014, long before the COVID-19 outbreak: Around 650 Million people suffered from undernourishment and 2 billion people experienced food insecurity in 2019 during pre-pandemic times.         
 

@@ -91,6 +91,7 @@ Therefore, the promotion of renewable energies and increased energy efficiencies
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/challenges){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
+</hr>
 
 ### *References*
 ***3.1 Energy Security: Definitions and background***
