@@ -14,10 +14,38 @@ parent: Water Security
 Vörösmarty et al. (2010) assessed human water security (HWS) and threats to biodiversity (BD). Drivers are the geographical representation of distinct stressors, and were selected to meet two requirements. First, drivers for which global-scale data sets of appropriate spatial resolution were either already available or could be generated in a defensible way from existing data were selected. And second, drivers whose chief mechanism of negatively impacting freshwaters was largely independent of the other drivers. A three-step procedure was used to convert driver values into standardized driver scores in order to calculate aggregate HWS and BD Threat indices. This conversion process allowed to account for downstream propagation of threats, normalize for longitudinal changes in discharge, and express all drivers on a common scale. 
 
 **Four different themes** were defined and for each theme important stressors identified (in total 23 stressors). The list is presented below with the respective weight in brackets: 
-- Catchment disturbance (0.18): (i) cropland (0.38); (ii) impervious surfaces (0.28); (iii) livestock density (0.20); (iv) wetland disconnectivity (0.14)
-- Pollution (0.35): (i) soil salinization (0.13); (ii) nitrogen loading (0.14); (iii) phosphorus loading (0.13); (iv) mercury deposition (0.13); (v) pesticide loading (0.15); (vi) sediment loading (0.07); (vii) organic loading (0.18); (viii) potential acidification (0.05); (ix) thermal alteration (0.02)
-- Water resources development (0.41): (i) dam density (0.09), (ii) river fragmentation (0.03); (iii) consumptive water loss (0.34); (iv) human water stress (0.26); (v) agricultural water stress (0.19); (vi) flow disruption (0.09)
-- Biotic factors (0.06): (i) non-native fishes in % (0.13); (ii) non-native fishes in # (0.14); (iii) fishing pressure (0.27); (iv) aquaculture pressure (0.46)
+
+<details><summary><b>Catchment disturbance (0.18):</b></summary>
+<p>
+
+(i) cropland (0.38); (ii) impervious surfaces (0.28); (iii) livestock density (0.20); (iv) wetland disconnectivity (0.14)
+</p>
+</details>
+
+<details><summary><b>Pollution (0.35):</b></summary>
+<p>
+
+(i) soil salinization (0.13); (ii) nitrogen loading (0.14); (iii) phosphorus loading (0.13); (iv) mercury deposition (0.13); (v) pesticide loading (0.15); (vi) sediment loading (0.07); (vii) organic loading (0.18); (viii) potential acidification (0.05); (ix) thermal alteration (0.02)
+
+</p>
+</details>
+
+<details><summary><b>Water resources development (0.41):</b></summary>
+<p>
+
+(i) dam density (0.09), (ii) river fragmentation (0.03); (iii) consumptive water loss (0.34); (iv) human water stress (0.26); (v) agricultural water stress (0.19); (vi) flow disruption (0.09)
+
+</p>
+</details>
+
+<details><summary><b>Biotic factors (0.06):</b></summary>
+<p>
+
+(i) non-native fishes in % (0.13); (ii) non-native fishes in # (0.14); (iii) fishing pressure (0.27); (iv) aquaculture pressure (0.46)
+
+</p>
+</details>
+
 
 <br/> <br/>
 
