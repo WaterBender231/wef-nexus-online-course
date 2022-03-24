@@ -9,19 +9,23 @@ parent: Energy Security
 ## 3.4.1 Energy Security Dimensions and Indices
 
 ![Untitled](4%204%20Energy%2020238/Untitled.png)
+<p><small>Source.</small></p>
+<p><small>  </small></p>
 
-We selected the dimensions “Availability”, “Accessibility”, “Affordability” and “Acceptability” to summarize some of the easy to assess Energy Security indicators. The same indicator might be a proxy for different dimensions. Depending on the major energy sources and uses in a country, different indicators and indices can be used to evaluate each dimension.
+We selected the dimensions **“Availability”**, **“Accessibility”**, **“Affordability”**, and **“Acceptability”** to summarize some of the easy to assess Energy Security indicators. The same indicator might be a proxy for different dimensions. Depending on the major energy sources and uses in a country, different indicators and indices can be used to evaluate each dimension.
 
 Although the concept of APERC (2007) to measure Energy Security was missing relevant aspects, the unaddressed factors can be integrated within the “4 As”. In the following, we integrate environmental sustainability in the acceptability dimension, and social equity in the dimensions affordability, accessibility, and acceptability.
 
 ### 3.4.2 Indices for Availability
 
 ![Untitled](4%204%20Energy%2020238/Untitled%201.png)
+<p><small>Source.</small></p>
+<p><small>  </small></p>
 
-Energy Import Dependency:
+**Energy Import Dependency:**
 Energy import dependency represents net ratio of net import to total primary energy consumption (IAEA et al. 2005). High values indicate low primary energy production relative to the primary energy consumption and, therefore, a high energy import dependency of the country. Furthermore, positive values indicate that a country is a net primary energy importer; negative values that the country is net energy exporter (eg. IAEA et al. (2005) and World Energy Council (2020)).
 
-<details><summary><b>Formula</b></summary>
+<details><summary><b>Formula: Energy Import Dependency</b></summary>
 <p>
 
 𝐸𝑛𝑒𝑟𝑔𝑦 𝐼𝑚𝑝𝑜𝑟𝑡 𝐷𝑒𝑝𝑒𝑛𝑑𝑒𝑛𝑐𝑦 =  (〖𝑇𝑃𝐸〗*𝒄𝒐𝒏−〖𝑇𝑃𝐸〗𝒑𝒓𝒐)/〖𝑇𝑃𝐸〗𝑐𝑜𝑛   〖𝑻𝑷𝑬〗(𝒄𝒐𝒏 ): total primary energy consumption;〖𝑻𝑷𝑬〗(𝒑𝒓𝒐 ): total primary energy production

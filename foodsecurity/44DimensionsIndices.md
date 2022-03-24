@@ -9,6 +9,8 @@ parent: Food Security
 ### **4.4.1 Food Security Dimensions and Indices**
 
 ![Untitled](5%204%20Food%20S%20ded56/Untitled.png)
+<p><small>Source.</small></p>
+<p><small>  </small></p>
 
 We selected several „easy-to-measure“ indicators and four dimensions to be used in a food security assessment of your study region, indicating literature and data sources.
 
@@ -16,32 +18,44 @@ To cope with the limitations of PoU, FAO established a new and more comprehensiv
 
 Jones et al. (2013) emphasize that the additional indicators provide further information beyond food availability, enabling for better assessment of food security status, by covering aspects such as food prices volatility, share of food expenditure of the poor, political stability, absence of violence, among others.
 
-Following we list the 26 indicators under their corresponding dimensions as defined by FAO (2012):
-Indicators for availability:
+Following we list the **26 indicators** under their corresponding dimensions as defined by FAO (2012):
 
-- Average dietary energy supply adequacy
-- Average value of food production
-- Share of dietary energy supply derived from cereals, roots and tubers
-- Average protein supply
-- Average supply of protein of animal origin
+<details><summary><b>Indicators for availability:</b></summary>
+<p>
+<ul><li>Average dietary energy supply adequacy
+<li>Average value of food production
+<li>Share of dietary energy supply derived from cereals, roots and tubers
+<li>Average protein supply
+<li>Average supply of protein of animal origin
+</li></ul>
 
-Indicators for accessibility:
+</p>
+</details>
 
-- Rail lines density
-- Gross domestic product per capita (in purchasing power equivalent)
-- Prevalence of undernourishment
-- Prevalence of severe food insecurity in the total population
-- Prevalence of moderate or severe food insecurity in the total population
+<details><summary><b>Indicators for accessibility:</b></summary>
+<p>
+<ul><li>Rail lines density
+<li>Gross domestic product per capita (in purchasing power equivalent)
+<li>Prevalence of undernourishment
+<li>Prevalence of severe food insecurity in the total population
+<li>Prevalence of moderate or severe food insecurity in the total population
+</li></ul>
 
-Indicators for stability
+</p>
+</details>
 
-- Cereal import dependency ratio
-- Percentage of arable land equipped for irrigation
-- Value of food imports over total merchandise exports
-- Political stability and absence of violence/terrorism
-- Per capita food production variability
-- Per capita food supply variability
+<details><summary><b>Indicators for stability:</b></summary>
+<p>
+<ul><li>Cereal import dependency ratio
+<li>Percentage of arable land equipped for irrigation
+<li>Value of food imports over total merchandise exports
+<li>Political stability and absence of violence/terrorism
+<li>Per capita food production variability
+<li>Per capita food supply variability
+</li></ul>
 
+</p>
+</details>
 
 ### **4.4.2 Food availability indices –how can I measure food availability?**
 
@@ -53,12 +67,16 @@ Indicators for stability
 |  | Average protein supply | National average protein supply. | gr/capita/day |  |
 |  | Average supply of protein of animal origin | National average protein supply. | gr/capita/day |  |
 
-Average dietary energy supply adequacy (DES) is the a percentage of the Average Dietary Energy Requirement (ADER). Each country's or region's average supply of calories for food consumption is normalized by the average dietary energy requirement estimated for its population to provide an index of adequacy of the food supply in terms of calories.
 
-Analyzed together with the prevalence of undernourishment, it allows discerning whether undernourishment is mainly due to insufficiency of the food supply or to particularly bad distribution.
+<details><summary><b>Average dietary energy supply adequacy (DES):</b></summary>
+<p>Average dietary energy supply adequacy (DES) is the a percentage of the Average Dietary Energy Requirement (ADER). Each country's or region's average supply of calories for food consumption is normalized by the average dietary energy requirement estimated for its population to provide an index of adequacy of the food supply in terms of calories.
+</p>
+</details>
 
-Average value of food production expresses the food net production value (in constant 2004-06 international dollars), as estimated by FAO and published by FAOSTAT, in per capita terms.
-It provides a cross country comparable measure of the relative economic size of the food production sector in the country.
+
+Analyzing DES together with the prevalence of undernourishment allows discerning whether undernourishment is mainly due to insufficiency of the food supply or to particularly bad distribution.
+
+Average value of food production expresses the food net production value (in constant 2004-06 international dollars), as estimated by FAO and published by FAOSTAT, in per capita terms. It provides a cross country comparable measure of the relative economic size of the food production sector in the country.
 
 Number of people undernourished (million) (3-year average) is the estimated number of people at risk of undernourishment. It is calculated by applying the estimated prevalence of undernourishment to total population in each period.
 
@@ -81,7 +99,7 @@ Average protein supply - National average protein supply (expressed in grams per
 | Accessibility | Road density | Total road network includes motorways, highways, and main or national roads, secondary or regional roads, and all other roads in a country. | Km of road per 100 square km of land area | FAOSTAT statistical database. http://www.fao.org/faostat/en/#data/FS |
 |  | Rail lines density | Ratio between the length of railway route and the area of the country | Km/km² |  |
 
-Road density: Total road network includes motorways, highways, and main or national roads, secondary or regional roads, and all other roads in a country. A motorway is a road designed and built for motor traffic that separates the traffic flowing in opposite directions.
+**Road density:** Total road network includes motorways, highways, and main or national roads, secondary or regional roads, and all other roads in a country. A motorway is a road designed and built for motor traffic that separates the traffic flowing in opposite directions.
 
 Percent of paved roads over total roads are those surfaced with crushed stone (macadam) and hydrocarbon binder or bituminized agents, with concrete, or with cobblestones, as a percentage of all the country's roads, measured in length. Rail lines density corresponds to the ratio between the length of railway route available for train service, irrespective of the number of parallel tracks (rail lines, total route in km) with the area of the country.
 
@@ -130,7 +148,7 @@ Cereal import dependency ratio provides a measure of the dependence of a country
 "Ratio between arable land equipped for irrigation and total arable land. Arable land is defined as the land under temporary agricultural crops (multiple-cropped areas are counted only once), temporary meadows for mowing or pasture, land under market and kitchen gardens and land temporarily fallow (less than five years). The abandoned land resulting from shifting cultivation is not included in this category. Data for arable land are not meant to indicate the amount of land that is potentially cultivable. Total arable land equipped for irrigation is defined as the area equipped to provide water (via irrigation) to the crops. It includes areas equipped for full and partial control irrigation, equipped lowland areas, pastures, and areas equipped for spate irrigation."
 
 **Value of food imports over total merchandise exports**
-**Value of food (excl. fish) imports over total merchandise exports.**
+Value of food (excl. fish) imports over total merchandise exports.
 This indicator provides a measure of vulnerability and captures the adequacy of foreign exchange reserves to pay for food imports, which has implications for national food security depending on production and trade patterns.
 
 **Political stability and absence of violence/terrorism**
@@ -155,22 +173,51 @@ SDG Indicators. Metadata repository [New York] UN: https://unstats.un.org/sdgs/m
 | Indicator 2.2.2: Prevalence of malnutrition among children under 5 years of age, by type | Prevalence of malnutrition is indicated by weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards. | % |  |
 | Indicator 2.2.3: Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status | Share of women (15-49 years) with a haemoglobin concentration less than 120g/L or 110g/L (if pregnant), based on surveys. | % |  |
 
-The section above shows which indicators are used to monitor SDG 2. Recall that SDG 2 puts food security in its centre with the main objective to “end hunger, achieve food security and improved nutrition and promote sustainable agriculture” (UN, 2021). There are 14 different indicators that measure the progress towards sub-targets of SDG 2. We will focus on SDG 2.1 and SDG 2.2.
+The section above shows which indicators are used to monitor SDG 2. Recall that SDG 2 puts food security in its centre with the main objective to
+>“end hunger, achieve food security and improved nutrition and promote sustainable agriculture” (UN, 2021). 
+There are 14 different indicators that measure the progress towards sub-targets of SDG 2. We will focus on SDG 2.1 and SDG 2.2.
 
-- **Target 2.1** is the first target, stating “By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round” (UN, 2021). There are two indicators used to measure target 2.1:
+<details><summary><b>Target 2.1</b></summary>
+<p>
 
-- **Indicator 2.1.1**: Prevalence of undernourishment:This indicator estimates the prevalence of undernourishment based on the share of population consuming insufficient food. Insufficient food consumption means thatindividuals do not reach the required dietary energy levels that one needs to maintain a normal, active, and healthy life. The indicator is expressed as a percentage.
+ is the first target, stating “By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round” (UN, 2021). There are two indicators used to measure target 2.1:
+ 
+ <details><summary><b>Indicator 2.1.1</b></summary>
+ <p>Prevalence of undernourishment:This indicator estimates the prevalence of undernourishment based on the share of population consuming insufficient food. Insufficient food consumption means thatindividuals do not reach the required dietary energy levels that one needs to maintain a normal, active, and healthy life. The indicator is expressed as a percentage.
+ </p>
+ </details>
 
-- **Indicator 2.1.2**: Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES):This indicators measures the share of a population that experienced food insecurity. The indicator allows for a distinction of experienced severity of food security, accounting for moderate or severe levels of food security during a given time period. The severity of food insecurity is measured based on the Food Insecurity Experience Scale, short FIES. FIES is a is a measurement standard that has been established by the FAO in more than 140 countries across the world. Regional and global estimates of the prevalence of moderate or severe food insecurity are expressed as percentage of the total population.
+<details><summary><b>Indicator 2.1.2</b></summary>
+ <p>
+ Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES):This indicators measures the share of a population that experienced food insecurity. The indicator allows for a distinction of experienced severity of food security, accounting for moderate or severe levels of food security during a given time period. The severity of food insecurity is measured based on the Food Insecurity Experience Scale, short FIES. FIES is a is a measurement standard that has been established by the FAO in more than 140 countries across the world. Regional and global estimates of the prevalence of moderate or severe food insecurity are expressed as percentage of the total population.
+</p>
+</details>
+
+</p>
+</details>
 
 
-- The second target is **Target 2.2**: “By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons”. Three indicators are employed to measure progress towards SDG 2.2:
 
-- **Indicator 2.2.1**: Prevalence of stunting (where height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age: This indicator takes child growth as a proxy to reflect child nutritional status. The indicator is computed based on the distribution of heights of all children of a certain age. Prevalence of stunting is indicated when the average of differences from the median for each member of the reference population is <- 2. Data for this indicator mainly comes from nationally representative household surveys. UNICEF, WHO and the World Bank group compute the indicator based on data provided by ministries of health, national offices of statistics or national institutes of nutrition. Currently, Indicator 2.2.1 is available for more than 150 countries worldwide.
+<details><summary><b>Target 2.2: </b></summary>
+<p>
 
-- **Indicator 2.2.2**: Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight): Nationally representative household surveys are the data source for most of the countries. The indicator is computed based on the distribution of weight for height of all children of a certain age. Prevalence of malnutrition is indicated by weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards.
+“By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons”. Three indicators are employed to measure progress towards SDG 2.2:
+ 
+ <details><summary><b>Indicator 2.2.1</b></summary>
+ <p>Prevalence of stunting (where height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age: This indicator takes child growth as a proxy to reflect child nutritional status. The indicator is computed based on the distribution of heights of all children of a certain age. Prevalence of stunting is indicated when the average of differences from the median for each member of the reference population is <- 2. Data for this indicator mainly comes from nationally representative household surveys. UNICEF, WHO and the World Bank group compute the indicator based on data provided by ministries of health, national offices of statistics or national institutes of nutrition. Currently, Indicator 2.2.1 is available for more than 150 countries worldwide.
+ </p>
+ </details>
 
-- **Indicator 2.2.3**: Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status as percentageThe indicators shows the percentage of women between 15−49 years with a haemoglobin concentration less than 120 g/L (for nonpregnant women and lactating women) or less than 110 g/L if women are pregnant. Data is mainly collected from population-based surveys. Survey reports are entered into Micronutrients Database of the WHO Vitamin and Mineral Information System (VMNIS). The WHO then compiles the data from the VMNIS and computes the indicator 2.2.3.
+<details><summary><b>Indicator 2.2.2</b></summary>
+ <p> Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight): Nationally representative household surveys are the data source for most of the countries. The indicator is computed based on the distribution of weight for height of all children of a certain age. Prevalence of malnutrition is indicated by weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards. </p> 
+ </details>
+
+ <details><summary><b>Indicator 2.2.3</b></summary>
+ <p>Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status as percentageThe indicators shows the percentage of women between 15−49 years with a haemoglobin concentration less than 120 g/L (for nonpregnant women and lactating women) or less than 110 g/L if women are pregnant. Data is mainly collected from population-based surveys. Survey reports are entered into Micronutrients Database of the WHO Vitamin and Mineral Information System (VMNIS). The WHO then compiles the data from the VMNIS and computes the indicator 2.2.3.</p>
+ </details>
+
+</p>
+</details>
 
 ### **4.4.7 Example: Food Security Information and Knowledge Sharing System – Sudan**
 
@@ -198,20 +245,42 @@ One example for a national database that strengthens and improves food security 
 
 Indicators used in the database are classified according to the four dimensions of food security: availability, access, utilization and stability. Currently, the platform uses 35 indicators: 5 for availability, 10 for access, 13 for utilization and 7 for stability.
 
-**The availability dimension is measured by:**
-Average dietary energy supply adequacy, (%)
-Average value of food production, (International $ per capita)
-Share of dietary energy supply derived from cereals, roots and tubers, (%)
-Average vegetarian protein supply, (gr/capita/day)
-Average supply of protein of animal origin, (gr/capita/day)
+<details><summary><b>Measuring the availability dimension</b></summary>
+<p><ul>
+<li>Average dietary energy supply adequacy, (%)
+<li>Average value of food production, (International $ per capita)
+<li>Share of dietary energy supply derived from cereals, roots and tubers, (%)
+<li>Average vegetarian protein supply, (gr/capita/day)
+<li>Average supply of protein of animal origin, (gr/capita/day)
+</li></ul>
 
-**The accessibility dimension is divided into economic access, physical access, and indicators to measure the prevalence of undernourishment. Economic  access is measured with using gross domestic product per capita, (in purchasing power equivalent) and the domestic food price level index, (Index).**
-Physical access is quantified using the percent of paved roads over total roads, (%), the road density, (km of road/ 100 km² of land area), and the rail lines density, (km/km²).
-Indicators for Prevalence of undernourishment are:Prevalence of undernourishment, (%)
-Number of people undernourished, (number of people)
-Share of food expenditure of the poor, (%)
-Depth of the food deficit  (%)
-Prevalence of food inadequacy (%)
+</p>
+</details>
+
+
+The **accessibility** dimension is divided into **economic access**, **physical access**, and indicators to measure the **prevalence of undernourishment**. 
+
+
+
+<details><summary><b>Quantification of access:</b></summary>
+<p>Economic  access is measured using 
+<ul><li>gross domestic product per capita, (in purchasing power equivalent) 
+<li>the domestic food price level index, (Index)</li></ul></p>
+
+<p>Physical access is quantified using 
+<ul><li>the percent of paved roads over total roads, (%)
+<li>the road density, (km of road/ 100 km² of land area)
+<li>the rail lines density, (km/km²)</li></ul></p>
+
+<p>Indicators for Prevalence of undernourishment are
+<ul><li>Prevalence of undernourishment, (%)
+<li>Number of people undernourished, (number of people)
+<li>Share of food expenditure of the poor, (%)
+<li>Depth of the food deficit  (%)
+<li>Prevalence of food inadequacy (%)</li></ul>
+
+</p>
+</details>
 
 ### **4.4.8 Example: Food Security Information and Knowledge Sharing System – Sudan**
 
@@ -237,24 +306,34 @@ Value of food imports over total merchandise exports |  |
 Per capita food production variability
 Per capita food supply variability |  |
 
-**The dimension of utilization is divided into the sub-dimensions Non-food Items and Food Quality and Micro Nutrients. The former being measured using the two indicators access to improved water sources and access to improved sanitation facilities. Indicators to determine food Quality and Micro Nutrients are:**
-Percentage of children under 5 years of age affected by wasting, (%)
-Percentage of children under 5 years of age who are stunted, (%)
-Percentage of children under 5 years of age who are underweight, (%)
-Percentage of adults who are underweight, (%)
-Prevalence of anaemia among pregnant women, (%)
-Prevalence of anaemia among children under 5 years of age, (%)
-Prevalence of vitamin A deficiency Prevalence of iodine deficiency, (%)
+The dimension of utilization is divided into the sub-dimensions **Non-food Items and Food Quality** and **Micro Nutrients**. The former being measured using the two indicators access to improved water sources and access to improved sanitation facilities. 
 
-**Stability is further divided into exposure and political stability and absence of violence/terrorism.**
-Exposure indicators are as follows:
-Cereal import dependency ratio
-Percent of arable land equipped for irrigation
-Value of food imports over total merchandise exports
-Political stability and absence of violence or terrorism is determined using the following indicators:
-Domestic food price volatility
-Per capita food production variability
-Per capita food supply variability
+
+<details><summary><b>Indicators to determine food Quality and Micro Nutrients:</b></summary>
+<p><ul><li>Percentage of children under 5 years of age affected by wasting, (%)
+<li>Percentage of children under 5 years of age who are stunted, (%)
+<li>Percentage of children under 5 years of age who are underweight, (%)
+<li>Percentage of adults who are underweight, (%)
+<li>Prevalence of anaemia among pregnant women, (%)
+<li>Prevalence of anaemia among children under 5 years of age, (%)
+<li>Prevalence of vitamin A deficiency Prevalence of iodine deficiency, (%)
+</li></ul>
+</p>
+</details>
+
+Stability is further divided into exposure and political stability and absence of violence/terrorism.
+<details><summary><b>Exposure indicators are as follows:</b></summary>
+<p><ul><li>Cereal import dependency ratio
+<li>Percent of arable land equipped for irrigation
+<li>Value of food imports over total merchandise exports
+</li></ul>
+</p>
+
+<p>Political stability and absence of violence or terrorism is determined using the following indicators:</p>
+<ul><li>Domestic food price volatility
+<li>Per capita food production variability
+<li>Per capita food supply variability</li></ul>
+</details>
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/questions){: .btn .btn-purple .mr-4}
