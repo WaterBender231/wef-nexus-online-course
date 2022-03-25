@@ -58,54 +58,47 @@ Following is a list of the indicators (in Bold font) and sub-indicators under th
 
 
 <details><summary><b>Indicators for affordability:</b></summary>
-<p>
-Food Consumption as a share of household expenditure
-Proportion of population under global poverty line
-GDP per capita at purchasing power parity (PPP)
-Agricultural Import tariffs
-Presence of food safety-net programmes (qualitative)
-Access to financing for farmers (qualitative)
+<p>Food Consumption as a share of household expenditure<br>
+Proportion of population under global poverty line<br>
+GDP per capita at purchasing power parity (PPP)<br>
+Agricultural Import tariffs<br>
+Presence of food safety-net programmes (qualitative)<br>
+Access to financing for farmers (qualitative)<br>
 </p>
 </details>
 
 <details><summary><b>Indicators for availability:</b></summary>
-<p>
-
-1. Sufficiency of supply
-1.1. Average food supply
-1.2. Dependence on chronic food aid (qualitative)
-2. Public expenditure on agricultural research & development
-3. Agriculture infrastructure
-3.1. Existence of adequate crop storage facilities (qualitative)
-3.2. Road infrastructure
-3.3. Port infrastructure
-4. Volatility of agricultural production
-5. Political stability risk
-6. Corruption
-7. Urban absorption capacity
-8. Food loss
-
+<p>1. Sufficiency of supply<br>
+1.1. Average food supply<br>
+1.2. Dependence on chronic food aid (qualitative)<br>
+2. Public expenditure on agricultural research & development<br>
+3. Agriculture infrastructure<br>
+3.1. Existence of adequate crop storage facilities (qualitative)<br>
+3.2. Road infrastructure<br>
+3.3. Port infrastructure<br>
+4. Volatility of agricultural production<br>
+5. Political stability risk<br>
+6. Corruption<br>
+7. Urban absorption capacity<br>
+8. Food loss<br>
 </p>
 </details>
 
 <details><summary><b>Indicators for quality and safety:</b></summary>
-<p>
-
-1. Diet diversification
-2. Nutritional standards
-2.1. National dietary guidelines (qualitative)
-2.2. National nutrition plan or strategy (qualitative)
-2.3. Nutrition monitoring and surveillance (qualitative)
-3. Micronutrient availability
-3.1. Dietary availability of vitamin A
-3.2. Dietary availability of animal iron
-3.3. Dietary availability of vegetal iron
-4. Protein quality
-5. Food safety
-5.1. Agency to ensure the safety and health of food (qualitative)
-5.2. Percentage of population with access to potable water
-5.3. Presence of formal grocery sector (qualitative)
-
+<p>1. Diet diversification<br>
+2. Nutritional standards<br>
+2.1. National dietary guidelines (qualitative)<br>
+2.2. National nutrition plan or strategy (qualitative)<br>
+2.3. Nutrition monitoring and surveillance (qualitative)<br>
+3. Micronutrient availability<br>
+3.1. Dietary availability of vitamin A<br>
+3.2. Dietary availability of animal iron<br>
+3.3. Dietary availability of vegetal iron<br>
+4. Protein quality<br>
+5. Food safety<br>
+5.1. Agency to ensure the safety and health of food (qualitative)<br>
+5.2. Percentage of population with access to potable water<br>
+5.3. Presence of formal grocery sector (qualitative)<br>
 </p>
 </details>
 

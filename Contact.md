@@ -6,4 +6,4 @@ nav_order: 9
 ---
 
 **Recommended Citation:**
-Nauditt et al., (2022): *“Title of Web Page.”* WEF-Nexus Online Course, published on GitHub, March 2022, Available at *URL* [last access: *date*]
+WEF-Nexus Online Course, (2022): *“Title of Web Page.”*, published on GitHub, March 2022, Available at *URL* [last access: *date*].
