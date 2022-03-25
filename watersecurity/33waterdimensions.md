@@ -165,7 +165,9 @@ Babel et al. (2020) used questionnaires under three indicators: (i) overall mana
 
 <br/> <br/>
 
-</hr>
+
+
+<hr/>
 
 ## Data Overview
 ### Major data sources to evaluate Water Security and calculate respective indicators

@@ -24,6 +24,7 @@ UN Water (2013) suggested a „Water Security“ concept addressing key aspects 
 - The ability to cope with uncertainties and risks of water-related hazards 
 - Good governance and accountability, and the due consideration of the interests of all stakeholders
 
+<hr/>
 
 ### 2.1.2 Key messages of SDG 6 (abridged)
 *Goal 6: Ensure availability and sustainable management of water and sanitation for all*
@@ -97,6 +98,9 @@ SDG 6 lists the key targets related to water security. This overview highlights 
 Various definitions of Water Security exist, each reflecting the perspective and purpose of their application. Most incorporate the basic elements of water resources, environment, economy, water-related disasters, and human needs. Cook and Bakker (2012) identified four complementing themes in water security frameworks: availability; water-related hazards and vulnerability to those hazards; human needs; and, environmental sustainability. 
 
 The Asian Development Bank (2013) added urban and economy, while Grey and Sadoff (2007) incorporated climate change and disease transmission into their definition of water security. This has led to a risk-based approach to water security as articulated by both Grey et al. (2013) and OECD (2013). Siwar and Ahmed (2014) used social elements of safety, access, and affordability in their framework. Given that water is essentially a coupled system (Bogardi et al. 2011) the integration of social and physical indicators is critical for representing and understanding local water security.
+
+<hr/>
+
 
 ## 2.2 Varying Water Security assessment frameworks
 

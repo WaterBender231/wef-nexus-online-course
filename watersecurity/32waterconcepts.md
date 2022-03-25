@@ -48,6 +48,9 @@ Vörösmarty et al. (2010) assessed human water security (HWS) and threats to bi
 </details>
 
 
+<hr/>
+
+
 ### National Water Security Framework
 <p><small>  </small></p>
 
@@ -116,6 +119,7 @@ Indicators: (i) access to piped water supply (%), (ii) access to improved sanita
 </p>
 </details>
 
+<hr/>
 
 ### Review on Water Security approaches for rural, remote or otherwise marginalized (RRM) communities
 
@@ -125,6 +129,7 @@ Indicators: (i) access to piped water supply (%), (ii) access to improved sanita
 
 Dickson et al. (2016) provided a literature review about water security related to rural, remote, or otherwise marginalized (RRM) communities. They evaluated, prioritized indicators for decision-making at local and supra-local scales. A list of indicators (n=176) was provided as an overview to select appropriate indicators depending on the dimension and on data availability.
 
+<hr/>
 
 ### Global Water Security Index- Measuring global water security towards sustainable development goals
 
@@ -215,8 +220,7 @@ Do you think these weights are appropriate for your country/region? Why?
 </p>
 </details>
 
-
-
+<hr/>
 
 ### Urban Water Security – Example Bangkok Babel et al., 2020
 
