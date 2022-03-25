@@ -21,7 +21,7 @@ Jones et al. (2013) emphasize that the additional indicators provide further inf
 Following we list the **26 indicators** under their corresponding dimensions as defined by FAO (2012):
 
 
-<details><summary><b style="color: #ffffff; background-color: #dbbd7b;">Indicators for availability</b></summary>
+<details><summary><b>Indicators for availability</b></summary>
 <p>Average dietary energy supply adequacy<br>
 Average value of food production<br>
 Share of dietary energy supply derived from cereals, roots and tubers<br>
@@ -31,24 +31,22 @@ Average supply of protein of animal origin<br>
 </details>
 
 <details><summary><b>Indicators for affordability</b></summary>
-<p>
-Rail lines density
-Gross domestic product per capita (in purchasing power equivalent)
-Prevalence of undernourishment
-Prevalence of severe food insecurity in the total population
-Prevalence of moderate or severe food insecurity in the total population
+<p>Rail lines density<br>
+Gross domestic product per capita (in purchasing power equivalent)<br>
+Prevalence of undernourishment<br>
+Prevalence of severe food insecurity in the total population<br>
+Prevalence of moderate or severe food insecurity in the total population<br>
 </p>
 </details>
 
 
 <details><summary><b>Indicators for stability</b></summary>
-<p>
-Cereal import dependency ratio
-Percentage of arable land equipped for irrigation
-Value of food imports over total merchandise exports
-Political stability and absence of violence/terrorism
-Per capita food production variability
-Per capita food supply variability
+<p>Cereal import dependency ratio<br>
+Percentage of arable land equipped for irrigation<br>
+Value of food imports over total merchandise exports<br>
+Political stability and absence of violence/terrorism<br>
+Per capita food production variability<br>
+Per capita food supply variability<br>
 </p>
 </details>
 
@@ -235,6 +233,7 @@ One example for a national database that strengthens and improves food security 
 
 Indicators used in the database are classified according to the four dimensions of food security: availability, access, utilization and stability. Currently, the platform uses 35 indicators: 5 for availability, 10 for access, 13 for utilization and 7 for stability.
 
+## Availability
 <details><summary><b>Measuring the availability dimension</b></summary>
 <p>Average dietary energy supply adequacy, (%) <br>
 Average value of food production, (International $ per capita) <br>
@@ -244,12 +243,10 @@ Average supply of protein of animal origin, (gr/capita/day)<br>
 </p>
 </details>
 
-
+## Accessibility
 The **accessibility** dimension is divided into **economic access**, **physical access**, and indicators to measure the **prevalence of undernourishment**. 
 
-
-
-<details><summary><b>Quantification of access:</b></summary>
+<details><summary><b>Quantification of access</b></summary>
 <p>Economic  access is measured using <br>
 gross domestic product per capita, (in purchasing power equivalent)<br>
 the domestic food price level index, (Index)<br>
@@ -293,9 +290,14 @@ Value of food imports over total merchandise exports |  |
 Per capita food production variability
 Per capita food supply variability |  |
 
+
+## Utilization 
+
 The dimension of utilization is divided into the sub-dimensions **Non-food Items and Food Quality** and **Micro Nutrients**. The former being measured using the two indicators access to improved water sources and access to improved sanitation facilities. 
 
+Stability is further divided into exposure and political stability and absence of violence/terrorism.
 
+### View more details
 <details><summary><b>Indicators to determine food Quality and Micro Nutrients:</b></summary>
 <p>Percentage of children under 5 years of age affected by wasting, (%)<br>
 Percentage of children under 5 years of age who are stunted, (%)<br>
@@ -307,7 +309,6 @@ Prevalence of vitamin A deficiency Prevalence of iodine deficiency, (%)<br>
 </p>
 </details>
 
-Stability is further divided into exposure and political stability and absence of violence/terrorism.
 <details><summary><b>Exposure indicators are as follows:</b></summary>
 <p>Cereal import dependency ratio<br>
 Percent of arable land equipped for irrigation<br>
