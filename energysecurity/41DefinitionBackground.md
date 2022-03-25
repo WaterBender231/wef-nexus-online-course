@@ -21,6 +21,7 @@ Energy security is crucial to ensure long and short-term economic development an
 3. **Accessibility**
 4. **Supply**
 
+<hr/>
 
 ## Key messages of SDG 7 (abridged)
 
@@ -91,9 +92,9 @@ Therefore, the promotion of renewable energies and increased energy efficiencies
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/challenges){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
-</hr>
+<hr/>
 
-### *References*
+**References**
 ***3.1 Energy Security: Definitions and background***
 - *IEA. (2014). Energy security: Reliable, affordable access to all fuels and energy sources. [https://www.iea.org/topics/energy-securit](https://www.iea.org/topics/energy-security)*
 - *UN (2020), ‘Sustainable Development Goals’, [https://sustainabledevelopment.un.org/sdg](https://sustainabledevelopment.un.org/sdg)*

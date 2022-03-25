@@ -6,7 +6,7 @@ parent: Energy Security
 ---
 # **3.2 Global Challenges for Energy Security**
 
-## Global energy consumption (per capita)
+## 3.2.1 Global energy consumption (per capita)
 
 ![Untitled](4%202%20Global%20e75fb/Untitled.png)
 <p><small>Ritchie & Roser (2018).</small></p>
@@ -18,8 +18,9 @@ capita. The least developed countries, particularly in Africa, consume just a fr
 countries such as the United States of America, Canada, the United Arab Emirates, Kuwait, Qatar, Saudi
 Arabia, Iceland and Australia.
 
+<hr/>
 
-## Energy consumption: historical and future trends
+## 3.2.2 Energy consumption: historical and future trends
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%201.png)
 <p><small>Note: 1 million Btu approximately equals to the energy derived from 30 litres of petrol.</small></p>
@@ -29,8 +30,6 @@ The previous section displayed the energy consumption per capita in 2018. The tw
 
 Note that these graphs should be considered in conjunction with the map presented on the previous section. The most developed countries still tend to consume significantly more energy per capita than less developed countries.
 
-
-### Energy consumption: historical and future trends
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%202.png)
 <p><small>EIA, 2017; REN21, 2012</small></p>
@@ -47,8 +46,9 @@ The second graph provides a breakdown of the different renewable energies that m
 renewables in 2010 (REN 21, 2012). It is worth noting that the renewable share (16.7% at the time) was almost
 evenly divided into traditional biomass and what is termed “modern renewables”.
 
+<hr/>
 
-**Global Total Final Energy Consumption by Sector (2018)**
+## **3.2.3 Global Total Final Energy Consumption by Sector (2018)**
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%203.png)
 <p><small>IEA (2020a)</small></p>
@@ -62,7 +62,9 @@ World energy production was 14.421 Mtoe in 2018. In general, the shares of indiv
 global demand are not changing significantly from year to year.
 
 
-**Global Total Electricity Generation by Source and Renewable Share (2018)**
+<hr/>
+
+## **3.2.4 Global Total Electricity Generation by Source and Renewable Share (2018)**
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%204.png)
 
@@ -80,8 +82,9 @@ electricity production. Wind energy (18%), solar photovoltaics (8%) and biofuels
 renewable electricity production. Further sources are waste, geothermal energy, tide, and other sources (all
 together 4%).
 
+<hr/>
 
-**From Energy Source to Consumption: Energy Flows**
+## **3.2.5 From Energy Source to Consumption: Energy Flows**
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%205.png)
 
@@ -94,9 +97,9 @@ National energy flow Sankey diagrams, illustrate the distribution of energy sour
 > “Functions performed using energy which are means to obtain or facilitate desired end services or states” 
 are termed “Energy Services” (Fell 2017). They can be allocated to the sectors residential, commercial, industrial, and transportation and include for example heating, cooling, cooking, lighting, and motive power (ibid.). Rejected energy is the energy lost due to conversion and transmission, mostly in the form of thermal energy (waste heat).
 
+<hr/>
 
-
-**Electricity Availability: Power outages (blackouts) and their role in Energy Security**
+## **3.2.6 Electricity Availability: Power outages (blackouts) and their role in Energy Security**
 
 Power generation; does not equal a connective grid; does not equal access to power
 
@@ -116,8 +119,9 @@ common across the globe. An enterprise survey conducted by the World Bank, consi
 As can be seen in the table, some areas experience very frequent outages, with some firms in South Asia
 having no power for up to over 100 hours per month.
 
+<hr/>
 
-**The cost of power outages**
+## **3.2.7 The cost of power outages**
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%208.png)
 
@@ -129,7 +133,7 @@ The study also found that the outages come along with considerable costs for the
 Investments in back-up power generators are opportunity costs that hinder further growth. In the case of Africa, increasing the frequency of power outages by one percent is projected to lead to a reduction of the GDP per capita by as much as 2.9 % in the long run (Runtschler et al. 2019). Apart from the cost on firms and enterprises, there are also direct effects of outages on the general population. Frequent outages in Ethiopia and Nigeria have been shown to increase criminality and cause a heightened sense of insecurity among the population. (Amadi 2015; Meles 2020).
 
 
-**Relationship – power outages vs GDP**
+### **Relationship – power outages vs GDP**
 
 The relation of outage frequency and the GDP
 
@@ -144,7 +148,7 @@ While all of these can also happen in developing countries, the main reason here
 
 
 
-**Approaches to solve frequent outages**
+### **Approaches to solve frequent outages**
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%2010.png)
 
@@ -158,8 +162,9 @@ Another approach for the future is for developing countries to “skip” the ce
 
 Demand-side management (DSM) is also considered as a possible way to reduce outages and their negative effects. DSM describes the shifting of electric loads at the consumer’s side in order to reduce peak-demands and thus reduce pressures on the grid. While this is projected to significantly decrease the duration and the costs of outages, it requires the use of network-controlled smart technology, which comes along with high initial investment costs (Closepet 2013; Natarajan and Closepet 2012).
 
+<hr/>
 
-**Acceptability – death rates and greenhouse gas emissions related to energy production**
+## **3.2.8 Acceptability – death rates and greenhouse gas emissions related to energy production**
 
 ![Untitled](4%202%20Global%20e75fb/Untitled%2011.png)
 
@@ -187,6 +192,8 @@ cooking.
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/dimensions){: .btn .btn-purple .mr-4}
 <br/> <br/>
+
+<hr/>
 
 
 ### *References*
