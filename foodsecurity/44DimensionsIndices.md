@@ -195,7 +195,7 @@ There are 14 different indicators that measure the progress towards sub-targets 
 
 
 
-<details><summary><b>Target 2.2: </b></summary>
+<details><summary><b>Target 2.2</b></summary>
 <p>“By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons”. Three indicators are employed to measure progress towards SDG 2.2:
  
  <details><summary><b>Indicator 2.2.1</b></summary>
@@ -240,13 +240,11 @@ One example for a national database that strengthens and improves food security 
 Indicators used in the database are classified according to the four dimensions of food security: availability, access, utilization and stability. Currently, the platform uses 35 indicators: 5 for availability, 10 for access, 13 for utilization and 7 for stability.
 
 <details><summary><b>Measuring the availability dimension</b></summary>
-<p><ul>
-<li>Average dietary energy supply adequacy, (%)
-<li>Average value of food production, (International $ per capita)
-<li>Share of dietary energy supply derived from cereals, roots and tubers, (%)
-<li>Average vegetarian protein supply, (gr/capita/day)
-<li>Average supply of protein of animal origin, (gr/capita/day)
-</li></ul>
+<p>Average dietary energy supply adequacy, (%) <br>
+Average value of food production, (International $ per capita) <br>
+Share of dietary energy supply derived from cereals, roots and tubers, (%)<br>
+Average vegetarian protein supply, (gr/capita/day)<br>
+Average supply of protein of animal origin, (gr/capita/day)<br>
 </p>
 </details>
 
@@ -256,21 +254,22 @@ The **accessibility** dimension is divided into **economic access**, **physical 
 
 
 <details><summary><b>Quantification of access:</b></summary>
-<p>Economic  access is measured using 
-<ul><li>gross domestic product per capita, (in purchasing power equivalent) 
-<li>the domestic food price level index, (Index)</li></ul></p>
+<p>Economic  access is measured using <br>
+gross domestic product per capita, (in purchasing power equivalent)<br>
+the domestic food price level index, (Index)<br>
+</p>
 
-<p>Physical access is quantified using 
-<ul><li>the percent of paved roads over total roads, (%)
-<li>the road density, (km of road/ 100 km² of land area)
-<li>the rail lines density, (km/km²)</li></ul></p>
+<p>Physical access is quantified using <br>
+the percent of paved roads over total roads, (%)<br>
+the road density, (km of road/ 100 km² of land area)<br>
+the rail lines density, (km/km²)<br></p>
 
-<p>Indicators for Prevalence of undernourishment are
-<ul><li>Prevalence of undernourishment, (%)
-<li>Number of people undernourished, (number of people)
-<li>Share of food expenditure of the poor, (%)
-<li>Depth of the food deficit  (%)
-<li>Prevalence of food inadequacy (%)</li></ul>
+<p>Indicators for Prevalence of undernourishment are<br>
+Prevalence of undernourishment, (%)<br>
+Number of people undernourished, (number of people)<br>
+Share of food expenditure of the poor, (%)<br>
+Depth of the food deficit  (%)<br>
+Prevalence of food inadequacy (%)<br>
 </p>
 </details>
 
@@ -302,29 +301,28 @@ The dimension of utilization is divided into the sub-dimensions **Non-food Items
 
 
 <details><summary><b>Indicators to determine food Quality and Micro Nutrients:</b></summary>
-<p><ul><li>Percentage of children under 5 years of age affected by wasting, (%)
-<li>Percentage of children under 5 years of age who are stunted, (%)
-<li>Percentage of children under 5 years of age who are underweight, (%)
-<li>Percentage of adults who are underweight, (%)
-<li>Prevalence of anaemia among pregnant women, (%)
-<li>Prevalence of anaemia among children under 5 years of age, (%)
-<li>Prevalence of vitamin A deficiency Prevalence of iodine deficiency, (%)
-</li></ul>
+<p>Percentage of children under 5 years of age affected by wasting, (%)<br>
+Percentage of children under 5 years of age who are stunted, (%)<br>
+Percentage of children under 5 years of age who are underweight, (%)<br>
+Percentage of adults who are underweight, (%)<br>
+Prevalence of anaemia among pregnant women, (%)<br>
+Prevalence of anaemia among children under 5 years of age, (%)<br>
+Prevalence of vitamin A deficiency Prevalence of iodine deficiency, (%)<br>
 </p>
 </details>
 
 Stability is further divided into exposure and political stability and absence of violence/terrorism.
 <details><summary><b>Exposure indicators are as follows:</b></summary>
-<p><ul><li>Cereal import dependency ratio
-<li>Percent of arable land equipped for irrigation
-<li>Value of food imports over total merchandise exports
-</li></ul>
+<p>Cereal import dependency ratio<br>
+Percent of arable land equipped for irrigation<br>
+Value of food imports over total merchandise exports<br>
 </p>
 
 <p>Political stability and absence of violence or terrorism is determined using the following indicators:</p>
-<ul><li>Domestic food price volatility
-<li>Per capita food production variability
-<li>Per capita food supply variability</li></ul>
+Domestic food price volatility<br>
+Per capita food production variability<br>
+Per capita food supply variability<br>
+</p>
 </details>
 
 <br/> <br/>
