@@ -67,17 +67,11 @@ GIZ, 2017
 Vertical coordination between different levels is realised through various different mechanisms. Those listed on this section are only some of the examples available (and these examples often also have different names in different national contexts).
 
 **Dialogue processes and consultations can serve as strong mechanism for vertical integration by:**
-Building relationships and trust between national and local actors
-Clarifying mandates, policies and institutional arrangements
+- Building relationships and trust between national and local actors
+- Clarifying mandates, policies and institutional arrangements
+- Identifying opportunities and obstacles for the implementation of national development targets and policies at the local level
+- Facilitating coordinated representation of interests from the local to the national level
 
-Identifying opportunities and obstacles for the implementation of national development targets and policies at the local level
-
-Facilitating coordinated representation of interests from the local to the national level
-
-<hr/>
-
-#### You will learn more about governance in learning unit 7 ####
-<hr/>
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/questions){: .btn .btn-purple .mr-4}
