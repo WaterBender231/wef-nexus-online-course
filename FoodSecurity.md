@@ -9,13 +9,10 @@ nav_order: 5
 
 
 <div text-align="center">
-   <img src="/wef-nexus-online-course/assets/foodsecurity-banner.png" alt="second method"><br/>
+   <img src="/wef-nexus-online-course/assets/foodsecurity-banner.png" alt="Food Security Banner"
+   width="619"
+   height="399"><br/>
 </div>
-
-
-
- <div class="field-name-field-image"><img src="/wef-nexus-online-course/assets/foodsecurity-banner.png" alt="Food Security Header"/></div>
-            <div class="image-metadata"><span class="image-caption">My image</span></div>
 
 
 ## Learning Unit 04
