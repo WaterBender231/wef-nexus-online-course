@@ -1,22 +1,24 @@
 ---
 layout: page
-title: 6.3 Semi-quantitative and quantitative assessments
+title: 5.3 Semi-quantitative and quantitative assessments
 permalink: /tools/semi-quantitative
 parent: Tools and Data
 ---
-# 6.3 Semi-quantitative and quantitative assessment tools
+# 5.3 Semi-quantitative and quantitative assessment tools
 
-### 6.3.1 **Flammini et al, 2014: Walking the Nexus Talk – The Nexus Rapid Appraisal Tool (FAO)**
+## 5.3.1 **Flammini et al, 2014: Walking the Nexus Talk – The Nexus Rapid Appraisal Tool (FAO)**
 
 - Conduct a semi-quantitative context analysis based on existing data and indicators (from international organisations) describing the interconnections between the WEF sectors
 - Evaluate the performance of a technical or policy interventions
 - For stakeholders: Used to quantify bio-economic pressures, and benchmarks are defined in participatory processes
 
 The FAO proposes a method to carry out a WEF Nexus assessment in order to:
-Understand the interconnections between water, energy and food systems in a given context
-Evaluate the performance of a technical or policy interventions
-The overall objective of this WEF Nexus assessment is to inform Nexus-related responses in terms of strategies, policy measures, planning and institutional set-up or interventions.
-Given that a lack of data is often a barrier for assessing the Nexus, the FAO proposes a rapid appraisal based on indicators using data already collected at the national (or sub-national) level and available from international organisations. Based on this methodology, the FAO prepared an interactive tool “Nexus Assessment 1.0“ (included in the overview matrix under the “governing“ level) which aims at quantitatively assessing the Nexus as well as possible interventions. 
+- Understand the interconnections between water, energy and food systems in a given context
+- Evaluate the performance of a technical or policy interventions
+
+The overall objective of this WEF Nexus assessment is to inform Nexus-related responses in terms of strategies, policy measures, planning and institutional set-up or interventions.Given that a lack of data is often a barrier for assessing the Nexus, the FAO proposes a rapid appraisal based on indicators using data already collected at the national (or sub-national) level and available from international organisations. Based on this methodology, the FAO prepared an interactive tool “Nexus Assessment 1.0“ (included in the overview matrix under the “governing“ level) which aims at quantitatively assessing the Nexus as well as possible interventions. 
+
+
 ––––––––––––––––
 References
 Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus in the Context of the Sustainable Energy for All Initiative’, Food and Agriculture Organization of the United Nations, Rome.
@@ -108,16 +110,19 @@ The section above shows the WEF security indicators used to calculate the RAND F
 **Availability** refers to the overall National availability of resources to support needs for dietary requirements, sanitation, energy and productivity. However, the distribution of those resources across society is also an important consideration. Accessibility therefore additionally looks at the percentage of population with access to resources. For the water sub-index, they additionally used the Index on Water Adaptive capacity.
 
 In the following sections, details are given related to the indices:
+
 **Food accessibility**: Domestic Food Price Level Index— ratio of the food purchasing power parity by the general purchasing power parity, this indicator reflects economic access to food.
+
 **Energy availability**: Benchmark value for per capita electricity consumption: 4,000 kilowatt-hours (kWh) per capita is the level required to meet basic human needs (Pasternak, 2000; Steinberger and Roberts, 2009).
 They measure the availability of water resources by comparing country-wide total water withdrawals for municipal uses with water requirements for basic municipal purposes. Gleick (1996) calculated the per capita minimum level of water used for cooking, heating, and sanitation (i.e., municipal purposes) to be 50 liters per capita per day. More water withdrawals relative to basic requirements indicate greater security and more support for economic activities. This measure does not consider industrial or agricultural water use or requirements, as water use in these sectors is highly variable across countries, depending on the mix of economic activity and level and efficiency of irrigation for agriculture.
+
 **Water availability:** The water availability sub-index normalizes per capita average municipal water use by 200 liters per day. Thus, any country with a ratio of water use to water requirements greater than four is given a value of 1.0. This level of water use is twice the standard 100 liters per day  requirement for basic uses, and four times the bare minimum levels for cooking, eating, and sanitation of 50 liters per capita per day (Gleick, 1996). Normalizing by a level greater than the 100 liters per day standard helps account for the uneven distribution of water across countries and builds in inefficiencies in distribution into the index.
 They evaluated the total per capita internally available renewable water. The internally available water includes the sum of internal renewable water resources and external actual renewable water resources. It corresponds to the maximum yearly amount of water actually available for a country at a given moment. This excludes any return flow from agriculture or wastewater.
 ––––––––––––––––
 References
 Willis, H.H., Groves, D.G., Ringel, J.S., Mao, Z., Efron, S. & Abbott, M. (2016), ‘Developing the Pardee RAND Food-Energy-Water Security Index: Towards a Global Standardized, Quantitative, and Transparent Resource Assessment’, RAND Corporation, Santa Monica, Calif. [https://www.rand.org/pubs/tools/TL165.html](https://www.rand.org/pubs/tools/TL165.html)
 
-### 6.3.8 **The SDG Index 2021 and Dashboards**
+### **5.3.8 The SDG Index 2021 and Dashboards**
 
 - 17 SDGs – 88 indicators in 2018
 - Uses scores from 0 (worst) to 100 (best) %
@@ -140,3 +145,6 @@ Schmidt-Traub, Guido & Kroll, Christian & Teksoz, Katerina & Durand-Delacre, Dav
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/policy-governance){: .btn .btn-purple .mr-4}
+
+<p><small><b>References</b></small></p>
+<p><small><i>Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus in the Context of the Sustainable Energy for All Initiative’, Food and Agriculture Organization of the United Nations, Rome. Available at: <a href="http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/">http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/</a></i></small></p>
