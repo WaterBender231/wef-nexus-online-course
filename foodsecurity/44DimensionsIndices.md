@@ -229,45 +229,6 @@ Share of food expenditure of the poor, (%)
 Depth of the food deficit (%)
 Prevalence of food inadequacy (%) |  |
 
-One example for a national database that strengthens and improves food security information and data management is the Food Security Information and Knowledge Sharing System - Sudan Federal Food Security Technical Secretariat (FSIS/FSIN). The platform was developed to help Sudan monitor the food security situation and design or improve current food policies and programmes. The database help to determine social aspects of food security such as nutrition, food-related health issues, organization and community involvement.
-
-Indicators used in the database are classified according to the four dimensions of food security: availability, access, utilization and stability. Currently, the platform uses 35 indicators: 5 for availability, 10 for access, 13 for utilization and 7 for stability.
-
-## Availability
-<details><summary><b>Measuring the availability dimension</b></summary>
-<p>Average dietary energy supply adequacy, (%) <br>
-Average value of food production, (International $ per capita) <br>
-Share of dietary energy supply derived from cereals, roots and tubers, (%)<br>
-Average vegetarian protein supply, (gr/capita/day)<br>
-Average supply of protein of animal origin, (gr/capita/day)<br>
-</p>
-</details>
-
-## Accessibility
-The **accessibility** dimension is divided into **economic access**, **physical access**, and indicators to measure the **prevalence of undernourishment**. 
-
-<details><summary><b>Quantification of access</b></summary>
-<p>Economic  access is measured using <br>
-gross domestic product per capita, (in purchasing power equivalent)<br>
-the domestic food price level index, (Index)<br>
-</p>
-
-<p>Physical access is quantified using <br>
-the percent of paved roads over total roads, (%)<br>
-the road density, (km of road/ 100 km² of land area)<br>
-the rail lines density, (km/km²)<br></p>
-
-<p>Indicators for Prevalence of undernourishment are<br>
-Prevalence of undernourishment, (%)<br>
-Number of people undernourished, (number of people)<br>
-Share of food expenditure of the poor, (%)<br>
-Depth of the food deficit  (%)<br>
-Prevalence of food inadequacy (%)<br>
-</p>
-</details>
-
-### **4.4.8 Example: Food Security Information and Knowledge Sharing System – Sudan**
-
 | Dimensions/Sub-Dimensions | Indicators, (Unit) | Data source |
 | --- | --- | --- |
 | Utilization |  | Food Security Information and Knowledge Sharing System, 2017.
@@ -290,14 +251,50 @@ Value of food imports over total merchandise exports |  |
 Per capita food production variability
 Per capita food supply variability |  |
 
+One example for a national database that strengthens and improves food security information and data management is the Food Security Information and Knowledge Sharing System - Sudan Federal Food Security Technical Secretariat (FSIS/FSIN). The platform was developed to help Sudan monitor the food security situation and design or improve current food policies and programmes. The database help to determine social aspects of food security such as nutrition, food-related health issues, organization and community involvement.
 
-## Utilization 
+Indicators used in the database are classified according to the four dimensions of food security: availability, access, utilization and stability. Currently, the platform uses 35 indicators: 5 for availability, 10 for access, 13 for utilization and 7 for stability.
+
+### Availability
+<details><summary><b>Measuring the availability dimension</b></summary>
+<p>Average dietary energy supply adequacy, (%) <br>
+Average value of food production, (International $ per capita) <br>
+Share of dietary energy supply derived from cereals, roots and tubers, (%)<br>
+Average vegetarian protein supply, (gr/capita/day)<br>
+Average supply of protein of animal origin, (gr/capita/day)<br>
+</p>
+</details>
+
+### Accessibility
+The **accessibility** dimension is divided into **economic access**, **physical access**, and indicators to measure the **prevalence of undernourishment**. 
+
+<details><summary><b>Quantification of access</b></summary>
+<p>Economic  access is measured using <br>
+gross domestic product per capita, (in purchasing power equivalent)<br>
+the domestic food price level index, (Index)<br>
+</p>
+
+<p>Physical access is quantified using <br>
+the percent of paved roads over total roads, (%)<br>
+the road density, (km of road/ 100 km² of land area)<br>
+the rail lines density, (km/km²)<br></p>
+
+<p>Indicators for Prevalence of undernourishment are<br>
+Prevalence of undernourishment, (%)<br>
+Number of people undernourished, (number of people)<br>
+Share of food expenditure of the poor, (%)<br>
+Depth of the food deficit  (%)<br>
+Prevalence of food inadequacy (%)<br>
+</p>
+</details>
+
+### Utilization 
 
 The dimension of utilization is divided into the sub-dimensions **Non-food Items and Food Quality** and **Micro Nutrients**. The former being measured using the two indicators access to improved water sources and access to improved sanitation facilities. 
 
 Stability is further divided into exposure and political stability and absence of violence/terrorism.
 
-### View more details
+***View more details***
 <details><summary><b>Indicators to determine food Quality and Micro Nutrients:</b></summary>
 <p>Percentage of children under 5 years of age affected by wasting, (%)<br>
 Percentage of children under 5 years of age who are stunted, (%)<br>
