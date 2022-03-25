@@ -21,13 +21,12 @@ Jones et al. (2013) emphasize that the additional indicators provide further inf
 Following we list the **26 indicators** under their corresponding dimensions as defined by FAO (2012):
 
 
-<details><summary><b><p style="color: #ffffff; background-color: #dbbd7b;">Indicators for availability</p></b></summary>
-<p>
-Average dietary energy supply adequacy
-Average value of food production
-Share of dietary energy supply derived from cereals, roots and tubers
-Average protein supply
-Average supply of protein of animal origin
+<details><summary><b style="color: #ffffff; background-color: #dbbd7b;">Indicators for availability</b></summary>
+<p>Average dietary energy supply adequacy<br>
+Average value of food production<br>
+Share of dietary energy supply derived from cereals, roots and tubers<br>
+Average protein supply<br>
+Average supply of protein of animal origin<br>
 </p>
 </details>
 
