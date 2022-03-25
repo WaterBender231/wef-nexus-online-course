@@ -7,10 +7,8 @@ nav_order: 5
 ---
 # **4. Food Security**
 
-<img src="/wef-nexus-online-course/assets/foodsecurity-banner.png)"
-     alt="Energy Security"
-     width="619"
-     height="399">
+ <div class="field-name-field-image"><img src="/wef-nexus-online-course/assets/foodsecurity-banner.png" alt="Food Security Header"/></div>
+            <div class="image-metadata"><span class="image-caption">My image</span></div>
 
 
 ## Learning Unit 04
