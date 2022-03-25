@@ -54,16 +54,16 @@ The **Global Food Security Index (GFSI)** was developed by The Economist Intelli
 
 According to Pangaribowo et al. (2013), the affordability and quality and safety dimensions of the GFSI are similar to the accessibility and utilization dimensions defined by FAO. They use 33 indicators and sub-indicators, addressing the three dimensions (6, 13, and 14 indicators for the affordability, availability, and quality and safety, respectively). The index incorporates quantitative (19) and qualitative (9) indicators.
 
-Following is a list of the indicators (in Bold font) and sub-indicators under their corresponding dimensions as defined by Thomas et al. (2017):
+Following is a list of the indicators and sub-indicators under their corresponding dimensions as defined by Thomas et al. (2017):
 
 
 <details><summary><b>Indicators for affordability:</b></summary>
-<p>Food Consumption as a share of household expenditure<br>
-Proportion of population under global poverty line<br>
-GDP per capita at purchasing power parity (PPP)<br>
-Agricultural Import tariffs<br>
-Presence of food safety-net programmes (qualitative)<br>
-Access to financing for farmers (qualitative)<br>
+<p>1. Food Consumption as a share of household expenditure<br>
+2. Proportion of population under global poverty line<br>
+3. GDP per capita at purchasing power parity (PPP)<br>
+4. Agricultural Import tariffs<br>
+5. Presence of food safety-net programmes (qualitative)<br>
+6. Access to financing for farmers (qualitative)<br>
 </p>
 </details>
 
