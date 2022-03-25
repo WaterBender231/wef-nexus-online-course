@@ -21,7 +21,7 @@ Jones et al. (2013) emphasize that the additional indicators provide further inf
 Following we list the **26 indicators** under their corresponding dimensions as defined by FAO (2012):
 
 
-<details><summary><b><h5 style="color: #ffffff; background-color: #dbbd7b;">Indicators for availability:</h5></b></summary>
+<details><summary><b><p style="color: #ffffff; background-color: #dbbd7b;">Indicators for availability</p></b></summary>
 <p>
 Average dietary energy supply adequacy
 Average value of food production
@@ -31,7 +31,7 @@ Average supply of protein of animal origin
 </p>
 </details>
 
-<details><summary><b>Indicators for affordability:</b></summary>
+<details><summary><b>Indicators for affordability</b></summary>
 <p>
 Rail lines density
 Gross domestic product per capita (in purchasing power equivalent)
@@ -42,7 +42,7 @@ Prevalence of moderate or severe food insecurity in the total population
 </details>
 
 
-<details><summary><b>Indicators for stability:</b></summary>
+<details><summary><b>Indicators for stability</b></summary>
 <p>
 Cereal import dependency ratio
 Percentage of arable land equipped for irrigation
@@ -64,11 +64,8 @@ Per capita food supply variability
 |  | Average supply of protein of animal origin | National average protein supply. | gr/capita/day |  |
 
 
-<details><summary><b>Average dietary energy supply adequacy (DES):</b></summary>
-<p>Average dietary energy supply adequacy (DES) is the a percentage of the Average Dietary Energy Requirement (ADER). Each country's or region's average supply of calories for food consumption is normalized by the average dietary energy requirement estimated for its population to provide an index of adequacy of the food supply in terms of calories.
-</p>
-</details>
-
+**Average dietary energy supply adequacy (DES)**
+Average dietary energy supply adequacy (DES) is the a percentage of the Average Dietary Energy Requirement (ADER). Each country's or region's average supply of calories for food consumption is normalized by the average dietary energy requirement estimated for its population to provide an index of adequacy of the food supply in terms of calories.
 
 Analyzing DES together with the prevalence of undernourishment allows discerning whether undernourishment is mainly due to insufficiency of the food supply or to particularly bad distribution.
 
