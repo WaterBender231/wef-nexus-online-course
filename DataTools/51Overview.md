@@ -53,6 +53,6 @@ Governance analysis tools aim at assessing the institutions and persons involved
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/qualitative-approaches){: .btn .btn-purple .mr-4}
 
-
-<p><small><b>References</b></small></p>
+<br/> <br/>
+<p><b>References</b></p>
 <p><small><i>Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus in the Context of the Sustainable Energy for All Initiative’, Food and Agriculture Organization of the United Nations, Rome. Available at: <a href="http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/">http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/</a></i></small></p>
