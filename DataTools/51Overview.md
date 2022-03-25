@@ -4,7 +4,7 @@ title: 5.1 Overview:Assessing the Nexus
 permalink: /tools/overview
 parent: Tools and Data
 ---
-# 5.1 Overview on the Nexus Assessment Procedure
+# **5.1 Overview on the Nexus Assessment Procedure**
 
 ### **5.1.1 Overview on the Nexus Assessment Procedure: FAO 2014**
 
@@ -23,6 +23,8 @@ Flammini et al. (2014) in their FAO report “Walking the Nexus” provide a nic
 
 This assessment is necessary not only to understand the interconnections between the different sectors, but also to identify potential response options (e.g. new policies, regulations, incentives, technical interventions, etc.) to reduce trade-offs and maximise synergies. The assessment process should always be accompanied by a dialogue to include stakeholders in each step of the process to identify societal priorities and create ownership.
 
+<hr/>
+
 ### **5.1.2 Relevance of Spatial Scales**
 
 Nexus interconnections are assessed at different scales:
@@ -33,6 +35,9 @@ Nexus interconnections are assessed at different scales:
 - Provincial/community scale: e.g. agricultural census data and food production
 
 The quantitative analysis and the use of tools relies on data that are observed at different spatial scales. This section presents typical scales for Nexus related data and information. To enable a Nexus assessment at the desired scale, it is therefore necessary to make the information of different Nexus sectors comparable.
+
+<hr/>
+
 
 ### **5.1.3 Categories of Nexus System Assessment Tools**
 
@@ -52,7 +57,9 @@ Governance analysis tools aim at assessing the institutions and persons involved
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/qualitative-approaches){: .btn .btn-purple .mr-4}
-
 <br/> <br/>
+
+<hr/>
+
 <p><b>References</b></p>
 <p><small><i>Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus in the Context of the Sustainable Energy for All Initiative’, Food and Agriculture Organization of the United Nations, Rome. Available at: <a href="http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/">http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/</a></i></small></p>

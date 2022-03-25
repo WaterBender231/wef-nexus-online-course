@@ -6,7 +6,7 @@ parent: Tools and Data
 ---
 # 5.2 Qualitative approaches to evaluate Nexus systems
 
-### **5.2.1 Meza et al. (2015): Nexus System Diagram**
+## **5.2.1 Meza et al. (2015): Nexus System Diagram**
 
 ![Untitled](6%202%20Qualit%20f55bf/Untitled.png)
 <p><small>Meza et al., 2015</small></p>
@@ -18,8 +18,9 @@ This framework attempts to raise awareness and support stakeholder discussions t
 
 The size of the arrows is used to communicate magnitudes of the supply (or demand), whereas competition is represented by several arrows coming from the same source. The relative size of each subdivision and its change over time can be seen as an indicator of sensitivity of each system. A Nexus that does not change substantially under global change could be interpreted as non-vulnerable or even resilient, if adjustments over time occur without major external intervention as a driving force.
 
+<hr/>
 
-### **5.2.2 Example: Maipo Basin**
+## **5.2.2 Example: Maipo Basin**
 
 ![Untitled](6%202%20Qualit%20f55bf/Untitled%201.png)
 <p><small>Meza et al., 2015</small></p>
@@ -33,7 +34,9 @@ The region has a Mediterranean climate with mean temperatures of 20°C in summer
 
 The figure (without the arrows with dotted lines) depicts the current status of the Nexus in the basin, while the arrows with dotted lines represents the changes to the system in a future scenario with changes and pressures added to the system. For instance, more energy will be required for pumping, treating and distributing water for cities. Agriculture has to be more efficient using water in order to reduce the pressure on water resources or the potential of groundwater use needs to be explored. Also, the basin has a potential to generate hydropower. This example shows the potential of this tool to visually assess future management scenarios.
 
-### **5.2.3 The Transboundary River Basin Nexus Approach (TRBNA)**
+<hr/>
+
+## **5.2.3 The Transboundary River Basin Nexus Approach (TRBNA)**
 
 ![Untitled](6%202%20Qualit%20f55bf/Untitled%202.png)
 <p><small>de Strasser et al., 2016</small></p>
@@ -48,9 +51,10 @@ Proposing actions to reduce negative impacts, minimise trade-offs and take advan
 Providing evidence of benefits from improved cooperation at the national and transboundary levels
 
 
-
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/semi-quantitative){: .btn .btn-purple .mr-4}
+
+<hr/>
 
 
 <p><small><b>References</b></small></p>
