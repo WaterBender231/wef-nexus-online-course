@@ -124,6 +124,7 @@ Jensen and Wu (2018) name this dimension **“Risk” assessing** it also using 
 Garrick and Hall (2014) propose a **risk-based framework** which differentiates hazard, exposure, and vulnerability as measurable quantities. In this approach, under the dimension “Risk” flood, droughts, risks to the environment of harmful water quantity/quality and risks of inadequate supply and sanitation are considered. Under the dimension “Resilience to water-related hazards”, the GWP (2012) quantifies a risk index considering floods/windstorms, droughts, and storm surges/coastal floods.
 
 <details><summary><i>See More Data Sources</i></summary>
+
 GEMStat is a global database containing water quality data from 5,705 stations worldwide: <a href="https://gemstat.bafg.de">https://gemstat.bafg.de/</a> <br>
 <br>
 An interactive tool to identify coastal and riverine flood risks, and analyze the costs and benefits of investing in flood protection: <a href="https://www.wri.org/applications/aqueduct/floods">https://www.wri.org/applications/aqueduct/floods</a> <br>
@@ -132,8 +133,6 @@ And also a data set on global flood hazards: <a href="https://www.wri.org/resour
 
 </p>
 </details>
-
-<hr/>
 
 <hr/>
 
@@ -166,10 +165,6 @@ The Transboundary Waters Assessment Programme provides information for the 286 t
 
 <hr/>
 
-<br/> <br/>
-
-<hr/>
-
 ## Data Overview
 
 Major data sources to evaluate Water Security and calculate respective indicators
@@ -180,24 +175,19 @@ Major data sources to evaluate Water Security and calculate respective indicator
 
 <hr/>
 
-[FAO Database](http://www.fao.org/aquastat/en/databases/) and [AQUASTAT](http://www.fao.org/nr/water/aquastat/data/query/index.html)
-AQUASTAT is the FAO global information system on water resources and agricultural water management. It collects, analyses and provides free access to over 180 variables and indicators by country from 1960. AQUASTAT plays a key role in the monitoring of the SDG 6, and in particular indicators of target 6.4 on water stress and water use efficiency. Data about the following subjects can be found: (i) water resources: internal, transboundary, total, (ii) water uses: by sector, by source, wastewater, (iii) irrigation, (iv) dams, (v) water-related institutions, policies and legislation.
+[AQUASTAT](http://www.fao.org/nr/water/aquastat/data/query/index.html) is the [FAO's global information system](http://www.fao.org/aquastat/en/databases/) on water resources and agricultural water management. It collects, analyses and provides free access to over 180 variables and indicators by country from 1960. AQUASTAT plays a key role in the monitoring of the SDG 6, and in particular indicators of target 6.4 on water stress and water use efficiency. Data about the following subjects can be found: (i) water resources: internal, transboundary, total, (ii) water uses: by sector, by source, wastewater, (iii) irrigation, (iv) dams, (v) water-related institutions, policies and legislation.
 
 <br>
 
-[World Bank Indicators](https://data.worldbank.org/indicator)
-This database contains a wide range of data for all its member countries. The available data covers themes such as (i) poverty and inequality, (ii) people, (iii) environment (which includes water, energy and food-related indicators), (iv) economy, (v) states and markets, (vi) global links.
-Much of the data comes from the statistical systems of member countries, and the quality of global data depends on how well these national systems perform. 
+The [World Bank Indicators](https://data.worldbank.org/indicator) is a database that contains a wide range of data for all its member countries. The available data covers themes such as (i) poverty and inequality, (ii) people, (iii) environment (which includes water, energy and food-related indicators), (iv) economy, (v) states and markets, (vi) global links.Much of the data comes from the statistical systems of member countries, and the quality of global data depends on how well these national systems perform. 
 
 <br>
 
-[TWAP RB Indicators](http://twap-rivers.org/indicators/)
-The TWAP RB assessment is based on a number of indicators and methodology devised during the TWAP MSP (Medium Size Project) and is not intended to be a global ‘state-of-the-environment’ assessment, but rather a relative analysis of basins based on risks to societies and ecosystems. During this design phase, five ‘clusters’ of issues were identified as being of relevance to both populations and ecosystems: (i) water quantity, (ii) water quality, (iii) ecosystems, (iv) governance, and (v) socioeconomics.
+The [TWAP RB Indicators](http://twap-rivers.org/indicators/) are based on the TWAP RB assessment. The latter derived from a number of indicators and methodology devised during the TWAP MSP (Medium Size Project) and is not intended to be a global ‘state-of-the-environment’ assessment, but rather a relative analysis of basins based on risks to societies and ecosystems. During this design phase, five ‘clusters’ of issues were identified as being of relevance to both populations and ecosystems: (i) water quantity, (ii) water quality, (iii) ecosystems, (iv) governance, and (v) socioeconomics.
 
 <br>
 
-[WASH Database](https://washdata.org/)
-Water, Sanitation and Hygiene (WASH): the Joint Monitoring Programme (JMP) global database includes nearly 5,000 national datasets enabling the production of estimates for over 200 countries. 
+[WASH Database](https://washdata.org/): the Joint Monitoring Programme (JMP) global database includes nearly 5,000 national datasets enabling the production of estimates for over 200 countries. 
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/questions){: .btn .btn-purple .mr-4}
