@@ -157,21 +157,21 @@ By addressing trade-offs with other sectors and emphasizing the identification o
 
 <p><small><b>References</b></small></p>
 
-<p><small><b>1.1 Background: Challenges for achieving WEF-Security</b></p></small>
+<p><small><b>1.1 Background: Challenges for achieving WEF-Security</b></small>
 <p><small><i>UN 2020, The Sustainable Development Goals, <a href="https://www.un.org/sustainabledevelopment/">https://www.un.org/sustainabledevelopment/</a><br>
-<br>
+ <br>
 United Nations Department of Economic and Social Affairs (UNDESA) (2014) International Decade for Action WATER FOR LIFE 2005-
 2015, <a href="http://www.un.org/waterforlifedecade/water_and_energy.shtml">http://www.un.org/waterforlifedecade/water_and_energy.shtml</a><br>
-<br>
+ <br>
 Alexandratos N, Bruinsma J. 2012. World agriculture towards 2030/2050 (Available from <a href="http://www.fao.org/docrep/016/ap106e/ap106e.pdf">http://www.fao.org/docrep/016/ap106e/ap106e.pdf</a> (Accessed on 01.8.2020)<br>
-<br>
+ <br>
 CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS) (2020.), ‘Food Security’,
-<a href="https://ccafs.cgiar.org/bigfacts/#theme=food-security">https://ccafs.cgiar.org/bigfacts/#theme=food-security </a> (Accessed on 02.8.2020)</a></i></small></p>
+<a href="https://ccafs.cgiar.org/bigfacts/#theme=food-security">https://ccafs.cgiar.org/bigfacts/#theme=food-security </a> (Accessed on 02.8.2020)</i></small></p>
 
-<p><small><b>1.2 The Sustainable Development Goals - Water, Energy, and Food Security: pillars of development!</p></small></b>
+<p><small><b>1.2 The Sustainable Development Goals - Water, Energy, and Food Security: pillars of development!</small></b>
 <p><small><i>United Nations General Assembly (2015) Transforming our world: the 2030 Agenda for Sustainable Development,
 <a href="https://sustainabledevelopment.un.org/post2015/transformingourworld">https://sustainabledevelopment.un.org/post2015/transformingourworld.</a><br>
-<br>
+ <br>
 UN 2020, The Sustainable Development Goals, <a href="https://www.un.org/sustainabledevelopment">https://www.un.org/sustainabledevelopment/</a></i></small></p>
 
 <p><small><b>2. Why Nexus Thinking? Sector specific goals may interfere with interests of other sectors</p></small></b>
