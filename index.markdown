@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <!-- Static Header -->
-<div style="background: url(/wef-nexus-online-course/assets/220325_THK_WEF_Nexus_Webheader.jpg)"; height: 1088; class="jumbotron bg-cover text-white">
+<div style="background: url(/wef-nexus-online-course/assets/BANNER_GITHUB.png)"; class="jumbotron bg-cover text-white">
     <div class="container py-5 text-center">
         <h1 class="display-4 font-weight-bold">Water-Energy-Food Nexus <br>
         Online Course</h1>

@@ -19,14 +19,26 @@ Vörösmarty et al. (2010) assessed human water security (HWS) and threats to bi
 <details><summary><b>Catchment disturbance (0.18):</b></summary>
 <p>
 
-(i) cropland (0.38); (ii) impervious surfaces (0.28); (iii) livestock density (0.20); (iv) wetland disconnectivity (0.14)
+(i) cropland (0.38) <br>
+(ii) impervious surfaces (0.28)<br>
+(iii) livestock density (0.20)<br> 
+(iv) wetland disconnectivity (0.14)
+
 </p>
 </details>
 
 <details><summary><b>Pollution (0.35):</b></summary>
 <p>
 
-(i) soil salinization (0.13); (ii) nitrogen loading (0.14); (iii) phosphorus loading (0.13); (iv) mercury deposition (0.13); (v) pesticide loading (0.15); (vi) sediment loading (0.07); (vii) organic loading (0.18); (viii) potential acidification (0.05); (ix) thermal alteration (0.02)
+(i) soil salinization (0.13)<br> 
+(ii) nitrogen loading (0.14) <br>
+(iii) phosphorus loading (0.13)<br>
+(iv) mercury deposition (0.13)<br>
+(v) pesticide loading (0.15)<br>
+(vi) sediment loading (0.07)<br>
+(vii) organic loading (0.18)<br>
+(viii) potential acidification (0.05)<br>
+(ix) thermal alteration (0.02)
 
 </p>
 </details>
@@ -34,7 +46,12 @@ Vörösmarty et al. (2010) assessed human water security (HWS) and threats to bi
 <details><summary><b>Water resources development (0.41):</b></summary>
 <p>
 
-(i) dam density (0.09), (ii) river fragmentation (0.03); (iii) consumptive water loss (0.34); (iv) human water stress (0.26); (v) agricultural water stress (0.19); (vi) flow disruption (0.09)
+(i) dam density (0.09) <br>
+(ii) river fragmentation (0.03) <br>
+(iii) consumptive water loss (0.34) <br> 
+(iv) human water stress (0.26) <br> 
+(v) agricultural water stress (0.19) <br>
+(vi) flow disruption (0.09)
 
 </p>
 </details>
@@ -42,7 +59,10 @@ Vörösmarty et al. (2010) assessed human water security (HWS) and threats to bi
 <details><summary><b>Biotic factors (0.06):</b></summary>
 <p>
 
-(i) non-native fishes in % (0.13); (ii) non-native fishes in # (0.14); (iii) fishing pressure (0.27); (iv) aquaculture pressure (0.46)
+(i) non-native fishes in % (0.13) <br>
+(ii) non-native fishes in % (0.14) <br>
+(iii) fishing pressure (0.27) <br>
+(iv) aquaculture pressure (0.46)
 
 </p>
 </details>
@@ -65,7 +85,9 @@ The **key dimensions (KD)** are listed below:
 <details><summary>KD1: Household water security</summary>
 <p>
 
-Indicators: (i) access to piped water supply (%), (ii) access to improved sanitation (%), (iii) hygiene (age-standardized disability-adjusted life years per 100,000 people for the incidence of diarrhea.
+(i) access to piped water supply (%)<br>
+(ii) access to improved sanitation (%)<br> 
+(iii) hygiene (age-standardized disability-adjusted life years per 100,000 people for the incidence of diarrhea
 
 </p>
 </details>
@@ -73,11 +95,18 @@ Indicators: (i) access to piped water supply (%), (ii) access to improved sanita
 <details><summary>KD2: Economic water security</summary>
 <p>
 
-<b>Agricultural water security subindex:</b> (i) productivity of irrigated agriculture, (ii) independence from imported water and goods, (iii) resilience (% of renewable water resources stored in large dams).
+<b>Agricultural water security subindex:</b> <br>
+(i) productivity of irrigated agriculture <br>
+(ii) independence from imported water and goods<br>
+(iii) resilience (% of renewable water resources stored in large dams)<br>
 
-<b>Industrial water security subindex</b>: (i) productivity (financial value of industrial goods relative to industrial water withdrawal), (ii) consumption rate (net virtual water consumed relative to water withdrawn from industry.
+<b>Industrial water security subindex</b>:  <br>
+(i) productivity (financial value of industrial goods relative to industrial water withdrawal) <br>
+(ii) consumption rate (net virtual water consumed relative to water withdrawn from industry <br>
 
-<b>Energy water security subindex:</b> (i) utilization of total hydropower capacity, (ii) ratio of hydropower to total energy supply.
+<b>Energy water security subindex:</b> <br>
+(i) utilization of total hydropower capacity <br>
+(ii) ratio of hydropower to total energy supply
 
 </p>
 </details>
@@ -86,7 +115,10 @@ Indicators: (i) access to piped water supply (%), (ii) access to improved sanita
 <details><summary>KD3: Urban water security</summary>
 <p>
 
-(i) Water supply (%), (ii) wastewater treatment (%), (iii) drainage (measured as the extent of economic damage caused by floods and storms). Adjustment factors are included to indicate impacts of the urban growth rate and river health
+(i) Water supply (%) <br> 
+(ii) wastewater treatment (%) <br> 
+(iii) drainage (measured as the extent of economic damage caused by floods and storms).<br>
+<br>Adjustment factors are included to indicate impacts of the urban growth rate and river health.
 
 </p>
 </details>
@@ -94,13 +126,35 @@ Indicators: (i) access to piped water supply (%), (ii) access to improved sanita
 <details><summary>KD4: Environmental water security</summary>
 <p>
 
-<b>Watershed disturbance:</b> (i) cropland, (ii) imperviousness, (iii) livestock density, (iv) wetland disconnection
+<b>Watershed disturbance:</b> <br>
+(i) cropland <br> 
+(ii) imperviousness <br>
+(iii) livestock density <br>
+(iv) wetland disconnection<br>
 
-<b>Pollution:</b> (i) soil salinization, (ii) nitrogen, (iii) phosphorous, (iv) mercury, (v) pesticides, (vi) total suspended solids, (vii) organic loads, (viii) potential acidification, (ix) thermal impacts from power plant cooling.
+<b>Pollution:</b> <br> 
+(i) soil salinization <br>
+(ii) nitrogen <br>
+(iii) phosphorous <br>
+(iv) mercury <br> 
+(v) pesticides <br>
+(vi) total suspended solids <br>
+(vii) organic loads <br> 
+(viii) potential acidification <br> 
+(ix) thermal impacts from power plant cooling<br>
 
-<b>Water resources development:</b> (i) dam density, (ii) river network fragmentation, (iii) relative water consumption compared to supply, (iv) agriculture sector water stress, (v) residency time change downstream from dams.
+<b>Water resources development:</b> <br>
+(i) dam density <br> 
+(ii) river network fragmentation <br> 
+(iii) relative water consumption compared to supply <br>
+(iv) agriculture sector water stress <br> 
+(v) residency time change downstream from dams <br>
 
-<b>Biotic factors:</b> (i) non-native species, (ii) non-native species richness, (iii) catch pressure, (iv) aquaculture
+<b>Biotic factors:</b> <br>
+(i) non-native species <br>
+(ii) non-native species richness <br> 
+(iii) catch pressure <br> 
+(iv) aquaculture
 
 </p>
 </details>
@@ -108,13 +162,22 @@ Indicators: (i) access to piped water supply (%), (ii) access to improved sanita
 <details><summary>KD5: Resilience to water-related disasters</summary>
 <p>
 
-<b>Exposure:</b> e.g. (i) population density, (ii) growth rate.
+<b>Exposure:</b> <br> 
+e.g. (i) population density <br> 
+(ii) growth rate <br>
+<br>
 
-<b>Basic population vulnerability:</b> e.g. (i) poverty rate, (ii) land use.
+<b>Basic population vulnerability:</b> <br>
+e.g. (i) poverty rate <br>
+(ii) land use<br>
+<br>
 
-<b>Hard coping capacities:</b> e.g. (i) telecommunications development
+<b>Hard coping capacities:</b> <br>
+e.g. (i) telecommunications development <br>
+<br>
 
-<b>Soft coping capacities:</b> e.g. (i) literacy rate.
+<b>Soft coping capacities:</b> <br>
+e.g. (i) literacy rate
 
 </p>
 </details>
@@ -202,17 +265,18 @@ Below the selected indicators for each dimension are presented. The scale of dat
 </details>
 
 
+<hr/>
 
 
-
-### Weighting of Indices - Example Gain et al. 2016
+<h3> Weighting of Indices <br>
+Example Gain et al. 2016 </h3>
 
 INSERT TABLE
 
 There is not a uniform rule on how to weight indicators in a aggregated index. The weighting for the global water security index (Gain et al., 2016), for example, was defined based on qualitative estimations, eg. a higher relevance was given to availability compared to the other indicators. 
 <br/> <br/>
 
-<details><summary>Bonus Question</summary>
+<details><summary>Self-Study Question</summary>
 <p>
 
 Do you think these weights are appropriate for your country/region? Why?
@@ -222,7 +286,8 @@ Do you think these weights are appropriate for your country/region? Why?
 
 <hr/>
 
-### Urban Water Security – Example Bangkok Babel et al., 2020
+<h3> Urban Water Security – Example: Bangkok <br>
+Babel et al., 2020 <h/3>
 
 ![Untitled](3%202%20Differ%20aaf7f/Untitled.png)
 

@@ -93,6 +93,8 @@ class="centerImage" alt="SDG 6" height="120" width="350">
 
 SDG 6 lists the key targets related to water security. This overview highlights  key messages of SDG 6 in an abridged form. SDG 6 addresses crucial aspects of water security, including water security for people, ambient water quality, water use efficiency, the protection of water related ecosystems and integrated water resources management (IWRM). Aside from SDG 6, SDG 11 also addresses some water-related issues, with targets that relate to the protection against natural hazards, including hydro-meteorological hazards such as floods, droughts, and storms.
 
+<hr/>
+
 ### 2.1.3 Earlier Definitions of Water Security
 
 Various definitions of Water Security exist, each reflecting the perspective and purpose of their application. Most incorporate the basic elements of water resources, environment, economy, water-related disasters, and human needs. Cook and Bakker (2012) identified four complementing themes in water security frameworks: availability; water-related hazards and vulnerability to those hazards; human needs; and, environmental sustainability. 
