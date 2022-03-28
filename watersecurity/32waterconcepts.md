@@ -99,11 +99,11 @@ The **key dimensions (KD)** are listed below:
 (i) productivity of irrigated agriculture <br>
 (ii) independence from imported water and goods<br>
 (iii) resilience (% of renewable water resources stored in large dams)<br>
-
+ <br>
 <b>Industrial water security subindex</b>:  <br>
 (i) productivity (financial value of industrial goods relative to industrial water withdrawal) <br>
 (ii) consumption rate (net virtual water consumed relative to water withdrawn from industry <br>
-
+ <br>
 <b>Energy water security subindex:</b> <br>
 (i) utilization of total hydropower capacity <br>
 (ii) ratio of hydropower to total energy supply
@@ -131,7 +131,7 @@ The **key dimensions (KD)** are listed below:
 (ii) imperviousness <br>
 (iii) livestock density <br>
 (iv) wetland disconnection<br>
-
+ <br>
 <b>Pollution:</b> <br> 
 (i) soil salinization <br>
 (ii) nitrogen <br>
@@ -142,14 +142,14 @@ The **key dimensions (KD)** are listed below:
 (vii) organic loads <br> 
 (viii) potential acidification <br> 
 (ix) thermal impacts from power plant cooling<br>
-
+ <br>
 <b>Water resources development:</b> <br>
 (i) dam density <br> 
 (ii) river network fragmentation <br> 
 (iii) relative water consumption compared to supply <br>
 (iv) agriculture sector water stress <br> 
 (v) residency time change downstream from dams <br>
-
+ <br>
 <b>Biotic factors:</b> <br>
 (i) non-native species <br>
 (ii) non-native species richness <br> 
@@ -165,7 +165,7 @@ The **key dimensions (KD)** are listed below:
 <b>Exposure:</b> <br> 
 e.g. (i) population density <br> 
 (ii) growth rate <br>
-<br>
+ <br>
 
 <b>Basic population vulnerability:</b> <br>
 e.g. (i) poverty rate <br>
@@ -220,11 +220,9 @@ Below the selected indicators for each dimension are presented. The scale of dat
 <details><summary><b>Availability (0.5° spatial resolution):</b></summary>
 <p>
 
-- water scarcity index – source: Wada et al. (2014) <br>
-
-- drought index – source: Wada et al. (2013) <br>
-
-- groundwater depletion – source: Wada et al. (2012)
+water scarcity index, source: Wada et al. (2014) <br>
+drought index, source: Wada et al. (2013) <br>
+groundwater depletion, source: Wada et al. (2012)
 
 </p>
 </details>
@@ -233,9 +231,8 @@ Below the selected indicators for each dimension are presented. The scale of dat
 <details><summary><b>Accessibility (country scale):</b></summary>
 <p>
 
-- access to sanitation – source: Hsu et al. (2014) <br>
-
-- access to drinking water – source: Hsu et al. (2014)
+access to sanitation, source: Hsu et al. (2014) <br>
+access to drinking water, source: Hsu et al. (2014)
 
 </p>
 </details>
@@ -244,9 +241,8 @@ Below the selected indicators for each dimension are presented. The scale of dat
 <details><summary><b>Safety and quality (country scale):</b></summary>
 <p>
 
-- water quality index – source: Srebotnjak et al. (2012) <br>
-
-- flood frequency index – source: Center for H et al. (2005)
+water quality index, source: Srebotnjak et al. (2012) <br>
+flood frequency index, source: Center for H et al. (2005)
 
 </p>
 </details>
@@ -255,11 +251,9 @@ Below the selected indicators for each dimension are presented. The scale of dat
 <details><summary><b>Management (country and river basin scale):</b></summary>
 <p>
 
-- World governance index – source: Kaufmann et al., (2010) <br>
-
-- transboundary legal framework – source: http://twap-rivers.org <br>
-
-- transboundary political tension – source: http://twap-rivers.org
+World governance index, source: Kaufmann et al., (2010) <br>
+transboundary legal framework, source: http://twap-rivers.org <br>
+transboundary political tension, source: http://twap-rivers.org
 
 </p>
 </details>
@@ -268,8 +262,7 @@ Below the selected indicators for each dimension are presented. The scale of dat
 <hr/>
 
 
-<h3> Weighting of Indices <br>
-Example Gain et al. 2016 </h3>
+<h3> Weighting of Indices   -   Example Gain et al. 2016 </h3>
 
 INSERT TABLE
 
@@ -286,14 +279,13 @@ Do you think these weights are appropriate for your country/region? Why?
 
 <hr/>
 
-<h3> Urban Water Security – Example: Bangkok <br>
-Babel et al., 2020 <h/3>
+<h3> Urban Water Security – Example: Bangkok,    Babel et al., 2020 </h3>
 
-![Untitled](3%202%20Differ%20aaf7f/Untitled.png)
-
+IMAGE
 <p><small>Urban Water Security (Babel et al., 2020).</small></p>
 <p><small>  </small></p>
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions){: .btn .btn-purple .mr-4}
-
+<br/> <br/>
+<br/> <br/>
