@@ -8,21 +8,12 @@ nav_order: 1
 <div style="background: url(/wef-nexus-online-course/assets/BANNER_GITHUB.png)" class="jumbotron bg-cover text-white">
     <div class="container py-5 text-center">
         <h1 class="display-4 font-weight-bold">Water-Energy-Food Nexus <br>
-        Online Course</h1>
+        Online Course <br>
+        <br> </h1>
         <a href="https://waterbender231.github.io/wef-nexus-online-course/introduction/" role="button" class="btn btn-primary px-5">Get Started</a>
     </div>
 </div>
 
-<!-- Static Header -->
-<div style="background: url(/wef-nexus-online-course/assets/BANNER_GITHUB.png)"; class="jumbotron bg-cover text-white">
-    <div class="container py-5 text-center">
-        <h1 class="display-4 font-weight-bold">Water-Energy-Food Nexus <br>
-        Online Course</h1>
-        <p class="font-italic mb-0 font-weight-bold">   </p>
-        <br/> <br/>                   
-        <a href="https://waterbender231.github.io/wef-nexus-online-course/introduction/" role="button" class="btn btn-primary px-5">Get started</a>
-    </div>
-</div>
 
 <img src="/wef-nexus-online-course/assets/supported.jpg" alt="Funding and support">
 <br/> <br/>
