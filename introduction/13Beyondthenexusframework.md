@@ -87,16 +87,16 @@ However, Rothausen & Conway (2011) stress that links between the water and energ
 
 <p><small><b>References</b></small></p>
 <p><small><b>1.3.1 Global Resource Nexus - five resources: water, energy, minerals, food and land</b></small></p>
-<p><small><b>Andrews-Speed, P., R. Bleischwitz, G. Kemp, S. VanDeveer, T. Boersma and C. Johnson 2012. The Global Resource Nexus. The Struggles for Land, Energy, Food, Water and Minerals, 2012, Washington D.C., Transatlantic Academy.</i></small></p>
+<p><small><i>Andrews-Speed, P., R. Bleischwitz, G. Kemp, S. VanDeveer, T. Boersma and C. Johnson 2012. The Global Resource Nexus. The Struggles for Land, Energy, Food, Water and Minerals, 2012, Washington D.C., Transatlantic Academy.</i></small></p>
 
 <p><small><b>1.3.2 Water-Energy-Food-Soil (WEFS) Nexus</b></small></p>
-<p><small><b>Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: [https://doi.org/10.1016/bs.agron.2017.02.001](https://doi.org/10.1016/bs.agron.2017.02.001)</a></i></small></p>
+<p><small><i>Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: [https://doi.org/10.1016/bs.agron.2017.02.001](https://doi.org/10.1016/bs.agron.2017.02.001)</a></i></small></p>
 
 <p><small><b>1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)</b></small></p>
 <p><small><i>Biggs, EM., Bruce, E., Boruff, B., Duncan, JMA., Horsley, J., Pauli, N., McNeill, K., Neef, A., Ogtrop, FV., Curnow, J., Haworth, B., Duce, S. & Imanari, Y. (2015), ‘Sustainable development and the water-energy-food nexus: A perspective on livelihoods’, Environmental Science and Policy, vol. 54, pp. 389–397.</i></small></p>
 
 <p><small><b>1.3.4 Greenhouse gases (GHGs) and the WEF-Nexus</b></small></p>
-Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F. N., & Leip, A. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. Nature Food, 2(3), 198–209. doi:10.1038/s43016-021-00225-9<br>
+<p><small><i>Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F. N., & Leip, A. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. Nature Food, 2(3), 198–209. doi:10.1038/s43016-021-00225-9<br>
 <br>
 FAO, (2018), Emissions due to agriculture. Global, regional and country trends 2000–2018, FAOSTAT Analytical Brief Series No 18, Rome.<br>
 <br>
