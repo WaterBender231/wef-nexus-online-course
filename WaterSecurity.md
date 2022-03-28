@@ -7,10 +7,7 @@ nav_order: 3
 ---
 # **2. Water Security**
 
-<img src="/wef-nexus-online-course/assets/water-dimensions.png"
-     alt="Water Security"
-     width="619"
-     height="399">
+<img src="/wef-nexus-online-course/assets/water-dimensions.png" alt="Water Security" width="619"/>
 
 ## Learning Unit 02
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)
