@@ -12,5 +12,5 @@ nav_order: 2
 ## Learning Unit 01
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)
 #### Alexandra Nauditt, Silvia Krautzik
-
+<br>
 The first learning unit will give you an overview of the State of the Art, the history and basic concepts related to “The WEF-Nexus”.

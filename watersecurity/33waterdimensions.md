@@ -42,7 +42,7 @@ Click on the toggle to see the equation to calculate the WSI.
 <details><summary><b>WSI equation</b></summary>
 <p>
 
-𝑊𝑆𝐼〗(insert equation)
+<img src="/wef-nexus-online-course/assets/wsi-equation.JPG" alt="WSI equation">
 
 </p>
 </details>
