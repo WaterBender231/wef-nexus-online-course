@@ -15,6 +15,8 @@ parent: Introduction
 - Each Nexus system depends on an individual composite of varying components
 - As every region is unique in terms of resources availability and use, we need to adapt the concept to address the case-specific challenges
 
+<hr/>
+
 <h2>1.3.1 Global Resource Nexus <br>
 - five resources: water, energy, minerals, food and land</h2>
 <br/> <br/>
@@ -28,6 +30,8 @@ Andrews-Speed et al. 2012 conceptualize a nexus focusing on five key resources: 
 
 A key claim of the approach is that one needs to understand the key actor‘s decision-making processes over resource management. Thus, the global resource nexus approach requires a closer look at supply chains of companies, the strategic planning of politicians or public administrations, and the basic needs of local populations.
 
+<hr/>
+
 <h2>1.3.2 Water-Energy-Food-Soil (WEFS) Nexus <br>
 Adding soil as component</h2>
 <br/> <br/>
@@ -38,6 +42,8 @@ Adding soil as component</h2>
 
 Hatfield et al. 2017 put an emphasis on soil as important element of the water, food, energy nexus.
 
+<hr/>
+
 ## 1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)
 
 ![ELS Nexus](/wef-nexus-online-course/assets/livelihood_nexus.PNG)
@@ -47,6 +53,8 @@ Hatfield et al. 2017 put an emphasis on soil as important element of the water, 
 Biggs et al. (2015) put livelihoods in the center of the WEF Nexus circle: the Environmental Livelihood Security (ELS). ELS refers to the “challenges of maintaining global food security and universal access to freshwater and energy to sustain livelihoods and promote inclusive economic growth, whilst sustaining key environmental systems functionality, particularly under variable climatic regimes’’ (Biggs et al., 2014). This concept also considers external influencing factors such as climate change, population growth, and governance, which all affect the attainment of ELS.
 
 After evaluating different Nexus approaches to improve the understanding about the interrelated dynamics between human populations and the natural environment, they present an integrated framework with the capacity to measure and monitor environmental livelihood security of whole systems by accounting for the water, energy and food requisites for livelihoods at multiple spatial scales and institutional levels
+
+<hr/>
 
 ## 1.3.4 Greenhouse gases (GHGs) and the WEF-Nexus
 ### Integrating aspects of global warming into the WEF-Nexus 
@@ -77,31 +85,27 @@ However, Rothausen & Conway (2011) stress that links between the water and energ
 
 <hr/>
 
-### *References*
+<p><small><b>References</b></small></p>
+<p><small><b>1.3.1 Global Resource Nexus - five resources: water, energy, minerals, food and land</b></small></p>
+<p><small><b>Andrews-Speed, P., R. Bleischwitz, G. Kemp, S. VanDeveer, T. Boersma and C. Johnson 2012. The Global Resource Nexus. The Struggles for Land, Energy, Food, Water and Minerals, 2012, Washington D.C., Transatlantic Academy.</i></small></p>
 
-***1.3.1 Global Resource Nexus - five resources: water, energy, minerals, food and land***
+<p><small><b>1.3.2 Water-Energy-Food-Soil (WEFS) Nexus</b></small></p>
+<p><small><b>Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: [https://doi.org/10.1016/bs.agron.2017.02.001](https://doi.org/10.1016/bs.agron.2017.02.001)</a></i></small></p>
 
-- *Andrews-Speed, P., R. Bleischwitz, G. Kemp, S. VanDeveer, T. Boersma and C. Johnson 2012. The Global Resource Nexus. The Struggles for Land, Energy, Food, Water and Minerals, 2012, Washington D.C., Transatlantic Academy.*
+<p><small><b>1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)</b></small></p>
+<p><small><i>Biggs, EM., Bruce, E., Boruff, B., Duncan, JMA., Horsley, J., Pauli, N., McNeill, K., Neef, A., Ogtrop, FV., Curnow, J., Haworth, B., Duce, S. & Imanari, Y. (2015), ‘Sustainable development and the water-energy-food nexus: A perspective on livelihoods’, Environmental Science and Policy, vol. 54, pp. 389–397.</i></small></p>
 
-***1.3.2 Water-Energy-Food-Soil (WEFS) Nexus***
+<p><small><b>1.3.4 Greenhouse gases (GHGs) and the WEF-Nexus</b></small></p>
+Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F. N., & Leip, A. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. Nature Food, 2(3), 198–209. doi:10.1038/s43016-021-00225-9<br>
+<br>
+FAO, (2018), Emissions due to agriculture. Global, regional and country trends 2000–2018, FAOSTAT Analytical Brief Series No 18, Rome.<br>
+<br>
+IEA, (2018), Global Energy & CO2 Status Report 2018, IEA, Paris, <a href="https://www.iea.org/reports/global-energy-co2-status-report-2018">https://www.iea.org/reports/global-energy-co2-status-report-2018 [accessed 12/30/2021]<br>
+<br>
+IRENA, (2015), Renewable Energy in the Water, Energy & Food Nexus, <a href="https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_Water_Energy_Food_Nexus_2015.pdf">https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_Water_Energy_Food_Nexus_2015.pdf [accessed 12/30/2021]<br>
+<br>
+Rothausen, S. G. S. A., & Conway, D., (2011), Greenhouse-gas emissions from energy use in the water sector, Nature Climate Change, 1(4), 210–219. doi:10.1038/nclimate1147</a></i></small></p>
 
-- *Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: [https://doi.org/10.1016/bs.agron.2017.02.001](https://doi.org/10.1016/bs.agron.2017.02.001)*
-
-***1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)***
-
-- *Biggs, EM., Bruce, E., Boruff, B., Duncan, JMA., Horsley, J., Pauli, N., McNeill, K., Neef, A., Ogtrop, FV., Curnow, J., Haworth, B., Duce, S. & Imanari, Y. (2015), ‘Sustainable development and the water-energy-food nexus: A perspective on livelihoods’, Environmental Science and Policy, vol. 54, pp. 389–397.*
-
-***1.3.4 Greenhouse gases (GHGs) and the WEF-Nexus***
-- *Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F. N., & Leip, A. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. Nature Food, 2(3), 198–209. doi:10.1038/s43016-021-00225-9*
-
-- *FAO, (2018), Emissions due to agriculture. Global, regional and country trends 2000–2018, FAOSTAT Analytical Brief Series No 18, Rome.*
-
-- *IEA, (2018), Global Energy & CO2 Status Report 2018, IEA, Paris [https://www.iea.org/reports/global-energy-co2-status-report-2018](https://www.iea.org/reports/global-energy-co2-status-report-2018) [accessed 12/30/2021]*
-
-- *IRENA, (2015), Renewable Energy in the Water, Energy & Food Nexus, [https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_Water_Energy_Food_Nexus_2015.pdf](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_Water_Energy_Food_Nexus_2015.pdf) [accessed 12/30/2021]*
-
-- *Rothausen, S. G. S. A., & Conway, D., (2011), Greenhouse-gas emissions from energy use in the water sector, Nature Climate Change, 1(4), 210–219. doi:10.1038/nclimate1147*
-
-
-### **Additional Information:** 
-*EDGAR-FOOD database available at: [https://edgar.jrc.ec.europa.eu/](https://edgar.jrc.ec.europa.eu/)*
+<p><small><b>Additional Information:</b></small></p>
+<p><small><i>EDGAR-FOOD database available at:
+<a href="https://edgar.jrc.ec.europa.eu/">https://edgar.jrc.ec.europa.eu/.</a></i></small></p>
