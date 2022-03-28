@@ -91,7 +91,9 @@ Therefore, the Sustainable Development Goals (SDGs) address the areas of action 
 - Less water security
 
 
-<h3><b>Hence, there is a need for a systematic approach such as the WEF Nexus approach!</b></h3>
+&rarr; Hence, there is a need for a systematic approach such as the WEF Nexus approach!
+
+<br>
 
 While the quest for development and the growing demands for energy, water and food will likely require an intensification in resources use, the achievement of one goal may negatively impact the performance of another goal. The increase of one security domain often has trade-offs with another security domain.
 
