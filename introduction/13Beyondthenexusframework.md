@@ -100,11 +100,11 @@ However, Rothausen & Conway (2011) stress that links between the water and energ
 <br>
 FAO, (2018), Emissions due to agriculture. Global, regional and country trends 2000–2018, FAOSTAT Analytical Brief Series No 18, Rome.<br>
 <br>
-IEA, (2018), Global Energy & CO2 Status Report 2018, IEA, Paris, <a href="https://www.iea.org/reports/global-energy-co2-status-report-2018">https://www.iea.org/reports/global-energy-co2-status-report-2018 [accessed 12/30/2021]<br>
+IEA, (2018), Global Energy & CO2 Status Report 2018, IEA, Paris, <a href="https://www.iea.org/reports/global-energy-co2-status-report-2018">https://www.iea.org/reports/global-energy-co2-status-report-2018 </a>[accessed 12/30/2021]<br>
 <br>
-IRENA, (2015), Renewable Energy in the Water, Energy & Food Nexus, <a href="https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_Water_Energy_Food_Nexus_2015.pdf">https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_Water_Energy_Food_Nexus_2015.pdf [accessed 12/30/2021]<br>
+IRENA, (2015), Renewable Energy in the Water, Energy & Food Nexus, <a href="https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_Water_Energy_Food_Nexus_2015.pdf">https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_Water_Energy_Food_Nexus_2015.pdf </a>[accessed 12/30/2021]<br>
 <br>
-Rothausen, S. G. S. A., & Conway, D., (2011), Greenhouse-gas emissions from energy use in the water sector, Nature Climate Change, 1(4), 210–219. doi:10.1038/nclimate1147</a></i></small></p>
+Rothausen, S. G. S. A., & Conway, D., (2011), Greenhouse-gas emissions from energy use in the water sector, Nature Climate Change, 1(4), 210–219. doi:10.1038/nclimate1147</i></small></p>
 
 <p><small><b>Additional Information:</b></small></p>
 <p><small><i>EDGAR-FOOD database available at:

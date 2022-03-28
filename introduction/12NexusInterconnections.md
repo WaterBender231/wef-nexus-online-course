@@ -92,15 +92,15 @@ WWAP. The United Nations World Water Development Report (2014). Water and Energy
 <p><small><i>WWAP. The United Nations World Water Development Report (2014). Water and Energy; World Water Assessment Programme, UNESCO: Paris, 2014.</i></small></p>
 
 <p><small><b>1.2.2 Interconnections between Energy and Food</b></p></small>
-<p><small><i>FAO (2008), ‘Climate change, biofuels and land’, Available from: <a href="http://www.fao.org/tempref/docrep/fao/010/i0142e/i0142e05.pdf">http://www.fao.org/tempref/docrep/fao/010/i0142e/i0142e05.pdf<br>
+<p><small><i>FAO (2008), ‘Climate change, biofuels and land’, Available from: <a href="http://www.fao.org/tempref/docrep/fao/010/i0142e/i0142e05.pdf">http://www.fao.org/tempref/docrep/fao/010/i0142e/i0142e05.pdf</a><br>
 <br>
 FAO (2012), ‘World Agriculture towards 2030/2050: the 2012 Revision’, ESA Working Paper No. 12-03. Food and Agriculture Organization of the United Nations, Rome, Italy.<br>
 <br>
-Popp, J., Lakner, Z., Harangi-Rákos, M. & Fári, M. (2014), ‘The effect of bioenergy expansion: Food, energy, and environment’, Renewable and Sustainable Energy Reviews, vol. 32, pp. 559-578.</a></i></small></p>
+Popp, J., Lakner, Z., Harangi-Rákos, M. & Fári, M. (2014), ‘The effect of bioenergy expansion: Food, energy, and environment’, Renewable and Sustainable Energy Reviews, vol. 32, pp. 559-578.</i></small></p>
 
 <p><small><b>1.2.3 Interconnections between Energy and Food</b></p></small>
 <p><small><i>FAO (2014), ‘Water Withdrawal’, Prepared by AQUASTAT, Available from:
-<a href="http://www.fao.org/nr/water/aquastat/infographics/Withdrawal_eng.pdf">http://www.fao.org/nr/water/aquastat/infographics/Withdrawal_eng.pdf <br>
+<a href="http://www.fao.org/nr/water/aquastat/infographics/Withdrawal_eng.pdf">http://www.fao.org/nr/water/aquastat/infographics/Withdrawal_eng.pdf </a><br>
 <br>
 OECD (2017), ‘Diffuse Pollution, Degraded Waters: Emerging Policy Solutions’, OECD Publishing, Paris.<br>
-<br>United Nations Environment Programme (UNEP) (2016). ‘A Snapshot of the World’s Water Quality: Towards a global assessment’, Nairobi, United Nations Environment Programme (UNEP).</a></i></small></p>
+<br>United Nations Environment Programme (UNEP) (2016). ‘A Snapshot of the World’s Water Quality: Towards a global assessment’, Nairobi, United Nations Environment Programme (UNEP).</i></small></p>
