@@ -7,7 +7,7 @@ nav_order: 8
 ---
 # **7. Nexus Sound Solutions**
 
-![Banner](/water-dimensions.png)
+<img src="/wef-nexus-online-course/assets/solutions-banner.JPG" alt="Solutions Banner"/>
 
 ## Learning Unit 07
 ### Nexus sound solutions – for the clean supply of water, energy and food

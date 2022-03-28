@@ -7,7 +7,7 @@ nav_order: 7
 ---
 # **6. Governance**
 
-![Banner](/water-dimensions.png)
+<img src="/wef-nexus-online-course/assets/governance-banner.PNG" alt="Governance Banner"/>
 
 ## Learning Unit 06
 ### Governance and  Case Studies

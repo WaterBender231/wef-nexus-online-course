@@ -8,12 +8,7 @@ nav_order: 5
 # **4. Food Security**
 
 
-<div text-align="center">
-   <img src="/wef-nexus-online-course/assets/foodsecurity-banner.png" alt="Food Security Banner"
-   width="619"
-   height="399"><br/>
-</div>
-
+<img src="/wef-nexus-online-course/assets/foodsecurity-banner.jpg" alt="Food Security Banner">
 
 ## Learning Unit 04
 ### Introduction to the Water-Energy-Food Security Nexus (WEF Nexus)

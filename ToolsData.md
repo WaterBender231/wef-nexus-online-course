@@ -7,7 +7,7 @@ nav_order: 6
 ---
 # **5. Tools and Data**
 
-![Banner](/water-dimensions.png)
+<img src="/wef-nexus-online-course/assets/tools-data-banner.jpg" alt="Tools and Data Banner"/>
 
 ## Learning Unit 05
 ### Tools and datasets to assess Water-Energy-Food Nexus systems
