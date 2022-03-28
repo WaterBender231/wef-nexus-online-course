@@ -14,3 +14,4 @@ nav_order: 2
 #### Alexandra Nauditt, Silvia Krautzik
 <br/> <br/>
 
+The first learning unit gives an overview of the State of the Art, the history and basic concepts related to “The WEF-Nexus”.
