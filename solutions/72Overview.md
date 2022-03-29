@@ -25,13 +25,6 @@ The term is inspired by the energy sector (e.g., heat and power cogeneration) an
 
 <hr/>
 
-**Overview of provided examples**
-
-
-
-
-<hr/>
-
 <br/> <br/>
 [Continue to in-depth examples](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples){: .btn .btn-purple .mr-4}
 <br/> <br/>
