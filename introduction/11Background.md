@@ -155,7 +155,7 @@ By addressing trade-offs with other sectors and emphasizing the identification o
 <hr/>
 
 
-<p><small><b>References</b></p>
+<p><small><b>References</b>
 <br>
 <b>1.1 Background: Challenges for achieving WEF-Security</b>
 <i>UN 2020, The Sustainable Development Goals, <a href="https://www.un.org/sustainabledevelopment/">https://www.un.org/sustainabledevelopment/</a><br>
@@ -189,26 +189,149 @@ Hoff, H. (2011). Understanding the Nexus. Background Paper for the Bonn2011 Conf
 </small>
 </p>
 
-<div class="container mt-5">
-    <div class="row d-flex justify-content-center">
-        <div class="col-md-7">
-            <div class="card p-3 py-4">
-                <div class="text-center"> <img src="https://i.imgur.com/bDLhJiP.jpg" width="100" class="rounded-circle"> </div>
-                <div class="text-center mt-3"> <span class="bg-secondary p-1 px-4 rounded text-white">Pro</span>
-                    <h5 class="mt-2 mb-0">Alexender Schidmt</h5> <span>UI/UX Designer</span>
-                    <div class="px-4 mt-1">
-                        <p class="fonts">Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card user-card">
+                <div class="card-header">
+                    <h5>Profile</h5>
+                </div>
+                <div class="card-block">
+                    <div class="user-image">
+                        <img src="https://bootdey.com/img/Content/avatar/avatar7.png" class="img-radius" alt="User-Profile-Image">
                     </div>
-                    <ul class="social-list">
-                        <li><i class="fa fa-facebook"></i></li>
-                        <li><i class="fa fa-dribbble"></i></li>
-                        <li><i class="fa fa-instagram"></i></li>
-                        <li><i class="fa fa-linkedin"></i></li>
-                        <li><i class="fa fa-google"></i></li>
+                    <h6 class="f-w-600 m-t-25 m-b-10">Alessa Robert</h6>
+                    <p class="text-muted">Active | Male | Born 23.05.1992</p>
+                    <hr>
+                    <p class="text-muted m-t-15">Activity Level: 87%</p>
+                    <ul class="list-unstyled activity-leval">
+                        <li class="active"></li>
+                        <li class="active"></li>
+                        <li class="active"></li>
+                        <li></li>
+                        <li></li>
                     </ul>
-                    <div class="buttons"> <button class="btn btn-outline-primary px-4">Message</button> <button class="btn btn-primary px-4 ms-3">Contact</button> </div>
+                    <div class="bg-c-blue counter-block m-t-10 p-20">
+                        <div class="row">
+                            <div class="col-4">
+                                <i class="fa fa-comment"></i>
+                                <p>1256</p>
+                            </div>
+                            <div class="col-4">
+                                <i class="fa fa-user"></i>
+                                <p>8562</p>
+                            </div>
+                            <div class="col-4">
+                                <i class="fa fa-suitcase"></i>
+                                <p>189</p>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <hr>
+                    <div class="row justify-content-center user-social-link">
+                        <div class="col-auto"><a href="#!"><i class="fa fa-facebook text-facebook"></i></a></div>
+                        <div class="col-auto"><a href="#!"><i class="fa fa-twitter text-twitter"></i></a></div>
+                        <div class="col-auto"><a href="#!"><i class="fa fa-dribbble text-dribbble"></i></a></div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
+        
+        <div class="col-md-4">
+            <div class="card user-card">
+                <div class="card-header">
+                    <h5>Profile</h5>
+                </div>
+                <div class="card-block">
+                    <div class="user-image">
+                        <img src="https://bootdey.com/img/Content/avatar/avatar6.png" class="img-radius" alt="User-Profile-Image">
+                    </div>
+                    <h6 class="f-w-600 m-t-25 m-b-10">Alessa Robert</h6>
+                    <p class="text-muted">Active | Male | Born 23.05.1992</p>
+                    <hr>
+                    <p class="text-muted m-t-15">Activity Level: 87%</p>
+                    <ul class="list-unstyled activity-leval">
+                        <li class="active"></li>
+                        <li class="active"></li>
+                        <li class="active"></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                    <div class="bg-c-green counter-block m-t-10 p-20">
+                        <div class="row">
+                            <div class="col-4">
+                                <i class="fa fa-comment"></i>
+                                <p>1256</p>
+                            </div>
+                            <div class="col-4">
+                                <i class="fa fa-user"></i>
+                                <p>8562</p>
+                            </div>
+                            <div class="col-4">
+                                <i class="fa fa-suitcase"></i>
+                                <p>189</p>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <hr>
+                    <div class="row justify-content-center user-social-link">
+                        <div class="col-auto"><a href="#!"><i class="fa fa-facebook text-facebook"></i></a></div>
+                        <div class="col-auto"><a href="#!"><i class="fa fa-twitter text-twitter"></i></a></div>
+                        <div class="col-auto"><a href="#!"><i class="fa fa-dribbble text-dribbble"></i></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card user-card">
+                <div class="card-header">
+                    <h5>Profile</h5>
+                </div>
+                <div class="card-block">
+                    <div class="user-image">
+                        <img src="https://bootdey.com/img/Content/avatar/avatar1.png" class="img-radius" alt="User-Profile-Image">
+                    </div>
+                    <h6 class="f-w-600 m-t-25 m-b-10">Alessa Robert</h6>
+                    <p class="text-muted">Active | Male | Born 23.05.1992</p>
+                    <hr>
+                    <p class="text-muted m-t-15">Activity Level: 87%</p>
+                    <ul class="list-unstyled activity-leval">
+                        <li class="active"></li>
+                        <li class="active"></li>
+                        <li class="active"></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                    <div class="bg-c-yellow counter-block m-t-10 p-20">
+                        <div class="row">
+                            <div class="col-4">
+                                <i class="fa fa-comment"></i>
+                                <p>1256</p>
+                            </div>
+                            <div class="col-4">
+                                <i class="fa fa-user"></i>
+                                <p>8562</p>
+                            </div>
+                            <div class="col-4">
+                                <i class="fa fa-suitcase"></i>
+                                <p>189</p>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <hr>
+                    <div class="row justify-content-center user-social-link">
+                        <div class="col-auto"><a href="#!"><i class="fa fa-facebook text-facebook"></i></a></div>
+                        <div class="col-auto"><a href="#!"><i class="fa fa-twitter text-twitter"></i></a></div>
+                        <div class="col-auto"><a href="#!"><i class="fa fa-dribbble text-dribbble"></i></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+	</div>
 </div>
