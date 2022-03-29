@@ -31,6 +31,6 @@ Pan, S.‑Y., Snyder, S. W., Packman, A. I., Lin, Y. J., & Chiang, P.‑
 <br>
 Robles, Á., Aguado, D., Barat, R., Borrás, L., Bouzas, A., Giménez, J. B., . . . Seco, A. (2020). New frontiers from removal to recycling of nitrogen and phosphorus from wastewater in the Circular Economy. Bioresource Technology, 300, 122673, <a href="https://doi.org/10.1016/j.biortech.2019.122673">https://doi.org/10.1016/j.biortech.2019.122673 </a> <br>
 <br>
-Wang, X., Guo, M., van Dam, K. H., Koppelaar, R. H.E.M., Triantafyllidis, C., & Shah, N. (2017). Waste-Energy-Water systems in sustainable city development using the [resilience.io], <a href="http://resilience.io/platform">Paltform</a>. In Computer Aided Chemical Engineering. 27th European Symposium on Computer Aided Process Engineering (Vol. 40, pp. 2377–2382). Elsevier. <a href="https://doi.org/10.1016/B978-0-444-63965-3.50398-6">https://doi.org/10.1016/B978-0-444-63965-3.50398-6</a><i>
+Wang, X., Guo, M., van Dam, K. H., Koppelaar, R. H.E.M., Triantafyllidis, C., & Shah, N. (2017). Waste-Energy-Water systems in sustainable city development using the [resilience.io], <a href="http://resilience.io/platform">Paltform</a>. In Computer Aided Chemical Engineering. 27th European Symposium on Computer Aided Process Engineering (Vol. 40, pp. 2377–2382). Elsevier. <a href="https://doi.org/10.1016/B978-0-444-63965-3.50398-6">https://doi.org/10.1016/B978-0-444-63965-3.50398-6</a></i>
 </p>
 </small>
