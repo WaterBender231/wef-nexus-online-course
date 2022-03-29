@@ -22,7 +22,11 @@ nav_order: 1
 to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
 <br/> <br/>
 
-
+<ul class="list-style-none">
+<li class="d-inline-block mr-1"> <a href="#"><img src="/wef-nexus-online-course/assets/itt.jpg" width="100" height="32" alt="ITT/TH Köln"></a></li>
+<li class="d-inline-block mr-1"> <a href="#"><img src="/wef-nexus-online-course/assets/DAADLogo.jpg" width="100" height="32" alt="DAAD"></a></li>
+<li class="d-inline-block mr-1"> <a href="#"><img src="/wef-nexus-online-course/assets/supported.jpg" width="100" height="32" alt="BMZ"></a></li>
+</ul>
 
 **The Water Energy Food (WEF) Nexus Course consists of the following Learning Units (LUs):**
 
