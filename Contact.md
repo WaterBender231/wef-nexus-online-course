@@ -6,10 +6,11 @@ nav_order: 9
 ---
 
 ## **Contact Details**
-
-Dr. Alexandra Nauditt
-*Fakultät für Raumentwicklung und Infrastruktursysteme*
-*Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)*
+<br>
+Dr. Alexandra Nauditt <br>
+<i>Fakultät für Raumentwicklung und Infrastruktursysteme <br>
+Institute for Technology and Resources Management in the Tropics and Subtropics (ITT) </i>
+<br>
 
 E-Mail: <a href = "mailto: alexandra.nauditt@th-koeln.de">alexandra.nauditt@th-koeln.de
 </a>
