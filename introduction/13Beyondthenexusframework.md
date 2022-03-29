@@ -6,11 +6,6 @@ parent: Introduction
 ---
 # **1.3 Beyond the basic Nexus framework**
 
-<img src="/wef-nexus-online-course/assets/beyond_frameworks.PNG" alt="Beyond frameworks" alt="Beyond the basic nexus" class="center" width="450" height="450">
-
-<p><small>Source: Alexandra Nauditt, Silvia Krautzik, Julia Felling</small></p>
-<br/> <br/>
-
 - The “WEF Nexus” concept is not restricted to water, energy and Food and invites to incorporate other components
 - Each Nexus system depends on an individual composite of varying components
 - As every region is unique in terms of resources availability and use, we need to adapt the concept to address the case-specific challenges
@@ -106,6 +101,7 @@ IRENA, (2015), Renewable Energy in the Water, Energy & Food Nexus, <a href="http
 <br>
 Rothausen, S. G. S. A., & Conway, D., (2011), Greenhouse-gas emissions from energy use in the water sector, Nature Climate Change, 1(4), 210–219. doi:10.1038/nclimate1147</i></small></p>
 
-<p><small><b>Additional Information:</b></small></p>
-<p><small><i>EDGAR-FOOD database available at:
-<a href="https://edgar.jrc.ec.europa.eu/">https://edgar.jrc.ec.europa.eu/.</a></i></small></p>
+<p><small><b>Additional Information:</b> <br>
+<i>EDGAR-FOOD database available at: <a href="https://edgar.jrc.ec.europa.eu/">https://edgar.jrc.ec.europa.eu/.</a></i>
+</small>
+</p>
