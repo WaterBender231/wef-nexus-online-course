@@ -20,7 +20,8 @@ All kind of solutions which address WEF nexus challenge and increase resource us
 WEF polyservice system refers to cross-sector technology-, nature-based, and hybrid systems addressing WEF nexus challenges. They interlink at least two sectors and tap direct and indirect synergistic effects across sectors.
 
 <hr/>
-**WEF Polygeneration/Polyproduction Systems**
+
+**7.2.3 WEF Polygeneration/Polyproduction Systems**
 The term is inspired by the energy sector (e.g., heat and power cogeneration) and expresses the system's variety of provided end-uses. The term "polygeneration" indicates that the system produces at least two commodities for end-use in different sectors (e.g., Agrophotovoltaics: Electricity and Crops).
 
 <hr/>
