@@ -23,9 +23,17 @@ WEF polyservice system refers to cross-sector technology-, nature-based, and hyb
 **WEF Polygeneration/Polyproduction Systems**
 The term is inspired by the energy sector (e.g., heat and power cogeneration) and expresses the system's variety of provided end-uses. The term "polygeneration" indicates that the system produces at least two commodities for end-use in different sectors (e.g., Agrophotovoltaics: Electricity and Crops).
 
+<hr/>
+
+**Overview of provided examples**
+
+
+
+
+<hr/>
 
 <br/> <br/>
-[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples){: .btn .btn-purple .mr-4}
+[Continue to in-depth examples](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
 <hr/>
