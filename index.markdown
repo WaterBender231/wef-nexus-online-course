@@ -30,15 +30,15 @@ to the WEF-Nexus online course. Our website is under construction. You can find 
 <br/> <br/>
 
 
-**The Water Energy Food (WEF) Nexus Course consists of the following Learning Units (LUs):**
+**The Water Energy Food (WEF) Nexus Course consists of the following 7 Learning Units (LUs):**
 
-- Introduction to the Water Energy Food Security Nexus, WEF Nexus Interconnections
-- Water security – concepts, dimensions and indicators to measure Water Security
-- Energy Security – concepts, dimensions and indicators to measure Energy Security
-- Food Security – concepts, dimensions and indicators to measure Food Security
-- WEF Nexus Assessment tools: qualitative, quantitative and governance related tools
-- WEF Nexus governance: assessment and measures + case studies
-- Nexus sound solutions and integrated technologies that support the clean supply of water, energy and food
+1. Introduction to the Water Energy Food Security Nexus, WEF Nexus Interconnections
+2. Water security – concepts, dimensions and indicators to measure Water Security
+3. Energy Security – concepts, dimensions and indicators to measure Energy Security
+4. Food Security – concepts, dimensions and indicators to measure Food Security
+5. WEF Nexus Assessment tools: qualitative, quantitative and governance related tools
+6. WEF Nexus governance: assessment and measures + case studies
+7. Nexus sound solutions and integrated technologies that support the clean supply of water, energy and food
 
 <br/> <br/>
 <br/> <br/>
