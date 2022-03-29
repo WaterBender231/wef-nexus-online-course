@@ -16,9 +16,11 @@ nav_order: 1
 </div>
 
 <ul class="list-style-none">
-<li class="d-inline-block mr-1"> <a href="#"><img src="/wef-nexus-online-course/assets/itt.jpg" width="200" height="32" alt="ITT/TH Köln"></a></li>
-<li class="d-inline-block mr-1"> <a href="#"><img src="/wef-nexus-online-course/assets/DAADLogo.jpg" width="200" height="32" alt="DAAD"></a></li>
-<li class="d-inline-block mr-1"> <a href="#"><img src="/wef-nexus-online-course/assets/supported by icon.PNG" width="200" height="32" alt="BMZ"></a></li>
+<li class="d-inline-block mr-1"> <a href="#"><img src="/wef-nexus-online-course/assets/itt.jpg" width="170" height="32" alt="ITT/TH Köln"></a></li>
+<li class="d-inline-block mr-1"> <a href="#"><img src="#" width="32" height="32"></a></li>
+<li class="d-inline-block mr-1"> <a href="#"><img src="/wef-nexus-online-course/assets/DAADLogo.jpg" width="170" height="32" alt="DAAD"></a></li>
+<li class="d-inline-block mr-1"> <a href="#"><img src="#" width="32" height="32"></a></li>
+<li class="d-inline-block mr-1"> <a href="#"><img src="/wef-nexus-online-course/assets/supported by icon.PNG" width="170" height="32" alt="BMZ"></a></li>
 </ul>
 
 <!--
