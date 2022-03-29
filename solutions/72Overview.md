@@ -8,19 +8,24 @@ parent: Solutions
 
 The smart combination of single-sector technologies allows to tap the synergies within the water energy and food nexus. Nexus smart solutions include agrivoltaics, water and electricity cogeneration systems, solar-powered irrigation systems (see examples), saline water greenhouses (Al-Ismaili and Jayasuriya, 2016), water efficient cooling towers (Pan et al. 2018),  recycling of solid waste and wastewater for energy supply (Wang et al., 2017) and fertilization (González-Sierra et al., 2019), and phosphorous and nitrogen recovery (Chrispim et al. 2019, Robles et al. 2020).
 
-<hr/>
-
 **Water-Energy-Food Nexus Sound Solutions (WEF-NSS)** <br>
 All kind of solutions which address WEF nexus challenge and increase resource use efficiency across sectors by tapping synergies and/or minimizing trade-offs. WEF NSS include technology-based systems, nature-based systems, hybrid systems. The systems can encompass multiple sectors or act only in a single sector while indirectly affecting other sectors (e.g., smart irrigation system). Further, WEF NSS comprise policies, cross-sector coordination instruments, and integrated resource management strategies. The cross-sector efficiency gains can occur at all points of the system processes (source, transformation/conversion, storage, end-use) or can also be induced through the solution (policy, the establishment of cross-sector coordination, integrated resource management).
 
 <hr/>
 
-**7.2.2 WEF Polyservice Systems**
-WEF polyservice system refers to cross-sector technology-, nature-based, and hybrid systems addressing WEF nexus challenges. They interlink at least two sectors and tap direct and indirect synergistic effects across sectors.
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <p><b>7.2.2 WEF Polyservice Systems</b> <br> WEF polyservice system refers to cross-sector technology-, nature-based, and hybrid systems addressing WEF nexus challenges. They interlink at least two sectors and tap direct and indirect synergistic effects across sectors.</p>
+    </div>
+    <div class="col">
+      <p><b>WEF Polygeneration/Polyproduction Systems</b> <br> The term is inspired by the energy sector (e.g., heat and power cogeneration) and expresses the system's variety of provided end-uses. The term "polygeneration" indicates that the system produces at least two commodities for end-use in different sectors (e.g., Agrophotovoltaics: Electricity and Crops).</p>
+    </div>
+  </div>
+</div>
 
-<hr/>
-WEF Polygeneration/Polyproduction Systems
-The term is inspired by the energy sector (e.g., heat and power cogeneration) and expresses the system's variety of provided end-uses. The term "polygeneration" indicates that the system produces at least two commodities for end-use in different sectors (e.g., Agrophotovoltaics: Electricity and Crops).
+
+
 
 <p><small><b>References</b><br>
 <i>Al-Ismaili, A. M., & Jayasuriya, H. (2016). Seawater greenhouse in Oman: A sustainable technique for freshwater conservation and production. Renewable and Sustainable Energy Reviews, 54, 653–664, <a href="https://doi.org/10.1016/j.rser.2015.10.016">https://doi.org/10.1016/j.rser.2015.10.016</a> <br>
