@@ -25,7 +25,7 @@ The term is inspired by the energy sector (e.g., heat and power cogeneration) an
 
 
 <br/> <br/>
-[See Exercise Questions](https://waterbender231.github.io/wef-nexus-online-course/solutions/questions){: .btn .btn-purple .mr-4}
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
 <hr/>
@@ -41,3 +41,39 @@ Robles, Á., Aguado, D., Barat, R., Borrás, L., Bouzas, A., Giménez, J.�
 <br>
 Wang, X., Guo, M., van Dam, K. H., Koppelaar, R. H.E.M., Triantafyllidis, C., & Shah, N. (2017). Waste-Energy-Water systems in sustainable city development using the [resilience.io], <a href="http://resilience.io/platform">Paltform</a>. In Computer Aided Chemical Engineering. 27th European Symposium on Computer Aided Process Engineering (Vol. 40, pp. 2377–2382). Elsevier. <a href="https://doi.org/10.1016/B978-0-444-63965-3.50398-6">https://doi.org/10.1016/B978-0-444-63965-3.50398-6</a></i>
 </small>
+
+
+<div class="frame">
+  <div class="center">
+    
+    <div class="profile">
+      <div class="image">
+        <div class="circle-1"></div>
+        <div class="circle-2"></div>
+        <img src="https://100dayscss.com/codepen/jessica-potter.jpg" width="70" height="70" alt="Jessica Potter">
+      </div>
+      
+      <div class="name">Jessica Potter</div>
+      <div class="job">Visual Artist</div>
+      
+      <div class="actions">
+        <button class="btn">Follow</button>
+        <button class="btn">Message</button>
+      </div>
+    </div>
+    
+    <div class="stats">
+      <div class="box">
+        <span class="value">523</span>
+        <span class="parameter">Posts</span>
+      </div>
+      <div class="box">
+        <span class="value">1387</span>
+        <span class="parameter">Likes</span>
+      </div>
+      <div class="box">
+        <span class="value">146</span>
+        <span class="parameter">Follower</span>
+      </div>
+    </div>
+  </div>
