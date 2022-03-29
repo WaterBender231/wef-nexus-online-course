@@ -83,7 +83,7 @@ In 2014, approximately 70% of the global water withdrawal was used for irrigatio
 <hr/>
 
 <p><small><b>References</b></small>
-<p><small><b>1.2 Nexus-Interconnections: The WEF sectors are closely related</b></p></small>
+<p><small><b>1.2 Nexus-Interconnections: The WEF sectors are closely related</b></small>
 <p><small><i>FAO (2014), ‘The Water-Energy-Food Nexus - A new approach in support of food security and sustainable agriculture’, Food and Agriculture Organization of the United Nations, pp.1–11.<br>
 <br>
 WWAP. The United Nations World Water Development Report (2014). Water and Energy; World Water Assessment Program, UNESCO: Paris, 2014.</i></small></p>

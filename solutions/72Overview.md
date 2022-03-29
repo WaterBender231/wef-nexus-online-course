@@ -77,3 +77,185 @@ Wang, X., Guo, M., van Dam, K. H., Koppelaar, R. H.E.M., Triantafyllidis,�
       </div>
     </div>
   </div>
+
+
+
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
+<div class="container">
+<div class="row">
+    <ul class="directory-list">
+        <li><a href="#">a</a></li>
+        <li><a href="#">b</a></li>
+        <li><a href="#">c</a></li>
+        <li><a href="#">d</a></li>
+        <li><a href="#">e</a></li>
+        <li><a href="#">f</a></li>
+        <li><a href="#">g</a></li>
+        <li><a href="#">h</a></li>
+        <li><a href="#">i</a></li>
+        <li><a href="#">j</a></li>
+        <li><a href="#">k</a></li>
+        <li><a href="#">l</a></li>
+        <li><a href="#">m</a></li>
+        <li><a href="#">n</a></li>
+        <li><a href="#">o</a></li>
+        <li><a href="#">p</a></li>
+        <li><a href="#">q</a></li>
+        <li><a href="#">r</a></li>
+        <li><a href="#">s</a></li>
+        <li><a href="#">t</a></li>
+        <li><a href="#">u</a></li>
+        <li><a href="#">v</a></li>
+        <li><a href="#">w</a></li>
+        <li><a href="#">x</a></li>
+        <li><a href="#">y</a></li>
+        <li><a href="#">z</a></li>
+    </ul>
+</div>
+
+<div class="directory-info-row">
+    <div class="row">
+        <div class="col-md-6 col-sm-6">
+            <div class="panel">
+                <div class="panel-body">
+                    <div class="media">
+                        <a class="pull-left" href="#">
+                            <img class="thumb media-object" src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="" />
+                        </a>
+                        <div class="media-body">
+                            <h4>John Doe <span class="text-muted small"> - UI Engineer</span></h4>
+                            <ul class="social-links">
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Facebook"><i class="fa fa-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Twitter"><i class="fa fa-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Skype"><i class="fa fa-skype"></i></a>
+                                </li>
+                            </ul>
+                            <address>
+                                <strong>Bootdey, Inc.</strong><br />
+                                Vamoil Ave, Suite 23<br />
+                                Dream land, Australia <br />
+                                <abbr title="Phone">P:</abbr> (142) 454-7890
+                            </address>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-sm-6">
+            <div class="panel">
+                <div class="panel-body">
+                    <div class="media">
+                        <a class="pull-left" href="#">
+                            <img class="thumb media-object" src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="" />
+                        </a>
+                        <div class="media-body">
+                            <h4>John Doe <span class="text-muted small"> - UI Engineer</span></h4>
+                            <ul class="social-links">
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Facebook"><i class="fa fa-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Twitter"><i class="fa fa-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Skype"><i class="fa fa-skype"></i></a>
+                                </li>
+                            </ul>
+                            <address>
+                                <strong>Bootdey, Inc.</strong><br />
+                                Vamoil Ave, Suite 23<br />
+                                Dream land, Australia <br />
+                                <abbr title="Phone">P:</abbr> (142) 454-7890
+                            </address>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 col-sm-6">
+            <div class="panel">
+                <div class="panel-body">
+                    <div class="media">
+                        <a class="pull-left" href="#">
+                            <img class="thumb media-object" src="https://bootdey.com/img/Content/avatar/avatar3.png" alt="" />
+                        </a>
+                        <div class="media-body">
+                            <h4>John Doe <span class="text-muted small"> - UI Engineer</span></h4>
+                            <ul class="social-links">
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Facebook"><i class="fa fa-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Twitter"><i class="fa fa-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Skype"><i class="fa fa-skype"></i></a>
+                                </li>
+                            </ul>
+                            <address>
+                                <strong>Bootdey, Inc.</strong><br />
+                                Vamoil Ave, Suite 23<br />
+                                Dream land, Australia <br />
+                                <abbr title="Phone">P:</abbr> (142) 454-7890
+                            </address>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-sm-6">
+            <div class="panel">
+                <div class="panel-body">
+                    <div class="media">
+                        <a class="pull-left" href="#">
+                            <img class="thumb media-object" src="https://bootdey.com/img/Content/avatar/avatar4.png" alt="" />
+                        </a>
+                        <div class="media-body">
+                            <h4>John Doe <span class="text-muted small"> - UI Engineer</span></h4>
+                            <ul class="social-links">
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Facebook"><i class="fa fa-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Twitter"><i class="fa fa-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+                                </li>
+                                <li>
+                                    <a title="" data-placement="top" data-toggle="tooltip" class="tooltips" href="" data-original-title="Skype"><i class="fa fa-skype"></i></a>
+                                </li>
+                            </ul>
+                            <address>
+                                <strong>Bootdey, Inc.</strong><br />
+                                Vamoil Ave, Suite 23<br />
+                                Dream land, Australia <br />
+                                <abbr title="Phone">P:</abbr> (142) 454-7890
+                            </address>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
