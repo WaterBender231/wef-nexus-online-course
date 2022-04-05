@@ -6,9 +6,9 @@ parent: 7.3 Examples
 grand_parent: Solutions
 nav_order: 1
 ---
-# 7.3.1 Integration of Photovoltaics and Agriculture: Agrivoltaics
+# **7.3.1 Integration of Photovoltaics and Agriculture: Agrivoltaics**
 
-## Agrivoltaics: generating electricity while saving water – increasing WEF resources productivity
+## **Agrivoltaics: generating electricity while saving water – increasing WEF resources productivity**
 
 ![Untitled](7%203%201%20Inte%20ff8f0/Untitled.png)
 
@@ -241,6 +241,10 @@ The overall height of the installation reaches 4.78 m. The agrivoltaic system is
 Agrivoltaics brings opportunities to improve every aspect withtin the WEF Nexus. Furthermore, it can reduce competition for landuse and increase the income of farmers. It is however a rather new technology, where further research is needed.
 
 As Weselek et al. (2019) put it: „As only very few studies address the impact of this technology on crop yields and quality, further investigations incorporating different climatic conditions, crop species and varieties are indispensable for the evaluation of its applicability in prospective agricultural system”
+
+<br/> <br/>
+[Next solution: MAR](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/irrigation-systems){: .btn .btn-purple .mr-4}
+<br/> <br/>
 
 
 <hr/>

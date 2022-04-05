@@ -5,7 +5,7 @@ permalink: /solutions/examples/agroforestry
 parent: 7.3 Examples
 grand_parent: Solutions
 ---
-# 7.3.4 Agroforestry Systems
+# **7.3.4 Agroforestry Systems**
 
 ## **Overview: What is Agroforestry?** 
 
@@ -118,22 +118,24 @@ Despite the opportunities, agroforestry systems still face some challenges such 
 
 Furthermore, in research, insecure land and resource tenure is often mentioned as a main challenge. It has been shown that the likelihood of farmers adopting and reaping benefits from agroforestry increases with long term and secure tenure. “This is because farmers require longer time periods to test, adapt and eventually adopt agroforestry technologies and practices, due to the often lengthy periods required for trees to mature” (FAO and ICRAF 2019)
 
-
-
-
-––––––––––––––––
-References
-Miller, D. C., Ordoñez, P. J., Brown, S. E., Forrest, S., Nava, N. J., Hughes, K., & Baylis, K. (2020). The impacts of agroforestry on agricultural productivity, ecosystem services, and human well‐being in low‐and middle‐income countries: An evidence and gap map. Campbell Systematic Reviews, 16, e1066.
-FAO; ICRAF (2019): Agroforestry and tenure. Foresty working paper no. 8. Rome.
+<hr/>
 
 ## **Integrating Agroforestry into nexus systems - an overview**
 
+The figure below highlights key interconnections between agroforestry systems and WEF-systems.
+
 ![Untitled](7%203%204%20Agro%205a577/Untitled%207.png)
 
-Figure: Alexandra Nauditt, Silvia Krautzik
+<p><small>"Integrating Agroforestry into WEF-Systems". Source: Alexandra Nauditt, Silvia Krautzik<p></small>
 
 
 
+<br/> <br/>
+[Next solution: RE Desalination](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/re-desalination){: .btn .btn-purple .mr-4}
+<br/> <br/>
+
+
+<hr/>
 
 <small><b>References<br>
 Overview: What is Agroforestry?</b>
@@ -165,4 +167,9 @@ Zhu, X., Liu, W., Chen, J., Bruijnzeel, L. A., Mao, Z., Yang, X., Cardinael, R.,
 <b>Impacts of agroforestry</b><br>
 <i>Castle, Sarah E.; Miller, Daniel C.; Ordonez, Pablo J.; Baylis, Kathy; Hughes, Karl (2021): The impacts of agroforestry interventions on agricultural productivity, ecosystem services, and human well‐being in low‐ and middle‐income countries: A systematic review. In Campbell Systematic Reviews 17 (2), e12740. DOI: <a href="10.1002/cl2.1167">10.1002/cl2.1167</a>.<br>
 Zhu, X., Liu, W., Chen, J., Bruijnzeel, L. A., Mao, Z., Yang, X., Cardinael, R., Meng, F.-R., Sidle, R. C., Seitz, S., Nair, V. D., Nanko, K., Zou, X., Chen, C., & Jiang, X. J. (2020). Reductions in water, soil and nutrient losses and pesticide pollution in agroforestry practices: A review of evidence and processes. Plant and Soil, 453(1-2), 45–86. <a href="https://doi.org/10.1007/s11104-019-04377-3">https://doi.org/10.1007/s11104-019-04377-3</a></i><br>
+<br>
+<b>Agroforestry and its theory of change</b><br>
+<i>Miller, D. C., Ordoñez, P. J., Brown, S. E., Forrest, S., Nava, N. J., Hughes, K., & Baylis, K. (2020). The impacts of agroforestry on agricultural productivity, ecosystem services, and human well‐being in low‐and middle‐income countries: An evidence and gap map. Campbell Systematic Reviews, 16, e1066.<br>
+<br>
+FAO; ICRAF (2019): Agroforestry and tenure. Foresty working paper no. 8. Rome.</i>
 </small>

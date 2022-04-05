@@ -5,9 +5,11 @@ permalink: /introduction/beyondbasics
 parent: Introduction
 ---
 # **1.3 Beyond the basic Nexus framework**
-
+<br>
 - The “WEF Nexus” concept is not restricted to water, energy and Food and invites to incorporate other components
+<br>
 - Each Nexus system depends on an individual composite of varying components
+<br>
 - As every region is unique in terms of resources availability and use, we need to adapt the concept to address the case-specific challenges
 
 <hr/>

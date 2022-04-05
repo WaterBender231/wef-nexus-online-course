@@ -5,7 +5,7 @@ permalink: /solutions/examples/wind-desalination
 parent: 7.3 Examples
 grand_parent: Solutions
 ---
-# 7.3.6 Wind Desalination for Irrigation
+# **7.3.6 Wind Desalination for Irrigation**
 
 **Description, Geographic Context, & Variants**
 
