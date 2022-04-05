@@ -6,7 +6,7 @@ parent: Energy Security
 ---
 # **3.3 Different Energy Security concepts and dimensions**
 
-**The 4 A´s** <small>(APERC, 2007):</small></p>
+<h2>The 4 A´s</h2> <small>(APERC, 2007):</small> <br>
 
 <img src="/wef-nexus-online-course/assets/es-4as.jpg" alt="4 A's">
 <p><small>APERC 2007</small></p>
@@ -16,15 +16,15 @@ The Asia Pacific Energy Research Centre (APERC) in 2007 introduced four dimensio
 
 They can be described as follows:
 
-• **Availability**: It refers to the physical availability of primary energy sources including fossil fuels, radioactive matter, hydropower, biomass, wind and solar energy. The availability is high when the physical available primary energy is sufficient to meet demand.
+- **Availability**: It refers to the physical availability of primary energy sources including fossil fuels, radioactive matter, hydropower, biomass, wind and solar energy. The availability is high when the physical available primary energy is sufficient to meet demand.
 
-• **Accessibility**: Barriers to accessing energy resources like geopolitical factors, infrastructure, transport cost & distance, human resource capacity, financial subsidization, lack of commitment and limited access to
+- **Accessibility**: Barriers to accessing energy resources like geopolitical factors, infrastructure, transport cost & distance, human resource capacity, financial subsidization, lack of commitment and limited access to
 advanced technology.
 
-• **Affordability**: With Affordability APERC (2007) refer to the capital cost of the infrastructure of different
+- **Affordability**: With Affordability APERC (2007) refer to the capital cost of the infrastructure of different
 energy technologies. Further, fuel prices are mentioned, but not focused on.
 
-• **Acceptability**: According to APERC (2007), acceptability narrowly refers to the public perception of energy
+- **Acceptability**: According to APERC (2007), acceptability narrowly refers to the public perception of energy
 technologies regarding their contribution to climate change and their risk to cause environmental and
 nuclear hazards. In this sense, environmental policies to increase the environmental acceptability of the
 energy system add constraints on the use of as hazardous-perceived energy source (mainly oil, coal, and
@@ -57,19 +57,19 @@ Although the definition of the “4 As” by APERC (2007) has shortcomings, the 
 integrated within the “4 As”. The critics and advancements can be connected to the single dimensions as
 follows:
 
-• **Availability**: Decentralized renewable energy like solar, wind, hydropower, geothermal, tidal, and biogas
+- **Availability**: Decentralized renewable energy like solar, wind, hydropower, geothermal, tidal, and biogas
 and their potential for improving energy security energy security by e.g. decreasing import dependency,
 increasing primary energy supply diversity and lowering the negative impact on the environment shall be
 considered. In total the importance of a sustainable energy supply for long-term energy security is missing
 (Shah et al. 2019)
 
-• **Accessibility**: Economic factors within accessibility dimension interfere with capital cost infrastructure in
+- **Accessibility**: Economic factors within accessibility dimension interfere with capital cost infrastructure in
 affordability dimension (Hughes & Shupe, 2010).
 
-• **Affordability**: The affordability can have significant social and economic impacts (Hughes, 2012; Kruyt et al., 2009; Sovacool, 2011). Referring to social equity, Cherp and Jewell (2014) pose the
+- **Affordability**: The affordability can have significant social and economic impacts (Hughes, 2012; Kruyt et al., 2009; Sovacool, 2011). Referring to social equity, Cherp and Jewell (2014) pose the
 question “affordable for whom?”
 
-• **Acceptability**: Sovacool (2011) and Hughes and Shupe add the themes of justice and
+- **Acceptability**: Sovacool (2011) and Hughes and Shupe add the themes of justice and
 equity, referring, for example, to the unjust displacements of indigenous people due to large
 energy projects.
 
@@ -82,7 +82,8 @@ scales (Pasqualetti & Sovacool, 2012) in focus.
 
 <hr/>
 
-## **Cherp and Jewell, 2014: Vulnerability of energy supply systems as proxy for Energy Security**
+**Cherp and Jewell, 2014: Vulnerability of energy supply systems as proxy for Energy Security**
+<br>
 
 <img src="/wef-nexus-online-course/assets/cherp-2014.png" alt="Vulnerability of energy supply systems as proxy for ES">
 <p><small>Cherp & Jewell 2014</small></p>
@@ -94,9 +95,10 @@ electricity grid’).” In their framework, “vulnerabilities are combinations
 
 <hr/>
 
-## **The World Energy Council (2020): The Energy Trilemma Index**
+**The World Energy Council (2020): The Energy Trilemma Index**
+<br>
 
-<img src="/wef-nexus-online-course/assets/energy-trilemma-index.jpg" alt="Trilemma">
+<img src="/wef-nexus-online-course/assets/energy-trilemma-index.jpg" alt="Trilemma" width="400" heigth="400">
 <p><small>World Energy Council 2020</small></p>
 <p><small>  </small></p>
 
@@ -105,7 +107,8 @@ The World Energy Council (2020) provides an alternative approach to evaluate and
 energy equity as “accessibility and affordability of energy supply across the population”; and environmental sustainability as “reduction in energy and CO2 intensity, the transition to renewable and low-carbon energy sources”. Further, they underline that good energy governance manages the “competing demands” of the three dimensions and thus include the country context in the index.
 
 
-### **The Energy Trilemma Index: Subdimensions & Indicators**
+**The Energy Trilemma Index: Subdimensions & Indicators**
+<br>
 
 <img src="/wef-nexus-online-course/assets/trilemma-world-council-table.png" alt="Sub-Trilemma">
 <p><small>World Energy Council 2020</small></p>
