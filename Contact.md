@@ -17,7 +17,6 @@ E-Mail: <a href = "mailto: alexandra.nauditt@th-koeln.de">alexandra.nauditt@th-k
 
 Please contact us via E-Mail if you have questions, comments or suggestions.
 
-
 <hr/>
 
 **Recommended Citation:**
