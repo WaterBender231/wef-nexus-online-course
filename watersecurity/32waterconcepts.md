@@ -186,7 +186,7 @@ e.g. (i) literacy rate
 
 ### Review on Water Security approaches for rural, remote or otherwise marginalized (RRM) communities
 
-![Untitled](Untitled%205.png)
+<img src="/wef-nexus-online-course/assets/RRM.JPG" alt="Review on Water Security approaches for RRM">
 <p><small>Review on Water Security approaches for RRM communities (Dickson et al. 2016).</small></p>
 <p><small>  </small></p>
 
@@ -196,7 +196,7 @@ Dickson et al. (2016) provided a literature review about water security related 
 
 ### Global Water Security Index- Measuring global water security towards sustainable development goals
 
-![Untitled](Untitled%206.png)
+<img src="/wef-nexus-online-course/assets/WSI-gain-et-al.jpg" alt="Global Water Security Index">
 <p><small>Global water security framework, based on water availability, accessibility, safety and quality and management (Gain et al. 2016).</small></p>
 <p><small>  </small></p>
 
@@ -208,7 +208,7 @@ According to the authors, a quantitative assessment of water security should be 
 
 ### Country examples of the Global Water Security Index
 
-![Untitled](Untitled%207.png)
+<img src="/wef-nexus-online-course/assets/spider-diagram-gain.jpg" alt="Spider Diagram showing water security for selected countries">
 <p><small>Spider Diagram showing water security for selected countries (Gain et al., 2016).</small></p>
 <p><small>  </small></p>
 
@@ -281,7 +281,7 @@ Do you think these weights are appropriate for your country/region? Why?
 
 <h3> Urban Water Security – Example: Bangkok,    Babel et al., 2020 </h3>
 
-IMAGE
+<img src="/wef-nexus-online-course/assets/bangkok-babel.jpg" alt="Urban Water Security – Example Bangkok">
 <p><small>Urban Water Security (Babel et al., 2020).</small></p>
 <p><small>  </small></p>
 
