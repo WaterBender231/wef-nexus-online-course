@@ -142,10 +142,13 @@ Most WS frameworks incorporate basic elements of water resources, environment, e
 <i>Bogardi JJ, Dudgeon D, Lawford R, Flinkerbusch E, Meyn A, Pahl-Wostl C, Vielhauer K, Vörösmarty C (2011) Water security for a planet under pressure: interconnected challenges of a changing world call for sustainable solutions. Curr Opin Environ Sustain 4(1):35–43. <a href="https://doi.org/10.1016/j.cosust.2011.12.002">https://doi.org/10.1016/j.cosust.2011.12.002</a><br>
 <br>
 Cook, C., & Bakker, K. (2012). Water security: Debating an emerging paradigm. Global Environmental Change, 22(1), 94–102. <a href="https://doi.org/10.1016/j.gloenvcha.2011.10.011">https://doi.org/10.1016/j.gloenvcha.2011.10.011</a><br>
+<br>
 Grey, D., & Sadoff, C. W. (2007). Sink or Swim? Water security for growth and development. Water Policy, 9(6), 545–571. https://doi.org/10.2166/wp.2007.021<br>
 <br>
 Sadoff, C. W., Hall, J. W., Grey, D., & Wiberg, D. (2015). Securing water, sustaining growth. Retrieved from <a href="http://www.water.ox.ac.uk/?publication=securing-water-sustaining-growth-report-of-the-gwpoecd-task-force-on-water-security-and-sustainable-growth">http://www.water.ox.ac.uk/?publication=securing-water-sustaining-growth-report-of-the-gwpoecd-task-force-on-water-security-and-sustainable-growth</a> <br>
+<br>
 Siwar C, Ahmed F (2014) Concepts, dimensions and elements of water security. Pakistan J Nutrition 13(5):281–286 <a href="https://doi.org/10.3923/pjn.2014.281.286">https://doi.org/10.3923/pjn.2014.281.286</a> <br>
+<br>
 OECD, 2013. Water Security for Better Lives, OECD Studies on Water, OECD Publishing. <a href="http://dx.doi.org/10.1787/9789264202405-en">http://dx.doi.org/10.1787/9789264202405-en</a> </i><br>
 <br>
 <b>2.2 Varying Water Security assessment frameworks</b><br>

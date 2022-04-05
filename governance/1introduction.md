@@ -11,7 +11,7 @@ Governance is a crucial factor in ensuring sustainable resource management. Howe
 
 <hr/>
 
-### 6.1.2  Why put “governance” into the nexus approach?
+## 6.1.2  Why put “governance” into the nexus approach?
 The nexus approach serves multiple purposes. This is because the nexus approach is an 
 &rarr; analytical tool (quantitative and/or qualitative methods to understand interactions among WEF- systems), 
 &rarr; a conceptual framework (understanding of WEF linkages to promote coherence in policy-making and enhance sustainability), 
