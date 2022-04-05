@@ -4,17 +4,15 @@ title: 3.3 Concepts and dimensions
 permalink: /energysecurity/dimensions
 parent: Energy Security
 ---
-# 3.3 Different Energy Security concepts and dimensions
+# **3.3 Different Energy Security concepts and dimensions**
 
-<p>The 4 A´s <small>(APERC, 2007):</small></p>
+**The 4 A´s** <small>(APERC, 2007):</small></p>
 
-![Untitled](4%203%20Differ%2018aa2/Untitled.png)
-
+<img src="/wef-nexus-online-course/assets/es-4as.jpg" alt="4 A's">
 <p><small>APERC 2007</small></p>
 <p><small>  </small></p>
 
-The Asia Pacific Energy Research Centre (APERC) in 2007 introduced four dimensions (or 4 As) to assess
-energy security, focusing mainly on the energy supply security of national energy systems based on fossil fuels.
+The Asia Pacific Energy Research Centre (APERC) in 2007 introduced four dimensions (or 4 As) to assess energy security, focusing mainly on the energy supply security of national energy systems based on fossil fuels.
 
 They can be described as follows:
 
@@ -32,6 +30,7 @@ nuclear hazards. In this sense, environmental policies to increase the environme
 energy system add constraints on the use of as hazardous-perceived energy source (mainly oil, coal, and
 nuclear energy), and therefore, have a negative impact on energy security.
 
+<hr/>
 
 ### **Why the “4 A’s” were criticized:**
 
@@ -40,7 +39,7 @@ nuclear energy), and therefore, have a negative impact on energy security.
 - Focus on conventional energy systems, underrepresenting the potential of renewable energy sources
 - Focus on primary energy sources like coal and fuels
 
-What is missing:
+**What is missing:**
 
 - Electricity related grid coverage and access
 - Energy system resilience
@@ -81,82 +80,64 @@ well as the robustness of its energy system and current geopolitical issues (Ang
 Furthermore, definitions and evaluations of energy security depend on the temporal and spatial
 scales (Pasqualetti & Sovacool, 2012) in focus.
 
-**Cherp and Jewell, 2014: Vulnerability of energy supply systems as proxy for Energy Security**
+<hr/>
 
-![Untitled](4%203%20Differ%2018aa2/Untitled%201.png)
+## **Cherp and Jewell, 2014: Vulnerability of energy supply systems as proxy for Energy Security**
 
+<img src="/wef-nexus-online-course/assets/cherp-2014.png" alt="Vulnerability of energy supply systems as proxy for ES">
 <p><small>Cherp & Jewell 2014</small></p>
 <p><small>  </small></p>
 
 
-In another approach, Cherp and Jewell (2014) go “beyond the four A’s” and define energy security as “low
-vulnerability of vital energy systems” (compare Figure). According to them, “vital energy systems are energy
-resources, infrastructure, and uses linked together by energy flows that support critical social functions which
-can be delineated by sectoral or geographic boundaries (e.g. ‘the Eurasian gas market’ or ‘the Western US
-electricity grid’).” In their framework, “vulnerabilities are combinations of exposure to risks and resilience
-capacities.”
+In another approach, Cherp and Jewell (2014) go “beyond the four A’s” and define energy security as “low vulnerability of vital energy systems” (compare Figure). According to them, “vital energy systems are energy resources, infrastructure, and uses linked together by energy flows that support critical social functions which can be delineated by sectoral or geographic boundaries (e.g. ‘the Eurasian gas market’ or ‘the Western US
+electricity grid’).” In their framework, “vulnerabilities are combinations of exposure to risks and resilience capacities.”
 
-**The World Energy Council (2020): The Energy Trilemma Index**
+<hr/>
 
-![Untitled](4%203%20Differ%2018aa2/Untitled%202.png)
+## **The World Energy Council (2020): The Energy Trilemma Index**
 
+<img src="/wef-nexus-online-course/assets/energy-trilemma-index.jpg" alt="Trilemma">
 <p><small>World Energy Council 2020</small></p>
 <p><small>  </small></p>
 
 
-The World Energy Council (2020) provides an alternative approach to evaluate and assess energy security.
-They state energy security, energy equity and environmental sustainability as the three dimensions of the
-“energy trilemma.” In there, they define energy security as “management of primary energy supply from
-domestic and external sources, reliability of energy infrastructure, ability to meet current and future demand”;
-energy equity as “accessibility and affordability of energy supply across the population”; and environmental
-sustainability as “reduction in energy and CO2 intensity, the transition to renewable and low-carbon energy
-sources”. Further, they underline that good energy governance manages the “competing demands” of the three
-dimensions and thus include the country context in the index.
+The World Energy Council (2020) provides an alternative approach to evaluate and assess energy security. They state energy security, energy equity and environmental sustainability as the three dimensions of the “energy trilemma.” In there, they define energy security as “management of primary energy supply from domestic and external sources, reliability of energy infrastructure, ability to meet current and future demand”;
+energy equity as “accessibility and affordability of energy supply across the population”; and environmental sustainability as “reduction in energy and CO2 intensity, the transition to renewable and low-carbon energy sources”. Further, they underline that good energy governance manages the “competing demands” of the three dimensions and thus include the country context in the index.
 
 
-**The Energy Trilemma Index: Subdimensions & Indicators**
+### **The Energy Trilemma Index: Subdimensions & Indicators**
 
-![Untitled](4%203%20Differ%2018aa2/Untitled%203.png)
-
+<img src="/wef-nexus-online-course/assets/trilemma-world-council-table.png" alt="Sub-Trilemma">
 <p><small>World Energy Council 2020</small></p>
 <p><small>  </small></p>
 
 
-The dimensions of the Energy Trilemma Index, the subdimensions, as well as the used indicators including
-their weighting can be seen in the figure above and the corresponding report of the World Energy Council
-(2020). Energy security is subdivided into security of supply and demand, and resilience of energy systems.
+The dimensions of the Energy Trilemma Index, the subdimensions, as well as the used indicators including their weighting can be seen in the figure above and the corresponding report of the World Energy Council (2020). Energy security is subdivided into security of supply and demand, and resilience of energy systems.
 
-Energy Equity consists out of the subdimensions energy access, quality of energy access, and energy
-affordability. Resource productivity, decarbonization, and emission and pollution form the dimension
-environmental sustainability. The country context is assed by indicators evaluating the macroeconomic
-environment, the governance, and the stability for investment and innovation. The full methodology and
-application example of the Energy Trilemma Index can be found in the inherent report.
+Energy Equity consists out of the subdimensions energy access, quality of energy access, and energy affordability. Resource productivity, decarbonization, and emission and pollution form the dimension environmental sustainability. The country context is assed by indicators evaluating the macroeconomic environment, the governance, and the stability for investment and innovation. The full methodology and application example of the Energy Trilemma Index can be found in the inherent report.
 
+<hr/>
 
 **Word Economic Forum (2016): Self-Sufficiency, Diversity of Supply and Accessibility to assess National Energy Security**
 
-![Untitled](4%203%20Differ%2018aa2/Untitled%204.png)
-
+<img src="/wef-nexus-online-course/assets/ea-s-percentile-rank.png" alt="National ES">
 <p><small>World Economic Forum, 2016</small></p>
 <p><small>  </small></p>
 
-The World Economic Forum applied the Energy Access and Security Index to countries worldwide.
-They used the major dimensions:
+The World Economic Forum applied the Energy Access and Security Index to countries worldwide. They used the major dimensions:
 
-• Self-sufficiency (diversification of import counterparts and energy imports)
-• Diversity of supply (diversity of total primary energy supply)
-• Level and quality of access (electrification rate, quality of electricity supply and population using solid fuels
+- Self-sufficiency (diversification of import counterparts and energy imports)
+- Diversity of supply (diversity of total primary energy supply)
+- Level and quality of access (electrification rate, quality of electricity supply and population using solid fuels
 for cooking)
 
-The high performing countries are located in Northern America, Western Europe, Australia and few countries in
-Asia. The worst performing countries are typically located in Sub-Saharan Africa. In the MENA and LAC
-regions, most countries are medium or poor performers, with Colombia, Chile, Uruguay and a several Gulf
-countries being an exception.
+The high performing countries are located in Northern America, Western Europe, Australia and few countries in Asia. The worst performing countries are typically located in Sub-Saharan Africa. In the MENA and LAC regions, most countries are medium or poor performers, with Colombia, Chile, Uruguay and a several Gulf countries being an exception.
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/energysecurity/indicators){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
+<hr/>
 
 References
 3.3 Different Energy Security concepts and dimensions

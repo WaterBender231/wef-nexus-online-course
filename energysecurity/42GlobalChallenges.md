@@ -8,8 +8,8 @@ parent: Energy Security
 
 ## 3.2.1 Global energy consumption (per capita)
 
-![Untitled](4%202%20Global%20e75fb/Untitled.png)
-<p><small>Ritchie & Roser (2018).</small></p>
+<img src="/wef-nexus-online-course/assets/energy-consumption-per-capita.jpg" alt="Global energy consumption (per capita)">
+<p><small>"Global energy consumption (per capita)", Ritchie & Roser (2018).</small></p>
 <p><small>  </small></p>
 
 Ritchie and Roser (2018) illustrated the energy use per person at the national level on the website
@@ -22,8 +22,8 @@ Arabia, Iceland and Australia.
 
 ## 3.2.2 Energy consumption: historical and future trends
 
-![Untitled](4%202%20Global%20e75fb/Untitled%201.png)
-<p><small>Note: 1 million Btu approximately equals to the energy derived from 30 litres of petrol.</small></p>
+<img src="/wef-nexus-online-course/assets/es-historic-future-trends.JPG" alt="Energy consumption: historical and future trends">
+<p><small>Source: International Energy Outlook 2019 (EIA, 2019)</small></p>
 <p><small>  </small></p>
 
 The previous section displayed the energy consumption per capita in 2018. The two graphs presented here show both the historical increase and projected future increases in energy consumption. The first graph separates the world into OECD and non-OECD countries, highlighting that it is in the non-OECD countries where energy demands are expected to show a sharper increase in the future. The second graph further separates these non-OECD countries according to world region.
@@ -31,9 +31,8 @@ The previous section displayed the energy consumption per capita in 2018. The tw
 Note that these graphs should be considered in conjunction with the map presented on the previous section. The most developed countries still tend to consume significantly more energy per capita than less developed countries.
 
 
-![Untitled](4%202%20Global%20e75fb/Untitled%202.png)
+<img src="/wef-nexus-online-course/assets/es-historic-future-trends-2.JPG" alt="Energy consumption: historical and future trends">
 <p><small>EIA, 2017; REN21, 2012</small></p>
-<p><small>Note: 1 million Btu equals approximately the energy derived from 30 litres of petrol.</small></p>
 <p><small>  </small></p>
 
 
@@ -50,7 +49,7 @@ evenly divided into traditional biomass and what is termed “modern renewables�
 
 ## **3.2.3 Global Total Final Energy Consumption by Sector (2018)**
 
-![Untitled](4%202%20Global%20e75fb/Untitled%203.png)
+<img src="/wef-nexus-online-course/assets/Global-Total-Final-Energy-Consumption-Sector.jpg" alt="Global Total Final Energy Consumption by Sector (2018)">
 <p><small>IEA (2020a)</small></p>
 <p><small>  </small></p>
 
@@ -66,8 +65,7 @@ global demand are not changing significantly from year to year.
 
 ## **3.2.4 Global Total Electricity Generation by Source and Renewable Share (2018)**
 
-![Untitled](4%202%20Global%20e75fb/Untitled%204.png)
-
+<img src="/wef-nexus-online-course/assets/Total-Electricity-Generation.JPG" alt="Global Total Electricity Generation by Source and Renewable Share (2018)">
 <p><small>IEA (2020b).</small></p>
 <p><small>  </small></p>
 
@@ -86,8 +84,7 @@ together 4%).
 
 ## **3.2.5 From Energy Source to Consumption: Energy Flows**
 
-![Untitled](4%202%20Global%20e75fb/Untitled%205.png)
-
+<img src="/wef-nexus-online-course/assets/" alt="Energy Flow Diagramm">
 <p><small>LLNC (2019).</small></p>
 <p><small>  </small></p>
 
@@ -103,10 +100,7 @@ are termed “Energy Services” (Fell 2017). They can be allocated to the secto
 
 Power generation; does not equal a connective grid; does not equal access to power
 
-![Untitled](4%202%20Global%20e75fb/Untitled%206.png)
-
-![Untitled](4%202%20Global%20e75fb/Untitled%207.png)
-
+<img src="/wef-nexus-online-course/assets/power-generation.JPG" alt="Power outages (blackouts)">
 <p><small>Rentschler et al., 2019.</small></p>
 <p><small>  </small></p>
 
@@ -123,8 +117,7 @@ having no power for up to over 100 hours per month.
 
 ## **3.2.7 The cost of power outages**
 
-![Untitled](4%202%20Global%20e75fb/Untitled%208.png)
-
+<img src="/wef-nexus-online-course/assets/power-outages.jpg" alt="Costs of power outages">
 <p><small>Rentschler et al., 2019.</small></p>
 <p><small>  </small></p>
 
@@ -133,12 +126,9 @@ The study also found that the outages come along with considerable costs for the
 Investments in back-up power generators are opportunity costs that hinder further growth. In the case of Africa, increasing the frequency of power outages by one percent is projected to lead to a reduction of the GDP per capita by as much as 2.9 % in the long run (Runtschler et al. 2019). Apart from the cost on firms and enterprises, there are also direct effects of outages on the general population. Frequent outages in Ethiopia and Nigeria have been shown to increase criminality and cause a heightened sense of insecurity among the population. (Amadi 2015; Meles 2020).
 
 
-### **Relationship – power outages vs GDP**
+### **The relation of outage frequency and the GDP**
 
-The relation of outage frequency and the GDP
-
-![Untitled](4%202%20Global%20e75fb/Untitled%209.png)
-
+<img src="/wef-nexus-online-course/assets/outages-vs-gsp.png" alt="Outages and GDP">
 <p><small>Rentschler et al., 2019.</small></p>
 <p><small>  </small></p>
 
@@ -147,12 +137,9 @@ While outages are common even in high-income countries, the frequency decreases 
 While all of these can also happen in developing countries, the main reason here is the unreliable infrastructure, both in generation and distribution and thus the unstable supply of electricity from the grid. Most countries are severely lacking in adequate grid infrastructure due to missing public investments all in building, operating and maintaining a grid. (Fakih et al. 2020)
 
 
-
 ### **Approaches to solve frequent outages**
 
-![Untitled](4%202%20Global%20e75fb/Untitled%2010.png)
-
-
+<img src="/wef-nexus-online-course/assets/solve-outages.JPG" alt="Approaches to solve frequent outages">
 <p><small>Images by (1) Robert Linder; (2) Patrick Federi and (3) rahul g on Unsplash.</small></p>
 <p><small>  </small></p>
 
@@ -166,8 +153,7 @@ Demand-side management (DSM) is also considered as a possible way to reduce outa
 
 ## **3.2.8 Acceptability – death rates and greenhouse gas emissions related to energy production**
 
-![Untitled](4%202%20Global%20e75fb/Untitled%2011.png)
-
+<img src="/wef-nexus-online-course/assets/acceptability.jpg" alt="Acceptability, Energy Security Dimensions">
 <p><small>Ritchie & Roser (2018).</small></p>
 <p><small>  </small></p>
 
