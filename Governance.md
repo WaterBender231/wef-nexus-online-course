@@ -11,5 +11,5 @@ nav_order: 7
 
 ## Learning Unit 06
 ### Governance and  Case Studies
-#### Justyna Sycz
+#### Justyna Sycz, Silvia Krautzik
 <br/> <br/>
