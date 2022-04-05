@@ -6,7 +6,7 @@ parent: Solutions
 ---
 # **7.2 Nexus sound solutions - Overview**
 
-The smart combination of single-sector technologies allows to tap the synergies within the water energy and food nexus. Nexus smart solutions include agrivoltaics, water and electricity cogeneration systems, solar-powered irrigation systems (see examples), saline water greenhouses (Al-Ismaili and Jayasuriya, 2016), water efficient cooling towers (Pan et al. 2018),  recycling of solid waste and wastewater for energy supply (Wang et al., 2017) and fertilization (González-Sierra et al., 2019), and phosphorous and nitrogen recovery (Chrispim et al. 2019, Robles et al. 2020).
+The smart combination of single-sector technologies allows to tap the synergies within the water energy and food nexus. <br>Nexus smart solutions include agrivoltaics, water and electricity cogeneration systems, solar-powered irrigation systems (see examples), saline water greenhouses (Al-Ismaili and Jayasuriya, 2016), water efficient cooling towers (Pan et al. 2018),  recycling of solid waste and wastewater for energy supply (Wang et al., 2017) and fertilization (González-Sierra et al., 2019), and phosphorous and nitrogen recovery (Chrispim et al. 2019, Robles et al. 2020).
 <br>
 
 <hr/>
@@ -34,9 +34,11 @@ The term is inspired by the energy sector (e.g., heat and power cogeneration) an
 
 <small><b>References</b><br>
 <i>Al-Ismaili, A. M., & Jayasuriya, H. (2016). Seawater greenhouse in Oman: A sustainable technique for freshwater conservation and production. Renewable and Sustainable Energy Reviews, 54, 653–664, <a href="https://doi.org/10.1016/j.rser.2015.10.016">https://doi.org/10.1016/j.rser.2015.10.016</a> <br>
+<br>
 Chrispim, M. C., Scholz, M., & Nolasco, M. A. (2019). Phosphorus recovery from municipal wastewater treatment: Critical review of challenges and opportunities for developing countries. Journal of Environmental Management, 248, 109268, <a href="https://doi.org/10.1016/j.jenvman.2019.109268">https://doi.org/10.1016/j.jenvman.2019.109268)</a> <br>
 <br>
-González-Sierra, R. P., Arrizmediarrieta, J. S., Sánchez, B. P., Iriate, I. I., & Duarte, G. N. (2019). Community Composting: A Practical Guide for Local Management of BIowaste.
+González-Sierra, R. P., Arrizmediarrieta, J. S., Sánchez, B. P., Iriate, I. I., & Duarte, G. N. (2019). Community Composting: A Practical Guide for Local Management of BIowaste.<br>
+<br>
 Pan, S.‑Y., Snyder, S. W., Packman, A. I., Lin, Y. J., & Chiang, P.‑C. (2018). Cooling water use in thermoelectric power generation and its associated challenges for addressing water-energy nexus. Water-Energy Nexus, 1(1), 26–41, <a href="https://doi.org/10.1016/j.wen.2018.04.002">https://doi.org/10.1016/j.wen.2018.04.002</a> <br>
 <br>
 Robles, Á., Aguado, D., Barat, R., Borrás, L., Bouzas, A., Giménez, J. B., . . . Seco, A. (2020). New frontiers from removal to recycling of nitrogen and phosphorus from wastewater in the Circular Economy. Bioresource Technology, 300, 122673, <a href="https://doi.org/10.1016/j.biortech.2019.122673">https://doi.org/10.1016/j.biortech.2019.122673 </a> <br>

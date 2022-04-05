@@ -14,4 +14,4 @@ nav_order: 3
 #### Alexandra Nauditt 
 <p><small>   </small><br/>
 In this learning unit you will learn more about the concept of water security and its distinct 
-dimensions. Additionally, you will get an overview of indices that can help you  quantifiy water security.
+dimensions. Additionally, you will get an overview of indices that can help you quantifiy water security.

@@ -28,6 +28,7 @@ nav_order: 1
 ## Welcome 
 to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
 <br/> <br/>
+This online course will familiarize you with the concept of the <b>W</b>ater-<b>E</b>nergy-<b>F</b>ood-Nexus and intersectoral thinking. You will gain an overview of the State-of-the-Art literature related to the WEF-Nexus and we provide you with exercise questions that help you reflect on key aspects of the introduced materials. Additionally, you will be able to define nexus systems in for a case study region of your choice and you will learn approaches of how to quantify sectors and interconnections of the system. Lastly, this course will introduce you to governance aspects of a nexus system as well as possible solutions for key problems in case study areas. Finding and evaluating possible solutions is an essential part of this course and prepares you to become a problemsolver with a nexus perspective.   
 
 
 **The Water Energy Food (WEF) Nexus Course consists of the following 7 Learning Units (LUs):**

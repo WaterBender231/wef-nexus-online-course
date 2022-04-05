@@ -24,6 +24,7 @@ parent: Introduction
 - The uncertainties of global change exacerbate the difficulty in achieving these goals
 
 At present, a significant percentage of the global population is far from attaining water, energy or food security. For example, on top of the 1.1 billion without access to electricity, approximately a further 1.1 billion is estimated to have no or unreliable access to electricity. Current estimates show that around 9 percent of the world population suffers from hunger. If recent trends continue, the number of people affected by hunger will surpass 840 million by 2030, or 9.8 percent of the global population. According to UN (2020), one third of the world population does not have access to safe drinking water and water scarcity affects more than 40 per cent of the global population and is projected to rise (UN, 2020).
+<br>
 The world population is likely to increase to over 8 billion by 2030 and 9.5 or even 10 billion by 2050, while economic development and consumption patterns are likely to change, leading to even higher water, energy and food demands per capita. We therefore face the combined challenge of compensating for the unmet current demands and meeting additional future demands. Climate change adds uncertainty to the future availability of natural resources.
 
 <hr/>
@@ -90,6 +91,7 @@ Therefore, the Sustainable Development Goals (SDGs) address the areas of action 
 - Contamination of water resources
 - Less water security
 
+<br>
 
 &rarr; Hence, there is a need for a systematic approach such as the WEF Nexus approach!
 
@@ -157,7 +159,7 @@ By addressing trade-offs with other sectors and emphasizing the identification o
 
 <p><small><b>References</b>
 <br>
-<b>1.1 Background: Challenges for achieving WEF-Security</b>
+<b>1.1 Background: Challenges for achieving WEF-Security</b><br>
 <i>UN 2020, The Sustainable Development Goals, <a href="https://www.un.org/sustainabledevelopment/">https://www.un.org/sustainabledevelopment/</a><br>
 <br>
 United Nations Department of Economic and Social Affairs (UNDESA) (2014) International Decade for Action WATER FOR LIFE 2005-
@@ -184,7 +186,7 @@ LaB (2010), ‘Fertilizers and their Impact on Watershed Ecology’, Available f
 <br>
 Hoff, H. (2011). Understanding the Nexus. Background Paper for the Bonn2011 Conference: The Water, Energy and Food Security Nexus. Stockholm Environment Institute, Stockholm</i><br>
 <br>
-<b>2.2 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU</b>
+<b>2.2 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU</b><br>
 <i>GIZ (2016), ‘Water, Energy & food Nexus in a Nutshell’, Available from: <a href="www.water-energy-food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue">http://food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue/Programme_Phase1_2016-18.pdf</a></i> 
 </small>
 </p>

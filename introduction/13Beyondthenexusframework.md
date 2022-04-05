@@ -85,7 +85,7 @@ However, Rothausen & Conway (2011) stress that links between the water and energ
 <p><small><i>Andrews-Speed, P., R. Bleischwitz, G. Kemp, S. VanDeveer, T. Boersma and C. Johnson 2012. The Global Resource Nexus. The Struggles for Land, Energy, Food, Water and Minerals, 2012, Washington D.C., Transatlantic Academy.</i></small></p>
 
 <p><small><b>1.3.2 Water-Energy-Food-Soil (WEFS) Nexus</b></small></p>
-<p><small><i>Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: [https://doi.org/10.1016/bs.agron.2017.02.001](https://doi.org/10.1016/bs.agron.2017.02.001)</a></i></small></p>
+<p><small><i>Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: <a href="https://doi.org/10.1016/bs.agron.2017.02.001">https://doi.org/10.1016/bs.agron.2017.02.001</a></i></small></p>
 
 <p><small><b>1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)</b></small></p>
 <p><small><i>Biggs, EM., Bruce, E., Boruff, B., Duncan, JMA., Horsley, J., Pauli, N., McNeill, K., Neef, A., Ogtrop, FV., Curnow, J., Haworth, B., Duce, S. & Imanari, Y. (2015), ‘Sustainable development and the water-energy-food nexus: A perspective on livelihoods’, Environmental Science and Policy, vol. 54, pp. 389–397.</i></small></p>

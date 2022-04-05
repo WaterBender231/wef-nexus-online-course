@@ -130,22 +130,23 @@ Most WS frameworks incorporate basic elements of water resources, environment, e
 
 <hr/>
 
-### *References*
-
-***2.1 What does “Water Security” mean?***
-- *UN Water (2013), ‘Water Security & the Global Water Agenda: A UN-Water Analytical Brief‘, Available from: http://www.unwater.org/publications/water-security-global-water-agenda/*
-
-***2.1.2 Key messages of SDG 6 (abridged)***
-- *UN, 2020, ‘Sustainable Development Goals’, https://sustainabledevelopment.un.org/sdgs*
-
-***2.1.3 Earlier Definitions of Water Security***
-- *Bogardi JJ, Dudgeon D, Lawford R, Flinkerbusch E, Meyn A, Pahl-Wostl C, Vielhauer K, Vörösmarty C (2011) Water security for a planet under pressure: interconnected challenges of a changing world call for sustainable solutions. Curr Opin Environ Sustain 4(1):35–43. https://doi.org/10.1016/j.cosust.2011.12.002*
-- *Cook, C., & Bakker, K. (2012). Water security: Debating an emerging paradigm. Global Environmental Change, 22(1), 94–102. https://doi.org/10.1016/j.gloenvcha.2011.10.011*
-- *Grey, D., & Sadoff, C. W. (2007). Sink or Swim? Water security for growth and development. Water Policy, 9(6), 545–571. https://doi.org/10.2166/wp.2007.021*
-- *Sadoff, C. W., Hall, J. W., Grey, D., & Wiberg, D. (2015). Securing water, sustaining growth. Retrieved from http://www.water.ox.ac.uk/?publication=securing-water-sustaining-growth-report-of-the-gwpoecd-task-force-on-water-security-and-sustainable-growth*
-- *Siwar C, Ahmed F (2014) Concepts, dimensions and elements of water security. Pakistan J Nutrition 13(5):281–286 https://doi.org/10.3923/pjn.2014.281.286*
-- *OECD, 2013. Water Security for Better Lives, OECD Studies on Water, OECD Publishing. http://dx.doi.org/10.1787/9789264202405-en*
-
-
-***2.2 Varying Water Security assessment frameworks***
-- *Vörösmarty, C. J., McIntyre, P. B., Gessner, M. O., Dudgeon, D., Prusevich, A., Green, P., … Davies, P. M. (2010). Global threats to human water security and river biodiversity. Nature, 467(7315), 555–561. https://doi.org/10.1038/nature09440*
+<p><small><b>References</b>
+<br>
+<b>2.1 What does “Water Security” mean?</b><br>
+<i>UN Water (2013), ‘Water Security & the Global Water Agenda: A UN-Water Analytical Brief‘, Available from: <a href="http://www.unwater.org/publications/water-security-global-water-agenda/">http://www.unwater.org/publications/water-security-global-water-agenda/</a></i><br>
+<br>
+<b>2.1.2 Key messages of SDG 6 (abridged)</b><br>
+<i>UN, 2020, ‘Sustainable Development Goals’, <a href="https://sustainabledevelopment.un.org/sdgs">https://sustainabledevelopment.un.org/sdgs</a></i><br>
+<br>
+<b>2.1.3 Earlier Definitions of Water Security</b><br>
+<i>Bogardi JJ, Dudgeon D, Lawford R, Flinkerbusch E, Meyn A, Pahl-Wostl C, Vielhauer K, Vörösmarty C (2011) Water security for a planet under pressure: interconnected challenges of a changing world call for sustainable solutions. Curr Opin Environ Sustain 4(1):35–43. <a href="https://doi.org/10.1016/j.cosust.2011.12.002">https://doi.org/10.1016/j.cosust.2011.12.002</a><br>
+<br>
+Cook, C., & Bakker, K. (2012). Water security: Debating an emerging paradigm. Global Environmental Change, 22(1), 94–102. <a href="https://doi.org/10.1016/j.gloenvcha.2011.10.011">https://doi.org/10.1016/j.gloenvcha.2011.10.011</a><br>
+Grey, D., & Sadoff, C. W. (2007). Sink or Swim? Water security for growth and development. Water Policy, 9(6), 545–571. https://doi.org/10.2166/wp.2007.021<br>
+<br>
+Sadoff, C. W., Hall, J. W., Grey, D., & Wiberg, D. (2015). Securing water, sustaining growth. Retrieved from <a href="http://www.water.ox.ac.uk/?publication=securing-water-sustaining-growth-report-of-the-gwpoecd-task-force-on-water-security-and-sustainable-growth">http://www.water.ox.ac.uk/?publication=securing-water-sustaining-growth-report-of-the-gwpoecd-task-force-on-water-security-and-sustainable-growth</a> <br>
+Siwar C, Ahmed F (2014) Concepts, dimensions and elements of water security. Pakistan J Nutrition 13(5):281–286 <a href="https://doi.org/10.3923/pjn.2014.281.286">https://doi.org/10.3923/pjn.2014.281.286</a> <br>
+OECD, 2013. Water Security for Better Lives, OECD Studies on Water, OECD Publishing. <a href="http://dx.doi.org/10.1787/9789264202405-en">http://dx.doi.org/10.1787/9789264202405-en</a> </i><br>
+<br>
+<b>2.2 Varying Water Security assessment frameworks</b><br>
+<i>Vörösmarty, C. J., McIntyre, P. B., Gessner, M. O., Dudgeon, D., Prusevich, A., Green, P., … Davies, P. M. (2010). Global threats to human water security and river biodiversity. Nature, 467(7315), 555–561. <a href="https://doi.org/10.1038/nature09440">https://doi.org/10.1038/nature09440</a></i></small>

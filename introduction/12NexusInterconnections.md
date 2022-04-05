@@ -7,6 +7,7 @@ parent: Introduction
 # **1.2 Nexus-Interconnections: The WEF sectors are closely related**
 
 The WEF Nexus framework shows that the three sectors are strongly linked, and that actions in one sector can have impacts on one or both of the other sectors. In the following sections, we would like to highlight the key interconnections and important it is to have an integrated view of WEF sectors and the environmental resources needed for each of them.
+
 In this context, we need to be aware that Agriculture accounts for 70% of total global freshwater withdrawals (FAO, 2014), 90% of energy produced today is water-intensive (WWAP, 2014), and agriculture and food chains account for 33% of global energy demand.
 
 <hr/>
@@ -82,24 +83,24 @@ In 2014, approximately 70% of the global water withdrawal was used for irrigatio
 
 <hr/>
 
-<p><small><b>References</b></small>
-<p><small><b>1.2 Nexus-Interconnections: The WEF sectors are closely related</b></small>
-<p><small><i>FAO (2014), ‘The Water-Energy-Food Nexus - A new approach in support of food security and sustainable agriculture’, Food and Agriculture Organization of the United Nations, pp.1–11.<br>
+<p><small><b>References</b><br>
+<b>1.2 Nexus-Interconnections: The WEF sectors are closely related</b><br>
+<i>FAO (2014), ‘The Water-Energy-Food Nexus - A new approach in support of food security and sustainable agriculture’, Food and Agriculture Organization of the United Nations, pp.1–11.<br>
 <br>
-WWAP. The United Nations World Water Development Report (2014). Water and Energy; World Water Assessment Program, UNESCO: Paris, 2014.</i></small></p>
-
-<p><small><b>1.2.1 Interconnections between Water and Energy</b> </small>
-<p><small><i>WWAP. The United Nations World Water Development Report (2014). Water and Energy; World Water Assessment Programme, UNESCO: Paris, 2014.</i></small></p>
-
-<p><small><b>1.2.2 Interconnections between Energy and Food</b> </small>
-<p><small><i>FAO (2008), ‘Climate change, biofuels and land’, Available from: <a href="http://www.fao.org/tempref/docrep/fao/010/i0142e/i0142e05.pdf">http://www.fao.org/tempref/docrep/fao/010/i0142e/i0142e05.pdf</a><br>
+WWAP. The United Nations World Water Development Report (2014). Water and Energy; World Water Assessment Program, UNESCO: Paris, 2014.</i><br>
+<br>
+<b>1.2.1 Interconnections between Water and Energy</b><br>
+<i>WWAP. The United Nations World Water Development Report (2014). Water and Energy; World Water Assessment Programme, UNESCO: Paris, 2014.</i><br>
+<br>
+<b>1.2.2 Interconnections between Energy and Food</b><br>
+<i>FAO (2008), ‘Climate change, biofuels and land’, Available from: <a href="http://www.fao.org/tempref/docrep/fao/010/i0142e/i0142e05.pdf">http://www.fao.org/tempref/docrep/fao/010/i0142e/i0142e05.pdf</a><br>
 <br>
 FAO (2012), ‘World Agriculture towards 2030/2050: the 2012 Revision’, ESA Working Paper No. 12-03. Food and Agriculture Organization of the United Nations, Rome, Italy.<br>
 <br>
-Popp, J., Lakner, Z., Harangi-Rákos, M. & Fári, M. (2014), ‘The effect of bioenergy expansion: Food, energy, and environment’, Renewable and Sustainable Energy Reviews, vol. 32, pp. 559-578.</i></small></p>
-
-<p><small><b>1.2.3 Interconnections between Energy and Food</b> </small>
-<p><small><i>FAO (2014), ‘Water Withdrawal’, Prepared by AQUASTAT, Available from:
+Popp, J., Lakner, Z., Harangi-Rákos, M. & Fári, M. (2014), ‘The effect of bioenergy expansion: Food, energy, and environment’, Renewable and Sustainable Energy Reviews, vol. 32, pp. 559-578.</i><br>
+<br>
+<b>1.2.3 Interconnections between Energy and Food</b><br>
+<i>FAO (2014), ‘Water Withdrawal’, Prepared by AQUASTAT, Available from:
 <a href="http://www.fao.org/nr/water/aquastat/infographics/Withdrawal_eng.pdf">http://www.fao.org/nr/water/aquastat/infographics/Withdrawal_eng.pdf </a><br>
 <br>
 OECD (2017), ‘Diffuse Pollution, Degraded Waters: Emerging Policy Solutions’, OECD Publishing, Paris.<br>
