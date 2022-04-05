@@ -94,7 +94,8 @@ Therefore, the promotion of renewable energies and increased energy efficiencies
 
 <hr/>
 
-**References**
-***3.1 Energy Security: Definitions and background***
-- *IEA. (2014). Energy security: Reliable, affordable access to all fuels and energy sources. [https://www.iea.org/topics/energy-securit](https://www.iea.org/topics/energy-security)*
-- *UN (2020), ‘Sustainable Development Goals’, [https://sustainabledevelopment.un.org/sdg](https://sustainabledevelopment.un.org/sdg)*
+<small><b>References<br>
+3.1 Energy Security: Definitions and background</b><br>
+<i>IEA. (2014). Energy security: Reliable, affordable access to all fuels and energy sources. <a href="https://www.iea.org/topics/energy-security">https://www.iea.org/topics/energy-security</a>)<br>
+<br>
+UN (2020), ‘Sustainable Development Goals’, <a href="https://sustainabledevelopment.un.org/sdg">https://sustainabledevelopment.un.org/sdg</a></i></small>
