@@ -53,11 +53,7 @@ Groundwater depletion, defined as the persistent removal of groundwater from aqu
 ADB (2013) follows a different approach which also related water availability with other securities (i.e. energy and food) by introducing the dimension economic water security. Here, indicators such as agricultural independency are introduced as well as agricultural use efficiency, industrial productivity or hydropower dependency. In the example of GWP (2012) the combination of these categories adds up to a overall productive economies index.
 
 
-&rarr; <b>Exercise Question:</b> Which indicators best represent the dimension „Availability “ in your country/region?
-
-<hr/>
-
-<details><summary><i>See More Data Sources</i></summary>
+<details><summary><i>See More Data Sources for <b>Water Availability</b></i></summary>
 <p>
 For more data go to: <a href="http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en">http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en</a> <br>
 <br>
@@ -69,6 +65,9 @@ The worlds water data: <a href="https://www.worldwater.org/water-data/">https://
 
 </p>
 </details>
+
+<br>
+&rarr; <b>Exercise question:</b> Which indicators best represent the dimension „Availability “ in your country/region?
 
 <hr/>
 
@@ -97,14 +96,21 @@ Other authors, like GWP (2012) include similar indicators such as piped water ac
 
 Under another category called “Hygiene and sanitation”, they include number of people using improved sanitation facilities and water borne disease factor (%). Jensen and Wu (2018) follow a different approach using indicators for the dimension “Access” such as: water treatment capacity (demand/treatment capacity in %), coverage (households with piped water supply in %), sustainability of service quality (cost recovery ratio), and affordability (average bill as percentage of average income).
 
-See More Data Sources
-
+<details><summary>See More Data Sources for <b>Water Accessibility</b></summary>
+<p>
 AQUASTAT: <a href="http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en">http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en</a> <br>
+<br>
 World Bank database <a href="https://data.worldbank.org/indicator">https://data.worldbank.org/indicator<br>
+<br>
 WASH <a href="https://washdata.org/">https://washdata.org/<br>
+<br>
 UNICEF<a href="https://data.unicef.org/resources/">https://data.unicef.org/resources/ <br>
+<br>
 Transboundary Waters Assessment Programme <a href="http://twap-rivers.org/indicators/">http://twap-rivers.org/indicators/</a> <br>
+<br>
 Aqueduct <a href="https://www.worldwater.org/water-data/">https://www.worldwater.org/water-data/
+</p> 
+</details>
 
 
 <hr/>
@@ -123,7 +129,7 @@ Jensen and Wu (2018) name this dimension **“Risk” assessing** it also using 
 
 Garrick and Hall (2014) propose a **risk-based framework** which differentiates hazard, exposure, and vulnerability as measurable quantities. In this approach, under the dimension “Risk” flood, droughts, risks to the environment of harmful water quantity/quality and risks of inadequate supply and sanitation are considered. Under the dimension “Resilience to water-related hazards”, the GWP (2012) quantifies a risk index considering floods/windstorms, droughts, and storm surges/coastal floods.
 
-<details><summary><i>See More Data Sources</i></summary>
+<details><summary><i>See More Data Sources for <b>Water Quality</b></i></summary>
 
 GEMStat is a global database containing water quality data from 5,705 stations worldwide: <a href="https://gemstat.bafg.de">https://gemstat.bafg.de/</a> <br>
 <br>
@@ -152,16 +158,17 @@ To evaluate the **governance dimension**, we need to be innovative, as there is 
 
 Babel et al. (2020) used questionnaires under three indicators: (i) overall management of the water sector, (ii) potential to adapt to future changes, (iii) citizen support for water security. Jensen and Wu (2018) used indicators such as strategic planning, disaster management and regulation, also assessed using questionnaires.
 
-&rarr; <b>Exercise Question:</b> Which indicators best represent the dimension „Management (Governance)“ in your country/region?
 
-
-<details><summary><i>See More Data Sources</i></summary>
+<details><summary><i>See More Data Sources for <b>Water Governance</b></i></summary>
 <p>The Worldwide governance indicators (WGI) project provides aggregated and individual governance indicators for over 200 countries over the period 1996-2018 for the above mentioned aspects: <a href="[https://info.worldbank.org/governance/wgi/">https://info.worldbank.org/governance/wgi/</a> <br>
 <br>
 The Transboundary Waters Assessment Programme provides information for the 286 transboundary river basins of the world: <a href="http://twap-rivers.org/indicators/">http://twap-rivers.org/indicators/</a>
 
 </p>
 </details>
+
+<br>
+&rarr; <b>Exercise Question:</b> Which indicators best represent the dimension „Management (Governance)“ in your country/region?
 
 <hr/>
 
