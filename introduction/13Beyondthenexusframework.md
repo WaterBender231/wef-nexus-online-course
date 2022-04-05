@@ -82,18 +82,18 @@ However, Rothausen & Conway (2011) stress that links between the water and energ
 
 <hr/>
 
-<p><small><b>References</b></small></p>
-<p><small><b>1.3.1 Global Resource Nexus - five resources: water, energy, minerals, food and land</b></small></p>
-<p><small><i>Andrews-Speed, P., R. Bleischwitz, G. Kemp, S. VanDeveer, T. Boersma and C. Johnson 2012. The Global Resource Nexus. The Struggles for Land, Energy, Food, Water and Minerals, 2012, Washington D.C., Transatlantic Academy.</i></small></p>
-
-<p><small><b>1.3.2 Water-Energy-Food-Soil (WEFS) Nexus</b></small></p>
-<p><small><i>Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: <a href="https://doi.org/10.1016/bs.agron.2017.02.001">https://doi.org/10.1016/bs.agron.2017.02.001</a></i></small></p>
-
-<p><small><b>1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)</b></small></p>
-<p><small><i>Biggs, EM., Bruce, E., Boruff, B., Duncan, JMA., Horsley, J., Pauli, N., McNeill, K., Neef, A., Ogtrop, FV., Curnow, J., Haworth, B., Duce, S. & Imanari, Y. (2015), ‘Sustainable development and the water-energy-food nexus: A perspective on livelihoods’, Environmental Science and Policy, vol. 54, pp. 389–397.</i></small></p>
-
-<p><small><b>1.3.4 Greenhouse gases (GHGs) and the WEF-Nexus</b></small></p>
-<p><small><i>Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F. N., & Leip, A. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. Nature Food, 2(3), 198–209. doi:10.1038/s43016-021-00225-9<br>
+<small><b>References<br>
+1.3.1 Global Resource Nexus - five resources: water, energy, minerals, food and land</b><br>
+<i>Andrews-Speed, P., R. Bleischwitz, G. Kemp, S. VanDeveer, T. Boersma and C. Johnson 2012. The Global Resource Nexus. The Struggles for Land, Energy, Food, Water and Minerals, 2012, Washington D.C., Transatlantic Academy.</i></small><br>
+<br>
+<b>1.3.2 Water-Energy-Food-Soil (WEFS) Nexus</b><br>
+<i>Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: <a href="https://doi.org/10.1016/bs.agron.2017.02.001">https://doi.org/10.1016/bs.agron.2017.02.001</a></i><br>
+<br>
+<b>1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)</b><br>
+<i>Biggs, EM., Bruce, E., Boruff, B., Duncan, JMA., Horsley, J., Pauli, N., McNeill, K., Neef, A., Ogtrop, FV., Curnow, J., Haworth, B., Duce, S. & Imanari, Y. (2015), ‘Sustainable development and the water-energy-food nexus: A perspective on livelihoods’, Environmental Science and Policy, vol. 54, pp. 389–397.</i><br>
+<br>
+<b>1.3.4 Greenhouse gases (GHGs) and the WEF-Nexus</b><br>
+<i>Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F. N., & Leip, A. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. Nature Food, 2(3), 198–209. <a href="doi:10.1038/s43016-021-00225-9">doi:10.1038/s43016-021-00225-9</a><br>
 <br>
 FAO, (2018), Emissions due to agriculture. Global, regional and country trends 2000–2018, FAOSTAT Analytical Brief Series No 18, Rome.<br>
 <br>
@@ -101,9 +101,8 @@ IEA, (2018), Global Energy & CO2 Status Report 2018, IEA, Paris, <a href="https:
 <br>
 IRENA, (2015), Renewable Energy in the Water, Energy & Food Nexus, <a href="https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_Water_Energy_Food_Nexus_2015.pdf">https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_Water_Energy_Food_Nexus_2015.pdf </a>[accessed 12/30/2021]<br>
 <br>
-Rothausen, S. G. S. A., & Conway, D., (2011), Greenhouse-gas emissions from energy use in the water sector, Nature Climate Change, 1(4), 210–219. doi:10.1038/nclimate1147</i></small></p>
-
-<p><small><b>Additional Information:</b> <br>
+Rothausen, S. G. S. A., & Conway, D., (2011), Greenhouse-gas emissions from energy use in the water sector, Nature Climate Change, 1(4), 210–219. <a href="doi:10.1038/nclimate1147">doi:10.1038/nclimate1147</a></i><br>
+<br>
+<b>Additional Information:</b> <br>
 <i>EDGAR-FOOD database available at: <a href="https://edgar.jrc.ec.europa.eu/">https://edgar.jrc.ec.europa.eu/.</a></i>
 </small>
-</p>
