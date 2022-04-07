@@ -103,7 +103,7 @@ The Asian Development Bank (2013) added urban and economy, while Grey and Sadoff
 
 <hr/>
 
-<h2> 2.2 Varying Water Security assessment frameworks</h2><small>(<a href="/wef-nexus-online-course/assets/watersec-table.pdf">view table</a>)</small> 
+<h2> 2.2 Varying Water Security assessment frameworks <small>(<a href="/wef-nexus-online-course/assets/watersec-table.pdf">view table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/watersec-table.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 

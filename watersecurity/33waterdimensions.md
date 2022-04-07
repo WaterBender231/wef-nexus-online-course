@@ -10,7 +10,7 @@ For the scope of this learning unit, we selected the dimensions availability, ac
 
 <hr/>
 
-<h2>2.3 Indices to measure water availability<small>(<a href="/wef-nexus-online-course/assets/indices-water-availability.pdf">view  table</a>)</small></h2> 
+<h2>2.3 Indices to measure water availability <small>(<a href="/wef-nexus-online-course/assets/indices-water-availability.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-availability.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
@@ -63,24 +63,9 @@ The worlds water data: <a href="https://www.worldwater.org/water-data/">https://
 
 <hr/>
 
-## 2.4 Indices to measure water accessibility
+<h2>2.3 Indices to measure water accessibility <small>(<a href="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">view table</a>)</small></h2> 
 
-
-| Dimension | Indices | Definition | Data source |
-| --- | --- | --- | --- |
-| Accessibility to services | Access to sanitation | Percentage of population with access to (improved) sanitation. | AQUASTAT
-http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en
-World Bank database
-https://data.worldbank.org/indicator
-WASH
-https://washdata.org/
-UNICEF
-https://data.unicef.org/resources/
-Transboundary Waters Assessment Programme
-http://twap-rivers.org/indicators/
-Aqueduct
-https://www.worldwater.org/water-data/ |
-|  | Access to drinking water | Percentage of population with access to improved drinking water source. |  |
+<iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
 The indicators selected for this dimension are straightforward and according to the authors calculated through percentage of population with improved sanitation and drinking water, were adopted to represent accessibility of water to people mainly due to varying socio-economic conditions.
 
@@ -104,9 +89,9 @@ Aqueduct <a href="https://www.worldwater.org/water-data/">https://www.worldwater
 
 <hr/>
 
-## 2.5 Indices to measure water safety and quality
+<h2>2.5 Indices to measure water safety and quality <small>(<a href="/wef-nexus-online-course/assets/indices-water-quality.pdf">view  table</a>)</small></h2> 
 
-![water safety and quality](/wef-nexus-online-course/assets/quality_dimension.png)
+<iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-quality.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
 **The Environmental Performance Index (EPI)** published by the Yale Center for Environmental Law and Policy (YCELP) and the Center for International Earth Science Information Network (CIESIN) at Columbia University includes a Water Quality Index (WATQI). The WATQI provides a first global effort at reporting and estimating water quality on the basis of five commonly reported quality parameters: dissolved oxygen, electrical conductivity, pH value, and total nitrogen and phosphorus concentrations (Srebotnjak et al., 2012).
 
@@ -131,16 +116,9 @@ And also a data set on global flood hazards: <a href="https://www.wri.org/resour
 
 <hr/>
 
-## 2.6 Indices to measure water governance performance
+<h2>2.6 Indices to measure water governance performance <small>(<a href="/wef-nexus-online-course/assets/indices-water-governance.pdf">view  table</a>)</small></h2> 
 
-
-| Dimension | Indices | Definition | Data source |
-| --- | --- | --- | --- |
-| Management | World governance index | The values with higher index value lead to increase water security. (Source: World Bank Kaufmann et al 2010) | Worldwide governance indicators
-https://info.worldbank.org/governance/wgi/ |
-|  | Transboundary legal framework | How effective transboundary legal agreements are in place. |  |
-|  | Transboundary political tension | Risk of Potential Hydro-political Tensions due to Basin Development in Absence of Adequate Institutional Capacity. | Transboundary Waters Assessment Programme
-http://twap-rivers.org/indicators/ |
+<iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-governance.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
 
 To evaluate the **governance dimension**, we need to be innovative, as there is no quantitative information. The approach and indicators should be selected based on the water challenges in the region you look at.  The  ‘world governance index’ developed by World Bank is calculated at country scale considering six different aspects: (i) Voice and accountability; (ii) Political stability and absence of violence; (iii) Government effectiveness; (iv) Regulatory quality, (v) Rule of law, (vi) Control of corruption. In addition, transboundary governance status of (i) legal framework and (ii) hydro political tension for 286 river basins of the world was assessed.
