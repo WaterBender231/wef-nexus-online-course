@@ -151,7 +151,7 @@ Demand-side management (DSM) is also considered as a possible way to reduce outa
 
 ## **3.2.8 Acceptability – death rates and greenhouse gas emissions related to energy production**
 
-<img src="/wef-nexus-online-course/assets/acceptability.jpg" alt="Acceptability, Energy Security Dimensions">
+<img src="/wef-nexus-online-course/assets/acceptability.png" alt="Acceptability, Energy Security Dimensions">
 <p><small>Ritchie & Roser (2018).</small></p>
 <p><small>  </small></p>
 
