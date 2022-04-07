@@ -117,7 +117,9 @@ The Asian Development Bank (2013) added urban and economy, while Grey and Sadoff
 | Resources, access, risks, and governance | National/Urban | Jensen and Wu (2018) |
 | Productivity, Supply and sanitation, Governance, Environment, Risks | Urban/City Scale | Babel et al. (2020) |
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/WaterBender231/wef-nexus-online-course/blob/main/assets/watersec-table.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+
+<iframe width="100%" height="700" src="/wef-nexus-online-course/assets/watersec-table.pdf">
+
 
 Most WS frameworks incorporate basic elements of water resources, environment, economy, water-related disasters and human needs (Dickson et al., 2016). Vörösmarty et al. (2010) assessed global water security looking at human and biodiversity related factors. The ADB (2013) considered five different securities related to water: economic, household, urban, environmental, resilience. 
  
