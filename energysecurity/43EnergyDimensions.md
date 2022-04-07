@@ -142,35 +142,30 @@ The high performing countries are located in Northern America, Western Europe, A
 
 <hr/>
 
-References
-3.3 Different Energy Security concepts and dimensions
-
-APERC, 2007. A Quest for Energy Security in the 21st Century: Resources and Constraints.
-[https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf](https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf)
-
-Cherp, A., & Jewell, J., (2014). The concept of energy security: Beyond the four As. Energy Policy, 75, 415–421.
-[https://doi.org/10.1016/j.enpol.2014.09.005](https://doi.org/10.1016/j.enpol.2014.09.005)
-
-Hughes, L., & Shupe, D., (2010). Creating energy security indexes with decision matrices and quantitative criteria. In
-
+<small><b>References<br>
+3.3 Different Energy Security concepts and dimensions</b><br>
+<i>APERC, 2007. A Quest for Energy Security in the 21st Century: Resources and Constraints. <a href="https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf">https://aperc.or.jp/file/2010/9/26/APERC_2007_A_Quest_for_Energy_Security.pdf</a><br>
+<br>
+Cherp, A., & Jewell, J., (2014). The concept of energy security: Beyond the four As. Energy Policy, 75, 415–421. <a href="https://doi.org/10.1016/j.enpol.2014.09.005">https://doi.org/10.1016/j.enpol.2014.09.005</a><br>
+<br>
+Hughes, L., & Shupe, D., (2010). Creating energy security indexes with decision matrices and quantitative criteria. In World Energy Council's 2010 Montreal Conference. <a href="http://dclh.electricalandcomputerengineering.dal.ca/enen/2010/ERG201002.pdf">http://dclh.electricalandcomputerengineering.dal.ca/enen/2010/ERG201002.pdf</a><br>
+<br>
 Kruyt, B., van Vuuren, D. P., Vries, H.J.M. de, & Groenenberg, H. (2009). Indicators for energy security. Energy
-Policy, 37(6), 2166–2181. [https://doi.org/10.1016/j.enpol.2009.02.006](https://doi.org/10.1016/j.enpol.2009.02.006)
-
+Policy, 37(6), 2166–2181. <a href="https://doi.org/10.1016/j.enpol.2009.02.006">https://doi.org/10.1016/j.enpol.2009.02.006</a><br>
+<br>
 Pasqualetti, M. J., & Sovacool, B. K. (2012). The importance of scale to energy security. Journal of Integrative
-Environmental Sciences, 9(3), 167–180. [https://doi.org/10.1080/1943815X.2012.691520](https://doi.org/10.1080/1943815X.2012.691520)
-
+Environmental Sciences, 9(3), 167–180. <a href="https://doi.org/10.1080/1943815X.2012.691520">https://doi.org/10.1080/1943815X.2012.691520</a><br>
+<br>
 Shah, S.A.A., Zhou, P., Walasai, G. D., & Mohsin, M. (2019). Energy security and environmental sustainability index
-of South Asian countries: A composite index approach. Ecological Indicators, 106, 105507.
-[https://doi.org/10.1016/j.ecolind.2019.105507](https://doi.org/10.1016/j.ecolind.2019.105507)
-
+of South Asian countries: A composite index approach. Ecological Indicators, 106, 105507. <a href="https://doi.org/10.1016/j.ecolind.2019.105507">https://doi.org/10.1016/j.ecolind.2019.105507</a><br>
+<br>
 Sovacool, B. K. (2011). Evaluating energy security in the Asia pacific: Towards a more comprehensive approach.
-Energy Policy, 39(11), 7472–7479. [https://doi.org/10.1016/j.enpol.2010.10.008](https://doi.org/10.1016/j.enpol.2010.10.008)
-
-World Energy Council's 2010 Montreal Conference.
-[http://dclh.electricalandcomputerengineering.dal.ca/enen/2010/ERG201002.pdf](http://dclh.electricalandcomputerengineering.dal.ca/enen/2010/ERG201002.pdf)
-
-World Energy Council (2020): World Energy Trilemma Index. With assistance of Oliver Wyman Labs. Available online at
-[https://trilemma.worldenergy.org/](https://trilemma.worldenergy.org/) (Tool)
-
+Energy Policy, 39(11), 7472–7479. <a href="https://doi.org/10.1016/j.enpol.2010.10.008">https://doi.org/10.1016/j.enpol.2010.10.008</a><br>
+<br>
+World Energy Council's 2010 Montreal Conference. <a href="http://dclh.electricalandcomputerengineering.dal.ca/enen/2010/ERG201002.pdf">http://dclh.electricalandcomputerengineering.dal.ca/enen/2010/ERG201002.pdf</a><br>
+<br>
+World Energy Council (2020): World Energy Trilemma Index. With assistance of Oliver Wyman Labs. Available online at <a href="https://trilemma.worldenergy.org/">https://trilemma.worldenergy.org/</a> (Tool). <br>
+<br>
 World Economic Forum (WEF) (2016), ‘Global Energy Architecture Performance Index Report 2016’, Geneva. Available from:
-[http://www3.weforum.org/docs/WEF_Energy_Architecture_Performance_Index_2016.pdf](http://www3.weforum.org/docs/WEF_Energy_Architecture_Performance_Index_2016.pdf)
+<a href="http://www3.weforum.org/docs/WEF_Energy_Architecture_Performance_Index_2016.pdf">http://www3.weforum.org/docs/WEF_Energy_Architecture_Performance_Index_2016.pdf</a></i>
+</small>
