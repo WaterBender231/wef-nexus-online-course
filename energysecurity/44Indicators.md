@@ -22,7 +22,8 @@ Although the concept of APERC (2007) to measure Energy Security was missing rele
 
 **Resources-to production ratio**: The resources-to production ratio is the ratio of the energy resources remaining at the end of a year over the production of energy in that year. It evaluates lifetime of proven energy resources.
 
-> “The purpose of this indicator is to measure the availability of national energy resources concerning corresponding fuel production. Resources are generally defined as concentrations of naturally occurring solid, liquid or gaseous material in or on the Earth’s crust in a form that makes economic extraction potentially feasible. Total resources include reserves and hypothetical and speculative undiscovered resources. This indicator considers fuels such as oil, natural gas, coal and uranium. It provides a relative measure of the length of time that resources would last if production were to continue at current levels.” (IAEA et al. 2005). Resources or reserves to production ratios are also applied by Gupta (2008).
+> “The purpose of this indicator is to measure the availability of national energy resources concerning corresponding fuel production. Resources are generally defined as concentrations of naturally occurring solid, liquid or gaseous material in or on the Earth’s crust in a form that makes economic extraction potentially feasible. Total resources include reserves and hypothetical and speculative undiscovered resources. 
+This indicator considers fuels such as oil, natural gas, coal and uranium. It provides a relative measure of the length of time that resources would last if production were to continue at current levels.” (IAEA et al. 2005). Resources or reserves to production ratios are also applied by Gupta (2008).
 
 <hr/>
 
@@ -60,11 +61,11 @@ The **Electrification ratio**: is a widely applied indicator for energy security
 
 **Share of renewables of final energy consumption**: The renewable share is expressed as share in final energy consumption (SDG 7.2 and IEA (2020)). Alternatively, the renewable share in electricity can be calculated and used as an index. A high renewable share has multiple benefits in the scope of energy security (Wang et al. 2018; Viviescas et al. 2019). If a high diversity among the renewables used, it can increase the primary energy supply diversity. Furthermore, the rather decentral and national origin of the energy sources can decrease the import dependency and therefore increase energy security in the availability and accessibility dimension.
 
-Here, the **renewable share** is listed as a measure for the acceptability dimension of energy security (Institute of Energy Economics 2007). The human-induced global warming requires the reduction of 〖𝐶𝑂〗_2 emissions. World’s societies therefore demand a lower carbon intensity of the energy systems. Policies translate that demand for example into 〖𝐶𝑂〗_2-taxes hindering fossil energy production. The application of renewable energy technologies are a good choice for reducing the greenhouse gas emissions of the national energy system, as 〖𝐶𝑂〗_2 is only emitted while component production, but not in the operation and energy production phase.
+Here, the **renewable share** is listed as a measure for the acceptability dimension of energy security (Institute of Energy Economics 2007). The human-induced global warming requires the reduction of *CO2* emissions. World’s societies therefore demand a lower carbon intensity of the energy systems. Policies translate that demand for example into *CO2*-taxes hindering fossil energy production. The application of renewable energy technologies are a good choice for reducing the greenhouse gas emissions of the national energy system, as *CO2* is only emitted while component production, but not in the operation and energy production phase.
 
-**CO2 Intensity of energy mix**: The carbon intensity of the energy mix allows the evaluation of the acceptability of the energy system concerning climate change. It is calculated as “Total carbon emission by energy production” in, e.g., tons of 〖𝐶𝑂〗_2 equivalent over “total electricity production.”
+**CO2 Intensity of energy mix**: The carbon intensity of the energy mix allows the evaluation of the acceptability of the energy system concerning climate change. It is calculated as “Total carbon emission by energy production” in, e.g., tons of *CO2* equivalent over “total electricity production.”
 
-Low values indicate high acceptability of the energy system regarding climate change mitigation. The carbon intensity can also be reduced to a high deployment of nuclear power (no 〖𝐶𝑂〗_2 emission during energy production). Due to the risk of a total meltdown and the problem of the end-storage of nuclear waste, the technology faces other acceptability issues.
+Low values indicate high acceptability of the energy system regarding climate change mitigation. The carbon intensity can also be reduced to a high deployment of nuclear power (no *CO2* emission during energy production). Due to the risk of a total meltdown and the problem of the end-storage of nuclear waste, the technology faces other acceptability issues.
 
 **Death rates from energy production**: Energy production technologies lead to a respective value of deaths due to accidents and pollution (Ritchie and Roser 2018). We argue that a high death rate of the national energy mix leads to low acceptability of the public regarding the national energy system.
 
@@ -73,7 +74,7 @@ Low values indicate high acceptability of the energy system regarding climate ch
 <br/> <br/>
 
 
-</hr>
+<h/r>
 
 <small><b>References<br>
 3.4.1 Energy Security Dimensions and Indices</b><br>
