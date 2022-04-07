@@ -86,6 +86,7 @@ Cherp, A., & Jewell, J. (2014). The concept of energy security: Beyond the four 
 <i>BGR (2019): Energy Study 2019. Data and Developments Concerning German and Global, <a href="www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy">http://www.bgr.bund.de/EN/Themen/Energie/Produkte/energy_study_2019_summary_en.html?nn=15Energy</a> Supplies. Summary. Available online at <a href="https://48106">https://0.0.187.234/</a>, checked on 8/6/2020.<br>
 <br>
 Erahman, Qodri Febrilian; Purwanto, Widodo Wahyu; Sudibandriyo, Mahmud; Hidayatno, Akhmad (2016): An assessment of Indonesia's energy security index and comparison with seventy countries. In Energy 111, pp. 364–376. DOI: <a href="10.1016/j.energy.2016.05.100">10.1016/j.energy.2016.05.100</a>.<br>
+<br>
 IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. <a href="https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf">https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf</a> (Accessed 15 July 2020).<br>
 <br>
 IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. <a href="https://www.iea.org/data-and-statistics">https://www.iea.org/data-and-statistics</a>.<br>
@@ -103,33 +104,33 @@ Martínez, D.M. and Ebenhack, B.W. (2008) ‘Understanding the role of energy co
 <br>
 Shah, S.A.A., Zhou, P., Walasai, G. D., & Mohsin, M. (2019). Energy security and environmental sustainability index of South Asian countries: A composite index approach. Ecological Indicators, 106, 105507. <a href="https://doi.org/10.1016/j.ecolind.2019.105507">https://doi.org/10.1016/j.ecolind.2019.105507</a><br>
 <br>
-World Bank (2017) ‘Access to electricity (% of population)’. <a href="https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS"></a>. 
+World Bank (2017) ‘Access to electricity (% of population)’. <a href="https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS">https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS</a>. 
 <br>
-World Energy Council (2020): World Energy Trilemma Index 2020. With assistance of Oliver Wyman. Available online at: https://trilemma.worldenergy.org/reports/main/2020/World%20Energy%20Trilemma%20Index%202020.pdf.</i><br>
+World Energy Council (2020): World Energy Trilemma Index 2020. With assistance of Oliver Wyman. Available online at: <a href="https://trilemma.worldenergy.org/reports/main/2020/World%20Energy%20Trilemma%20Index%202020.pdf">https://trilemma.worldenergy.org/reports/main/2020/World%20Energy%20Trilemma%20Index%202020.pdf</a>.</i><br>
 <br>
 <b>3.4.4 Indices for Affordability</b><br>
-<i>Aldersey-Williams, J.; Rubert, T. (2019): Levelised cost of energy – A theoretical justification and critical assessment. In Energy Policy 124, pp. 169–179. DOI: 10.1016/j.enpol.2018.10.004.<br>
+<i>Aldersey-Williams, J.; Rubert, T. (2019): Levelised cost of energy – A theoretical justification and critical assessment. In Energy Policy 124, pp. 169–179. DOI: <a href="10.1016/j.enpol.2018.10.004">10.1016/j.enpol.2018.10.004</a>.<br>
 <br>
-Bacon, Robert; Bhattacharya, Soma; Kojima, Masami (2010): Expenditure of Low-Income Households on Energy. Evidence from Africa and Asia. World Bank. Available online at [https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf](https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf).<br>
+Bacon, Robert; Bhattacharya, Soma; Kojima, Masami (2010): Expenditure of Low-Income Households on Energy. Evidence from Africa and Asia. World Bank. Available online at <a href="https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf">https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf</a>.<br>
 <br>
-[GlobalPetrolPrices.com](http://globalpetrolprices.com/) (2020): Retail Energy Price Data. Available online at [globalpetrolprices.com](http://globalpetrolprices.com/), checked on 7/21/2020. <br>
+GlobalPetrolPrices (2020): Retail Energy Price Data. Available online at <a href="globalpetrolprices.com">http://globalpetrolprices.com/</a>, checked on 7/21/2020. <br>
 <br>
-IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. [https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf)  (Accessed 15 July 2020). <br>
+IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. <a href="https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf">https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf</a> (Accessed 15 July 2020). <br>
 <br>
-IEA (2020): Energy Prices. High-quality data on end-use energy prices. Available online at [https://www.iea.org/reports/energy-prices-2020](https://www.iea.org/reports/energy-prices-2020) .<br>
+IEA (2020): Energy Prices. High-quality data on end-use energy prices. Available online at <a href="https://www.iea.org/reports/energy-prices-2020">https://www.iea.org/reports/energy-prices-2020</a>.<br>
 <br>
-ofgem (2018): Energy spend as percentage of total household expenditure (UK). Available online at [https://www.ofgem.gov.uk/data-portal/energy-spend-percentage-total-household-expenditure-uk](https://www.ofgem.gov.uk/data-portal/energy-spend-percentage-total-household-expenditure-uk).
+ofgem (2018): Energy spend as percentage of total household expenditure (UK). Available online at <a href="https://www.ofgem.gov.uk/data-portal/energy-spend-percentage-total-household-expenditure-uk">https://www.ofgem.gov.uk/data-portal/energy-spend-percentage-total-household-expenditure-uk</a>.<br>
 <br>
-Ritchie, Hannah; Roser, Max (2018): Access to Energy. [OurWorldinData.org](http://ourworldindata.org/). Available online at [https://ourworldindata.org/energy-access#citation](https://ourworldindata.org/energy-access#citation).
+Ritchie, Hannah; Roser, Max (2018): Access to Energy. <a href="OurWorldinData.org">"http://ourworldindata.org/</a>. Available online at <a href="https://ourworldindata.org/energy-access#citation">https://ourworldindata.org/energy-access#citation</a><br>.
 <br>
-Winkler, H. A. F. Simões, E. L. La Rovere, M. Alam, A. Rahman and S. Mwakasonda, World Development, 2011, 39, 1037–1050, [https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf](https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf).
+Winkler, H. A. F. Simões, E. L. La Rovere, M. Alam, A. Rahman and S. Mwakasonda, World Development, 2011, 39, 1037–1050, <a href="https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf">https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf</a>.</i><br>
 <br>
-<b>3.4.5 Indices for Acceptability</b>
-Enerdata (2020): Global Energy Statistical Yearbook. Available online at [https://yearbook.enerdata.net/](https://yearbook.enerdata.net/)
+<b>3.4.5 Indices for Acceptability</b><br>
+<i>Enerdata (2020): Global Energy Statistical Yearbook. Available online at <a href="https://yearbook.enerdata.net/">https://yearbook.enerdata.net/</a><br>
 <br>
-IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. [https://www.iea.org/data-and-statistics](https://www.iea.org/data-and-statistics) .
+IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. <a href="https://www.iea.org/data-and-statistics">https://www.iea.org/data-and-statistics</a>.<br>
 <br>
-Ritchie, Hannah; Roser, Max (2018): Access to Energy. [OurWorldinData.org](http://ourworldindata.org/). Available online at [https://ourworldindata.org/energy-access#citation](https://ourworldindata.org/energy-access#citation).
+Ritchie, Hannah; Roser, Max (2018): Access to Energy. <a href="OurWorldinData.org">"http://ourworldindata.org/</a>. Available online at <a href="https://ourworldindata.org/energy-access#citation">https://ourworldindata.org/energy-access#citation</a><br>.
 <br>
-Sovacool, Benjamin K.; Andersen, R.; Sorensen, Steven; Sorensen, Kenneth; Tienda, Victor; Vainorius, Arturas et al. (2016): Balancing safety with sustainability: assessing the risk of accidents for modern low-carbon energy systems. In Journal of Cleaner Production 112, pp. 3952–3965. DOI: 10.1016/j.jclepro.2015.07.059.
+Sovacool, Benjamin K.; Andersen, R.; Sorensen, Steven; Sorensen, Kenneth; Tienda, Victor; Vainorius, Arturas et al. (2016): Balancing safety with sustainability: assessing the risk of accidents for modern low-carbon energy systems. In Journal of Cleaner Production 112, pp. 3952–3965. DOI: <a href="10.1016/j.jclepro.2015.07.059">10.1016/j.jclepro.2015.07.059</a>.</i>
 </small>
