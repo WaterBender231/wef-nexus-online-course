@@ -6,21 +6,13 @@ parent: Water Security
 ---
 # **2.3 Dimensions, indicators, and sources**
 
-For the scope of this learning unit, we selected the dimensions availability, accessibility, safety and quality, and governance. Additionally, we provide you with some easy-to-calculate indicators, literature, and data sources.
+For the scope of this learning unit, we selected the dimensions availability, accessibility, safety and quality, and governance. You can download the key information about indices and data sources as PDF. Additionally, we provide you with some easy-to-calculate indicators, literature, and data sources. 
 
 <hr/>
 
-## 2.3 Indices to measure water availability
+<h2>2.3 Indices to measure water availability<small>(<a href="/wef-nexus-online-course/assets/indices-water-availability.pdf">view  table</a>)</small></h2> 
 
-| Dimension
- | Indices | Definition | Data source |
-| --- | --- | --- | --- |
-| Availability | Water scarcity index | WSI is defined as the ratio of total water withdrawal to the water availability including environmental flow requirements. | AQUASTAT
-http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en |
-|  | Water resources per capita | m³/inhabitant/per year |  |
-|  | Long-term average annual precipitation | mm/year |  |
-
-![Water availability](/wef-nexus-online-course/assets/availability_dimension.png)
+<iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-availability.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
 Typically, mean annual precipitation and aridity indices have been used as proxy-values for total availability in data-scarce regions (Dickson et al., 2016). Jensen and Wu (2018) assess the availability by measuring the total water resources per capita (lcd) but also including a dependency variable (imported water/total water resources), which introduces implicitly a political factor. Babel et al. (2020) measures availability with per capita use and imported water (%).
 
