@@ -8,12 +8,10 @@ parent: Energy Security
 
 ## 3.2.1 Global energy consumption (per capita)
 
-<img src="/wef-nexus-online-course/assets/energy-consumption-per-capita.jpg" alt="Global energy consumption (per capita)">
-<p><small>"Global energy consumption (per capita)", Ritchie & Roser (2018).</small></p>
-<p><small>  </small></p>
+<iframe src="https://ourworldindata.org/grapher/per-capita-energy-use" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 Ritchie and Roser (2018) illustrated the energy use per person at the national level on the website
-“[OurWorldinData.org](http://ourworldindata.org/)”. In general, the developed and energy-rich countries have the highest consumption per
+“[ourworldindata.org](http://ourworldindata.org/)”. In general, the developed and energy-rich countries have the highest consumption per
 capita. The least developed countries, particularly in Africa, consume just a fraction of what is consumed by
 countries such as the United States of America, Canada, the United Arab Emirates, Kuwait, Qatar, Saudi
 Arabia, Iceland and Australia.
