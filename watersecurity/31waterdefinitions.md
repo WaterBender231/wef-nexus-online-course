@@ -106,19 +106,9 @@ The Asian Development Bank (2013) added urban and economy, while Grey and Sadoff
 
 ## 2.2 Varying Water Security assessment frameworks
 
-| Dimensions | Scale/Focus | Authors |
-| --- | --- | --- |
-| Catchment disturbance, pollution, water resource development, biotic factors | Global | Vörösmarty (2010) |
-| Economic, Household, Urban, Environmental, Resilience | National | ADB (2013) |
-| Total renewable water resources per capita, ratio of annual water withdrawal to total renewable water resources, runoff variability, ratio of external to total renewable water resources | National/Global | Fischer et al. (2015) |
-| Droughts and water scarcity, floods, water supply and sanitation, ecosystem degradation and pollution. | National | Sadoff et al. (2015) |
-| Water resources, environment, water delivery system, community capacity and capital, access and equity, health and wellbeing | Review/rural | Dickson et al. (2016) |
-| Availability, accessibility, safety and quality, management | Global | Gain et al. (2016) |
-| Resources, access, risks, and governance | National/Urban | Jensen and Wu (2018) |
-| Productivity, Supply and sanitation, Governance, Environment, Risks | Urban/City Scale | Babel et al. (2020) |
+<h2> 2.2 Varying Water Security assessment frameworks (<a href="/wef-nexus-online-course/assets/watersec-table.pdf">download table</a>) 
 
-
-<iframe width="100%" height="100%" src="/wef-nexus-online-course/assets/watersec-table.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
+<iframe width="100%" height="500" src="/wef-nexus-online-course/assets/watersec-table.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
 
 Most WS frameworks incorporate basic elements of water resources, environment, economy, water-related disasters and human needs (Dickson et al., 2016). Vörösmarty et al. (2010) assessed global water security looking at human and biodiversity related factors. The ADB (2013) considered five different securities related to water: economic, household, urban, environmental, resilience. 
