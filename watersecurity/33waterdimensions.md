@@ -13,7 +13,7 @@ For the scope of this learning unit, we selected the dimensions availability, ac
 <h2>2.3 Indices to measure water availability <small>(<a href="/wef-nexus-online-course/assets/indices-water-availability.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-availability.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
-<small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water availability</a>
+<small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water availability</a></small></small>
 
 Typically, mean annual precipitation and aridity indices have been used as proxy-values for total availability in data-scarce regions (Dickson et al., 2016). Jensen and Wu (2018) assess the availability by measuring the total water resources per capita (lcd) but also including a dependency variable (imported water/total water resources), which introduces implicitly a political factor. Babel et al. (2020) measures availability with per capita use and imported water (%).
 
@@ -53,7 +53,7 @@ ADB (2013) follows a different approach which also related water availability wi
 <h2>2.3 Indices to measure water accessibility <small>(<a href="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">view table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
-<small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water accessibility</a>
+<small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water accessibility</a></small></small>
 
 The indicators selected for this dimension are straightforward and according to the authors calculated through percentage of population with improved sanitation and drinking water, were adopted to represent accessibility of water to people mainly due to varying socio-economic conditions.
 
@@ -80,7 +80,7 @@ Aqueduct <a href="https://www.worldwater.org/water-data/">https://www.worldwater
 <h2>2.5 Indices to measure water safety and quality <small>(<a href="/wef-nexus-online-course/assets/indices-water-quality.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-quality.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
-<small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water quality</a>
+<small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water quality</a></small></small>
 
 **The Environmental Performance Index (EPI)** published by the Yale Center for Environmental Law and Policy (YCELP) and the Center for International Earth Science Information Network (CIESIN) at Columbia University includes a Water Quality Index (WATQI). The WATQI provides a first global effort at reporting and estimating water quality on the basis of five commonly reported quality parameters: dissolved oxygen, electrical conductivity, pH value, and total nitrogen and phosphorus concentrations (Srebotnjak et al., 2012).
 
@@ -98,7 +98,7 @@ Garrick and Hall (2014) propose a **risk-based framework** which differentiates 
 <h2>2.6 Indices to measure water governance performance <small>(<a href="/wef-nexus-online-course/assets/indices-water-governance.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-governance.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
-<small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water governance</a>
+<small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water governance</a></small></small>
 
 To evaluate the **governance dimension**, we need to be innovative, as there is no quantitative information. The approach and indicators should be selected based on the water challenges in the region you look at.  The  ‘world governance index’ developed by World Bank is calculated at country scale considering six different aspects: (i) Voice and accountability; (ii) Political stability and absence of violence; (iii) Government effectiveness; (iv) Regulatory quality, (v) Rule of law, (vi) Control of corruption. In addition, transboundary governance status of (i) legal framework and (ii) hydro political tension for 286 river basins of the world was assessed.
 
