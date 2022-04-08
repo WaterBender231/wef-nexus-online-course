@@ -6,9 +6,9 @@ parent: Tools and Data
 ---
 # 5.2 Qualitative approaches to evaluate Nexus systems
 
-## **5.2.1 Meza et al. (2015): Nexus System Diagram**
+## 5.2.1 Meza et al. (2015): Nexus System Diagram
 
-![Untitled](6%202%20Qualit%20f55bf/Untitled.png)
+<img src="/wef-nexus-online-course/assets/meza.jpg" alt="Nexus System Diagram">
 <p><small>Meza et al., 2015</small></p>
 <p><small>  </small></p>
 
@@ -20,15 +20,15 @@ The size of the arrows is used to communicate magnitudes of the supply (or deman
 
 <hr/>
 
-## **5.2.2 Example: Maipo Basin**
+## 5.2.2 Example: Maipo Basin
 
-![Untitled](6%202%20Qualit%20f55bf/Untitled%201.png)
+<img src="/wef-nexus-online-course/assets/maipo.png" alt="Maipo Basin">
 <p><small>Meza et al., 2015</small></p>
 <p><small> Note: The arrows with dotted lines represent projected changes:
 either the changing thickness of an arrow or the addition of a new arrow </small></p>
 <p><small> </small></p>
 
-Meza et al. (2015) applied this concept to several river basins in Chile. Here, an example of the Nexus diagram for the Maipo Basin in central Chile is shown. Arrows indicate influence or supply/demand, and their size is indicative of their magnitude. Located within the basin is Santiago, the capital with a population of 6 million. 
+Meza et al. (2015) applied this concept to several river basins in Chile. Here, an **example of the Nexus diagram for the Maipo Basin in central Chile** is shown. Arrows indicate influence or supply/demand, and their size is indicative of their magnitude. Located within the basin is Santiago, the capital with a population of 6 million. 
 
 The region has a Mediterranean climate with mean temperatures of 20°C in summer and 10°C in winter. Mean annual precipitation is 280 mm. Snow accumulation occurs above 1,500 m altitude during winter. The main economic activities in the basin include industry, commerce and services along with an export-oriented agricultural sector.
 
@@ -36,19 +36,17 @@ The figure (without the arrows with dotted lines) depicts the current status of 
 
 <hr/>
 
-## **5.2.3 The Transboundary River Basin Nexus Approach (TRBNA)**
+## 5.2.3 The Transboundary River Basin Nexus Approach (TRBNA)
 
-![Untitled](6%202%20Qualit%20f55bf/Untitled%202.png)
+<img src="/wef-nexus-online-course/assets/TRBNA.png" alt="TRBNA">
 <p><small>de Strasser et al., 2016</small></p>
 <p><small>  </small></p>
 
 The Transboundary River Basin Nexus Approach (TRBNA) was developed under the UNECE Water Convention, with the aim to inform, support and promote transboundary cooperation and to assist countries by:
 
-Identifying Nexus interconnections (trade-offs and impacts) across sectors and countries as well as incoherencies in governance
-
-Proposing actions to reduce negative impacts, minimise trade-offs and take advantage of existing complementarities and win-win opportunities.
-
-Providing evidence of benefits from improved cooperation at the national and transboundary levels
+- Identifying Nexus interconnections (trade-offs and impacts) across sectors and countries as well as incoherencies in governance
+- Proposing actions to reduce negative impacts, minimise trade-offs and take advantage of existing complementarities and win-win opportunities.
+- Providing evidence of benefits from improved cooperation at the national and transboundary levels
 
 
 <br/> <br/>

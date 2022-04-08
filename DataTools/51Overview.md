@@ -6,7 +6,7 @@ parent: Tools and Data
 ---
 # **5.1 Overview on the Nexus Assessment Procedure**
 
-### **5.1.1 Overview on the Nexus Assessment Procedure: FAO 2014**
+### **5.1.1 Nexus Assessment Procedure according to FAO, 2014**
 
 <img src="/wef-nexus-online-course/assets/flammini.PNG" alt="Energy consumption: historical and future trends">
 <p><small>Source: Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus, FAO 2014.</small></p>
@@ -41,13 +41,15 @@ This assessment is necessary not only to understand the interconnections between
 </div>
 </div>
 
--Global scale: e.g. food and energy market prices, virtual water
--Basin scale: e.g. water resources availability
--National scale: e.g. energy supply grid data
--Provincial/community scale: e.g. agricultural census data and food production
-
-
+Global scale: e.g. food and energy market prices, virtual water<br>
 <br>
+Basin scale: e.g. water resources availability<br>
+<br>
+National scale: e.g. energy supply grid data<br>
+<br>
+Provincial/community scale: e.g. agricultural census data and food production
+
+
 <br>
 <br>
 The quantitative analysis and the use of tools relies on data that are observed at different spatial scales. This section presents typical scales for Nexus related data and information. To enable a Nexus assessment at the desired scale, it is therefore necessary to make the information of different Nexus sectors comparable.
@@ -67,6 +69,8 @@ The quantitative analysis and the use of tools relies on data that are observed 
 <br>
 </div>
 </div>
+
+<br>
 
 - Qualitative and visualisation tools
 - Governance analysis tools
