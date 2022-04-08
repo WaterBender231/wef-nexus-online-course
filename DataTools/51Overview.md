@@ -40,10 +40,6 @@ This assessment is necessary not only to understand the interconnections between
 </div>
 </div>
 
-
-
-Nexus interconnections are assessed at different scales:
-
 - Global scale: e.g. food and energy market prices, virtual water
 - Basin scale: e.g. water resources availability
 - National scale: e.g. energy supply grid data
