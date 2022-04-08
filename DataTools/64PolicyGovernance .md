@@ -60,7 +60,12 @@ Coordination between different levels of governance is realised through differen
 - Conferences of national and regional ministries (often along sectoral lines)
 - Working groups between local-regional-national government levels
 
-![Untitled](6%204%20Policy%2016801/Untitled%201.png)
+```mermaid
+flowchart LR
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
 
 GIZ, 2017
 
