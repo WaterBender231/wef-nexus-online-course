@@ -5,6 +5,7 @@ permalink: /tools/questions
 parent: Tools and Data
 ---
 # 5.5 Exercise Questions
+<br>
 
 Please answer with regard to your country or study region:
 
@@ -14,5 +15,5 @@ Please answer with regard to your country or study region:
 
 <br/> <br/>
 <br/> <br/>
-[Check out references](https://waterbender231.github.io/wef-nexus-online-course/tools/references){: .btn .btn-purple .mr-4}
+
 [Go to next learning unit](https://waterbender231.github.io/wef-nexus-online-course/governance/){: .btn .btn-green }

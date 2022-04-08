@@ -6,7 +6,7 @@ parent: Tools and Data
 ---
 # **5.3 Semi-quantitative and quantitative assessment tools**
 
-## **5.3.1 Flammini et al, 2014: Walking the Nexus Talk – The Nexus Rapid Appraisal Tool (FAO)**
+## 5.3.1 Flammini et al, 2014: Walking the Nexus Talk – The Nexus Rapid Appraisal Tool (FAO)
 
 - Conduct a semi-quantitative context analysis based on existing data and indicators (from international organisations) describing the interconnections between the WEF sectors
 - Evaluate the performance of a technical or policy interventions
