@@ -32,10 +32,11 @@ This assessment is necessary not only to understand the interconnections between
 <div style="float: left">
 <figure>
 <img src="/wef-nexus-online-course/assets/around-the-world.gif" width="170" height="32">
-<figcaption><small><small><a href="https://www.flaticon.com/free-animated-icons/location" title="location animated icons">Location animated icons created by Freepik - Flaticon</a></small></small></figcaption>
+<figcaption><small><small><a href="https://www.flaticon.com/free-animated-icons/location" title="location animated icons">Location animated icons created <br>by Freepik - Flaticon</a></small></small></figcaption>
 </figure>
 </div>
 <div>
+<br>
 <b>Nexus interconnections are assessed at different scales:</b>
 </div>
 </div>
