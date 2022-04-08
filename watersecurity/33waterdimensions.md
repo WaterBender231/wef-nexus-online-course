@@ -13,6 +13,7 @@ For the scope of this learning unit, we selected the dimensions availability, ac
 <h2>2.3 Indices to measure water availability <small>(<a href="/wef-nexus-online-course/assets/indices-water-availability.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-availability.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
+<small><small><a href="See more data sources for water availability">https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview</a>
 
 Typically, mean annual precipitation and aridity indices have been used as proxy-values for total availability in data-scarce regions (Dickson et al., 2016). Jensen and Wu (2018) assess the availability by measuring the total water resources per capita (lcd) but also including a dependency variable (imported water/total water resources), which introduces implicitly a political factor. Babel et al. (2020) measures availability with per capita use and imported water (%).
 
@@ -44,20 +45,6 @@ Groundwater depletion, defined as the persistent removal of groundwater from aqu
 
 ADB (2013) follows a different approach which also related water availability with other securities (i.e. energy and food) by introducing the dimension economic water security. Here, indicators such as agricultural independency are introduced as well as agricultural use efficiency, industrial productivity or hydropower dependency. In the example of GWP (2012) the combination of these categories adds up to a overall productive economies index.
 
-
-<details><summary><i>See More Data Sources for <b>Water Availability</b></i></summary>
-<p>
-For more data go to: <a href="http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en">http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en</a> <br>
-<br>
-Global data set for human water stress can be downloaded here: <a href="http://www.riverthreat.net/data.html">http://www.riverthreat.net/data.html</a> <br>
-<br>
-Water Footprint Statistics: <a href="https://waterfootprint.org/en/resources/waterstat/">https://waterfootprint.org/en/resources/waterstat/</a><br>
-<br>
-The worlds water data: <a href="https://www.worldwater.org/water-data/">https://www.worldwater.org/water-data/</a>
-
-</p>
-</details>
-
 <br>
 &rarr; <b>Exercise question:</b> Which indicators best represent the dimension „Availability “ in your country/region?
 
@@ -66,6 +53,7 @@ The worlds water data: <a href="https://www.worldwater.org/water-data/">https://
 <h2>2.3 Indices to measure water accessibility <small>(<a href="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">view table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
+<small><small><a href="See more data sources for water accessibility">https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview</a>
 
 The indicators selected for this dimension are straightforward and according to the authors calculated through percentage of population with improved sanitation and drinking water, were adopted to represent accessibility of water to people mainly due to varying socio-economic conditions.
 
@@ -92,6 +80,7 @@ Aqueduct <a href="https://www.worldwater.org/water-data/">https://www.worldwater
 <h2>2.5 Indices to measure water safety and quality <small>(<a href="/wef-nexus-online-course/assets/indices-water-quality.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-quality.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
+<small><small><a href="See more data sources for water quality">https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview</a>
 
 **The Environmental Performance Index (EPI)** published by the Yale Center for Environmental Law and Policy (YCELP) and the Center for International Earth Science Information Network (CIESIN) at Columbia University includes a Water Quality Index (WATQI). The WATQI provides a first global effort at reporting and estimating water quality on the basis of five commonly reported quality parameters: dissolved oxygen, electrical conductivity, pH value, and total nitrogen and phosphorus concentrations (Srebotnjak et al., 2012).
 
@@ -119,7 +108,7 @@ And also a data set on global flood hazards: <a href="https://www.wri.org/resour
 <h2>2.6 Indices to measure water governance performance <small>(<a href="/wef-nexus-online-course/assets/indices-water-governance.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-governance.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
-
+<small><small><a href="See more data sources for water governance">https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview</a>
 
 To evaluate the **governance dimension**, we need to be innovative, as there is no quantitative information. The approach and indicators should be selected based on the water challenges in the region you look at.  The  ‘world governance index’ developed by World Bank is calculated at country scale considering six different aspects: (i) Voice and accountability; (ii) Political stability and absence of violence; (iii) Government effectiveness; (iv) Regulatory quality, (v) Rule of law, (vi) Control of corruption. In addition, transboundary governance status of (i) legal framework and (ii) hydro political tension for 286 river basins of the world was assessed.
 
@@ -147,9 +136,13 @@ Major data sources to evaluate Water Security and calculate respective indicator
 - **Transboundary Water Indicators:** TWAP RB
 - **Water, Sanitation, and Hygiene:** WHO/UNICEF
 
+Click on the toggle below to see more data sources for the different Water Security Dimensions
+
 <hr/>
 
-[AQUASTAT](http://www.fao.org/nr/water/aquastat/data/query/index.html) is the [FAO's global information system](http://www.fao.org/aquastat/en/databases/) on water resources and agricultural water management. It collects, analyses and provides free access to over 180 variables and indicators by country from 1960. AQUASTAT plays a key role in the monitoring of the SDG 6, and in particular indicators of target 6.4 on water stress and water use efficiency. Data about the following subjects can be found: (i) water resources: internal, transboundary, total, (ii) water uses: by sector, by source, wastewater, (iii) irrigation, (iv) dams, (v) water-related institutions, policies and legislation.
+<details><summary>Title</summary>
+<p>
+<a href="http://www.fao.org/nr/water/aquastat/data/query/index.html">AQUASTAT</a> is the [FAO's global information system](http://www.fao.org/aquastat/en/databases/) on water resources and agricultural water management. It collects, analyses and provides free access to over 180 variables and indicators by country from 1960. AQUASTAT plays a key role in the monitoring of the SDG 6, and in particular indicators of target 6.4 on water stress and water use efficiency. Data about the following subjects can be found: (i) water resources: internal, transboundary, total, (ii) water uses: by sector, by source, wastewater, (iii) irrigation, (iv) dams, (v) water-related institutions, policies and legislation.
 
 <br>
 
@@ -162,6 +155,29 @@ The [TWAP RB Indicators](http://twap-rivers.org/indicators/) are based on the TW
 <br>
 
 [WASH Database](https://washdata.org/): the Joint Monitoring Programme (JMP) global database includes nearly 5,000 national datasets enabling the production of estimates for over 200 countries. 
+</p>
+</details>
+
+
+<details><summary><i>See More Data Sources for <b>Water Availability</b></i></summary>
+<p>
+For more data go to: <a href="http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en">http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en</a> <br>
+<br>
+Global data set for human water stress can be downloaded here: <a href="http://www.riverthreat.net/data.html">http://www.riverthreat.net/data.html</a> <br>
+<br>
+Water Footprint Statistics: <a href="https://waterfootprint.org/en/resources/waterstat/">https://waterfootprint.org/en/resources/waterstat/</a><br>
+<br>
+The worlds water data: <a href="https://www.worldwater.org/water-data/">https://www.worldwater.org/water-data/</a>
+
+</p>
+</details>
+
+
+
+
+
+
+
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/watersecurity/questions){: .btn .btn-purple .mr-4}
