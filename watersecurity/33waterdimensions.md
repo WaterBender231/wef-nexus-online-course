@@ -108,7 +108,7 @@ And also a data set on global flood hazards: <a href="https://www.wri.org/resour
 <h2>2.6 Indices to measure water governance performance <small>(<a href="/wef-nexus-online-course/assets/indices-water-governance.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-governance.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
-<small><small><a href="See more data sources for water governance">https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview</a>
+<small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water governance</a>
 
 To evaluate the **governance dimension**, we need to be innovative, as there is no quantitative information. The approach and indicators should be selected based on the water challenges in the region you look at.  The  ‘world governance index’ developed by World Bank is calculated at country scale considering six different aspects: (i) Voice and accountability; (ii) Political stability and absence of violence; (iii) Government effectiveness; (iv) Regulatory quality, (v) Rule of law, (vi) Control of corruption. In addition, transboundary governance status of (i) legal framework and (ii) hydro political tension for 286 river basins of the world was assessed.
 
