@@ -84,18 +84,6 @@ With this method, different interventions can be easily compared to support deci
 - The aggregated index evaluates overall FEW Security based on FEW availability and accessibility indicators for the National scale
 - Uses normalised scores from 0 (worst) to 1 (best)
 
-
-<div>
-<div style="float: center">
-<figure>
-<img src="/wef-nexus-online-course/assets/RAND-map.jpg" width="446" height="252">
-<figcaption><small>Willis et al., 2016</small></figcaption>
-</figure>
-</div>
-<div>
-</div>
-</div>
-
 <img src="/wef-nexus-online-course/assets/RAND-map.jpg" width="446" height="252">
 <p><small>Willis et al., 2016</small></p>
 
@@ -149,7 +137,6 @@ They evaluated the total per capita internally available renewable water. The in
 </figure>
 </div>
 <div>
-<b>   In a nutshell:</b>
 </div>
 </div>
 

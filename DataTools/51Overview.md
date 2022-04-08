@@ -37,15 +37,15 @@ This assessment is necessary not only to understand the interconnections between
 </div>
 <div>
 <br>
-<b>Nexus interconnections are assessed at different scales:<br>
-<br></b>
+<b>Nexus interconnections are assessed at different scales:</b>
 </div>
 </div>
-
-- Global scale: e.g. food and energy market prices, virtual water<br>
-- Basin scale: e.g. water resources availability
-- National scale: e.g. energy supply grid data
-- Provincial/community scale: e.g. agricultural census data and food production
+<ul>
+<li>Global scale: e.g. food and energy market prices, virtual water
+<li>Basin scale: e.g. water resources availability
+<li>National scale: e.g. energy supply grid data
+<li>Provincial/community scale: e.g. agricultural census data and food production
+</ul>
 
 
 <br>
@@ -90,5 +90,5 @@ Governance analysis tools aim at assessing the institutions and persons involved
 
 <hr/>
 
-<p><b>References</b></p>
-<p><small><i>Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus in the Context of the Sustainable Energy for All Initiative’, Food and Agriculture Organization of the United Nations, Rome. Available at: <a href="http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/">http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/</a></i></small></p>
+<p><b>References</b><br>
+<small><i>Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus in the Context of the Sustainable Energy for All Initiative’, Food and Agriculture Organization of the United Nations, Rome. Available at: <a href="http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/">http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/</a></i></small></p>
