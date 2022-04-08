@@ -93,34 +93,13 @@ This online resource is available at:
 
 <hr/>
 
+<h2>5.3.7 Pardee RAND FEW Index: WEF Security Indicators <small>(<a href="/wef-nexus-online-course/assets/FEW.pdf">view table</a>)</small></h2> 
 
-## **5.3.7 Pardee RAND FEW Index: WEF Security Indicators**
-
-![Untitled](6%203%20Semi-q%207498e/Untitled%207.png)
-
-| Food security indicators | Measure |
-| --- | --- |
-| Food accessibility | Food Price level index
-Share of dietary supply from nonstrachy food |
-| Food availability | Dietary food supply relative to Minimum dietary requirement |
-
-| Water security indicators | Measure |
-| --- | --- |
-| Water accessibility | Percentage of population with access to improved drinking water
-Percentage of population with access to improved sanitation |
-| Water availability | Municipal water withdrawal/Population
-________________________________________
-Per capita water needs for human consumption |
-| Water adaptive capacity | Total water resources/Population |
-
-| Energy security indicators | Measure |
-| --- | --- |
-| Energy accessibility | Electrification rate
-Percentage access to modern fuel for cooking and heating |
-| Energy availability | Electricity consumption
-Per capita electricity requirement/Population |
+<iframe width="100%" height="500" src="/wef-nexus-online-course/assets/FEW.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
 The section above shows the WEF security indicators used to calculate the RAND FEW index. It is comprised of three sub-indices for food, energy and water. The index combines these sub-indices using an unweighted, geometric mean. To calculate the subindices, they used the dimensions Accessibility and Availability.
+
+<hr/>
 
 ### Overview of Dimensions
 
@@ -131,30 +110,55 @@ In the following sections, details are given related to the indices:
 **Food accessibility**: Domestic Food Price Level Index— ratio of the food purchasing power parity by the general purchasing power parity, this indicator reflects economic access to food.
 
 **Energy availability**: Benchmark value for per capita electricity consumption: 4,000 kilowatt-hours (kWh) per capita is the level required to meet basic human needs (Pasternak, 2000; Steinberger and Roberts, 2009).
+
 They measure the availability of water resources by comparing country-wide total water withdrawals for municipal uses with water requirements for basic municipal purposes. Gleick (1996) calculated the per capita minimum level of water used for cooking, heating, and sanitation (i.e., municipal purposes) to be 50 liters per capita per day. More water withdrawals relative to basic requirements indicate greater security and more support for economic activities. This measure does not consider industrial or agricultural water use or requirements, as water use in these sectors is highly variable across countries, depending on the mix of economic activity and level and efficiency of irrigation for agriculture.
 
 **Water availability:** The water availability sub-index normalizes per capita average municipal water use by 200 liters per day. Thus, any country with a ratio of water use to water requirements greater than four is given a value of 1.0. This level of water use is twice the standard 100 liters per day  requirement for basic uses, and four times the bare minimum levels for cooking, eating, and sanitation of 50 liters per capita per day (Gleick, 1996). Normalizing by a level greater than the 100 liters per day standard helps account for the uneven distribution of water across countries and builds in inefficiencies in distribution into the index.
+
 They evaluated the total per capita internally available renewable water. The internally available water includes the sum of internal renewable water resources and external actual renewable water resources. It corresponds to the maximum yearly amount of water actually available for a country at a given moment. This excludes any return flow from agriculture or wastewater.
 
 <hr/>
 
 ### **5.3.8 The SDG Index 2021 and Dashboards**
 
+<br>
+
+<div>
+<div style="float: left">
+<figure>
+<img src="/wef-nexus-online-course/assets/sd-report-2017.png" width="170" height="229">
+<figcaption><small><small>Willis et al., 2016</small></small></figcaption>
+</figure>
+</div>
+<div>
+<br>
+<b>In a nutshell:</b>
+</div>
+</div>
+
 - 17 SDGs – 88 indicators in 2018
+
 - Uses scores from 0 (worst) to 100 (best) %
+
 - Uses equal weights
+
 - The annual SDG Index provides a standardized, quantitative, transparent and scalable composite measure of SDG baselines for 149 countries with sufficient data across the goals.
 
-The SDG Index and Dashboards Report benchmarks the performance of countries on the Sustainable Development Goals (SDGs).  A data visualisation tool has been developed allowing users to compare rapidly their country results to others ([https://dashboards.sdgindex.org/#/](https://dashboards.sdgindex.org/#/)). Additional monitoring tools and analyses have been developed by SDSN for Africa ([https://sdgcafrica.org/reports](https://sdgcafrica.org/reports)) and cities in the United-States [http://unsdsn.org/resources/publications/leaving-no-u-s-city-behind-the-2018-u-s-cities-sdgs-index/](http://unsdsn.org/resources/publications/leaving-no-u-s-city-behind-the-2018-u-s-cities-sdgs-index/)) using a similar approach and methodology.
+<br>
+
+The ([https://dashboards.sdgindex.org/#/](SDG Index and Dashboards Report) the performance of countries on the Sustainable Development Goals (SDGs).  A data visualisation tool has been developed allowing users to compare rapidly their country results to others. Additional monitoring tools and analyses have been developed by ([https://sdgcafrica.org/reports](SDSN for Africa)) and [http://unsdsn.org/resources/publications/leaving-no-u-s-city-behind-the-2018-u-s-cities-sdgs-index/](cities in the United-States/)) using a similar approach and methodology.
+
 Five criteria for indicator selection were used to determine suitable metrics for inclusion in the global SDG Index and Dashboards:
 
 1. Global relevance and applicability to a broad range of country settings: The indicators are relevant for monitoring achievement of the SDGs and applicable to the entire continent. They are internationally comparable and allow for direct comparison of performance across countries. In particular, they allow for the definition of quantitative performance thresholds that signify SDG achievement.
-2. Statistical adequacy: The indicators selected represent valid and reliable measures.
-3. Timeliness: The indicators selected are up to date and published on a reasonably prompt schedule.
-4. Data quality: Data series represent the best available measure for a specific issue, and derive from official national or international sources (e.g. national statistical offices or international organizations) or other reputable sources, such as peer-reviewed publications. No imputations of self-reported national estimates are included.
-5. Coverage: Data have to be available for at least 80% of the 149 UN Member States with a national population greater than 1 million.
 
-<hr/>
+2. Statistical adequacy: The indicators selected represent valid and reliable measures.
+
+3. Timeliness: The indicators selected are up to date and published on a reasonably prompt schedule.
+
+4. Data quality: Data series represent the best available measure for a specific issue, and derive from official national or international sources (e.g. national statistical offices or international organizations) or other reputable sources, such as peer-reviewed publications. No imputations of self-reported national estimates are included.
+
+5. Coverage: Data have to be available for at least 80% of the 149 UN Member States with a national population greater than 1 million.
 
 
 <br/> <br/>
@@ -162,8 +166,8 @@ Five criteria for indicator selection were used to determine suitable metrics fo
 
 <hr/>
 
-<p><small><b>References</b></small></p>
-<p><small><i>Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus in the Context of the Sustainable Energy for All Initiative’, Food and Agriculture Organization of the United Nations, Rome. Available at: <a href="http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/">http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/</a><br>
+<p><small><b>References</b><br>
+<i>Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus in the Context of the Sustainable Energy for All Initiative’, Food and Agriculture Organization of the United Nations, Rome. Available at: <a href="http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/">http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/</a><br>
  <br>
 Sachs, J., Kroll, C., Lafortune, G., Fuller, G., Woelm, F. (2021). The Decade of Action for the Sustainable Development Goals: Sustainable Development Report 2021. Cambridge: Cambridge University Press. <a href="https://www.sdgindex.org/">https://www.sdgindex.org/</a><br>
  <br>
