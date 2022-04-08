@@ -29,11 +29,9 @@ Responses should be designed at the appropriate scale: local, regional, national
 
 ## 6.4.1 Policy Framework for Managing the Nexus
 
-![Untitled](6%204%20Policy%2016801/Untitled.png)
+<img src="/wef-nexus-online-course/assets/rasul-2016.jpg">
+<small>Rasul, 2016</small>
 
-Rasul, 2016
-
-rasul-2016.jpg
 
 **Important points to consider for a policy framework that addresses the Nexus:**
 
@@ -56,15 +54,23 @@ rasul-2016.jpg
 
 ## 6.4.2 Vertical Coordination
 
-Coordination between different levels of governance is realised through different institutional instruments. **For example, through:**
+<div>
+<div style="float: right">
+<figure>
+<img src="/wef-nexus-online-course/assets/rasul-2016.jpg">
+<figcaption><small><small>GIZ, 2017</small></small></figcaption>
+</figure>
+</div>
+<div>
+Coordination between different levels of governance is realised through different institutional instruments. <b>For example, through:</b>
+</div>
+</div>
 
 - Dialogue processes and consultations
 - Conferences of national and regional ministries (often along sectoral lines)
 - Working groups between local-regional-national government levels
 
-
-GIZ, 
-
+<hr/>
 
 Vertical coordination between different levels is realised through various different mechanisms. Those listed on this section are only some of the examples available (and these examples often also have different names in different national contexts).
 
