@@ -76,7 +76,7 @@ Vertical coordination between different levels is realised through various diffe
 
 
 <br/> <br/>
-[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/questions){: .btn .btn-purple .mr-4}
+[Continue to study questions](https://waterbender231.github.io/wef-nexus-online-course/tools/questions){: .btn .btn-purple .mr-4}
 [Continue with next unit](https://waterbender231.github.io/wef-nexus-online-course/governance/){: .btn .btn-green }
 
 <hr/>

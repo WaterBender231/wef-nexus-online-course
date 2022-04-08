@@ -23,14 +23,14 @@ The overall objective of this WEF Nexus assessment is to inform Nexus-related re
 
 <hr/>
 
-### 5.3.2 FAO Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus – Context Analysis
-
+<h2>5.3.2 FAO Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus <br> – Context Analysis </h2>
+<br>
 <img src="/wef-nexus-online-course/assets/country-typology.PNG">
 <div>
 <div style="float: left">
 <figure>
 <img src="/wef-nexus-online-course/assets/hexagon.jpg" width="170" height="32">
-<figcaption><small><small>Flammini et al., 2014</small></small></figcaption>
+<figcaption><small><small>   Flammini et al., 2014</small></small></figcaption>
 </figure>
 </div>
 <div>
@@ -65,11 +65,11 @@ All these ‘efficiency considerations’ are assessed from a Nexus resource per
 
 <img src="/wef-nexus-online-course/assets/case-study-6.PNG">
 <img src="/wef-nexus-online-course/assets/legend-case-6.png">
-
+<small>Flammini et al., 2014</small>
 
 <hr/>
 
-## **5.3.5 Nexus Rapid Appraisal Tool: Comparison**
+## 5.3.5 Nexus Rapid Appraisal Tool: Comparison
 <br>
 <img src="/wef-nexus-online-course/assets/rapid-appraisal.png">
 <p><small>Flammini et al., 2014</small></p>
@@ -84,10 +84,22 @@ With this method, different interventions can be easily compared to support deci
 - The aggregated index evaluates overall FEW Security based on FEW availability and accessibility indicators for the National scale
 - Uses normalised scores from 0 (worst) to 1 (best)
 
+
+<div>
+<div style="float: center">
+<figure>
+<img src="/wef-nexus-online-course/assets/RAND-map.jpg" width="446" height="252">
+<figcaption><small>Willis et al., 2016</small></figcaption>
+</figure>
+</div>
+<div>
+</div>
+</div>
+
 <img src="/wef-nexus-online-course/assets/RAND-map.jpg" width="446" height="252">
 <p><small>Willis et al., 2016</small></p>
 
-The RAND Corporation developed the Pardee RAND Food-Energy-Water Security Index to provide information to development agencies and efforts focused on food, energy, and water resources. The index can be accessed online through an interactive ([www.rand.org/t/TL165](RAND website)) that allows exploration of the data through maps and charts or downloading of the data for offline analysis.
+The RAND Corporation developed the Pardee RAND Food-Energy-Water Security Index to provide information to development agencies and efforts focused on food, energy, and water resources. The index can be accessed online through an interactive ([RAND website](www.rand.org/t/TL165)) that allows exploration of the data through maps and charts or downloading of the data for offline analysis.
 
 As introduced to in Learning Units <a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/">2</a>, <a href="https://waterbender231.github.io/wef-nexus-online-course/energysecurity/">3</a>, and <a href="https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/">4</a> on the WEF securities, this index combines wef security indices to evaluate the supply and accessibility of resources at country level.
 
@@ -151,7 +163,7 @@ They evaluated the total per capita internally available renewable water. The in
 
 <br>
 
-The ([SDG Index and Dashboards Report](https://dashboards.sdgindex.org/#/) the performance of countries on the Sustainable Development Goals (SDGs).  A data visualisation tool has been developed allowing users to compare rapidly their country results to others. Additional monitoring tools and analyses have been developed by ([SDSN for Africa](https://sdgcafrica.org/reports)) and [cities in the United-States](http://unsdsn.org/resources/publications/leaving-no-u-s-city-behind-the-2018-u-s-cities-sdgs-index/)) using a similar approach and methodology.
+The [SDG Index and Dashboards Report](https://dashboards.sdgindex.org/#/) the performance of countries on the Sustainable Development Goals (SDGs).  A data visualisation tool has been developed allowing users to compare rapidly their country results to others. Additional monitoring tools and analyses have been developed by ([SDSN for Africa](https://sdgcafrica.org/reports)) and [cities in the United-States](http://unsdsn.org/resources/publications/leaving-no-u-s-city-behind-the-2018-u-s-cities-sdgs-index/) using a similar approach and methodology.
 
 Five criteria for indicator selection were used to determine suitable metrics for inclusion in the global SDG Index and Dashboards:
 

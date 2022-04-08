@@ -4,7 +4,7 @@ title: 5.2 Qualitative approaches
 permalink: /tools/qualitative-approaches
 parent: Tools and Data
 ---
-# 5.2 Qualitative approaches to evaluate Nexus systems
+# **5.2 Qualitative approaches to evaluate Nexus systems**
 
 ## 5.2.1 Meza et al. (2015): Nexus System Diagram
 <br>
@@ -23,8 +23,8 @@ The size of the arrows is used to communicate magnitudes of the supply (or deman
 ## 5.2.2 Example: Maipo Basin
 <br>
 <img src="/wef-nexus-online-course/assets/maipo.png" alt="Maipo Basin">
-<p><small>Meza et al., 2015. <b>Note:</b> The arrows with dotted lines represent projected changes:
-either the changing thickness of an arrow or the addition of a new arrow </small></p>
+<p><small>Meza et al., 2015. <i>Note: The arrows with dotted lines represent projected changes:
+either the changing thickness of an arrow or the addition of a new arrow </i></small></p>
 <p><small> </small></p>
 
 Meza et al. (2015) applied this concept to several river basins in Chile. Here, an **example of the Nexus diagram for the Maipo Basin in central Chile** is shown. Arrows indicate influence or supply/demand, and their size is indicative of their magnitude. Located within the basin is Santiago, the capital with a population of 6 million. 

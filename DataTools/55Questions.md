@@ -10,8 +10,8 @@ parent: Tools and Data
 <div>
 <div style="float: left">
 <figure>
-<img src="/wef-nexus-online-course/assets/question.png" width="170" height="32">
-<figcaption><small><small><a href="https://www.flaticon.com/free-icons/question" title="question icons">Question icons created by Freepik - Flaticon</a></small></small></figcaption>
+<img src="/wef-nexus-online-course/assets/question.png" width="85" height="16">
+<figcaption><small><small><a href="https://www.flaticon.com/free-icons/question" title="question icons">Question icons created <br> by Freepik - Flaticon</a></small></small></figcaption>
 </figure>
 </div>
 <div>
@@ -21,9 +21,9 @@ Answer with regard to your country or study region:<br>
 </div>
 </div>
 
-   Conceptualize your Nexus system <br>
-   Name relevant tools used to describe/quantify Nexus systems, conflicts, and tradeoffs <br>
-   Select one of the tools presented on the sections (or any other) and look for the information needed to apply it
+- Conceptualize your Nexus system <br>
+- Name relevant tools used to describe/quantify Nexus systems, conflicts, and tradeoffs <br>
+- Select one of the tools presented on the sections (or any other) and look for the information needed to apply it
 
 <br/> <br/>
 <br/> <br/>

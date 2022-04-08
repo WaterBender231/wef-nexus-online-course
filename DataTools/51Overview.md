@@ -42,13 +42,10 @@ This assessment is necessary not only to understand the interconnections between
 </div>
 </div>
 
-     Global scale: e.g. food and energy market prices, virtual water<br>
-
-     Basin scale: e.g. water resources availability
-
-     National scale: e.g. energy supply grid data
-
-     Provincial/community scale: e.g. agricultural census data and food production
+- Global scale: e.g. food and energy market prices, virtual water<br>
+- Basin scale: e.g. water resources availability
+- National scale: e.g. energy supply grid data
+- Provincial/community scale: e.g. agricultural census data and food production
 
 
 <br>
@@ -70,10 +67,10 @@ The quantitative analysis and the use of tools relies on data that are observed 
 </div>
 </div>
 
-    Qualitative and visualisation tools
-    Governance analysis tools
-    Semi-quantitative Nexus system assessment
-    Quantitative assessment tools- Modelling tools
+- Qualitative and visualisation tools
+- Governance analysis tools
+- Semi-quantitative Nexus system assessment
+- Quantitative assessment tools- Modelling tools
 
 <br>
 <br>
