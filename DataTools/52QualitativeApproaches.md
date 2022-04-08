@@ -53,8 +53,8 @@ The Transboundary River Basin Nexus Approach (TRBNA) was developed under the UNE
 
 <hr/>
 
-<p><small><b>References</b></small></p>
-<p><small><i>Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus in the Context of the Sustainable Energy for All Initiative’, Food and Agriculture Organization of the United Nations, Rome. Available at: <a href="http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/">http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/</a><br>
+<p><small><b>References</b><br>
+<i>Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus in the Context of the Sustainable Energy for All Initiative’, Food and Agriculture Organization of the United Nations, Rome. Available at: <a href="http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/">http://www.fao.org/publications/card/en/c/f065f1d5-2dda-4df7-8df3-4defb5a098c8/</a><br>
  <br>
 Meza, F.J., Vicuna, S., Gironás, J., Poblete, D. Suárez, F. & Oertel, M. (2015), ‘Water–food–energy nexus in Chile: the challenges due to global change in different regional contexts’, vol. 40, Nos. 5-6, pp. 839-855. doi: 10.1080/02508060.2015.1087797<br>
  <br>

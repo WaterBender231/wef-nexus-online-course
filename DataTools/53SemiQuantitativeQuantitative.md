@@ -12,7 +12,10 @@ parent: Tools and Data
 - Evaluate the performance of a technical or policy interventions
 - For stakeholders: Used to quantify bio-economic pressures, and benchmarks are defined in participatory processes
 
-The FAO proposes a method to carry out a WEF Nexus assessment in order to:
+<br>
+
+<b>The FAO proposes a method to carry out a WEF Nexus assessment in order to:</b>
+
 - Understand the interconnections between water, energy and food systems in a given context
 - Evaluate the performance of a technical or policy interventions
 
@@ -20,26 +23,32 @@ The overall objective of this WEF Nexus assessment is to inform Nexus-related re
 
 <hr/>
 
-### **5.3.2 FAO Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus – Context Analysis**
+### 5.3.2 FAO Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus – Context Analysis
 
-![Untitled](6%203%20Semi-q%207498e/Untitled.png)
-
-![Untitled](6%203%20Semi-q%207498e/Untitled%201.png)
-
-Figure above: The colors are the result of the difference between the measured indicators and the benchmark values.
-Yellow = the sustainability of the context is similar to the reference
-Green =	is higher than the reference
-Red =	is lower than the reference.
+<img src="/wef-nexus-online-course/assets/country-typology.PNG">
+<div>
+<div style="float: left">
+<figure>
+<img src="/wef-nexus-online-course/assets/hexagon.jpg" width="170" height="32">
+<figcaption><small><small>Flammini et al., 2014</small></small></figcaption>
+</figure>
+</div>
+<div>
+<br>
+<small><i>Figure left:</i> The colors are the result of the difference between the measured indicators and the benchmark values.<br>
+Yellow = the sustainability of the context is similar to the reference<br>
+Green =	is higher than the reference<br>
+Red =	is lower than the reference<br>
+</small></div>
+</div>
 
 <hr/>
 
-### **5.3.3 Nexus Rapid Appraisal Tool: On-grid wind energy for desalination**
+### 5.3.3 Nexus Rapid Appraisal Tool: On-grid wind energy for desalination
 
-![Untitled](6%203%20Semi-q%207498e/Untitled%202.png)
-
-5 = high impact on Nexus aspect
-1 = little impact on Nexus aspect
-0 = no information
+<img src="/wef-nexus-online-course/assets/on-grid-desalination.png">
+<small>Flammini et al., 2014 <br>
+5 = high impact on Nexus aspect;    1 = little impact on Nexus aspect;  0 = no information </small>
 
 Flammini et al. (2014) used spider diagrams to illustrate the impact of an intervention on Water (W), Energy (E), Food/Land (F), Labour (L) and Capital (C). Each receives a performance score on a scale from 1 (centre) to 5 (outer). A high score indicates that the intervention has a high impact on the respective Nexus component, while a score close to 1 means the impact is low. 0 means that the intervention was not assessed for that particular Nexus component. The area size of the polygon is a measure of the overall impact of the intervention. The smaller the size of the polygon, the smaller the impact of the intervention on the Nexus aspects.
 
@@ -49,25 +58,24 @@ All these ‘efficiency considerations’ are assessed from a Nexus resource per
 
 <hr/>
 
-## **5.3.4 Indicators, impact and proposed weights**
+## 5.3.4 Indicators, impact and proposed weights
 
-![Untitled](6%203%20Semi-q%207498e/Untitled%203.png)
+<img src="/wef-nexus-online-course/assets/case-study-6.PNG">
+<img src="/wef-nexus-online-course/assets/legend-case-6.PNG">
 
-![Untitled](6%203%20Semi-q%207498e/Untitled%204.png)
 
 <hr/>
 
 ## **5.3.5 Nexus Rapid Appraisal Tool: Comparison**
 
-![Untitled](6%203%20Semi-q%207498e/Untitled%205.png)
-
-Flammini et al., 2014
+<img src="/wef-nexus-online-course/assets/rapid-appraisal.png">
+<p><small>Flammini et al., 2014</small></p>
 
 With this method, different interventions can be easily compared to support decision-making. Three examples of interventions and their respective impacts on Nexus aspects are presented. This (semi-)quantitative assessment does not suggest which interventions are better than others in absolute terms, but it does highlight the trade-offs and for which aspects the intervention is adding pressure to the different components of the system.
 
 <hr/>
 
-## **6.3.6 The Pardee RAND Food-Energy-Water Index**
+## 6.3.6 The Pardee RAND Food-Energy-Water Index
 
 - The aggregated index evaluates overall FEW Security based on FEW availability and accessibility indicators for the National scale
 - Uses normalised scores from 0 (worst) to 1 (best)
@@ -76,7 +84,7 @@ With this method, different interventions can be easily compared to support deci
 
 The RAND Corporation developed the Pardee RAND Food-Energy-Water Security Index to provide information to development agencies and efforts focused on food, energy, and water resources. The index can be accessed online through an interactive RAND website ([www.rand.org/t/TL165](http://www.rand.org/t/TL165)) that allows exploration of the data through maps and charts or downloading of the data for offline analysis.
 
-As introduced to in Learning Units 2, 3 and 4 on the WEF securities, this index combines wef security indices to evaluate the supply and accessibility of resources at country level.
+As introduced to in Learning Units <a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/">2</a>, <a href="https://waterbender231.github.io/wef-nexus-online-course/energysecurity/">3</a>, and <a href="https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/">4</a> on the WEF securities, this index combines wef security indices to evaluate the supply and accessibility of resources at country level.
 
 The Pardee RAND FEW index provides a standardized, quantitative and transparent estimation of the food, energy and water securities that can be easily used by policymakers, the development community, scientists, and the public interested in improving human development worldwide.
 
