@@ -21,9 +21,9 @@ Answer with regard to your country or study region:<br>
 </div>
 </div>
 
-    Conceptualize your Nexus system
-    Name relevant tools used to describe/quantify Nexus systems, conflicts, and tradeoffs
-    Select one of the tools presented on the sections (or any other) and look for the information needed to apply it
+   Conceptualize your Nexus system <br>
+   Name relevant tools used to describe/quantify Nexus systems, conflicts, and tradeoffs <br>
+   Select one of the tools presented on the sections (or any other) and look for the information needed to apply it
 
 <br/> <br/>
 <br/> <br/>
