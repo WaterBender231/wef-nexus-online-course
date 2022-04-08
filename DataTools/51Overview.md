@@ -8,7 +8,7 @@ parent: Tools and Data
 
 ### **5.1.1 Overview on the Nexus Assessment Procedure: FAO 2014**
 
-<img src="/wef-nexus-online-course/assets/es-historic-future-trends-2.JPG" alt="Energy consumption: historical and future trends">
+<img src="/wef-nexus-online-course/assets/flammini.PNG" alt="Energy consumption: historical and future trends">
 <p><small>Source: Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus, FAO 2014.</small></p>
 <p><small>  </small></p>
 
@@ -41,24 +41,42 @@ This assessment is necessary not only to understand the interconnections between
 </div>
 </div>
 
-- Global scale: e.g. food and energy market prices, virtual water
-- Basin scale: e.g. water resources availability
-- National scale: e.g. energy supply grid data
-- Provincial/community scale: e.g. agricultural census data and food production
+-Global scale: e.g. food and energy market prices, virtual water
+-Basin scale: e.g. water resources availability
+-National scale: e.g. energy supply grid data
+-Provincial/community scale: e.g. agricultural census data and food production
 
+
+<br>
+<br>
+<br>
 The quantitative analysis and the use of tools relies on data that are observed at different spatial scales. This section presents typical scales for Nexus related data and information. To enable a Nexus assessment at the desired scale, it is therefore necessary to make the information of different Nexus sectors comparable.
 
 <hr/>
 
-
 ### **5.1.3 Categories of Nexus System Assessment Tools**
 
+<div>
+<div style="float: right">
+<figure>
+<img src="/wef-nexus-online-course/assets/document.gif" width="170" height="32">
+<figcaption><small><small><a href="https://www.flaticon.com/free-animated-icons/document" title="document animated icons">Document animated icons created by Freepik - Flaticon</a></small></small></figcaption>
+</figure>
+</div>
+<div>
+<br>
+</div>
+</div>
 
 - Qualitative and visualisation tools
 - Governance analysis tools
 - Semi-quantitative Nexus system assessment
 - Quantitative assessment tools- Modelling tools
 
+<br>
+<br>
+<br>
+<br>
 There are different methods of how to approach Nexus conflicts and trade-offs. There are reasons related to policy and governance for these differences.
 
 While visualisation tools help to qualitatively conceptualise the main components and their respective relevance in the system, Nexus assessment tools usually evaluate the weight of each component in a quantitative manner based on Nexus indicators, and compare them to the other components. 
@@ -66,6 +84,7 @@ While visualisation tools help to qualitatively conceptualise the main component
 Models typically use monthly time series for variables such as water, yields, agricultural areas, climate and energy production to simulate determined target variables depending on different inputs. They can be used to assess the sensitive components of a system (where changes in one component cause significant changes in the others) and to simulate future scenarios for decision support in planning.
 
 Regional, national and local regulations play a strong role in how resources are managed. Therefore it is important to assess the existing policy framework. Policy framework tools assess these regulations and policies, with the aim to identify policies or missing policies which hinder a sustainable Nexus planning process.
+
 Governance analysis tools aim at assessing the institutions and persons involved in Nexus decisions as well as the (missing) communication processes hindering a sustainable Nexus planning process.
 
 <br/> <br/>
