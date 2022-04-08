@@ -8,7 +8,7 @@ parent: Tools and Data
 
 ### **5.1.1 Overview on the Nexus Assessment Procedure: FAO 2014**
 
-![Untitled](6%201%20Overvi%20bd9f3/Untitled.png)
+<img src="/wef-nexus-online-course/assets/es-historic-future-trends-2.JPG" alt="Energy consumption: historical and future trends">
 <p><small>Source: Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus, FAO 2014.</small></p>
 <p><small>  </small></p>
 
@@ -31,7 +31,7 @@ This assessment is necessary not only to understand the interconnections between
 <div>
 <div style="float: left">
 <figure>
-<img src="/wef-nexus-online-course/assets/around-the-world." width="170" height="32">
+<img src="/wef-nexus-online-course/assets/around-the-world.gif" width="170" height="32">
 <figcaption><small><small><a href="https://www.flaticon.com/free-animated-icons/location" title="location animated icons">Location animated icons created by Freepik - Flaticon</a></small></small></figcaption>
 </figure>
 </div>
@@ -52,7 +52,6 @@ The quantitative analysis and the use of tools relies on data that are observed 
 
 ### **5.1.3 Categories of Nexus System Assessment Tools**
 
-<a href="https://www.flaticon.com/free-animated-icons/write" title="write animated icons">Write animated icons created by Freepik - Flaticon</a>
 
 - Qualitative and visualisation tools
 - Governance analysis tools
