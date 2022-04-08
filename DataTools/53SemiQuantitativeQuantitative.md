@@ -140,6 +140,7 @@ They evaluated the total per capita internally available renewable water. The in
 </div>
 </div>
 
+   
    17 SDGs – 88 indicators in 2018
 
    Uses scores from 0 (worst) to 100 (best) %
@@ -148,6 +149,7 @@ They evaluated the total per capita internally available renewable water. The in
 
    The annual SDG Index provides a standardized, quantitative, transparent and scalable composite measure of SDG baselines for 149 countries with sufficient data across the goals.
 
+<br>
 <br>
 
 The [SDG Index and Dashboards Report](https://dashboards.sdgindex.org/#/) the performance of countries on the Sustainable Development Goals (SDGs).  A data visualisation tool has been developed allowing users to compare rapidly their country results to others. Additional monitoring tools and analyses have been developed by ([SDSN for Africa](https://sdgcafrica.org/reports)) and [cities in the United-States](http://unsdsn.org/resources/publications/leaving-no-u-s-city-behind-the-2018-u-s-cities-sdgs-index/) using a similar approach and methodology.
