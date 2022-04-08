@@ -80,7 +80,8 @@ With this method, different interventions can be easily compared to support deci
 - The aggregated index evaluates overall FEW Security based on FEW availability and accessibility indicators for the National scale
 - Uses normalised scores from 0 (worst) to 1 (best)
 
-![Untitled](6%203%20Semi-q%207498e/Untitled%206.png)
+<img src="/wef-nexus-online-course/assets/RAND-map.jpg" width="223" height="126">
+<p><small>Willis et al., 2016</small></p>
 
 The RAND Corporation developed the Pardee RAND Food-Energy-Water Security Index to provide information to development agencies and efforts focused on food, energy, and water resources. The index can be accessed online through an interactive RAND website ([www.rand.org/t/TL165](http://www.rand.org/t/TL165)) that allows exploration of the data through maps and charts or downloading of the data for offline analysis.
 
