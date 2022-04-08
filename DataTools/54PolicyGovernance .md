@@ -57,7 +57,7 @@ Responses should be designed at the appropriate scale: local, regional, national
 <div>
 <div style="float: right">
 <figure>
-<img src="/wef-nexus-online-course/assets/rasul-2016.jpg">
+<img src="/wef-nexus-online-course/assets/vertical.PNG">
 <figcaption><small><small>GIZ, 2017</small></small></figcaption>
 </figure>
 </div>
