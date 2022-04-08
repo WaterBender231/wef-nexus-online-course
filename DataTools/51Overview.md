@@ -12,7 +12,7 @@ parent: Tools and Data
 <p><small>Source: Flammini, A., Puri, M., Pluschke, L. & Dubois, O (2014), ‘Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus, FAO 2014.</small></p>
 <p><small>  </small></p>
 
-Flammini et al. (2014) in their FAO report “Walking the Nexus” provide a nice overview on how to assess Nexus complexity. After a qualitative system analysis, we should quantitatively evaluate the system components. It consists of the following steps:
+Flammini et al. (2014) provide a nice overview on how to assess Nexus complexity in their FAO report “Walking the Nexus”. After a qualitative system analysis, we should quantitatively evaluate the system components. It consists of the following steps:
 
 1. The current state and pressures on natural and human resources systems
 2. Expected demands, trends and drivers on resources systems
@@ -25,7 +25,18 @@ This assessment is necessary not only to understand the interconnections between
 
 <hr/>
 
+
 ### **5.1.2 Relevance of Spatial Scales**
+
+<div>
+<div style="float: left">
+<img src="/wef-nexus-online-course/assets/around-the-world.gif" />
+</div>
+<div>
+<h3>Nexus interconnections are assessed at different scales:</h3>
+</div>
+</div>
+
 
 Nexus interconnections are assessed at different scales:
 
@@ -40,6 +51,8 @@ The quantitative analysis and the use of tools relies on data that are observed 
 
 
 ### **5.1.3 Categories of Nexus System Assessment Tools**
+
+<a href="https://www.flaticon.com/free-animated-icons/write" title="write animated icons">Write animated icons created by Freepik - Flaticon</a>
 
 - Qualitative and visualisation tools
 - Governance analysis tools
