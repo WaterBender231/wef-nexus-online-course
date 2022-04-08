@@ -37,16 +37,17 @@ This assessment is necessary not only to understand the interconnections between
 </div>
 <div>
 <br>
-<b>Nexus interconnections are assessed at different scales:</b>
+<b>Nexus interconnections are assessed at different scales:<br>
+<br></b>
 </div>
 </div>
 
      Global scale: e.g. food and energy market prices, virtual water<br>
-<br>
+
      Basin scale: e.g. water resources availability
-<br>
+
      National scale: e.g. energy supply grid data
-<br>
+
      Provincial/community scale: e.g. agricultural census data and food production
 
 
@@ -74,6 +75,7 @@ The quantitative analysis and the use of tools relies on data that are observed 
     Semi-quantitative Nexus system assessment
     Quantitative assessment tools- Modelling tools
 
+<br>
 <br>
 There are different methods of how to approach Nexus conflicts and trade-offs. There are reasons related to policy and governance for these differences.
 

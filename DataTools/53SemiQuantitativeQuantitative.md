@@ -35,16 +35,19 @@ The overall objective of this WEF Nexus assessment is to inform Nexus-related re
 </div>
 <div>
 <br>
-<small><i>Figure left:</i> The colors are the result of the difference between the measured indicators and the benchmark values.<br>
-Yellow = the sustainability of the context is similar to the reference<br>
-Green =	is higher than the reference<br>
-Red =	is lower than the reference<br>
+<small><i>Figure left:</i>    The colors are the result of the difference between the measured indicators and the benchmark values.<br>
+   Yellow = the sustainability of the context is similar to the reference<br>
+   Green =	is higher than the reference<br>
+   Red =	is lower than the reference<br>
 </small></div>
 </div>
+
+<br>
 
 <hr/>
 
 ### 5.3.3 Nexus Rapid Appraisal Tool: On-grid wind energy for desalination
+<br>
 
 <img src="/wef-nexus-online-course/assets/on-grid-desalination.png">
 <small>Flammini et al., 2014 <br>
@@ -61,13 +64,13 @@ All these ‘efficiency considerations’ are assessed from a Nexus resource per
 ## 5.3.4 Indicators, impact and proposed weights
 
 <img src="/wef-nexus-online-course/assets/case-study-6.PNG">
-<img src="/wef-nexus-online-course/assets/legend-case-6.PNG">
+<img src="/wef-nexus-online-course/assets/legend-case-6.png">
 
 
 <hr/>
 
 ## **5.3.5 Nexus Rapid Appraisal Tool: Comparison**
-
+<br>
 <img src="/wef-nexus-online-course/assets/rapid-appraisal.png">
 <p><small>Flammini et al., 2014</small></p>
 
@@ -76,14 +79,15 @@ With this method, different interventions can be easily compared to support deci
 <hr/>
 
 ## 6.3.6 The Pardee RAND Food-Energy-Water Index
+<br>
 
 - The aggregated index evaluates overall FEW Security based on FEW availability and accessibility indicators for the National scale
 - Uses normalised scores from 0 (worst) to 1 (best)
 
-<img src="/wef-nexus-online-course/assets/RAND-map.jpg" width="223" height="126">
+<img src="/wef-nexus-online-course/assets/RAND-map.jpg" width="446" height="252">
 <p><small>Willis et al., 2016</small></p>
 
-The RAND Corporation developed the Pardee RAND Food-Energy-Water Security Index to provide information to development agencies and efforts focused on food, energy, and water resources. The index can be accessed online through an interactive RAND website ([www.rand.org/t/TL165](http://www.rand.org/t/TL165)) that allows exploration of the data through maps and charts or downloading of the data for offline analysis.
+The RAND Corporation developed the Pardee RAND Food-Energy-Water Security Index to provide information to development agencies and efforts focused on food, energy, and water resources. The index can be accessed online through an interactive ([www.rand.org/t/TL165](RAND website)) that allows exploration of the data through maps and charts or downloading of the data for offline analysis.
 
 As introduced to in Learning Units <a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/">2</a>, <a href="https://waterbender231.github.io/wef-nexus-online-course/energysecurity/">3</a>, and <a href="https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/">4</a> on the WEF securities, this index combines wef security indices to evaluate the supply and accessibility of resources at country level.
 
@@ -102,7 +106,8 @@ The section above shows the WEF security indicators used to calculate the RAND F
 
 <hr/>
 
-### Overview of Dimensions
+## Overview of Dimensions
+<br>
 
 **Availability** refers to the overall National availability of resources to support needs for dietary requirements, sanitation, energy and productivity. However, the distribution of those resources across society is also an important consideration. Accessibility therefore additionally looks at the percentage of population with access to resources. For the water sub-index, they additionally used the Index on Water Adaptive capacity.
 
@@ -132,22 +137,21 @@ They evaluated the total per capita internally available renewable water. The in
 </figure>
 </div>
 <div>
-<br>
-<b>In a nutshell:</b>
+<b>   In a nutshell:</b>
 </div>
 </div>
 
-- 17 SDGs – 88 indicators in 2018
+   17 SDGs – 88 indicators in 2018
 
-- Uses scores from 0 (worst) to 100 (best) %
+   Uses scores from 0 (worst) to 100 (best) %
 
-- Uses equal weights
+   Uses equal weights
 
-- The annual SDG Index provides a standardized, quantitative, transparent and scalable composite measure of SDG baselines for 149 countries with sufficient data across the goals.
+   The annual SDG Index provides a standardized, quantitative, transparent and scalable composite measure of SDG baselines for 149 countries with sufficient data across the goals.
 
 <br>
 
-The ([https://dashboards.sdgindex.org/#/](SDG Index and Dashboards Report) the performance of countries on the Sustainable Development Goals (SDGs).  A data visualisation tool has been developed allowing users to compare rapidly their country results to others. Additional monitoring tools and analyses have been developed by ([https://sdgcafrica.org/reports](SDSN for Africa)) and [http://unsdsn.org/resources/publications/leaving-no-u-s-city-behind-the-2018-u-s-cities-sdgs-index/](cities in the United-States/)) using a similar approach and methodology.
+The ([SDG Index and Dashboards Report](https://dashboards.sdgindex.org/#/) the performance of countries on the Sustainable Development Goals (SDGs).  A data visualisation tool has been developed allowing users to compare rapidly their country results to others. Additional monitoring tools and analyses have been developed by ([SDSN for Africa](https://sdgcafrica.org/reports)) and [cities in the United-States](http://unsdsn.org/resources/publications/leaving-no-u-s-city-behind-the-2018-u-s-cities-sdgs-index/)) using a similar approach and methodology.
 
 Five criteria for indicator selection were used to determine suitable metrics for inclusion in the global SDG Index and Dashboards:
 
