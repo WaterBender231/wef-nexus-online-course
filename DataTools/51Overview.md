@@ -30,7 +30,7 @@ This assessment is necessary not only to understand the interconnections between
 
 <div>
 <div style="float: left">
-<img src="/wef-nexus-online-course/assets/around-the-world.gif" />
+<img src="/wef-nexus-online-course/assets/around-the-world.gif" width="170" height="32" />
 </div>
 <div>
 <h3>Nexus interconnections are assessed at different scales:</h3>
