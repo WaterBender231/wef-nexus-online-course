@@ -7,7 +7,7 @@ parent: Tools and Data
 # 5.2 Qualitative approaches to evaluate Nexus systems
 
 ## 5.2.1 Meza et al. (2015): Nexus System Diagram
-
+<br>
 <img src="/wef-nexus-online-course/assets/meza.jpg" alt="Nexus System Diagram">
 <p><small>Meza et al., 2015</small></p>
 <p><small>  </small></p>
@@ -21,10 +21,9 @@ The size of the arrows is used to communicate magnitudes of the supply (or deman
 <hr/>
 
 ## 5.2.2 Example: Maipo Basin
-
+<br>
 <img src="/wef-nexus-online-course/assets/maipo.png" alt="Maipo Basin">
-<p><small>Meza et al., 2015</small></p>
-<p><small> Note: The arrows with dotted lines represent projected changes:
+<p><small>Meza et al., 2015. <b>Note:</b> The arrows with dotted lines represent projected changes:
 either the changing thickness of an arrow or the addition of a new arrow </small></p>
 <p><small> </small></p>
 
@@ -37,7 +36,7 @@ The figure (without the arrows with dotted lines) depicts the current status of 
 <hr/>
 
 ## 5.2.3 The Transboundary River Basin Nexus Approach (TRBNA)
-
+<br>
 <img src="/wef-nexus-online-course/assets/TRBNA.png" alt="TRBNA">
 <p><small>de Strasser et al., 2016</small></p>
 <p><small>  </small></p>
