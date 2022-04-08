@@ -30,12 +30,16 @@ This assessment is necessary not only to understand the interconnections between
 
 <div>
 <div style="float: left">
-<img src="/wef-nexus-online-course/assets/around-the-world.gif" width="170" height="32" />
+<figure>
+<img src="/wef-nexus-online-course/assets/around-the-world." width="170" height="32">
+<figcaption><small><small><a href="https://www.flaticon.com/free-animated-icons/location" title="location animated icons">Location animated icons created by Freepik - Flaticon</a></small></small></figcaption>
+</figure>
 </div>
 <div>
-<h3>Nexus interconnections are assessed at different scales:</h3>
+<b>Nexus interconnections are assessed at different scales:</b>
 </div>
 </div>
+
 
 
 Nexus interconnections are assessed at different scales:
