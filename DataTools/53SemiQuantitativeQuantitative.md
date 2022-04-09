@@ -23,7 +23,7 @@ The overall objective of this WEF Nexus assessment is to inform Nexus-related re
 
 <hr/>
 
-<h2>5.3.2 FAO Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus <br> – Context Analysis </h2>
+<h2>5.3.2 FAO Walking the Nexus Talk: Assessing the Water-Energy-Food Nexus – Context Analysis </h2>
 <br>
 <img src="/wef-nexus-online-course/assets/country-typology.PNG">
 <div>
@@ -140,6 +140,7 @@ They evaluated the total per capita internally available renewable water. The in
 </div>
 </div>
 
+   
    
    17 SDGs – 88 indicators in 2018
 

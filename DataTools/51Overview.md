@@ -44,14 +44,16 @@ This assessment is necessary not only to understand the interconnections between
 <li>Global scale: e.g. food and energy market prices, virtual water
 <li>Basin scale: e.g. water resources availability
 <li>National scale: e.g. energy supply grid data
-<li>Provincial/community scale: e.g. agricultural census data and food production
-</ul>
+<li>Provincial/community scale: e.g. agricultural census data and food production </li></ul>
 
 
+<br>
+<br>
 <br>
 The quantitative analysis and the use of tools relies on data that are observed at different spatial scales. This section presents typical scales for Nexus related data and information. To enable a Nexus assessment at the desired scale, it is therefore necessary to make the information of different Nexus sectors comparable.
 
 <hr/>
+
 
 ### **5.1.3 Categories of Nexus System Assessment Tools**
 
@@ -66,27 +68,25 @@ The quantitative analysis and the use of tools relies on data that are observed 
 <br>
 </div>
 </div>
-
-- Qualitative and visualisation tools
-- Governance analysis tools
-- Semi-quantitative Nexus system assessment
-- Quantitative assessment tools- Modelling tools
+<ul>
+<li>Qualitative and visualisation tools
+<li>Governance analysis tools
+<li>Semi-quantitative Nexus system assessment
+<li>Quantitative assessment tools- Modelling tools</li></ul>
 
 <br>
 <br>
-There are different methods of how to approach Nexus conflicts and trade-offs. There are reasons related to policy and governance for these differences.
+There are different methods of how to approach Nexus conflicts and trade-offs. There are reasons related to policy and governance for these differences. <br>
+<br>
+While visualisation tools help to qualitatively conceptualise the main components and their respective relevance in the system, Nexus assessment tools usually evaluate the weight of each component in a quantitative manner based on Nexus indicators, and compare them to the other components. <br>
+<br>
+Models typically use monthly time series for variables such as water, yields, agricultural areas, climate and energy production to simulate determined target variables depending on different inputs. They can be used to assess the sensitive components of a system (where changes in one component cause significant changes in the others) and to simulate future scenarios for decision support in planning. <br>
+<br>
+Regional, national and local regulations play a strong role in how resources are managed. Therefore it is important to assess the existing policy framework. Policy framework tools assess these regulations and policies, with the aim to identify policies or missing policies which hinder a sustainable Nexus planning process.<br>
+<br>
+Governance analysis tools aim at assessing the institutions and persons involved in Nexus decisions as well as the (missing) communication processes hindering a sustainable Nexus planning process.<br>
 
-While visualisation tools help to qualitatively conceptualise the main components and their respective relevance in the system, Nexus assessment tools usually evaluate the weight of each component in a quantitative manner based on Nexus indicators, and compare them to the other components. 
-
-Models typically use monthly time series for variables such as water, yields, agricultural areas, climate and energy production to simulate determined target variables depending on different inputs. They can be used to assess the sensitive components of a system (where changes in one component cause significant changes in the others) and to simulate future scenarios for decision support in planning.
-
-Regional, national and local regulations play a strong role in how resources are managed. Therefore it is important to assess the existing policy framework. Policy framework tools assess these regulations and policies, with the aim to identify policies or missing policies which hinder a sustainable Nexus planning process.
-
-Governance analysis tools aim at assessing the institutions and persons involved in Nexus decisions as well as the (missing) communication processes hindering a sustainable Nexus planning process.
-
-<br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/qualitative-approaches){: .btn .btn-purple .mr-4}
-<br/> <br/>
 
 <hr/>
 
