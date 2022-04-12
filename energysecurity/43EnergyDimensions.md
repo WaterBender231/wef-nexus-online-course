@@ -6,7 +6,7 @@ parent: Energy Security
 ---
 # **3.3 Different Energy Security concepts and dimensions**
 
-<h2>The 4 A´s</h2> <small>(APERC, 2007):</small> <br>
+<h2>The 4 A´s</h2> <br>
 
 <img src="/wef-nexus-online-course/assets/es-4as.jpg" alt="4 A's">
 <p><small>APERC 2007</small></p>
