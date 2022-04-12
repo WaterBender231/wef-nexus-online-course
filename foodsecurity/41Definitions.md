@@ -13,6 +13,8 @@ parent: Food Security
 Initially, food security focused on food availability at the national and global levels (Coates, 2013). As a response to the global food crisis during the early 1970‘s, at the World Food Summit in 1974, **„Food Security“** was defined as 
 > “availability at all times of adequate world food supplies of basic food-stuffs to sustain a steady expansion of food consumption and to offset fluctuations in production and prices” (United Nations, 1975; FAO, 2003). 
 
+<hr/>
+
 The focus of this definition was more on the supply side, where national food security was attributed to the self-sufficiency of nations—producing enough food domestically to feed the nation’s population (Pinstrup-Andersen, 2009).
 
 After the Green Revolution in the late 1970’s, food security was redefined, assuming that food emergencies and famines were a result of the sharp declining the purchasing power of vulnerable groups, and not solely by shortfalls in food production (Klennert, 2009). The updated definition proposed in 1983 by FAO was 
@@ -20,6 +22,9 @@ After the Green Revolution in the late 1970’s, food security was redefined, as
 
 In 1986, the World Bank published a report (World Bank, 1986), differentiating the chronic (long-term) food insecurity—attributed to poverty—and transitory (temporary) food insecurity—associated to natural, economic, and conflict shocks (FAO, 2003, 2008). The Food Security definition was hence reformulated to be
 > “access of all people at all times to enough food for an active, healthy life” (World Bank, 1986).
+
+
+<hr/>
 
 The term **“healthy life”** was introduced to the definition in 1996, since enough calories do not necessarily guarantee a healthy and nutritional diet (Coates, 2013): “Food security, at the individual, household, national, regional and global levels [is achieved] when all people, at all times, have physical and economic access to sufficient, safe and nutritious food to meet their dietary needs and food preferences for an active and healthy life” (FAO, 1996).
 
@@ -67,7 +72,18 @@ The result of undernourishment, poor absorption and/or poor biological use of nu
 **Food Insecurity**  is a common term for food security that was used during the World Food Summit in 1996 and is continued to be seen as appropriate today. There are many causes of food insecurity. Low agricultural production is identified as one of these, as agricultural production is often prone to shocks such as those caused by natural hazards, in particular droughts. This is often combined with a low ability to buy food products on international markets and a high rate of post harvest losses due to insufficient logistics such as transport, storage and cooling.
 
 ### **4.1.3 Key messages of SDG 2 (abridged)**
-**Goal 2:** End hunger, achieve **food security** and improved nutrition and promote sustainable agriculture.
+*Goal 2: End hunger, achieve **food security** and improved nutrition and promote sustainable agriculture.*
+
+
+<style type="text/css">
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+</style>
+<img src="/wef-nexus-online-course/assets/2-Zero-hunger.png"
+class="centerImage" alt="SDG 6" height="120" width="350">
 
 
 <details><summary>Target 2.1</summary>
