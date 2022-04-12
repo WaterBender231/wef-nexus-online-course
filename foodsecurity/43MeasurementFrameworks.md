@@ -6,22 +6,13 @@ parent: Food Security
 ---
 # **4.3 Food Security Measurement Frameworks: SoA**
 
-### 4.3.1 Food Security Measurement Frameworks: SoA
+<h3><b>4.3.1 Food Security Measurement Frameworks: SoA</b><small>(<a href="/wef-nexus-online-course/assets/SoA.pdf">view table</a>)</small></h3> 
 
-| Name | Scale/Focus |
-| --- | --- |
-| FAO 2006 Food Security Index | National/Global |
-| FAO-PoU: Prevalence of Undernourishment | National/Global |
-| GHI: Global Hunger Index | National/Global |
-| PHI: Poverty and Hunger Index | National/Global |
-| GFSI: Global Food Security Index | National/Global |
-| AI: Anthropometric indicators | National/Global |
-| HRCI: The Hunger Reduction Commitment Index | National/Global |
-| IPC: Integrated Food Security Phase Classification | National/Global |
-| CFSVA: Comprehensive Food Security and Vulnerability Analysis | National/Global |
+<iframe width="100%" height="500" src="/wef-nexus-online-course/assets/SoA.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
 Different approaches have been developed to assess food security. These depend on the purpose, spatio-temporal scale and data availability. Most of these metrics use food security dimensions and indicators. We encourage the readers to refer to Jones et al. (2013) and Pangaribowo et al. (2013), who provide comprehensive reviews about different food security assessment approaches.
 
+<hr/>
 
 ### **4.3.2 Food Security Index, FAO (2006)**
 
@@ -43,6 +34,7 @@ While the availability dimension often refers to the national level, accessibili
 
 Shortly after establishing the SDGs in 2015, literature argued that food security assessment should include one more dimension—Sustainability (e.g. Berry et al., 2015; El Bilali et al., 2018). Sustainability here refers to the long-term dimension, i.e. meeting the needs of the present while ensuring that future generations will be able to meet their own demands. Conventional food systems cause environmental, social, economic, and health issues. Such challenges, particularly on the long run, should be addressed through sustainability, ensuring that food systems are functioning in the long‐term in a manner that maintains the availability, access, utilization, and stability dimensions.
 
+<hr/>
 
 ### **4.3.3 Global Food Security Index (GFSI)**
 
@@ -102,6 +94,7 @@ Following is a list of the indicators and sub-indicators under their correspondi
 </p>
 </details>
 
+<hr/>
 
 ### **4.3.4 FAO Prevalence of Undernourishment (PoU)**
 
@@ -133,6 +126,10 @@ Fifth, the quality and accuracy of the data used in the food balance sheets—th
 For these reasons, the PoU índicator is considered to be insufficient to comprehensively assessing the food security status.
 
 Following is an interactive map by FAO by which you could retrieve the number or percentage of undernourished people at the country scale: [Interactive Map](http://www.fao.org/state-of-food-security-nutrition/2-1-1/en/)
+
+
+<hr/>
+
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/dimensions){: .btn .btn-purple .mr-4}

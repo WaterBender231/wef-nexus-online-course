@@ -71,6 +71,9 @@ The result of undernourishment, poor absorption and/or poor biological use of nu
 
 **Food Insecurity**  is a common term for food security that was used during the World Food Summit in 1996 and is continued to be seen as appropriate today. There are many causes of food insecurity. Low agricultural production is identified as one of these, as agricultural production is often prone to shocks such as those caused by natural hazards, in particular droughts. This is often combined with a low ability to buy food products on international markets and a high rate of post harvest losses due to insufficient logistics such as transport, storage and cooling.
 
+
+<hr/>
+
 ### **4.1.3 Key messages of SDG 2 (abridged)**
 *Goal 2: End hunger, achieve **food security** and improved nutrition and promote sustainable agriculture.*
 

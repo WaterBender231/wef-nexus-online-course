@@ -4,9 +4,9 @@ title: 4.4 Dimensions and Indices
 permalink: /foodsecurity/dimensions
 parent: Food Security
 ---
-# 4.4 Food Security Dimensions and Indices
+# **4.4 Food Security Dimensions and Indices**
 
-### **4.4.1 Food Security Dimensions and Indices**
+### 4.4.1 Food Security Dimensions and Indices
 
 We selected several „easy-to-measure“ indicators and four dimensions to be used in a food security assessment of your study region, indicating literature and data sources.
 
@@ -45,6 +45,9 @@ Per capita food production variability<br>
 Per capita food supply variability<br>
 </p>
 </details>
+
+
+<hr/>
 
 
 <h3><b>4.4.2 Food availability indices – how can I measure food availability?</b><small>(<a href="/wef-nexus-online-course/assets/ind-fs-availability.pdf">view table</a>)</small></h3> 
@@ -252,6 +255,7 @@ Per capita food production variability<br>
 Per capita food supply variability<br>
 </p>
 </details>
+
 
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/questions){: .btn .btn-purple .mr-4}

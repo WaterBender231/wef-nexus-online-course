@@ -20,6 +20,8 @@ This map shows the percentage of the population in each country that is affected
 In addition to systematic development challenges, natural and human-induced disasters and political instability have contributed to protracted crises, and have increased vulnerability and food insecurity among large sections of the population.
 
 
+<hr/>
+
 ### **4.2.2 Net food trade (in 2020)**
 
 <img src="/wef-nexus-online-course/assets/food-dependence.jpg">
@@ -30,6 +32,8 @@ Net food trade is defined as the net difference between food exports and food im
 
 The main countries being food exporters are USA, Canada, Ukraine, Argentina and Australia and some South American and South East Asian economies. The most striking pattern in the map is the reliance of the entire African continent on food imports, especially the North African region. The other notable pattern is the reliance of both China and India have on food imports despite the scale of their own domestic agricultural output.
 
+<hr/>
+
 ### **4.2.3 Bren D´Amour and Anderson, 2020: International trade and the stability of food supplies in the Global South**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%202.png)
@@ -39,6 +43,8 @@ The main countries being food exporters are USA, Canada, Ukraine, Argentina and 
 The importance of food imports across the Global South has increased since 1960 (figure 1). Countries in Africa (figures 1(b) and (c), red line), in particular, import a much larger share of their rice and wheat supplies. 
 
 Importantly, the figure above only depicts countries whose caloric dependency ratio exceeds 10%, i.e. countries that get at least 10% of the total calorie supply through the specific crop. For wheat, average import dependency ratios (IDR) in Africa almost doubled from 1960 to 2013, from about 0.25 to almost 0.5. These numbers are not problematic per se; however, they indicate an increasing reliance on imported staple crops of countries in the Global South and potentially problematic exposure, for example to teleconnected food supply shocks (Bren d’Amour et al 2016).
+
+<hr/>
 
 ### 4.2.4 **World Agricultural production (1961-1999)**
 
@@ -56,6 +62,8 @@ This figure shows the growth of food production between 1961 and 1999 (with 1961
 - Finally, and very importantly, why has African food production declined over the 40 year period despite independence, development and billions of dollars of multilateral aid support?
 
 
+<hr/>
+
 ### 4.2.5 **Yield gap for major cereals**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%204.png)
@@ -68,7 +76,7 @@ This figure shows the yield gap for major cereals at a global scale. In parts of
 
 Overall, this figure shows that many regions in the world are still far from approaching attainable yield. Increasing yields are possible through agricultural management practices such as water and nutrient provision and disease control.
 
-
+<hr/>
 
 ### **4.2.6 Contribution of family and smallholder farming to National and Global Food Security**
 
@@ -91,6 +99,7 @@ Smallholder farming - often on less than 1 ha property - is estimated to account
 - Investing in enabling institutions for social protection, tenure protection, etc.
 
 
+<hr/>
 
 ### **4.2.7 Smallholder farming**
 
@@ -107,6 +116,8 @@ This graph presents the breakdown of farmland areas held by different parties fr
 
 Income is important for smallholders’ access to food, manufactured goods and services of all kinds. The value of the production per hectare is therefore an important parameter, especially when exploitations are “small”. The intensity of employment is also an important contributing factor, as smallholder agriculture is labour-intensive.
 
+<hr/>
+
 ### **4.2.8 Approximately one-third of global food is wasted**
 
 ![Untitled](5%202%20Challe%20d4626/Untitled%207.png)
@@ -115,6 +126,7 @@ Income is important for smallholders’ access to food, manufactured goods and s
 
 This section emphasises the problem of food waste. Next to large scale crop failure and destruction of harvest on the field contributing to the yield gap, post-harvest losses are often very significant! It is estimated that worldwide approximately 1/3 of global food production is wasted. In developing countries this is often due to a lack of storage, transport and refrigeration. In industrial countries it is often because retailers and consumers are actually throwing away food.
 
+<hr/>
 
 ### **4.2.9 Global impacts: COVID-19 outbreak**
 
