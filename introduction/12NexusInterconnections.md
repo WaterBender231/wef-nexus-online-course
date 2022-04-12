@@ -15,6 +15,8 @@ In this context, we need to be aware that Agriculture accounts for 70% of total 
 ## 1.2.1 Interconnections between Water and Energy
 
 
+width="170" height="32
+
 <center><img src="/wef-nexus-online-course/assets/water-for-energy.png"
      alt="W-E" width="400" height="400"></center>
 
@@ -36,8 +38,8 @@ On the other hand, energy is required for water abstraction, pumping for irrigat
 
 ## 1.2.2 Interconnections between Energy and Food
 
-<img src="/wef-nexus-online-course/assets/energy-for-food.png"
-     alt="W-E">
+<center><img src="/wef-nexus-online-course/assets/energy-for-food.png"
+     alt="W-E"></center>
 
 <p><small>Source: Alexandra Nauditt, Antonia Fedlmeier</small></p>
 
@@ -58,8 +60,8 @@ The energy sector can also have negative impacts on the food sector when mining 
 
 ## 1.2.3 Interconnections between Water and Food
 
-<img src="/wef-nexus-online-course/assets/water-for-food.png"
-     alt="W-E">
+<center><img src="/wef-nexus-online-course/assets/water-for-food.png"
+     alt="W-E"></center>
      
 <p><small>Source: Alexandra Nauditt, Antonia Fedlmeier</small></p>
 
