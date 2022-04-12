@@ -74,7 +74,7 @@ Low values indicate high acceptability of the energy system regarding climate ch
 <br/> <br/>
 
 
-<h/r>
+<hr/>
 
 <small><b>References<br>
 3.4.1 Energy Security Dimensions and Indices</b><br>
@@ -94,7 +94,7 @@ IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, c
 World Bank (2017) ‘Access to electricity (% of population)’. <a href="https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS">https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS</a></i><br>
 <br>
 <b>3.4.3 Indices for Accessibility</b><br>
-<i>IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. <a href="https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf">https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf</a><br>
+<i>IAEA, UNDESA, IEA, Eurostat and EEA (2005) Energy Indicators for Sustainable Development. Guidelines and Methodologies, Vienna. <a href="https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf">https://www-pub.iaea.org/MTCD/publications/PDF/Pub1222_web.pdf</a>
 <br>  
 EA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. <a href="https://www.iea.org/data-and-statistics">https://www.iea.org/data-and-statistics</a>.<br>
 <br>

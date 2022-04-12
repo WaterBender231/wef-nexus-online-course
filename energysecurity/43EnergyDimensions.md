@@ -98,7 +98,7 @@ electricity grid’).” In their framework, “vulnerabilities are combinations
 **The World Energy Council (2020): The Energy Trilemma Index**
 <br>
 
-<img src="/wef-nexus-online-course/assets/energy-trilemma-index.jpg" alt="Trilemma" width="400" heigth="400">
+<center><img src="/wef-nexus-online-course/assets/energy-trilemma-index.jpg" alt="Trilemma" width="400" heigth="400"></center>
 <p><small>World Energy Council 2020</small></p>
 <p><small>  </small></p>
 
