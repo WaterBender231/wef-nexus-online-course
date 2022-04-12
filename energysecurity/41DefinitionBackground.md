@@ -15,6 +15,8 @@ of Energy Security in 2014:
 
 > "The uninterrupted availability of energy sources at an affordable price"
 
+<br>
+
 Energy security is crucial to ensure long and short-term economic development and social stability. According to the IEA, three components are essential when assessing energy security:
 1. **Reliability**
 2. **Affordability**
@@ -39,7 +41,6 @@ class="centerImage" alt="SDG 7" height="120" width="350">
 <p><small>SDG 7 (UN, 2020).</small></p>
 <p><small>  </small></p>
 
-<br>
 
 <details><summary><b>Target 7.1</b></summary>
 <p>
@@ -93,6 +94,6 @@ Therefore, the promotion of renewable energies and increased energy efficiencies
 
 <small><b>References<br>
 3.1 Energy Security: Definitions and background</b><br>
-<i>IEA. (2014). Energy security: Reliable, affordable access to all fuels and energy sources. <a href="https://www.iea.org/topics/energy-security">https://www.iea.org/topics/energy-security</a>)<br>
+<i>IEA. (2014). Energy security: Reliable, affordable access to all fuels and energy sources. <a href="https://www.iea.org/topics/energy-security">https://www.iea.org/topics/energy-security</a><br>
 <br>
 UN (2020), ‘Sustainable Development Goals’, <a href="https://sustainabledevelopment.un.org/sdg">https://sustainabledevelopment.un.org/sdg</a></i></small>
