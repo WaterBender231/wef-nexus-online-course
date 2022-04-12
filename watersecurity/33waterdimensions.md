@@ -61,19 +61,6 @@ Other authors, like GWP (2012) include similar indicators such as piped water ac
 
 Under another category called “Hygiene and sanitation”, they include number of people using improved sanitation facilities and water borne disease factor (%). Jensen and Wu (2018) follow a different approach using indicators for the dimension “Access” such as: water treatment capacity (demand/treatment capacity in %), coverage (households with piped water supply in %), sustainability of service quality (cost recovery ratio), and affordability (average bill as percentage of average income).
 
-See More Data Sources for <b>Water Accessibility</b>
-<br>
-AQUASTAT: <a href="http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en">http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en</a> <br>
-<br>
-World Bank database <a href="https://data.worldbank.org/indicator">https://data.worldbank.org/indicator<br>
-<br>
-WASH <a href="https://washdata.org/">https://washdata.org/<br>
-<br>
-UNICEF<a href="https://data.unicef.org/resources/">https://data.unicef.org/resources/ <br>
-<br>
-Transboundary Waters Assessment Programme <a href="http://twap-rivers.org/indicators/">http://twap-rivers.org/indicators/</a> <br>
-<br>
-Aqueduct <a href="https://www.worldwater.org/water-data/">https://www.worldwater.org/water-data/
 
 <hr/>
 
@@ -144,6 +131,25 @@ Global data set for human water stress can be downloaded here: <a href="http://w
 Water Footprint Statistics: <a href="https://waterfootprint.org/en/resources/waterstat/">https://waterfootprint.org/en/resources/waterstat/</a><br>
 <br>
 The worlds water data: <a href="https://www.worldwater.org/water-data/">https://www.worldwater.org/water-data/</a>
+
+</p>
+</details>
+
+
+<details><summary><i>See More Data Sources for <b>Water Accessibility</b></i></summary>
+<p>
+
+AQUASTAT: <a href="http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en">http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en</a> <br>
+<br>
+World Bank database <a href="https://data.worldbank.org/indicator">https://data.worldbank.org/indicator<br>
+<br>
+WASH <a href="https://washdata.org/">https://washdata.org/<br>
+<br>
+UNICEF<a href="https://data.unicef.org/resources/">https://data.unicef.org/resources/ <br>
+<br>
+Transboundary Waters Assessment Programme <a href="http://twap-rivers.org/indicators/">http://twap-rivers.org/indicators/</a> <br>
+<br>
+Aqueduct <a href="https://www.worldwater.org/water-data/">https://www.worldwater.org/water-data/
 
 </p>
 </details>
