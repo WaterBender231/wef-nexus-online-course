@@ -8,7 +8,7 @@ parent: Food Security
 
 ### 4.2.1 Levels of undernourishment
 
-![Untitled](5%202%20Challe%20d4626/Untitled.png)
+<img src="/wef-nexus-online-course/assets/level-undernourishment.jpg">
 
 <p><small>FAO, 2015.</small></p>
 <p><small>  </small></p>
@@ -22,8 +22,8 @@ In addition to systematic development challenges, natural and human-induced disa
 
 ### **4.2.2 Net food trade (in 2020)**
 
-![Untitled](5%202%20Challe%20d4626/Untitled%201.png)
-<p><small>Source.</small></p>
+<img src="/wef-nexus-online-course/assets/food-dependence.jpg">
+<p><small>FAO, 2020.</small></p>
 <p><small>  </small></p>
 
 Net food trade is defined as the net difference between food exports and food imports, presented as a percentage of the total food consumption within that country.
@@ -72,7 +72,10 @@ Overall, this figure shows that many regions in the world are still far from app
 
 ### **4.2.6 Contribution of family and smallholder farming to National and Global Food Security**
 
-![Untitled](5%202%20Challe%20d4626/Untitled%205.png)
+<ul class="list-style-none">
+<li class="d-inline-block mr-1"> <img src="/wef-nexus-online-course/assets/fao-smallholder-1.jpg"></li>
+<li class="d-inline-block mr-1"> <img src="/wef-nexus-online-course/assets/fao-smallholder-2.jpg"></li>
+</ul>
 <p><small>FAO, 2014</small></p>
 <p><small>  </small></p>
 
@@ -139,7 +142,7 @@ In sum, the COVID‑19 outbreak will push global rates of hunger and food insecu
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/frameworks){: .btn .btn-purple .mr-4}
 
-
+<hr/>
 
 
 ### *References*
