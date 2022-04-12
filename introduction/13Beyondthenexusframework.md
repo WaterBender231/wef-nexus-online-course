@@ -18,10 +18,9 @@ parent: Introduction
 - five resources: water, energy, minerals, food and land</h2>
 <br/> <br/>
 
-![Global Resource Nexus](/wef-nexus-online-course/assets/resource_nexus.PNG) 
-
+<center><img src="/wef-nexus-online-course/assets/resource_nexus.PNG"
+     alt="Global Resource Nexus" width="400" height="400"></center>
 <p><small>Source: Global Resource Nexus after Andrews-Speed et al. 2012.</small></p>
-
 
 Andrews-Speed et al. 2012 conceptualize a nexus focusing on five key resources: water, energy, minerals, food, and land. The Global resource nexus analyzes physical, technological, social and institutional aspects of sectoral interactions.
 
@@ -33,7 +32,10 @@ A key claim of the approach is that one needs to understand the key actor‘s de
 Adding soil as component</h2>
 <br/> <br/>
 
-![WEFS Nexus](/wef-nexus-online-course/assets/soil_nexus.PNG) 
+
+<center><img src="/wef-nexus-online-course/assets/soil_nexus.PNG"
+     alt="WEFS Nexus" width="400" height="400"></center>
+
 
 <p><small>Source: Figure 3: WEFS-Nexus after Hatfield et al. 2017.</small></p>
 
@@ -43,7 +45,10 @@ Hatfield et al. 2017 put an emphasis on soil as important element of the water, 
 
 ## 1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)
 
-![ELS Nexus](/wef-nexus-online-course/assets/livelihood_nexus.PNG)
+
+<center><img src="/wef-nexus-online-course/assets/livelihood_nexus.PNG"
+     alt="ELS Nexus" width="400" height="400"></center>
+
 
 <p><small>Source: WEF-Nexus and Environmental Livelihood Security after Biggs et al. 2015.</small></p>
 
