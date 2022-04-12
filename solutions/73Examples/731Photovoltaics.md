@@ -6,7 +6,7 @@ parent: 7.3 Examples
 grand_parent: Solutions
 nav_order: 1
 ---
-# **7.3.1 Integration of Photovoltaics and Agriculture: Agrivoltaics**
+# 7.3.1 Integration of Photovoltaics and Agriculture: Agrivoltaics
 
 ## **Agrivoltaics: generating electricity while saving water – increasing WEF resources productivity**
 
@@ -18,6 +18,7 @@ nav_order: 1
 
 <p><small>Sources: 1) Fraunhofer ISE, BayWa r.e. 2) PVmagazine; Antoine Bolcato, 3) Greenomics World 2020</small></p>
 
+<hr/>
 
 ### **Agriphotovoltaics (APV): Improving Water, Energy and Food Supply**
 Agrivoltaics have various synergistic effects linked to shading through the solar panels and the microclimatic effects of introducing plants: The shading reduces evaporation from the soil and transpiration from crop canopy, increasing soil moisture and irrigation water-use efficiency (Hassanpour Adeh et al., 2018). Further, especially in hot, dry, and sunny climates, shading can prevent depression in photosynthesis through heat and light stress allowing greater plant growth (Barron-Gafford et al., 2019; Trommsdorff et al., 2021). Finally, the crops provide transpirational cooling to the photovoltaic panels, increasing their efficiency (Adeh et al., 2019).
@@ -47,12 +48,11 @@ Agrivoltaics have various synergistic effects linked to shading through the sola
 
 1. **No competition for land resources**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%205.png)
-
+image
 <p><small>Title</p></small>
 
-One central issue with renewable energy systems is the competition for agrarian land. Wind turbines require a lot of space, ground-mounted solar PV is mostly used in flat and sunny areas that could be used for agriculture. Additionally, a variety of crops are grown solely for energetic use: in Germany, 14% of the agricultural area is used for bioenergy (Fachagentur Nachwachsende Rohstoffe 2020). As both the demand for food and energy is projected to increase (IRENA 2018; FAO 2017) , the conflict for land resources can be expected to grow.
-
+One central issue with renewable energy systems is the competition for agrarian land. Wind turbines require a lot of space, ground-mounted solar PV is mostly used in flat and sunny areas that could be used for agriculture. Additionally, a variety of crops are grown solely for energetic use: in Germany, 14% of the agricultural area is used for bioenergy (Fachagentur Nachwachsende Rohstoffe 2020). As both the demand for food and energy is projected to increase (IRENA 2018; FAO 2017) , the conflict for land resources can be expected to grow. <br>
+<br>
 One approach to reduce land competition is the use of Agrivoltaics (AVP). The technology describes the use of photovoltaic systems above cropland, harvesting both solar energy and agricultural products, thus reducing land competition. In general, the dual use of land can affect  the efficiency of both systems, but allows for a higher total land use efficiency, as illustrated in the graphic.
 
 2. **Shadowing effects on crops**
@@ -62,10 +62,10 @@ One approach to reduce land competition is the use of Agrivoltaics (AVP). The te
 <p><small>Title</p></small>
 
 While the total efficiency of the PV systems may decrease, the dual use of land can actually lead to an increase in yield of crops.
-The effect on the total yield depends mainly on the insolation, the crop and the soil, as well as the rate of shadowing of the APV construction. In general, plants do not utilize incoming light, once a certain threshold is reached. This means that after a certain point, photosynthesis stops and additional sunlight will not serve to further grow a plant and can even be harmful. (Runkle 2015) Especially in arid climate, it has been shown that yields can increase substantially due to additional shadowing.
-
-Most APV systems are built on an axis that supports solar tracking, so the insolation could be adjusted to the needs of the crops in different stages, through turning the solar modules.
-
+The effect on the total yield depends mainly on the insolation, the crop and the soil, as well as the rate of shadowing of the APV construction. In general, plants do not utilize incoming light, once a certain threshold is reached. This means that after a certain point, photosynthesis stops and additional sunlight will not serve to further grow a plant and can even be harmful. (Runkle 2015) Especially in arid climate, it has been shown that yields can increase substantially due to additional shadowing. <br>
+<br>
+Most APV systems are built on an axis that supports solar tracking, so the insolation could be adjusted to the needs of the crops in different stages, through turning the solar modules. <br>
+<br>
 For most crops, moderate shading, meaning reducing the insolation by 20-30%, gives better results than severe shading (>= 50%). (Weselek et al. 2019; Touil et al. 2021)
 
 3. **Impacts on generation, crop yield and water efficiency**

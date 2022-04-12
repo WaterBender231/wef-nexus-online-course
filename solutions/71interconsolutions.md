@@ -6,7 +6,7 @@ parent: Solutions
 ---
 # **7.1 WEF interconnections and related solutions**
 
-Nexus sound solutions address challenges which result from the nexus interconnections we identified in LU 6. The challenges include WEF resources scarcity, no WEF access (e.g., no connection to water or energy grid), lack of efficiency in WEF production systems, and environmental degradation (water, air and soil quality deterioration). 
+Nexus sound solutions address challenges which result from the nexus interconnections we identified in <a href="https://waterbender231.github.io/wef-nexus-online-course/governance/">LU 6</a>. The challenges include WEF resources scarcity, no WEF access (e.g., no connection to water or energy grid), lack of efficiency in WEF production systems, and environmental degradation (water, air and soil quality deterioration). 
 
 Kaddoura & El Katib (2017) in reference to Bazilian (2011) identify three streamlines of the nexus approach which aim for synergistic decision making.
 

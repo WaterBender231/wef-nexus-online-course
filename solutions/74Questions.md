@@ -4,7 +4,9 @@ title: 7.4 Questions
 permalink: /solutions/questions
 parent: Solutions
 ---
-# 7.4 Exercise Questions
+# **7.4 Exercise Questions**
+
+<br>
 
 - Select two nexus sound solutions that are suitable for your study region. You can find some of them in the overview section. 
 <br>

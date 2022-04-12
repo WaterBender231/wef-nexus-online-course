@@ -6,25 +6,26 @@ parent: Solutions
 ---
 # **7.2 Nexus sound solutions - Overview**
 
-The smart combination of single-sector technologies allows to tap the synergies within the water energy and food nexus. <br>Nexus smart solutions include agrivoltaics, water and electricity cogeneration systems, solar-powered irrigation systems (see examples), saline water greenhouses (Al-Ismaili and Jayasuriya, 2016), water efficient cooling towers (Pan et al. 2018),  recycling of solid waste and wastewater for energy supply (Wang et al., 2017) and fertilization (González-Sierra et al., 2019), and phosphorous and nitrogen recovery (Chrispim et al. 2019, Robles et al. 2020).
+The smart combination of single-sector technologies allows to tap the synergies within the water, energy, and food nexus. <br> 
+Nexus smart solutions include agrivoltaics, water and electricity cogeneration systems, solar-powered irrigation systems (see examples), saline water greenhouses (Al-Ismaili and Jayasuriya, 2016), water efficient cooling towers (Pan et al. 2018),  recycling of solid waste and wastewater for energy supply (Wang et al., 2017) and fertilization (González-Sierra et al., 2019), and phosphorous and nitrogen recovery (Chrispim et al. 2019, Robles et al. 2020).
 <br>
 
 <hr/>
 
-**7.2.1 Water-Energy-Food Nexus Sound Solutions (WEF-NSS)** <br>
+### **7.2.1 Water-Energy-Food Nexus Sound Solutions (WEF-NSS)** 
 All kind of solutions which address WEF nexus challenge and increase resource use efficiency across sectors by tapping synergies and/or minimizing trade-offs. WEF NSS include technology-based systems, nature-based systems, hybrid systems. The systems can encompass multiple sectors or act only in a single sector while indirectly affecting other sectors (e.g., smart irrigation system). Further, WEF NSS comprise policies, cross-sector coordination instruments, and integrated resource management strategies. The cross-sector efficiency gains can occur at all points of the system processes (source, transformation/conversion, storage, end-use) or can also be induced through the solution (policy, the establishment of cross-sector coordination, integrated resource management).
 
 <hr/>
 
-**7.2.2 WEF Polyservice Systems**
+### **7.2.2 WEF Polyservice Systems** 
 WEF polyservice system refers to cross-sector technology-, nature-based, and hybrid systems addressing WEF nexus challenges. They interlink at least two sectors and tap direct and indirect synergistic effects across sectors.
 
 <hr/>
 
-**7.2.3 WEF Polygeneration/Polyproduction Systems**
+### **7.2.3 WEF Polygeneration/Polyproduction Systems** 
 The term is inspired by the energy sector (e.g., heat and power cogeneration) and expresses the system's variety of provided end-uses. The term "polygeneration" indicates that the system produces at least two commodities for end-use in different sectors (e.g., Agrophotovoltaics: Electricity and Crops).
 
-<hr/>
+
 
 <br/> <br/>
 [Continue to in-depth examples](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples){: .btn .btn-purple .mr-4}

@@ -6,7 +6,7 @@ parent: Tools and Data
 ---
 # **5.3 Semi-quantitative and quantitative assessment tools**
 
-## 5.3.1 Flammini et al, 2014: Walking the Nexus Talk – The Nexus Rapid Appraisal Tool (FAO)
+### 5.3.1 Flammini et al, 2014: Walking the Nexus Talk – The Nexus Rapid Appraisal Tool (FAO)
 
 - Conduct a semi-quantitative context analysis based on existing data and indicators (from international organisations) describing the interconnections between the WEF sectors
 - Evaluate the performance of a technical or policy interventions
@@ -78,11 +78,13 @@ With this method, different interventions can be easily compared to support deci
 
 <hr/>
 
-## 6.3.6 The Pardee RAND Food-Energy-Water Index
+## 5.3.6 The Pardee RAND Food-Energy-Water Index
 <br>
 
 - The aggregated index evaluates overall FEW Security based on FEW availability and accessibility indicators for the National scale
 - Uses normalised scores from 0 (worst) to 1 (best)
+
+<br>
 
 <img src="/wef-nexus-online-course/assets/RAND-map.jpg" width="446" height="252">
 <p><small>Willis et al., 2016</small></p>
