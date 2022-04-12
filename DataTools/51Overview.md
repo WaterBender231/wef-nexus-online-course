@@ -40,11 +40,11 @@ This assessment is necessary not only to understand the interconnections between
 <b>Nexus interconnections are assessed at different scales:</b>
 </div>
 </div>
-<ul>
-<li>Global scale: e.g. food and energy market prices, virtual water
-<li>Basin scale: e.g. water resources availability
-<li>National scale: e.g. energy supply grid data
-<li>Provincial/community scale: e.g. agricultural census data and food production </li></ul>
+  Global scale: e.g. food and energy market prices, virtual water<br>
+  Basin scale: e.g. water resources availability<br>
+  National scale: e.g. energy supply grid data<br>
+  Provincial/community scale: e.g. agricultural census data and food production <br>
+</ul>
 
 
 <br>
@@ -55,7 +55,8 @@ The quantitative analysis and the use of tools relies on data that are observed 
 <hr/>
 
 
-### **5.1.3 Categories of Nexus System Assessment Tools**
+<h3><b>5.1.3 Categories of Nexus System Assessment Tools</h3></b>
+
 
 <div>
 <div style="float: right">
@@ -76,8 +77,11 @@ The quantitative analysis and the use of tools relies on data that are observed 
 
 <br>
 <br>
-There are different methods of how to approach Nexus conflicts and trade-offs. There are reasons related to policy and governance for these differences. <br>
 <br>
+There are different methods of how to approach Nexus conflicts and trade-offs. There are reasons related to policy and governance for these differences. <br>
+
+<hr/>
+
 While visualisation tools help to qualitatively conceptualise the main components and their respective relevance in the system, Nexus assessment tools usually evaluate the weight of each component in a quantitative manner based on Nexus indicators, and compare them to the other components. <br>
 <br>
 Models typically use monthly time series for variables such as water, yields, agricultural areas, climate and energy production to simulate determined target variables depending on different inputs. They can be used to assess the sensitive components of a system (where changes in one component cause significant changes in the others) and to simulate future scenarios for decision support in planning. <br>
@@ -86,7 +90,9 @@ Regional, national and local regulations play a strong role in how resources are
 <br>
 Governance analysis tools aim at assessing the institutions and persons involved in Nexus decisions as well as the (missing) communication processes hindering a sustainable Nexus planning process.<br>
 
-[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/qualitative-approaches){: .btn .btn-purple .mr-4}
+
+
+[Continue to next section] (https://waterbender231.github.io/wef-nexus-online-course/tools/qualitative-approaches){: .btn .btn-purple .mr-4}
 
 <hr/>
 
