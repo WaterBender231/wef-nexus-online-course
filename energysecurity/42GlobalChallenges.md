@@ -126,7 +126,7 @@ Investments in back-up power generators are opportunity costs that hinder furthe
 
 ### **The relation of outage frequency and the GDP**
 
-<img src="/wef-nexus-online-course/assets/outages-vs-gsp.png" alt="Outages and GDP" width="450" height="400">
+<img src="/wef-nexus-online-course/assets/outages-vs-gsp.png" alt="Outages and GDP" width="400" height="400">
 <p><small>Rentschler et al., 2019.</small></p>
 <p><small>  </small></p>
 
