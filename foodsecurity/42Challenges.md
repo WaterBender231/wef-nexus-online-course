@@ -8,7 +8,8 @@ parent: Food Security
 
 ### 4.2.1 Levels of undernourishment
 
-<iframe src="/wef-nexus-online-course/assets/hunger-map.pdf" style="width: 1123;height: 794;border: none;"></iframe>
+<iframe width="500" height="100%" src="/wef-nexus-online-course/assets/sudan-table-1.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
+
 <p><small>FAO, 2015.</small></p>
 <p><small>  </small></p>
 
@@ -75,14 +76,6 @@ Overall, this figure shows that many regions in the world are still far from app
 
 ### **4.2.6 Contribution of family and smallholder farming to National and Global Food Security**
 
-<div class="row">
-  <div class="column">
-    <img src="/wef-nexus-online-course/assets/fao-smallholder-1.jpg" alt="1" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/wef-nexus-online-course/assets/fao-smallholder-2.png" alt="2" style="width:100%">
-  </div>
-</div>
 
 <p><small>FAO, 2014</small></p>
 <p><small>  </small></p>
