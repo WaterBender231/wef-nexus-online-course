@@ -11,7 +11,7 @@ Nexus sound solutions address challenges which result from the nexus interconnec
 
 <center><img src="/wef-nexus-online-course/assets/solution-interc.png"
      alt="Alexandra Nauditt, Antonia Fedlmeier" height="540" width="462"></center>
-<p><small>Alexandra Nauditt, Antonia Fedlmeier</small></p>
+<p><small>Alexandra Nauditt, Antonia Feldmeier</small></p>
 
 <hr/>
 
