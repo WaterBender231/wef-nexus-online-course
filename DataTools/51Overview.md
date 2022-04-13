@@ -44,7 +44,6 @@ This assessment is necessary not only to understand the interconnections between
   Basin scale: e.g. water resources availability<br>
   National scale: e.g. energy supply grid data<br>
   Provincial/community scale: e.g. agricultural census data and food production <br>
-</ul>
 
 
 <br>
@@ -55,7 +54,7 @@ The quantitative analysis and the use of tools relies on data that are observed 
 <hr/>
 
 
-<h3><b>5.1.3 Categories of Nexus System Assessment Tools</h3></b>
+<h3><b>5.1.3 Categories of Nexus System Assessment Tools </b></h3>
 
 
 <div>
@@ -69,11 +68,11 @@ The quantitative analysis and the use of tools relies on data that are observed 
 <br>
 </div>
 </div>
-<ul>
-<li>Qualitative and visualisation tools
-<li>Governance analysis tools
-<li>Semi-quantitative Nexus system assessment
-<li>Quantitative assessment tools- Modelling tools</li></ul>
+
+Qualitative and visualisation tools <br>
+Governance analysis tools <br>
+Semi-quantitative Nexus system assessment <br>
+Quantitative assessment tools- Modelling tools<br>
 
 <br>
 <br>
