@@ -8,7 +8,7 @@ parent: Food Security
 
 ### 4.2.1 Levels of undernourishment
 
-<iframe src="/wef-nexus-online-course/assets/hunger-map.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
+<iframe src="/wef-nexus-online-course/assets/hunger-map.pdf" style="width: auto;height: auto;border: none;"></iframe>
 <p><small>FAO, 2015.</small></p>
 <p><small>  </small></p>
 
@@ -45,15 +45,9 @@ Importantly, the figure above only depicts countries whose caloric dependency ra
 
 <hr/>
 
-### 4.2.4 **World Agricultural production (1961-1999)**
+### **4.2.4 World agricultural production**
 
-![Untitled](5%202%20Challe%20d4626/Untitled%203.png)
-<p><small>The British Geographer, n.d. </small></p>
-<p><small>  </small></p>
-
-This figure shows the growth of food production between 1961 and 1999 (with 1961 as the base year for all statistics), from which the global increase in agricultural production was 140% (more than population growth). It shows that most of this production increase can be attributed to development in Asia. However in Africa, the production of food actually dropped in that time, partially explaining the food security challenge in many of its countries.
-
-*** It can be relevant and interesting to ask questions such as: ***
+*** When it comes to the world agricultural production it can be relevant and interesting to ask questions such as: ***
 - Why does food production experience spikes of growth and decline?
 - What has enabled Asia to increase its food production by so much? 
 - Why has European food production fallen since the 1980s?
@@ -65,7 +59,7 @@ This figure shows the growth of food production between 1961 and 1999 (with 1961
 
 ### 4.2.5 **Yield gap for major cereals**
 
-![Untitled](5%202%20Challe%20d4626/Untitled%204.png)
+<img src="/wef-nexus-online-course/assets/yield-gap-mueller.PNG">
 <p><small>Mueller et al., 2012.</small></p>
 <p><small>  </small></p>
 
