@@ -8,7 +8,7 @@ parent: Food Security
 
 ### 4.2.1 Levels of undernourishment
 
-<iframe width="500" height="100%" src="/wef-nexus-online-course/assets/sudan-table-1.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
+<iframe width="500" height="100%" src="/wef-nexus-online-course/assets/hunger-map.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
 <p><small>FAO, 2015.</small></p>
 <p><small>  </small></p>
@@ -94,7 +94,7 @@ Smallholder farming - often on less than 1 ha property - is estimated to account
 
 <hr/>
 
-<h3><b>4.2.7 Smallholder farming - global breakdown of holding sizes</b></h3>
+### **4.2.7 Smallholder farming - global breakdown of holding sizes**
 
 <img src="/wef-nexus-online-course/assets/farm-sizes-hlpe.PNG">
 <p><small>HLPE, 2013</small></p>
@@ -144,6 +144,7 @@ In sum, the COVID‑19 outbreak will push global rates of hunger and food insecu
 
 
 <br/> <br/>
+
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/frameworks){: .btn .btn-purple .mr-4}
 
 <hr/>
