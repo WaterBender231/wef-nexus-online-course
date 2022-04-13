@@ -38,7 +38,7 @@ Shortly after establishing the SDGs in 2015, literature argued that food securit
 
 ### **4.3.3 Global Food Security Index (GFSI)**
 
-<img src="/wef-nexus-online-course/assets/dim-fs.jpg">
+<img src="/wef-nexus-online-course/assets/GFSI.PNG">
 <p><small>Economist Intelligence Unit, 2012.</small></p>
 <p><small>  </small></p>
 
