@@ -37,7 +37,8 @@ On the other hand, energy is required for water abstraction, pumping for irrigat
 ## 1.2.2 Interconnections between Energy and Food
 
 <center><img src="/wef-nexus-online-course/assets/energy-for-food.png"
-     alt="W-E"></center>
+     alt="W-E" height="540" width="462"></center>
+
 
 <p><small>Source: Alexandra Nauditt, Antonia Fedlmeier</small></p>
 
