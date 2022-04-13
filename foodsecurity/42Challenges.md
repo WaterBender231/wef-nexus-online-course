@@ -57,7 +57,7 @@ Importantly, the figure above only depicts countries whose caloric dependency ra
 
 <hr/>
 
-### 4.2.5 **Yield gap for major cereals**
+### **4.2.5 Yield gap for major cereals**
 
 <img src="/wef-nexus-online-course/assets/yield-gap-mueller.PNG">
 <p><small>Mueller et al., 2012.</small></p>
@@ -65,7 +65,7 @@ Importantly, the figure above only depicts countries whose caloric dependency ra
 
 The yield gap refers to the difference between two levels of yield. On this section, these two levels are the observed yields and the attainable yields (the best yield achieved through skilful use of the best available technology) for maize, wheat and rice. The yield gaps are presented as a percentage of the attainable yield. (Mueller et al., 2012; FAO, 2015).
 
-This figure shows the yield gap for major cereals at a global scale. In parts of Africa, achieved yields are a mere 10% of the attainable yield. The values for USA, Canada, Western Europe and some parts of China and India are typically >80%. The situation in Central Europe, Latin America and Central Asia is mixed and varies widely. 
+This figure shows the yield gap for major cereals at a global scale. In parts of Africa, achieved yields are a mere 10% of the attainable yield. The values for USA, Canada, Western Europe and some parts of China and India are typically > 80%. The situation in Central Europe, Latin America and Central Asia is mixed and varies widely. 
 
 Overall, this figure shows that many regions in the world are still far from approaching attainable yield. Increasing yields are possible through agricultural management practices such as water and nutrient provision and disease control.
 
@@ -94,11 +94,9 @@ Smallholder farming - often on less than 1 ha property - is estimated to account
 
 <hr/>
 
-### **4.2.7 Smallholder farming**
+### **4.2.7 Smallholder farming - global breakdown of holding sizes**
 
-**global breakdown of holding sizes**
-
-![Untitled](5%202%20Challe%20d4626/Untitled%206.png)
+<img src="/wef-nexus-online-course/assets/farm-sizes-hlpe.PNG">
 <p><small>HLPE, 2013</small></p>
 <p><small>  </small></p>
 
@@ -113,7 +111,7 @@ Income is important for smallholders’ access to food, manufactured goods and s
 
 ### **4.2.8 Approximately one-third of global food is wasted**
 
-![Untitled](5%202%20Challe%20d4626/Untitled%207.png)
+<img src="/wef-nexus-online-course/assets/water-for-food.png">
 <p><small>Oxfam Australia, 2012</small></p>
 <p><small>  </small></p>
 
@@ -123,7 +121,7 @@ This section emphasises the problem of food waste. Next to large scale crop fail
 
 ### **4.2.9 Global impacts: COVID-19 outbreak**
 
-![Untitled](5%202%20Challe%20d4626/Untitled%208.png)
+<img src="/wef-nexus-online-course/assets/pandemic.png">
 <p><small>UN, 2021</small></p>
 <p><small>  </small></p>
 
@@ -164,6 +162,9 @@ In sum, the COVID‑19 outbreak will push global rates of hunger and food insecu
 
 ***4.2.9 Global impacts: COVID-19 outbreak***
 - *FAO, IFAD, UNICEF, WFP and WHO. 2021. The State of Food Security and Nutrition in the World 2021. Transforming food systems for food security, improved nutrition and affordable healthy diets for all. Rome, FAO.*
+
 - *OECD. 2021. COVID-19 and food systems: Short- and long-term impacts. OECD Food. Agriculture and Fisheries Papers. No. 166. OECD Publishing, [Paris]: [https://doi.org/10.1787/69ed37bd-en](https://doi.org/10.1787/69ed37bd-en).*
+
 - *United Nations. 2021. The Sustainable Development Goals Report. [Online] [https://unstats.un.org/sdgs/report/2021/The-Sustainable-Development-Goals-Report-2021.pdf](https://unstats.un.org/sdgs/report/2021/The-Sustainable-Development-Goals-Report-2021.pdf)*
+
 - *WHO. 2021. Anaemia. [Online] [https://www.who.int/health-topics/anaemia#tab=tab_1](https://www.who.int/health-topics/anaemia#tab=tab_1)*
