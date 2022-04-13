@@ -6,7 +6,7 @@ parent: Food Security
 ---
 # **4.3 Food Security Measurement Frameworks: SoA**
 
-<h3><b>4.3.1 Food Security Measurement Frameworks: SoA</b><small>(<a href="/wef-nexus-online-course/assets/SoA.pdf">view table</a>)</small></h3> 
+<h3><b>4.3.1 Food Security Measurement Frameworks: SoA </b><small>(<a href="/wef-nexus-online-course/assets/SoA.pdf">view table</a>)</small></h3> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/SoA.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
@@ -16,7 +16,7 @@ Different approaches have been developed to assess food security. These depend o
 
 ### **4.3.2 Food Security Index, FAO (2006)**
 
-![Untitled](5%203%20Food%20S%20c495b/Untitled.png)
+<img src="/wef-nexus-online-course/assets/dim-fs.jpg">
 <p><small>FAO (2006).</small></p>
 <p><small>  </small></p>
 
@@ -38,7 +38,7 @@ Shortly after establishing the SDGs in 2015, literature argued that food securit
 
 ### **4.3.3 Global Food Security Index (GFSI)**
 
-![Untitled](5%203%20Food%20S%20c495b/Untitled%201.png)
+<img src="/wef-nexus-online-course/assets/dim-fs.jpg">
 <p><small>Economist Intelligence Unit, 2012.</small></p>
 <p><small>  </small></p>
 
@@ -98,11 +98,9 @@ Following is a list of the indicators and sub-indicators under their correspondi
 
 ### **4.3.4 FAO Prevalence of Undernourishment (PoU)**
 
-![Untitled](5%203%20Food%20S%20c495b/Untitled%202.png)
-<p><small>Source.</small></p>
+<img src="/wef-nexus-online-course/assets/fam-policy.jpg">
+<p><small><a href="https://farmpolicynews.illinois.edu/2019/07/fao-report-on-world-hunger-more-than-820-million-people-are-hungry/">Illinois:Farm Policy News.</a></small></p>
 <p><small>  </small></p>
-
-[https://farmpolicynews.illinois.edu/2019/07/fao-report-on-world-hunger-more-than-820-million-people-are-hungry/](https://farmpolicynews.illinois.edu/2019/07/fao-report-on-world-hunger-more-than-820-million-people-are-hungry/)
 
 FAO Indicator the Prevalence of Undernourishment (PoU). Undernourishment is defined as “Food intake that is continuously insufficient to meet dietary energy requirements” (FAO, 2001). In other words, undernourishment indicates the individuals’ inability to obtain sufficient food in order to meet their daily energy requirements.
 
@@ -125,14 +123,14 @@ Fifth, the quality and accuracy of the data used in the food balance sheets—th
 
 For these reasons, the PoU índicator is considered to be insufficient to comprehensively assessing the food security status.
 
-Following is an interactive map by FAO by which you could retrieve the number or percentage of undernourished people at the country scale: [Interactive Map](http://www.fao.org/state-of-food-security-nutrition/2-1-1/en/)
+Following is an interactive map by FAO by which you could retrieve the number or percentage of undernourished people at the country scale: [Go to Interactive Map.](http://www.fao.org/state-of-food-security-nutrition/2-1-1/en/)
 
+
+<br/>
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/dimensions){: .btn .btn-purple .mr-4}
 
 <hr/>
 
-
-<br/> <br/>
-[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/dimensions){: .btn .btn-purple .mr-4}
 
 ### *References*
 ***4.3.1 Food Security Measurement Frameworks: SoA***
