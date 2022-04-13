@@ -48,7 +48,8 @@ Importantly, the figure above only depicts countries whose caloric dependency ra
 
 ### **4.2.4 World agricultural production**
 
-*** When it comes to the world agricultural production it can be relevant and interesting to ask questions such as: ***
+*When it comes to the world agricultural production it can be relevant and interesting to ask questions such as:*
+
 - Why does food production experience spikes of growth and decline?
 - What has enabled Asia to increase its food production by so much? 
 - Why has European food production fallen since the 1980s?
@@ -75,8 +76,8 @@ Overall, this figure shows that many regions in the world are still far from app
 ### **4.2.6 Contribution of family and smallholder farming to National and Global Food Security**
 
 <ul class="list-style-none">
-<li class="d-inline-block mr-1"> <img src="/wef-nexus-online-course/assets/fao-smallholder-1.jpg"></li>
-<li class="d-inline-block mr-1"> <img src="/wef-nexus-online-course/assets/fao-smallholder-2.jpg"></li>
+<li class="d-inline-block mr-1"> <img src="/wef-nexus-online-course/assets/fao-smallholder-1.jpg">
+<li class="d-inline-block mr-1"> <img src="/wef-nexus-online-course/assets/fao-smallholder-2.png"></li>
 </ul>
 <p><small>FAO, 2014</small></p>
 <p><small>  </small></p>
@@ -112,7 +113,7 @@ Income is important for smallholders’ access to food, manufactured goods and s
 
 ### **4.2.8 Approximately one-third of global food is wasted**
 
-<img src="/wef-nexus-online-course/assets/water-for-food.png">
+<center><img src="/wef-nexus-online-course/assets/water-for-food.png"></center>
 <p><small>Oxfam Australia, 2012</small></p>
 <p><small>  </small></p>
 
