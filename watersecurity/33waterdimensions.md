@@ -138,7 +138,6 @@ The worlds water data: <a href="https://www.worldwater.org/water-data/">https://
 
 <details><summary><i>See More Data Sources for <b>Water Accessibility</b></i></summary>
 <p>
-
 AQUASTAT: <a href="http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en">http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en</a> <br>
 <br>
 World Bank database <a href="https://data.worldbank.org/indicator">https://data.worldbank.org/indicator<br>
@@ -149,7 +148,7 @@ UNICEF<a href="https://data.unicef.org/resources/">https://data.unicef.org/resou
 <br>
 Transboundary Waters Assessment Programme <a href="http://twap-rivers.org/indicators/">http://twap-rivers.org/indicators/</a> <br>
 <br>
-Aqueduct <a href="https://www.worldwater.org/water-data/">https://www.worldwater.org/water-data/
+Aqueduct <a href="https://www.worldwater.org/water-data/">https://www.worldwater.org/water-data/</a>
 
 </p>
 </details>
