@@ -107,7 +107,7 @@ The **domestic food price volatility** index measures the variability in the rel
 
 <hr/>
 
-<h3><b>4.4.5 Food Stability indices – how can I measure Food Stability?</b><small>(<a href="/wef-nexus-online-course/assets/ind-fs-stability.pdf">view table</a>)</small></h3> 
+<h3><b>4.4.5 Food Stability indices – how can I measure Food Stability? </b><small>(<a href="/wef-nexus-online-course/assets/ind-fs-stability.pdf">view table</a>)</small></h3> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/ind-fs-stability.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
@@ -127,7 +127,9 @@ This indicator provides a measure of vulnerability and captures the adequacy of 
 <hr/>
 
 
-<h3><b>4.4.6 Example: Indicators used in SDG 2 reporting</b><small>(<a href="/wef-nexus-online-course/assets/indicators-sdg-2.pdf">view table</a>)</small></h3><br>Most relevant targets are 2.1 and 2.2
+<h3><b>4.4.6 Example: Indicators used in SDG 2 reporting </b><small>(<a href="/wef-nexus-online-course/assets/indicators-sdg-2.pdf">view table</a>)</small></h3><br>
+
+**Most relevant targets are 2.1 and 2.2**
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indicators-sdg-2.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
@@ -179,11 +181,11 @@ There are 14 different indicators that measure the progress towards sub-targets 
 
 <hr/>
 
-<h3><b>4.4.7 Example: Food Security Information and Knowledge Sharing System – Sudan</b><small>(<a href="/wef-nexus-online-course/assets/sudan-table-1.pdf">view table</a>)</small></h3> 
+<h3><b>4.4.7 Example: Food Security Information and Knowledge Sharing System – Sudan </b><small>(<a href="/wef-nexus-online-course/assets/sudan-table-1.pdf">view table</a>)</small></h3> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/sudan-table-1.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
-<p><b>Food Security Information and Knowledge Sharing System – Sudan - continued table</b><small>(<a href="/wef-nexus-online-course/assets/sudan-table-2.pdf">view table</a>)</small></p> 
+<p><b>Food Security Information and Knowledge Sharing System – Sudan - continued table </b><small>(<a href="/wef-nexus-online-course/assets/sudan-table-2.pdf">view table</a>)</small></p> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/sudan-table-2.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
@@ -229,9 +231,6 @@ Prevalence of food inadequacy (%)<br>
 
 The dimension of utilization is divided into the sub-dimensions **Non-food Items and Food Quality** and **Micro Nutrients**. The former being measured using the two indicators access to improved water sources and access to improved sanitation facilities. 
 
-Stability is further divided into exposure and political stability and absence of violence/terrorism.
-
-***View more details***
 <details><summary><b>Indicators to determine food Quality and Micro Nutrients:</b></summary>
 <p>Percentage of children under 5 years of age affected by wasting, (%)<br>
 Percentage of children under 5 years of age who are stunted, (%)<br>
@@ -243,13 +242,17 @@ Prevalence of vitamin A deficiency Prevalence of iodine deficiency, (%)<br>
 </p>
 </details>
 
+
+### Stability 
+
+Stability is further divided into exposure and political stability and absence of violence/terrorism.
+
 <details><summary><b>Exposure indicators are as follows:</b></summary>
-<p>Cereal import dependency ratio<br>
+<p><b>Cereal import dependency ratio</b><br>
 Percent of arable land equipped for irrigation<br>
 Value of food imports over total merchandise exports<br>
-</p>
 
-<p>Political stability and absence of violence or terrorism is determined using the following indicators:</p>
+<p><b>Political stability and absence of violence or terrorism is determined using the following indicators:</b></p>
 Domestic food price volatility<br>
 Per capita food production variability<br>
 Per capita food supply variability<br>
