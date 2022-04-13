@@ -101,7 +101,7 @@ Smallholder farming - often on less than 1 ha property - is estimated to account
 
 <hr/>
 
-### **4.2.7 Smallholder farming - global breakdown of holding sizes**
+<h3><b>4.2.7 Smallholder farming - global breakdown of holding sizes</b></h3>
 
 <img src="/wef-nexus-online-course/assets/farm-sizes-hlpe.PNG">
 <p><small>HLPE, 2013</small></p>
@@ -116,7 +116,7 @@ Income is important for smallholders’ access to food, manufactured goods and s
 
 <hr/>
 
-### **4.2.8 Approximately one-third of global food is wasted**
+<h3><b>4.2.8 Approximately one-third of global food is wasted</h3></b>
 
 <center><img src="/wef-nexus-online-course/assets/water-for-food.png"></center>
 <p><small>Oxfam Australia, 2012</small></p>
@@ -127,6 +127,7 @@ This section emphasises the problem of food waste. Next to large scale crop fail
 <hr/>
 
 ### **4.2.9 Global impacts: COVID-19 outbreak**
+
 
 <img src="/wef-nexus-online-course/assets/pandemic.png">
 <p><small>UN, 2021</small></p>
@@ -153,6 +154,8 @@ In sum, the COVID‑19 outbreak will push global rates of hunger and food insecu
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/foodsecurity/frameworks){: .btn .btn-purple .mr-4}
 
 <hr/>
+
+
 
 
 ### *References*
