@@ -23,7 +23,7 @@ In addition to systematic development challenges, natural and human-induced disa
 
 ### **4.2.2 Net food trade (in 2020)**
 
-<img src="/wef-nexus-online-course/assets/food-dependence.jpg">
+<img src="https://www.bnnbloomberg.ca/polopoly_fs/1.1411820!/fileimage/httpImage/image.png_gen/derivatives/default/sacks-of-rice-sit-stacked-inside-a-state-logistics-agency-bulog-warehouse-in-karawang-regency-west-java-indonesia-on-saturday-april-6-2019-indonesia-s-government-is-set-to-export-rice-for-the-first-time-in-more-than-a-decade-not-because-the-country-has-turned-in-a-bumper-harvest-but-because-it-s-been-importing-the-grain-based-on-faulty-data-collection-resulting-in-an-oversupply-of-stocks-photographer-dimas-ardian-bloomberg.png">
 <p><small>FAO, 2020.</small></p>
 <p><small>  </small></p>
 
@@ -35,7 +35,7 @@ The main countries being food exporters are USA, Canada, Ukraine, Argentina and 
 
 ### **4.2.3 Bren D´Amour and Anderson, 2020: International trade and the stability of food supplies in the Global South**
 
-![Untitled](5%202%20Challe%20d4626/Untitled%202.png)
+<img src="/wef-nexus-online-course/assets/d-amour.PNG">
 <p><small>Christopher Bren d’Amour and Weston Anderson 2020.</small></p>
 <p><small>  </small></p>
 
