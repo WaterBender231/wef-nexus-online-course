@@ -6,9 +6,9 @@ parent: 7.3 Examples
 grand_parent: Solutions
 nav_order: 1
 ---
-# 7.3.1 Integration of Photovoltaics and Agriculture: Agrivoltaics
+# **7.3.1 Integration of Photovoltaics and Agriculture: Agrivoltaics**
 
-## **Agrivoltaics: generating electricity while saving water – increasing WEF resources productivity**
+## Agrivoltaics: generating electricity while saving water – increasing WEF resources productivity
 
 ![Untitled](7%203%201%20Inte%20ff8f0/Untitled.png)
 
