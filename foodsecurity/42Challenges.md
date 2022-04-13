@@ -109,7 +109,7 @@ Income is important for smallholders’ access to food, manufactured goods and s
 
 <hr/>
 
-<h3><b>4.2.8 Approximately one-third of global food is wasted</h3></b>
+<h3><b>4.2.8 Approximately one-third of global food is wasted</b></h3>
 
 <img src="/wef-nexus-online-course/assets/water-for-food.png">
 <p><small>Oxfam Australia, 2012</small></p>
