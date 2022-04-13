@@ -10,12 +10,7 @@ nav_order: 1
 
 ## Agrivoltaics: generating electricity while saving water – increasing WEF resources productivity
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled.png)
-
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%201.png)
-
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%202.png)
-
+<img src="/wef-nexus-online-course/assets/agri-pv.JPG" alt="Agrivoltaics">
 <p><small>Sources: 1) Fraunhofer ISE, BayWa r.e. 2) PVmagazine; Antoine Bolcato, 3) Greenomics World 2020</small></p>
 
 <hr/>
@@ -34,9 +29,8 @@ Agrivoltaics have various synergistic effects linked to shading through the sola
 
 ### **Agrivoltaics: how to use the increased WEF productivity**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%204.png)
-
-<p><small>Source. Title. </p></small>
+<img src="/wef-nexus-online-course/assets/multiple-land-use.jpg" alt="Agrivoltaics">
+<p><small>Frainhofer ISE</p></small>
 
 Agrivoltaics integrate photovoltaic panels in agricultural systems. The setup allows multiple land-use of agricultural areas by adding electricity production through solar panels and optionally rainwater harvesting from the panel surfaces (Fraunhofer ISE) as productive uses. The produced electricity can be used for food processing and energy supply of local communities or be fed into the national grid (given suitable remuneration schemes).
 
@@ -57,9 +51,8 @@ One approach to reduce land competition is the use of Agrivoltaics (AVP). The te
 
 2. **Shadowing effects on crops**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%206.png)
-
-<p><small>Title</p></small>
+<img src="/wef-nexus-online-course/assets/shadowing-crops.JPG" alt="Shadowing effects on crops">
+<p><small>Images from: 1) Fraunhofer ISE (2020) and 2) Sinovoltaics.com</p></small>
 
 While the total efficiency of the PV systems may decrease, the dual use of land can actually lead to an increase in yield of crops.
 The effect on the total yield depends mainly on the insolation, the crop and the soil, as well as the rate of shadowing of the APV construction. In general, plants do not utilize incoming light, once a certain threshold is reached. This means that after a certain point, photosynthesis stops and additional sunlight will not serve to further grow a plant and can even be harmful. (Runkle 2015) Especially in arid climate, it has been shown that yields can increase substantially due to additional shadowing. <br>
@@ -70,9 +63,8 @@ For most crops, moderate shading, meaning reducing the insolation by 20-30%, giv
 
 3. **Impacts on generation, crop yield and water efficiency**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%207.png)
-
-<p><small>Title</p></small>
+<img src="/wef-nexus-online-course/assets/selected-plant-effects.png" alt="APV effects on selected plants">
+<p><small>Graph adapted from Barron-Gafford et al. (2019)</p></small>
 
 Using synergetic effects to (ideally)
 
