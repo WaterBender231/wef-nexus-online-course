@@ -98,7 +98,7 @@ Following is a list of the indicators and sub-indicators under their correspondi
 
 ### **4.3.4 FAO Prevalence of Undernourishment (PoU)**
 
-<img src="/wef-nexus-online-course/assets/fam-policy.jpg">
+<img src="/wef-nexus-online-course/assets/fam-policy.jpg" width="1370" height="1013">
 <p><small><a href="https://farmpolicynews.illinois.edu/2019/07/fao-report-on-world-hunger-more-than-820-million-people-are-hungry/">Illinois:Farm Policy News.</a></small></p>
 <p><small>  </small></p>
 
