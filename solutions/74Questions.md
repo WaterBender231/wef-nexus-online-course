@@ -13,3 +13,8 @@ parent: Solutions
 - Describe which nexus challenges and interconnections are addressed by the selected nexus sound solution: Which WEF synergies are tapped, which trade-offs are minimized?
 <br>
 - Please further characterize your selected solutions. What are key considerations e.g., for implementing the solution?  
+
+
+
+You've finished all learning units, congratulations! 
+{: .label .label-green } [Contact us](https://waterbender231.github.io/wef-nexus-online-course/contact/){: .btn .btn-outline }
