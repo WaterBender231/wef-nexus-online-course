@@ -121,7 +121,7 @@ IEA (2020): Energy Prices. High-quality data on end-use energy prices. Available
 <br>
 ofgem (2018): Energy spend as percentage of total household expenditure (UK). Available online at <a href="https://www.ofgem.gov.uk/data-portal/energy-spend-percentage-total-household-expenditure-uk">https://www.ofgem.gov.uk/data-portal/energy-spend-percentage-total-household-expenditure-uk</a>.<br>
 <br>
-Ritchie, Hannah; Roser, Max (2018): Access to Energy. <a href="OurWorldinData.org">"http://ourworldindata.org/</a>. Available online at <a href="https://ourworldindata.org/energy-access#citation">https://ourworldindata.org/energy-access#citation</a><br>.
+Ritchie, Hannah; Roser, Max (2018): Access to Energy. <a href="OurWorldinData.org">"http://ourworldindata.org/</a>. Available online at <a href="https://ourworldindata.org/energy-access#citation">https://ourworldindata.org/energy-access#citation</a><br>
 <br>
 Winkler, H. A. F. Simões, E. L. La Rovere, M. Alam, A. Rahman and S. Mwakasonda, World Development, 2011, 39, 1037–1050, <a href="https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf">https://www.cleancookingalliance.org/resources_files/expenditure-of-low-income.pdf</a>.</i><br>
 <br>
@@ -130,7 +130,7 @@ Winkler, H. A. F. Simões, E. L. La Rovere, M. Alam, A. Rahman and S. Mwakasonda
 <br>
 IEA (2020) ‘Data and statistics: Explore energy data by category, indicator, country, or region’. <a href="https://www.iea.org/data-and-statistics">https://www.iea.org/data-and-statistics</a>.<br>
 <br>
-Ritchie, Hannah; Roser, Max (2018): Access to Energy. <a href="OurWorldinData.org">"http://ourworldindata.org/</a>. Available online at <a href="https://ourworldindata.org/energy-access#citation">https://ourworldindata.org/energy-access#citation</a><br>.
+Ritchie, Hannah; Roser, Max (2018): Access to Energy. <a href="OurWorldinData.org">"http://ourworldindata.org/</a>. Available online at <a href="https://ourworldindata.org/energy-access#citation">https://ourworldindata.org/energy-access#citation</a><br>
 <br>
 Sovacool, Benjamin K.; Andersen, R.; Sorensen, Steven; Sorensen, Kenneth; Tienda, Victor; Vainorius, Arturas et al. (2016): Balancing safety with sustainability: assessing the risk of accidents for modern low-carbon energy systems. In Journal of Cleaner Production 112, pp. 3952–3965. DOI: <a href="10.1016/j.jclepro.2015.07.059">10.1016/j.jclepro.2015.07.059</a>.</i>
 </small>

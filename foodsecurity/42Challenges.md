@@ -8,8 +8,7 @@ parent: Food Security
 
 ### 4.2.1 Levels of undernourishment
 
-<img src="/wef-nexus-online-course/assets/level-undernourishment.jpg">
-
+<iframe src="/wef-nexus-online-course/assets/hunger-map.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
 <p><small>FAO, 2015.</small></p>
 <p><small>  </small></p>
 
