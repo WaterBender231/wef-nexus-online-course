@@ -8,9 +8,10 @@ parent: Food Security
 
 ### 4.2.1 Levels of undernourishment
 
-<iframe src="/wef-nexus-online-course/assets/hunger-map.pdf" style="width: auto;height: auto;border: none;"></iframe>
+<iframe src="/wef-nexus-online-course/assets/hunger-map.pdf" style="width: 1123;height: 794;border: none;"></iframe>
 <p><small>FAO, 2015.</small></p>
 <p><small>  </small></p>
+
 
 The prevalence of undernourishment is defined as the “proportion of the population whose dietary energy consumption is less than a pre-determined threshold. This threshold is country specific and is measured in terms of the number of kilocalories required to conduct sedentary or light activities.” (FAO, 2008)
 
