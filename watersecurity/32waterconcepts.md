@@ -261,10 +261,9 @@ transboundary political tension, source: http://twap-rivers.org
 
 <hr/>
 
+<h3> Weighting of Indices   -   Example Gain et al. 2016 <small>(<a href="/wef-nexus-online-course/assets/weighting-indices-gain.pdf">view  table</a>)</small></h3> 
 
-<h3> Weighting of Indices   -   Example Gain et al. 2016 </h3>
-
-INSERT TABLE
+<iframe width="100%" height="500" src="/wef-nexus-online-course/assets/weighting-indices-gain.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
 There is not a uniform rule on how to weight indicators in a aggregated index. The weighting for the global water security index (Gain et al., 2016), for example, was defined based on qualitative estimations, eg. a higher relevance was given to availability compared to the other indicators. 
 <br/> <br/>
