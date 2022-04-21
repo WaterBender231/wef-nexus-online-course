@@ -24,7 +24,7 @@ Further, especially in hot, dry, and sunny climates, shading can prevent depress
 
 <img src="/wef-nexus-online-course/assets/agri-system.tif" alt="Agri-Systems">
 
-<small>Overview of APV projects and facilities with location. The color gradient indicates the long-term average of daily/yearly sum of global horizontal radiation [kwh/m2]. The numbers indicate the location of the described facilities (Global horizontal irradiation map © 2018 The World Bank, Solar resource data: <a href="solargis.com">http://solargis.com/</a>, used under CC BY 3.0 IGO, modified from original)</small>
+<small> Overview of APV projects and facilities with location. The color gradient indicates the long-term average of daily/yearly sum of global horizontal radiation [kwh/m2]. The numbers indicate the location of the described facilities (Global horizontal irradiation map © 2018 The World Bank, Solar resource data: <a href="solargis.com">http://solargis.com/</a>, used under CC BY 3.0 IGO, modified from original) </small>
 
 
 <hr/>
