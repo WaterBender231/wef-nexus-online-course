@@ -75,7 +75,7 @@ In case an irrigation technique is introduced into a small-scale farming context
 
 ![Untitled](7%203%202%20Irri%2017bea/Untitled.png)
 
-<p><small>SPIS Toolbox Handbook –GFA Consultants (2019)</p></small>
+<small>SPIS Toolbox Handbook –GFA Consultants (2019)</small>
 
 Solar-powered irrigation systems (SPIS) combine water pumps, solar generators, irrigation systems and agricultural production (Poompavai & Kowslaya, 2019, energypedia). The solar generator provides electricity to the water pump when solar energy is available, and water is pumped to the water reservoir. A valve controls the irrigation of the crops. The water reservoir acts as indirect energy storage, balancing out the solar generator's fluctuating energy production and, thus, taps WEF synergies. The annual water outtake should not exceed the yearly groundwater renewal to avoid a phreatic decline and ensure an ecosystem-friendly operation.
 
