@@ -15,11 +15,13 @@ nav_order: 1
     </div>
 </div>
 
+<center>
 <ul class="list-style-none">
 <li class="d-inline-block mr-1"> <a href="https://www.tt.th-koeln.de/"><img src="/wef-nexus-online-course/assets/itt.jpg" width="170" height="32" alt="ITT/TH Köln"></a></li>
 <li class="d-inline-block mr-1"> <a href="https://www.daad.de/de/"><img src="/wef-nexus-online-course/assets/DAADLogo.jpg" width="170" height="32" alt="DAAD"></a></li>
 <li class="d-inline-block mr-1"> <a href="#"><img src="/wef-nexus-online-course/assets/supported by icon.PNG" width="170" height="32" alt="BMZ"></a></li>
-</ul>
+</ul> <center>
+
 
 <!--
 <img src="/wef-nexus-online-course/assets/supported.jpg" alt="Funding and support">
