@@ -10,19 +10,21 @@ nav_order: 1
 
 ## Agrivoltaics: generating electricity while saving water – increasing WEF resources productivity
 
-<img src="/wef-nexus-online-course/assets/agri-pv.JPG" alt="Agrivoltaics">
-<p><small>Sources: 1) Fraunhofer ISE, BayWa r.e. 2) PVmagazine; Antoine Bolcato, 3) Greenomics World 2020</small></p>
+<img src="/wef-nexus-online-course/assets/agri-pv.jpg" alt="Agrivoltaics">
+<p><small>PVmagazine; Antoine Bolcato</small></p>
 
 <hr/>
 
 ### **Agriphotovoltaics (APV): Improving Water, Energy and Food Supply**
-Agrivoltaics have various synergistic effects linked to shading through the solar panels and the microclimatic effects of introducing plants: The shading reduces evaporation from the soil and transpiration from crop canopy, increasing soil moisture and irrigation water-use efficiency (Hassanpour Adeh et al., 2018). Further, especially in hot, dry, and sunny climates, shading can prevent depression in photosynthesis through heat and light stress allowing greater plant growth (Barron-Gafford et al., 2019; Trommsdorff et al., 2021). Finally, the crops provide transpirational cooling to the photovoltaic panels, increasing their efficiency (Adeh et al., 2019).
+Agrivoltaics have various synergistic effects linked to shading through the solar panels and the microclimatic effects of introducing plants: The shading reduces evaporation from the soil and transpiration from crop canopy, increasing soil moisture and irrigation water-use efficiency (Hassanpour Adeh et al., 2018). 
+
+Further, especially in hot, dry, and sunny climates, shading can prevent depression in photosynthesis through heat and light stress allowing greater plant growth (Barron-Gafford et al., 2019; Trommsdorff et al., 2021). Finally, the crops provide transpirational cooling to the photovoltaic panels, increasing their efficiency (Adeh et al., 2019).
 
 <hr/>
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%203.png)
+<img src="/wef-nexus-online-course/assets/agri-system.tif" alt="Agri-Systems">
 
-<p><small>Overview of APV projects and facilities with location. The color gradient indicates the long-term average of daily/yearly sum of global horizontal radiation [kwh/m2]. The numbers indicate the location of the described facilities (Global horizontal irradiation map © 2018 The World Bank, Solar resource data: <a href="solargis.com">http://solargis.com/</a>, used under CC BY 3.0 IGO, modified from original)</p></small>
+<small>Overview of APV projects and facilities with location. The color gradient indicates the long-term average of daily/yearly sum of global horizontal radiation [kwh/m2]. The numbers indicate the location of the described facilities (Global horizontal irradiation map © 2018 The World Bank, Solar resource data: <a href="solargis.com">http://solargis.com/</a>, used under CC BY 3.0 IGO, modified from original)</small>
 
 
 <hr/>
@@ -33,6 +35,7 @@ Agrivoltaics have various synergistic effects linked to shading through the sola
 <p><small>Frainhofer ISE</p></small>
 
 Agrivoltaics integrate photovoltaic panels in agricultural systems. The setup allows multiple land-use of agricultural areas by adding electricity production through solar panels and optionally rainwater harvesting from the panel surfaces (Fraunhofer ISE) as productive uses. The produced electricity can be used for food processing and energy supply of local communities or be fed into the national grid (given suitable remuneration schemes).
+<br>
 
 Agrivoltaics have various synergistic effects linked to shading through the solar panels and the microclimatic effects of introducing plants: The shading reduces evaporation from the soil and transpiration from crop canopy, increasing soil moisture and irrigation water-use efficiency (Adeh et al., 2018). Further, especially in hot, dry, and sunny climates, shading can prevent depression in photosynthesis through heat and light stress allowing greater plant growth (Barron-Gafford et al., 2019; Trommsdorff et al., 2021). Finally, the crops provide transpirational cooling to the photovoltaic panels, increasing their efficiency (Adeh et al., 2019).
 

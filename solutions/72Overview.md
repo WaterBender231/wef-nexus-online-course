@@ -8,6 +8,12 @@ parent: Solutions
 
 The smart combination of single-sector technologies allows to tap the synergies within the water, energy, and food nexus. <br> 
 <br>
+
+<img src="/wef-nexus-online-course/assets/joao-vitor-marcilio-aDyI7BnFWow-unsplash.jpg" alt="Agriculture in Brazil"/>
+
+<small>Photo by <a href="https://unsplash.com/@jvmarcilio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joao Vitor Marcilio</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
+  
+
 Nexus smart solutions include agrivoltaics, water and electricity cogeneration systems, solar-powered irrigation systems (see examples), saline water greenhouses (Al-Ismaili and Jayasuriya, 2016), water efficient cooling towers (Pan et al. 2018),  recycling of solid waste and wastewater for energy supply (Wang et al., 2017) and fertilization (González-Sierra et al., 2019), and phosphorous and nitrogen recovery (Chrispim et al. 2019, Robles et al. 2020).
 <br>
 
