@@ -37,7 +37,7 @@ Adding soil as component</h2>
      alt="WEFS Nexus" width="400" height="400"></center>
 
 
-<p><small>Source: Figure 3: WEFS-Nexus after Hatfield et al. 2017.</small></p>
+<p><small>Source: WEFS-Nexus after Hatfield et al. 2017.</small></p>
 
 Hatfield et al. 2017 put an emphasis on soil as important element of the water, food, energy nexus.
 
