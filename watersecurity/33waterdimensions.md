@@ -155,13 +155,12 @@ Aqueduct <a href="https://www.worldwater.org/water-data/">https://www.worldwater
 
 
 <details><summary><i>See More Data Sources for <b>Water Quality</b></i></summary>
-
+<p>
 GEMStat is a global database containing water quality data from 5,705 stations worldwide: <a href="https://gemstat.bafg.de">https://gemstat.bafg.de/</a> <br>
 <br>
 An interactive tool to identify coastal and riverine flood risks, and analyze the costs and benefits of investing in flood protection: <a href="https://www.wri.org/applications/aqueduct/floods">https://www.wri.org/applications/aqueduct/floods</a> <br>
 <br>
 And also a data set on global flood hazards: <a href="https://www.wri.org/resources/data-sets/aqueduct-floods-hazard-maps">https://www.wri.org/resources/data-sets/aqueduct-floods-hazard-maps</a>
-
 </p>
 </details>
 
