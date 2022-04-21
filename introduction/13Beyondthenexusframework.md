@@ -41,6 +41,11 @@ Adding soil as component</h2>
 
 Hatfield et al. 2017 put an emphasis on soil as important element of the water, food, energy nexus.
 
+Soil resources are essential for food supplies, a crucial sink for atmospheric carbon dioxide, and an integral part of ecosystems. However, WEF-nexus studies rarely integrate soils as a key research component even though there are many links to the WEF-nexus: Soils support various ecosystem services such as nutrient transformation, nutrient availability, water quality, water renewability, transport of pollutants, and groundwater table fluctuations. Soils also enable the production of biomass. Biomass, in turn, can be used for food, feeding, fiber, and biofuels (Lal et al., 2017).
+
+The lack of awareness about soils translates into a lack of solutions and actions that improve soil management (Hatfield et al. 2017; Gu et al., 2021). Unsustainable soil management and pollution (i.e., agriculture, waste management) profoundly affect soil processes and change soil properties. For instance, soil erosion and degradation lead to declining soil productivity and thus cause declining yields. Hence, preventative measures to achieve soil health for food security and ecosystem health are crucial (Hatfield et al. 2017; Gu et al., 2021).
+
+
 <hr/>
 
 ## 1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)
@@ -92,7 +97,11 @@ However, Rothausen & Conway (2011) stress that links between the water and energ
 <i>Andrews-Speed, P., R. Bleischwitz, G. Kemp, S. VanDeveer, T. Boersma and C. Johnson 2012. The Global Resource Nexus. The Struggles for Land, Energy, Food, Water and Minerals, 2012, Washington D.C., Transatlantic Academy.</i><br>
 <br>
 <b>1.3.2 Water-Energy-Food-Soil (WEFS) Nexus</b><br>
-<i>Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: <a href="https://doi.org/10.1016/bs.agron.2017.02.001">https://doi.org/10.1016/bs.agron.2017.02.001</a></i><br>
+<i>Gu, B., Chen, D., Yang, Y., Vitousek, P., Zhu, Y. (2021): Soil-Food-Environment-Health Nexus for Sustainable Development, Research, Article ID 9804807, 2021. <a href=”https://doi.org/10.34133/2021/9804807”> https://doi.org/10.34133/2021/9804807</a><br>
+<br>
+Hatfield, J.L.; Sauer, T.J.; Cruse, R.M. (2017): Soil: The forgotten piece of the water, food, energy nexus. In: Advances in Agronomy, Vol.143: 1-46 . doi: <a href="https://doi.org/10.1016/bs.agron.2017.02.001">https://doi.org/10.1016/bs.agron.2017.02.001</a><br>
+<br>
+Lal, R., Mohtar, R.H., Assi, A.T. et al. (2017): Soil as a Basic Nexus Tool: Soils at the Center of the Food–Energy–Water Nexus. Curr Sustainable Renewable Energy Rep 4, 117–129. <a href="https://doi.org/10.1007/s40518-017-0082-4">https://doi.org/10.1007/s40518-017-0082-4</a></i><br>
 <br>
 <b>1.3.3 WEF Nexus: The Environmental Livelihood Security (ELS)</b><br>
 <i>Biggs, EM., Bruce, E., Boruff, B., Duncan, JMA., Horsley, J., Pauli, N., McNeill, K., Neef, A., Ogtrop, FV., Curnow, J., Haworth, B., Duce, S. & Imanari, Y. (2015), ‘Sustainable development and the water-energy-food nexus: A perspective on livelihoods’, Environmental Science and Policy, vol. 54, pp. 389–397.</i><br>
