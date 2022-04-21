@@ -32,10 +32,10 @@ Further, especially in hot, dry, and sunny climates, shading can prevent depress
 ### **Agrivoltaics: how to use the increased WEF productivity**
 
 <img src="/wef-nexus-online-course/assets/multiple-land-use.jpg" alt="Agrivoltaics">
-<p><small>Frainhofer ISE</p></small>
+
+<small>Fraunhofer ISE </small>
 
 Agrivoltaics integrate photovoltaic panels in agricultural systems. The setup allows multiple land-use of agricultural areas by adding electricity production through solar panels and optionally rainwater harvesting from the panel surfaces (Fraunhofer ISE) as productive uses. The produced electricity can be used for food processing and energy supply of local communities or be fed into the national grid (given suitable remuneration schemes).
-<br>
 
 Agrivoltaics have various synergistic effects linked to shading through the solar panels and the microclimatic effects of introducing plants: The shading reduces evaporation from the soil and transpiration from crop canopy, increasing soil moisture and irrigation water-use efficiency (Adeh et al., 2018). Further, especially in hot, dry, and sunny climates, shading can prevent depression in photosynthesis through heat and light stress allowing greater plant growth (Barron-Gafford et al., 2019; Trommsdorff et al., 2021). Finally, the crops provide transpirational cooling to the photovoltaic panels, increasing their efficiency (Adeh et al., 2019).
 
@@ -46,7 +46,7 @@ Agrivoltaics have various synergistic effects linked to shading through the sola
 1. **No competition for land resources**
 
 image
-<p><small>Title</p></small>
+<small>Title</small>
 
 One central issue with renewable energy systems is the competition for agrarian land. Wind turbines require a lot of space, ground-mounted solar PV is mostly used in flat and sunny areas that could be used for agriculture. Additionally, a variety of crops are grown solely for energetic use: in Germany, 14% of the agricultural area is used for bioenergy (Fachagentur Nachwachsende Rohstoffe 2020). As both the demand for food and energy is projected to increase (IRENA 2018; FAO 2017) , the conflict for land resources can be expected to grow. <br>
 <br>
@@ -55,7 +55,7 @@ One approach to reduce land competition is the use of Agrivoltaics (AVP). The te
 2. **Shadowing effects on crops**
 
 <img src="/wef-nexus-online-course/assets/shadowing-crops.JPG" alt="Shadowing effects on crops">
-<p><small>Images from: 1) Fraunhofer ISE (2020) and 2) Sinovoltaics.com</p></small>
+<small>Images from: 1) Fraunhofer ISE (2020) and 2) Sinovoltaics.com</small>
 
 While the total efficiency of the PV systems may decrease, the dual use of land can actually lead to an increase in yield of crops.
 The effect on the total yield depends mainly on the insolation, the crop and the soil, as well as the rate of shadowing of the APV construction. In general, plants do not utilize incoming light, once a certain threshold is reached. This means that after a certain point, photosynthesis stops and additional sunlight will not serve to further grow a plant and can even be harmful. (Runkle 2015) Especially in arid climate, it has been shown that yields can increase substantially due to additional shadowing. <br>
@@ -67,7 +67,7 @@ For most crops, moderate shading, meaning reducing the insolation by 20-30%, giv
 3. **Impacts on generation, crop yield and water efficiency**
 
 <img src="/wef-nexus-online-course/assets/selected-plant-effects.png" alt="APV effects on selected plants">
-<p><small>Graph adapted from Barron-Gafford et al. (2019)</p></small>
+<small>Graph adapted from Barron-Gafford et al. (2019)</small>
 
 Using synergetic effects to (ideally)
 
@@ -91,7 +91,7 @@ In addition, the efficiency of PV systems decreases with increasing surface temp
 
 ![Untitled](7%203%201%20Inte%20ff8f0/Untitled%208.png)
 
-<p><small>Images from (1) M. Thrommsdorf at Wikimedia commons (2) brgfx at <a href="freepik.com">http://freepik.com/</a></p></small>
+<small>Images from (1) M. Thrommsdorf at Wikimedia commons (2) brgfx at <a href="freepik.com">http://freepik.com/</a></small>
 
 **Components**
 An APV system consists of the standard PV components:
@@ -136,7 +136,7 @@ Plant growth and yield depend strongly on the availability of light. Optimum lev
 
 ![Untitled](7%203%201%20Inte%20ff8f0/Untitled%209.png)
 
-<p><small>Adapted from Fraunhofer ISE (2021) </p></small>
+<small>Adapted from Fraunhofer ISE (2021) </small>
 
 From an economic perspective, the installation of agrivoltaic systems on cropland is more expensive than ground-mounted systems, but comparable to small-scale rooftop PV. The costs across the lifetime (20 years) are averaging around 6.5 ct/kWh for a system on permanent crops (low clearance height) and around 10 ct/kWh for a mounted system (up to 6 meters above the ground) (Fraunhofer ISE 2020). If the electricity can be used at the site, it will therefore be cheaper than the grid in most areas. As can be seen in the illustration, the levelized costs of electricity are on average lower than most conventional energy carriers.
 
@@ -155,7 +155,7 @@ Currently, the total capacity of agrivoltaics across the globae is around 2.8 GW
 
 ![Untitled](7%203%201%20Inte%20ff8f0/Untitled%2010.png)
 
-<p></small>Fraunhofer ISE (2020)</p></small>
+</small>Fraunhofer ISE (2020)</small>
 
 Even though the levelized costs of electricity are comparatively low, the investment costs are still significant. The figure illustrates the costs of different items. According to these numbers the total costs are around 1,500 €/kWp for high-mounted systems and around 1.100 € for constructions with a low clearance height (Fraunhofer ISE 2020).
 
@@ -171,7 +171,7 @@ the growth of agrivoltaics.
 
 ![Untitled](7%203%201%20Inte%20ff8f0/Untitled%2011.png)
 
-<p><small>Source: Microsoft Bing (2021), Jung & Salmon 2021  Source (both, right side): www.renewables.ninja and Gelaro et al. (2017)</p></small>
+<small>Source: Microsoft Bing (2021), Jung & Salmon 2021  Source (both, right side): www.renewables.ninja and Gelaro et al. (2017)</small>
 
 **Overall Setting**
 In a cooperative research project, Fraunhofer Chile, the local government, and local partners have implemented three agrivoltaic systems (each 13 kWp), including monitoring devices in the surroundings of Santiago de Chile (El Monte, Curacaví, and Lampa). The study aims to create insights on crop benefits from reduced solar radiation and the adaption and optimization of agrivoltaics for specific climatic and economic conditions.
@@ -194,7 +194,7 @@ The water scarcity and high demand lead to competition for water from different 
 
 ![Untitled](7%203%201%20Inte%20ff8f0/Untitled%2012.png)
 
-<p><small>Title.</p></small>
+<small>Title</small>
 
 **Yield**
 Frauenhofer (2020) applied the photovoltaic yield model of renewables.ninja for the given set-up and coordinates: The annual energy production sums up to 18899 kWh for 2019 (Pfeinninger and Staffell). Monthly maximas are in the southern hemisphere's summer (December, January), and monthly minimas in the southern hemisphere's winter (June, July). The observed electricity production from April 2019 to March 2020 sums up to 8157 kWh (Jung and Salmon 2021). The big difference in annual production can mainly be explained by a defect and measurement shortcomings on-site: 
