@@ -13,7 +13,7 @@ Additional water-energy nexus synergies can be tapped when combining water and e
 
 
 <br/> <br/>
-[Next solution: Biogas](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/agroforestry){: .btn .btn-purple .mr-4}
+[Next solution: Biogas](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/biogas){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
 <hr/>

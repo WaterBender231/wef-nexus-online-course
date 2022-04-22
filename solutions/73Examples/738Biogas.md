@@ -262,7 +262,7 @@ The mesophilic, anaerobic digestion is estimated to reduce the volatile solid by
 Subtracting the annual electricity demand for the mixing unit (0.16 MWh/y) and the water pump (24.12 MWh), the annual net electricity production is 123.75 MWh/y. Given the total electricity demand of the WWTP of 412 MWh/y, the resulting energy recovery potential is 30.0%.
 
 <br/> <br/>
-[Next solution: Constructed Wetlands](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/agroforestry){: .btn .btn-purple .mr-4}
+[Next solution: Constructed Wetlands](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/constructed-wetlands){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
 <hr/>

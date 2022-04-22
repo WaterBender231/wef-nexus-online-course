@@ -101,7 +101,7 @@ Given the case study data (Serrano-Tovar et al., 2019), assuming constant electr
 
 
 <br/> <br/>
-[Next solution: Water and Electricity Cogeneration](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/agroforestry){: .btn .btn-purple .mr-4}
+[Next solution: Water and Electricity Cogeneration](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/cogeneration){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
 <hr/>
