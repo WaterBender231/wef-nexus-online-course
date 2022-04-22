@@ -273,44 +273,45 @@ Pfeinninger, S., & Staffell, I. Renewables.Ninja. [https://www.renewables.ninja/
 Trommsdorff, M., Kang, J., Reise, C., Schindele, S., Bopp, G., Ehmann, A., Weselek, A., Högy, P., & Obergfell, T. (2021). Combining food and energy production: Design of an agrivoltaic system applied in arable and vegetable farming in Germany. Renewable and Sustainable Energy Reviews, 140, 110694. [https://doi.org/10.1016/j.rser.2020.110694](https://doi.org/10.1016/j.rser.2020.110694) </i>
 </small> 
 
-**APV: Technology, Components and Performance + Summary**
+<br>
 
-Adeh, E. H., Good, S. P., Calaf, M., & Higgins, C. W. (2019). Solar pv power potential is greatest over croplands. Scientific Reports, 9(1), 11442. [https://doi.org/10.1038/s41598-019-47803-3](https://doi.org/10.1038/s41598-019-47803-3)
-
-Barron-Gafford, G. A., Pavao-Zuckerman, M. A., Minor, R. L., Sutter, L. F., Barnett-Moreno, I., Blackett, D. T., Thompson, M., Dimond, K., Gerlak, A. K., Nabhan, G. P., & Macknick, J. E. (2019). Agrivoltaics provide mutual benefits across the food–energy–water nexus in drylands. Nature Sustainability. Advance online publication. [https://doi.org/10.1038/s41893-019-0364-5](https://doi.org/10.1038/s41893-019-0364-5)
-
-Bellini, E. (2020). Giant agrivoltaic project in china. [https://www.pv-magazine.com/2020/09/03/giant-agrivoltaic-project-in-china/](https://www.pv-magazine.com/2020/09/03/giant-agrivoltaic-project-in-china/)
-
-Chapin, F. S., Matson, P. A., & Vitousek, P. M. (2011). Principles of Terrestrial Ecosystem Ecology. Springer New York. [https://doi.org/10.1007/978-1-4419-9504-9](https://doi.org/10.1007/978-1-4419-9504-9)
-
-Fachagentur Nachwachsende Rohstoffe (2020): Basisdaten Bioenergie Deutschland 2021. Available online at [https://www.fnr.de/fileadmin/Projekte/2020/Mediathek/broschuere_basisdaten_bioenergie_2020_web.pdf](https://www.fnr.de/fileadmin/Projekte/2020/Mediathek/broschuere_basisdaten_bioenergie_2020_web.pdf), checked on 10/25/2021
-
-FAO (2019): The future of food and agriculture – Trends and challenges. Available online at [https://www.fao.org/3/i6583e/i6583e.pdf](https://www.fao.org/3/i6583e/i6583e.pdf), last checked on 10/26/2021
-
-FAO (2020): Land use in agriculture by the numbers. Available online at [https://www.fao.org/sustainability/news/detail/en/c/1274219/](https://www.fao.org/sustainability/news/detail/en/c/1274219/), checked on 10/25/2021
-
-Fraunhofer ISE. Apv-maga: agrivoltaics for mali and gambia: Sustainable electricity production by integrated food, energy and water systems. [https://www.ise.fraunhofer.de/en/research-projects/apv-maga.html](https://www.ise.fraunhofer.de/en/research-projects/apv-maga.html)(2020). Agrivoltaics: Opportunities for Agriculture and the Energy Transition. A Guideline for Germany. Freiburg. Fraunhofer ISE. [https://www.ise.fraunhofer.de/content/dam/ise/en/documents/publications/studies/APV-Guideline.pdf](https://www.ise.fraunhofer.de/content/dam/ise/en/documents/publications/studies/APV-Guideline.pdf)
-
-Fraunhofer ISE (2020): Agrivoltaics: Opportunities for Agriculture and the Energy Transition.
-
-Fraunhofer ISE (2021): Levelized Cost of Electricity Renewable Energy Technologies. June 2021.
-
-Hassanpour Adeh, E., Selker, J. S., & Higgins, C. W. (2018). Remarkable agrivoltaic influence on soil moisture, micrometeorology and water-use efficiency. PLOS ONE, 13(11), e0203256. [https://doi.org/10.1371/journal.pone.0203256](https://doi.org/10.1371/journal.pone.0203256)
-
-IRENA (2018): Global Energy Transformation – A Roadmap to 2050. Available online at [https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_Report_GET_2018.pdf](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_Report_GET_2018.pdf), checked on 10/26/2021
-
-Jung, D., & Salmon, A. (2021). Agrivoltaic Pilot Plant Curacavi: General Information and Technical Description. Fraunhofer CSET.
-
-Runkle, E. (2015): Interactions of Light, CO2 and Temperature on Photosynthesis. Edited by Michigan State University. Available online at [https://www.canr.msu.edu/uploads/resources/pdfs/light-co2-and-temp.pdf](https://www.canr.msu.edu/uploads/resources/pdfs/light-co2-and-temp.pdf), checked on 10/25/2021
-
-Trommsdorff, M., Kang, J., Reise, C., Schindele, S., Bopp, G., Ehmann, A., Weselek, A., Högy, P., & Obergfell, T. (2021). Combining food and energy production: Design of an agrivoltaic system applied in arable and vegetable farming in Germany. Renewable and Sustainable Energy Reviews, 140, 110694. [https://doi.org/10.1016/j.rser.2020.110694](https://doi.org/10.1016/j.rser.2020.110694)
-
-Touil, Sami; Richa, Amina; Fizir, Meriem; Bingwa, Brendon (2021): Shading effect of photovoltaic panels on horticulture crops production: a mini review. In Rev Environ Sci Biotechnol 20 (2), pp. 281–296. DOI: 10.1007/s11157-021-09572-2
-
-Weselek, Axel; Ehmann, Andrea; Zikeli, Sabine; Lewandowski, Iris; Schindele, Stephan; Högy, Petra (2019): Agrophotovoltaic systems: applications, challenges, and opportunities. A review. In Agron. Sustain. Dev. 39 (4), p. 545. DOI: 10.1007/s13593-019-0581-3
-
-The World Bank (2020): Water in Agriculture. Available online at [https://www.worldbank.org/en/topic/water-in-agriculture#1](https://www.worldbank.org/en/topic/water-in-agriculture#1), checked on 10/25/2021
-
-Dinesh, Harshavardhan; Pearce, Joshua M. (2016): The potential of agrivoltaic systems. In Renewable and Sustainable Energy Reviews 54 (2), pp. 299–308. DOI: 10.1016/j.rser.2015.10.024.
-FAO (2020): Land use in agriculture by the numbers. Available online at [https://www.fao.org/sustainability/news/detail/en/c/1274219/](https://www.fao.org/sustainability/news/detail/en/c/1274219/), checked on 10/25/2021
-The World Bank (2020): Water in Agriculture. Available online at [https://www.worldbank.org/en/topic/water-in-agriculture#1](https://www.worldbank.org/en/topic/water-in-agriculture#1), checked on 10/25/2021
+<small><b>APV: Technology, Components and Performance + Summary</b><br>
+<i>Adeh, E. H., Good, S. P., Calaf, M., & Higgins, C. W. (2019). Solar pv power potential is greatest over croplands. Scientific Reports, 9(1), 11442. <a href="https://doi.org/10.1038/s41598-019-47803-3">https://doi.org/10.1038/s41598-019-47803-3</a><br>
+<br>
+Barron-Gafford, G. A., Pavao-Zuckerman, M. A., Minor, R. L., Sutter, L. F., Barnett-Moreno, I., Blackett, D. T., Thompson, M., Dimond, K., Gerlak, A. K., Nabhan, G. P., & Macknick, J. E. (2019). Agrivoltaics provide mutual benefits across the food–energy–water nexus in drylands. Nature Sustainability. Advance online publication. <a href="https://doi.org/10.1038/s41893-019-0364-5">https://doi.org/10.1038/s41893-019-0364-5</a><br>
+<br>
+Bellini, E. (2020). Giant agrivoltaic project in china. <a href="https://www.pv-magazine.com/2020/09/03/giant-agrivoltaic-project-in-china/">https://www.pv-magazine.com/2020/09/03/giant-agrivoltaic-project-in-china/</a><br>
+<br>
+Chapin, F. S., Matson, P. A., & Vitousek, P. M. (2011). Principles of Terrestrial Ecosystem Ecology. Springer New York. <a href="https://doi.org/10.1007/978-1-4419-9504-9">https://doi.org/10.1007/978-1-4419-9504-9</a><br>
+<br>
+Dinesh, Harshavardhan; Pearce, Joshua M. (2016): The potential of agrivoltaic systems. In Renewable and Sustainable Energy Reviews 54 (2), pp. 299–308. DOI: <a href="10.1016/j.rser.2015.10.024">10.1016/j.rser.2015.10.024</a><br>
+<br>
+Fachagentur Nachwachsende Rohstoffe (2020): Basisdaten Bioenergie Deutschland 2021. Available online at <a href="https://www.fnr.de/fileadmin/Projekte/2020/Mediathek/broschuere_basisdaten_bioenergie_2020_web.pdf">https://www.fnr.de/fileadmin/Projekte/2020/Mediathek/broschuere_basisdaten_bioenergie_2020_web.pdf</a>, checked on 10/25/2021. <br>
+<br>
+FAO (2019): The future of food and agriculture – Trends and challenges. Available online at <a href="https://www.fao.org/3/i6583e/i6583e.pdf">https://www.fao.org/3/i6583e/i6583e.pdf</a>, last checked on 10/26/2021
+<br>
+FAO (2020): Land use in agriculture by the numbers. Available online at <a href="https://www.fao.org/sustainability/news/detail/en/c/1274219/">https://www.fao.org/sustainability/news/detail/en/c/1274219/</a>, checked on 10/25/2021<br>
+<br>
+Fraunhofer ISE. Apv-maga: agrivoltaics for mali and gambia: Sustainable electricity production by integrated food, energy and water systems. <a href="https://www.ise.fraunhofer.de/en/research-projects/apv-maga.html">https://www.ise.fraunhofer.de/en/research-projects/apv-maga.html</a>(2020). Agrivoltaics: Opportunities for Agriculture and the Energy Transition. A Guideline for Germany. Freiburg. Fraunhofer ISE. <a href="https://www.ise.fraunhofer.de/content/dam/ise/en/documents/publications/studies/APV-Guideline.pdf">https://www.ise.fraunhofer.de/content/dam/ise/en/documents/publications/studies/APV-Guideline.pdf</a><br>
+<br>
+Fraunhofer ISE (2020): Agrivoltaics: Opportunities for Agriculture and the Energy Transition.<br>
+<br>
+Fraunhofer ISE (2021): Levelized Cost of Electricity Renewable Energy Technologies. June 2021.<br>
+<br>
+Hassanpour Adeh, E., Selker, J. S., & Higgins, C. W. (2018). Remarkable agrivoltaic influence on soil moisture, micrometeorology and water-use efficiency. PLOS ONE, 13(11), e0203256. <a href="https://doi.org/10.1371/journal.pone.0203256">https://doi.org/10.1371/journal.pone.0203256</a><br>
+<br>
+IRENA (2018): Global Energy Transformation – A Roadmap to 2050. Available online at <a href="https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_Report_GET_2018.pdf">https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_Report_GET_2018.pdf</a>, checked on 10/26/2021<br>
+<br>
+Jung, D., & Salmon, A. (2021). Agrivoltaic Pilot Plant Curacavi: General Information and Technical Description. Fraunhofer CSET.<br>
+<br>
+Runkle, E. (2015): Interactions of Light, CO2 and Temperature on Photosynthesis. Edited by Michigan State University. Available online at <a href="https://www.canr.msu.edu/uploads/resources/pdfs/light-co2-and-temp.pdf">https://www.canr.msu.edu/uploads/resources/pdfs/light-co2-and-temp.pdf</a>, checked on 10/25/2021<br>
+<br>
+Trommsdorff, M., Kang, J., Reise, C., Schindele, S., Bopp, G., Ehmann, A., Weselek, A., Högy, P., & Obergfell, T. (2021). Combining food and energy production: Design of an agrivoltaic system applied in arable and vegetable farming in Germany. Renewable and Sustainable Energy Reviews, 140, 110694. <a href="https://doi.org/10.1016/j.rser.2020.110694">https://doi.org/10.1016/j.rser.2020.110694</a><br>
+<br>
+Touil, Sami; Richa, Amina; Fizir, Meriem; Bingwa, Brendon (2021): Shading effect of photovoltaic panels on horticulture crops production: a mini review. In Rev Environ Sci Biotechnol 20 (2), pp. 281–296. DOI: 10.1007/s11157-021-09572-2<br>
+<br>
+Weselek, Axel; Ehmann, Andrea; Zikeli, Sabine; Lewandowski, Iris; Schindele, Stephan; Högy, Petra (2019): Agrophotovoltaic systems: applications, challenges, and opportunities. A review. In Agron. Sustain. Dev. 39 (4), p. 545. DOI: <a href="10.1007/s13593-019-0581-3">10.1007/s13593-019-0581-3</a><br>
+<br>
+The World Bank (2020): Water in Agriculture. Available online at <a ref="https://www.worldbank.org/en/topic/water-in-agriculture#1">https://www.worldbank.org/en/topic/water-in-agriculture#1</a>, checked on 10/25/2021<br>
+<br>
+The World Bank (2020): Water in Agriculture. Available online at <a ref="https://www.worldbank.org/en/topic/water-in-agriculture#1">https://www.worldbank.org/en/topic/water-in-agriculture#1</a>, checked on 10/25/2021 </i></small>
