@@ -10,7 +10,7 @@ grand_parent: Solutions
 ## **Overview: What is Agroforestry?** 
 
 <img src="https://growahead.org/wp-content/uploads/Grow-Ahead-Agroforestry-2048x1127.png">
-</small>Image from Growahead, available at <a href="https://growahead.org/plant-trees/">https://growahead.org/plant-trees/</a></small>
+<small>Image from Growahead, available at <a href="https://growahead.org/plant-trees/">https://growahead.org/plant-trees/</a></small>
 
 
 Agroforestry is the combination of woody perennials (e.g., trees, shrubs, palms, bamboos) with crops and/or animals (Wilson & Lovell, 2016) that diversifies and sustains production for increased social, economic, and environmental benefits for land users at all levels (FAO, 2015).
