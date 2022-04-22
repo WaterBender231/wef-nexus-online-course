@@ -16,5 +16,9 @@ parent: Solutions
 
 
 
-You've finished all learning units, congratulations! 
-{: .label .label-green } [Contact us](https://waterbender231.github.io/wef-nexus-online-course/contact/){: .btn .btn-outline }
+You've finished all learning units, congratulations!{: .label .label-green } 
+
+<br>
+
+Do you have questions or ideas to share with us?
+[Contact us!](https://waterbender231.github.io/wef-nexus-online-course/contact/){: .btn .btn-outline }
