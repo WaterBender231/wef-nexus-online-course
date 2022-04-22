@@ -27,7 +27,7 @@ All in all, agroforestry is not a new technique, in some sort of way it is a 
 
 ![Untitled](7%203%204%20Agro%205a577/Untitled%201.png)
 
-<p><small>Source: Elagib and Al-Saidi (2020)</p></small>
+<small>Source: Elagib and Al-Saidi (2020)</small>
 
 When looking at the Nexus, it can be seen that there are potential effects on all aspects. A case study by Elagib and Al-Saidi (2020) highlights the impacts of agroforestry on the Water Energy Land Food (WELF) Nexus.
 
@@ -44,14 +44,14 @@ Estimated average Yield, market price and peak productivity [R$/hectare], of sel
 
 ![Untitled](7%203%204%20Agro%205a577/Untitled%202.png)
 
-<p><small>Source.</p></small>
+<small>Source.</small>
 
 **Cost and Revenue**
 Net Present Value of FoFo SAF (1 hectare) at a discount rate of 8.25 %
 
 ![Untitled](7%203%204%20Agro%205a577/Untitled%203.png)
 
-<p><small>Source: Todeschini de Quadros (2017)</p></small>
+<small>Source: Todeschini de Quadros (2017)</small>
 
 **Productivity**
 The plants of the FoFo SAF are collocated considering their syntropy potential, cost, yield, and market price. The average yield and market prices are estimations based on secondary data and empirical knowledge from the local producers of Acre.
@@ -67,7 +67,7 @@ The Net Present Value is sensitive to the discount rate (≙weighted cost of cap
 
 ![Untitled](7%203%204%20Agro%205a577/Untitled%204.png)
 
-<p><small>Source: Zhu et al. 2020</p></small>
+<small>Source: Zhu et al. 2020</small>
 
 ### **WEFE benefits**
 Agroforestry is multifunctional and can provide various economic, sociocultural, and environmental benefits (FAO, 2015). Within the Water-Energy-Food-Ecosystem (WEFE) Nexus, benefits include food production, reduction in nutrient and pesticide runoff, carbon sequestration, increased soil quality, erosion control, improved wildlife habitat, increased resilience to extreme events, and lowering the fossil fuel use and overall energy demand of agricultural production (Platis et al., 2019; Wilson & Lovell, 2016). Conducting an evidence-based synthesis, Zhu et al. (2020) found that agroforestry systems reduce surface runoff, soil erosion, and related organic carbon and nutrient losses on average by 58%, 65%, 9%, and 50%, respectively. Moreover, they found that agroforestry systems lower the impact of herbicides, pesticides, and other pollutants on water resources by 49% on average.
@@ -93,7 +93,7 @@ According to FAO (2015), agroforestry can be especially beneficial to smallholde
 
 ![Untitled](7%203%204%20Agro%205a577/Untitled%205.png)
 
-<p><small>Sources: Zhu et al. 2020.</p></small>
+<small>Sources: Zhu et al. 2020.</small>
 
 Conducting an evidence-based synthesis, Zhu et al. (2020) found that agroforestry systems reduce surface runoff, soil erosion, and related organic carbon and nutrient losses on average by 58%, 65%, 9%, and 50%, respectively. Moreover, they found that agroforestry systems lower the impact of herbicides, pesticides, and other pollutants on water resources by 49% on average.
 
@@ -107,7 +107,7 @@ These findings are supported by Castle et al. (2021). The authors of the review 
 
 ![Untitled](7%203%204%20Agro%205a577/Untitled%206.png)
 
-<p><small>AF: Agroforestry. Illustration from Miller et al. (2020).</p></small>
+<small>AF: Agroforestry. Illustration from Miller et al. (2020).</small>
 
 A study by Miller etal. (2020) developed a theory of change for successful agroforestry interventions. The ideal system provides positive final outcomes on all the examined aspects of agricultural productivity, ecosystem services and human well-being. It highlights the importance of proper crop selection adopted to the local circumstances and education in the first steps (Miller et al. 2020).
 
@@ -125,7 +125,7 @@ The figure below highlights key interconnections between agroforestry systems an
 
 ![Untitled](7%203%204%20Agro%205a577/Untitled%207.png)
 
-<p><small>"Integrating Agroforestry into WEF-Systems". Source: Alexandra Nauditt, Silvia Krautzik<p></small>
+<small>"Integrating Agroforestry into WEF-Systems". Source: Alexandra Nauditt, Silvia Krautzik</small>
 
 
 
@@ -153,7 +153,7 @@ Zomer, R. J.; Trabucco, A.; Coe, R.; Place, F.; van Noordwijk, M.; Xu, J. (2014)
 <b>Agroforestry System (FoFo SAF)</b><br>
 <i>Todeschini de Quadros, B. (2017). Prototyping agroforestry systems with unconventional food plants (PANC): an innovative approaxch to sustainable food production systems for smallholders in the Brazilian Amazon rainforest. KU Leuven. </i><br>
 <br>
-<b>Benefits of Agroforestry compared to agricultural systems<b><br>
+<b>Benefits of Agroforestry compared to agricultural systems</b><br>
 <i>FAO. (2015). Agroforestry: definition. <a href="http://www.fao.org/forestry/agroforestry/80338/en/">http://www.fao.org/forestry/agroforestry/80338/en/</a><br>
 Pentagrama. (2021). Large-scale agroforestry systems. <a href="https://www.pentagramaprojetos.com.br/en/large-scale-agroforestry-systems/">https://www.pentagramaprojetos.com.br/en/large-scale-agroforestry-systems</a><br>
 <br>
