@@ -7,9 +7,8 @@ grand_parent: Solutions
 ---
 # **7.3.5 Renewable Energy Desalination**
 
-![Untitled](7%203%205%20Rene%209f61b/Untitled.png)
-
-<p><small>Solar Desalination Plant, Mascara, Doha, UAE</p></small>
+<img src="/wef-nexus-online-course/assets/desalination.jpg">
+<small>Solar Desalination Plant, Mascara, Doha, UAE</small>
 
 Seawater desalination addresses the challenge of water scarcity and seawater intrusion in coastal areas. Desalination technologies have become more energy-efficient due to energy recovery devices, high permeability membranes and more efficient pumps. Yet, the relatively high energy demand results in increased water production cost and CO2 emissions.
 
