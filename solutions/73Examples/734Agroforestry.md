@@ -137,7 +137,7 @@ The figure below highlights key interconnections between agroforestry systems an
 <hr/>
 
 <small><b>References<br>
-Overview: What is Agroforestry?</b>
+Overview: What is Agroforestry?</b> <br>
 <i>FAO. (2015). Agroforestry: definition. <a href="http://www.fao.org/forestry/agroforestry/80338/en/">http://www.fao.org/forestry/agroforestry/80338/en/</a><br>
 FAO; ICRAF (2019): Agroforestry and tenure. Foresty working paper no. 8. Rome. <br>
 <br>
@@ -165,6 +165,7 @@ Zhu, X., Liu, W., Chen, J., Bruijnzeel, L. A., Mao, Z., Yang, X., Cardinael, R.,
 <br>
 <b>Impacts of agroforestry</b><br>
 <i>Castle, Sarah E.; Miller, Daniel C.; Ordonez, Pablo J.; Baylis, Kathy; Hughes, Karl (2021): The impacts of agroforestry interventions on agricultural productivity, ecosystem services, and human well‐being in low‐ and middle‐income countries: A systematic review. In Campbell Systematic Reviews 17 (2), e12740. DOI: <a href="10.1002/cl2.1167">10.1002/cl2.1167</a>.<br>
+<br>
 Zhu, X., Liu, W., Chen, J., Bruijnzeel, L. A., Mao, Z., Yang, X., Cardinael, R., Meng, F.-R., Sidle, R. C., Seitz, S., Nair, V. D., Nanko, K., Zou, X., Chen, C., & Jiang, X. J. (2020). Reductions in water, soil and nutrient losses and pesticide pollution in agroforestry practices: A review of evidence and processes. Plant and Soil, 453(1-2), 45–86. <a href="https://doi.org/10.1007/s11104-019-04377-3">https://doi.org/10.1007/s11104-019-04377-3</a></i><br>
 <br>
 <b>Agroforestry and its theory of change</b><br>
