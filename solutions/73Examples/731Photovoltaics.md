@@ -238,7 +238,7 @@ Agrivoltaics brings opportunities to improve every aspect withtin the WEF Nexus.
 As Weselek et al. (2019) put it: „As only very few studies address the impact of this technology on crop yields and quality, further investigations incorporating different climatic conditions, crop species and varieties are indispensable for the evaluation of its applicability in prospective agricultural system”
 
 <br/> <br/>
-[Next solution: MAR](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/irrigation-systems){: .btn .btn-purple .mr-4}
+[Next solution: Irrigation Systems](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/irrigation-systems){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
 
