@@ -106,32 +106,32 @@ Given the case study data (Serrano-Tovar et al., 2019), assuming constant electr
 
 <hr/>
 
-<small><b>References</b>
-de la Fuente, Juan Antonio. (2018). The Canary Islands experience: current non-conventional water resources and future perspectives. ITC Canarias, Gobierno de Canarias. [https://www.gwp.org/contentassets/aa500f6c8cb749d7ac324a4065395386/203.the-canary-islands-experience.pdf](https://www.gwp.org/contentassets/aa500f6c8cb749d7ac324a4065395386/203.the-canary-islands-experience.pdf)
+<small><b>References</b> <br>
+de la Fuente, Juan Antonio. (2018). The Canary Islands experience: current non-conventional water resources and future perspectives. ITC Canarias, Gobierno de Canarias. [https://www.gwp.org/contentassets/aa500f6c8cb749d7ac324a4065395386/203.the-canary-islands-experience.pdf](https://www.gwp.org/contentassets/aa500f6c8cb749d7ac324a4065395386/203.the-canary-islands-experience.pdf) <br>
 <br>
-Fornarelli, R., Shahnia, F., Anda, M., Bahri, P. A., & Ho, G. (2018). Selecting an economically suitable and sustainable solution for a renewable energy-powered water desalination system: A rural australian case study. Desalination, 435(10), 128–139. [https://doi.org/10.1016/j.desal.2017.11.008](https://doi.org/10.1016/j.desal.2017.11.008)
+Fornarelli, R., Shahnia, F., Anda, M., Bahri, P. A., & Ho, G. (2018). Selecting an economically suitable and sustainable solution for a renewable energy-powered water desalination system: A rural australian case study. Desalination, 435(10), 128–139. [https://doi.org/10.1016/j.desal.2017.11.008](https://doi.org/10.1016/j.desal.2017.11.008) <br>
 <br>
-Gelaro, R., McCarty, W., Suárez, M. J., Todling, R., Molod, A., Takacs, L., Randles, C. A., Darmenov, A., Bosilovich, M. G., Reichle, R., Wargan, K., Coy, L., Cullather, R., Draper, C., Akella, S., Buchard, V., Conaty, A., da Silva, A. M., Gu, W., . . . Zhao, B. (2017). The modern-era retrospective analysis for research and applications, version 2 (merra-2). Journal of Climate, 30(14), 5419–5454. [https://doi.org/10.1175/JCLI-D-16-0758.1](https://doi.org/10.1175/JCLI-D-16-0758.1)
+Gelaro, R., McCarty, W., Suárez, M. J., Todling, R., Molod, A., Takacs, L., Randles, C. A., Darmenov, A., Bosilovich, M. G., Reichle, R., Wargan, K., Coy, L., Cullather, R., Draper, C., Akella, S., Buchard, V., Conaty, A., da Silva, A. M., Gu, W., . . . Zhao, B. (2017). The modern-era retrospective analysis for research and applications, version 2 (merra-2). Journal of Climate, 30(14), 5419–5454. [https://doi.org/10.1175/JCLI-D-16-0758.1](https://doi.org/10.1175/JCLI-D-16-0758.1) <br>
 <br>
-Giwa, A., Dufour, V., Al Marzooqi, F., Al Kaabi, M., & Hasan, S. W. (2017). Brine management methods: Recent innovations and current status. Desalination, 407, 1–23. [https://doi.org/10.1016/j.desal.2016.12.008](https://doi.org/10.1016/j.desal.2016.12.008)
+Giwa, A., Dufour, V., Al Marzooqi, F., Al Kaabi, M., & Hasan, S. W. (2017). Brine management methods: Recent innovations and current status. Desalination, 407, 1–23. [https://doi.org/10.1016/j.desal.2016.12.008](https://doi.org/10.1016/j.desal.2016.12.008) <br>
 <br>
-Gökçek, M., & Gökçek, Ö. B. (2016). Technical and economic evaluation of freshwater production from a wind-powered small-scale seawater reverse osmosis system (wp-swro). Desalination, 381(2), 47–57. [https://doi.org/10.1016/j.desal.2015.12.004](https://doi.org/10.1016/j.desal.2015.12.004)
+Gökçek, M., & Gökçek, Ö. B. (2016). Technical and economic evaluation of freshwater production from a wind-powered small-scale seawater reverse osmosis system (wp-swro). Desalination, 381(2), 47–57. [https://doi.org/10.1016/j.desal.2015.12.004](https://doi.org/10.1016/j.desal.2015.12.004) <br>
 <br>
-IDECanarias. (2015). Sistema de información territorial de canarias. [https://visor.grafcan.es/visorweb/](https://visor.grafcan.es/visorweb/)
+IDECanarias. (2015). Sistema de información territorial de canarias. [https://visor.grafcan.es/visorweb/](https://visor.grafcan.es/visorweb/) <br>
 <br>
-Kost, C., Shammugam, S., Jülch, V., Nguyen, H.-T., & Schlegl, T. (March 2018). Levelized Cost of Electricity: Renewable Energy Technologies. Fraunhofer ISE. [https://www.ise.fraunhofer.de/content/dam/ise/en/documents/publications/studies/EN2018_Fraunhofer-ISE_LCOE_Renewable_Energy_Technologies.pdf](https://www.ise.fraunhofer.de/content/dam/ise/en/documents/publications/studies/EN2018_Fraunhofer-ISE_LCOE_Renewable_Energy_Technologies.pdf)
+Kost, C., Shammugam, S., Jülch, V., Nguyen, H.-T., & Schlegl, T. (March 2018). Levelized Cost of Electricity: Renewable Energy Technologies. Fraunhofer ISE. [https://www.ise.fraunhofer.de/content/dam/ise/en/documents/publications/studies/EN2018_Fraunhofer-ISE_LCOE_Renewable_Energy_Technologies.pdf](https://www.ise.fraunhofer.de/content/dam/ise/en/documents/publications/studies/EN2018_Fraunhofer-ISE_LCOE_Renewable_Energy_Technologies.pdf) <br>
 <br>
-(2014). Mitigation of Climate Change: Technology-specific cost and performance parameters. Table A.III.2 (Emissions of selected electricity supply technologies (gC02eq/kWh). IPCC Working Group III. [https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf#page=7](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf#page=7)
+(2014). Mitigation of Climate Change: Technology-specific cost and performance parameters. Table A.III.2 (Emissions of selected electricity supply technologies (gC02eq/kWh). IPCC Working Group III. [https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf#page=7](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf#page=7) <br>
 <br>
-Merriam-Webster. Capacity factor: definition. [https://www.merriam-webster.com/dictionary/capacity factor](https://www.merriam-webster.com/dictionary/capacity%20factor)
+Merriam-Webster. Capacity factor: definition. [https://www.merriam-webster.com/dictionary/capacity factor](https://www.merriam-webster.com/dictionary/capacity%20factor) <br>
 <br>
-(2015). Renewable Energy in the Water, Energy and Food Nexus. IRENA. [https://www.irena.org/publications/2015/Jan/Renewable-Energy-in-the-Water-Energy--Food-Nexus](https://www.irena.org/publications/2015/Jan/Renewable-Energy-in-the-Water-Energy--Food-Nexus)
+(2015). Renewable Energy in the Water, Energy and Food Nexus. IRENA. [https://www.irena.org/publications/2015/Jan/Renewable-Energy-in-the-Water-Energy--Food-Nexus](https://www.irena.org/publications/2015/Jan/Renewable-Energy-in-the-Water-Energy--Food-Nexus) <br>
 <br>
-Okadera, T., Chontanawat, J., & Gheewala, S. H. (2014). Water footprint for energy production and supply in thailand. Energy, 77(4), 49–56. [https://doi.org/10.1016/j.energy.2014.03.113](https://doi.org/10.1016/j.energy.2014.03.113)
+Okadera, T., Chontanawat, J., & Gheewala, S. H. (2014). Water footprint for energy production and supply in thailand. Energy, 77(4), 49–56. [https://doi.org/10.1016/j.energy.2014.03.113](https://doi.org/10.1016/j.energy.2014.03.113) <br>
 <br>
-Poompavai, T., & Kowsalya, M. (2019). Control and energy management strategies applied for solar photovoltaic and wind energy fed water pumping system: A review. Renewable and Sustainable Energy Reviews, 107, 108–122. [https://doi.org/10.1016/j.rser.2019.02.023](https://doi.org/10.1016/j.rser.2019.02.023)
+Poompavai, T., & Kowsalya, M. (2019). Control and energy management strategies applied for solar photovoltaic and wind energy fed water pumping system: A review. Renewable and Sustainable Energy Reviews, 107, 108–122. [https://doi.org/10.1016/j.rser.2019.02.023](https://doi.org/10.1016/j.rser.2019.02.023) <br>
 <br>
-Serrano-Tovar, T., Peñate Suárez, B., Musicki, A., La Fuente Bencomo, J. A. de, Cabello, V., & Giampietro, M. (2019). Structuring an integrated water-energy-food nexus assessment of a local wind energy desalination system for irrigation. The Science of the Total Environment, 689, 945–957. [https://doi.org/10.1016/j.scitotenv.2019.06.422](https://doi.org/10.1016/j.scitotenv.2019.06.422)
+Serrano-Tovar, T., Peñate Suárez, B., Musicki, A., La Fuente Bencomo, J. A. de, Cabello, V., & Giampietro, M. (2019). Structuring an integrated water-energy-food nexus assessment of a local wind energy desalination system for irrigation. The Science of the Total Environment, 689, 945–957. [https://doi.org/10.1016/j.scitotenv.2019.06.422](https://doi.org/10.1016/j.scitotenv.2019.06.422) <br>
 <br>
 Staffell, I., & Pfenninger, S. (2016). Using bias-corrected reanalysis to simulate current and future wind power output. Energy, 114, 1224–1239. [https://doi.org/10.1016/j.energy.2016.08.068](https://doi.org/10.1016/j.energy.2016.08.068) </small>
 
