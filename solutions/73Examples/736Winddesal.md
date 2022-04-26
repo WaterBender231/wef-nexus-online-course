@@ -9,7 +9,7 @@ grand_parent: Solutions
 
 **Description, Geographic Context, & Variants**
 
-<img src="/wef-nexus-online-course/assets/image.jpg">
+<img src="/wef-nexus-online-course/assets/wind-desal.jpg">
 <small>Schematic wind desalination system (Gökçek & Gökçek, 2016)</small>
 
 Wind-powered reverse osmosis desalination presents an attractive water-energy-food nexus sound solution combing the sustainability of renewable energy and the maturity of reverse osmosis with irrigation for food crops (Fornarelli et al., 2018). 
@@ -47,15 +47,8 @@ Depending on the water source and quality and the aimed end-use, water treatment
 
 Aerial View Wind Desalination for IrrigationSystems, standard north up representation
 
-![Untitled](7%203%206%20Wind%20a0cdb/Untitled%201.png)
-
+<img src="/wef-nexus-online-course/assets/wind-desal-study.JPG">
 <small>Source: Serrano-Tovar et al. (2019) applying visor of IDECanarias (2015)</small>
-
-Precipitation (daily means, 2019) 
-
-[𝑚𝑚⁄ℎ]
-
-![Untitled](7%203%206%20Wind%20a0cdb/Untitled%202.png)
 
 
 ### Overall Setting
@@ -71,17 +64,7 @@ Gran Canaria faces various challenges related to physical water scarcity and gro
 
 **Case Study Wind Desalination for Irrigation (2): Technologies, Components and Performance**
 
-**Energy**
-
-![Untitled](7%203%206%20Wind%20a0cdb/Untitled%203.png)
-
-**Water**
-
-![Untitled](7%203%206%20Wind%20a0cdb/Untitled%204.png)
-
-**Agriculture**
-
-![Untitled](7%203%206%20Wind%20a0cdb/Untitled%205.png)
+<img src="/wef-nexus-online-course/assets/desal-table.JPG">
 
 ### System Components & Performance
 The Wind Park consists of four Vesta V47 660 wind turbines providing an overall power capacity of 2.64 MWp. The overall surface area of the wind park is 8800 m². The annual production capacity of the Reverse Osmosis Unit is 1.8 Mm³ with an average specific energy consumption of 4.2 kWh/m³. The reverse osmosis and pumping system occupy a surface area of 450 m². The water desalted water is stored in a 9500 m² reservoir with a capacity of 200,000 m³, located at 200m above sea level. The specific electricity consumption for water pumping is 1.1 kWh/m³. The desalted water irrigates up to 282 ha of agricultural land of a local famers’ association. Various fruits and vegetables are cultivated in the fields.
@@ -93,9 +76,7 @@ The case study boasts typical synergies identified for combining renewable energ
 
 **Case Study Wind Desalination for Irrigation (3): Yield and Cost**
 
-![Untitled](7%203%206%20Wind%20a0cdb/Untitled%206.png)
-
-![Untitled](7%203%206%20Wind%20a0cdb/Untitled%207.png)
+<img src="/wef-nexus-online-course/assets/yield-wind-desal.JPG">
 
 ### Yield
 The electricity production of the wind turbines (4*Vesta V47 660) for the location of Playa de Vargas can be estimated using renewables.ninja (Staffell & Pfenninger, 2016) based on MERRA-2 data. The yield of wind turbines is often expressed in capacity factors, i.e., “the ratio of the average load carried by a power station or system for a given period to the rated capacity of the station or system for the same period” (Merriam-Webster). While daily maxima can be observed in March and November, July and August boast a constantly high production, resulting in the highest monthly capacity factors (65.14 % and 66.83 %, respectively). 
