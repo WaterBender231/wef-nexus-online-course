@@ -23,7 +23,7 @@ All in all, agroforestry is not a new technique, in some sort of way it is a 
 
 <hr/>
 
-<h2> Impacts of agroforestry on the Water Energy Land Food (WELF) Nexus</h2><small>(Elagib and Al Saidi, 2020)</small>
+<h2> Impacts of agroforestry on the Water Energy Land Food (WELF) Nexus</h2>
 
 <img src="/wef-nexus-online-course/assets/welf.jpg">
 <small>Source: Elagib and Al-Saidi (2020)</small>
@@ -38,10 +38,6 @@ Agroforestry systems also allow for a more favourable micro-climate, which can a
 
 ## **Agroforestry System (FoFo SAF)**
 
-<img src="/wef-nexus-online-course/assets/saf.JPG">
-
-<small>Source: Todeschini de Quadros (2017)</small>
-
 **Productivity**
 The plants of the FoFo SAF are collocated considering their syntropy potential, cost, yield, and market price. The average yield and market prices are estimations based on secondary data and empirical knowledge from the local producers of Acre.
 
@@ -52,7 +48,7 @@ The Net Present Value is sensitive to the discount rate (≙weighted cost of cap
 
 <hr/>
 
-<h2>Benefits of Agroforestry compared to agricultural systems</h2><small>(Zhu et al., 2020)</small>
+<h2>Benefits of Agroforestry compared to agricultural systems</h2>
 
 <img src="/wef-nexus-online-course/assets/agroforestry-system.jpg">
 <small>Source: Zhu et al. 2020</small>
@@ -92,6 +88,7 @@ These findings are supported by Castle et al. (2021). The authors of the review 
 
 ## **Agroforestry and its theory of change**
 
+<br>
 <img src="/wef-nexus-online-course/assets/ToC.JPG">
 <small>AF: Agroforestry. Illustration from Miller et al. (2020).</small>
 

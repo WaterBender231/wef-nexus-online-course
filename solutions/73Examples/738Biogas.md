@@ -135,7 +135,7 @@ In order to storage biogas adequately, it should be compressed to save storage c
 
 ### **Biogas to increase energy security**
 
-<img src="/wef-nexus-online-course/assets/">
+<img src="/wef-nexus-online-course/assets/biogas-energy-security.jpg">
 <small>table: Kossmann et al. n.d.; cited from Vögeli et al. 2014</small>
 
 Anaerobic digestion can greatly increase energy security, since biogas is a non-fossil fuel that is easily storable and transportable. As shown in the previous sections, most biogas is used for power and/or heat generation. Furthermore, if the biogas is purified to biomethane, it can be injected into the natural gas grid or be compressed and used as a fuel for vehicles (Kaltschmitt et al. 2009).
@@ -149,9 +149,8 @@ The co-production of nutrient-rich wet fertilizer can provide favorable conditio
 
 **Parameters for calculations**
 
-<img src="/wef-nexus-online-course/assets/">
-
-Parameters to plan and construct a biogas plant (after Kaltschmitt et al. 2009)
+<img src="/wef-nexus-online-course/assets/biogas-parameters.png">
+<small>Parameters to plan and construct a biogas plant (after Kaltschmitt et al. 2009)</small>
 
 1. Volume of the Fermenter (VF)
 The volume of the fermenter defines the maximum amount of feedstock that can be inserted. It is the most important parameter for other calculations.
@@ -179,8 +178,7 @@ Where rs = relative share and Y_spec = specific yield in [m³/t_oDM]
 
 **Case Study Tibnine, Site Conditions**
 
-<img src="/wef-nexus-online-course/assets/">
-
+<img src="/wef-nexus-online-course/assets/biogas-casestudy.jpg">
 <small>www.renewables.ninja and Gelaro et al. (2017)</small>
 
 **Overall Setting**
@@ -199,10 +197,7 @@ Population growth, inefficient and mismanaged water and energy grids, and the re
 
 **Biogas based on Wastewater: Technologies & Components**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%2015.png)
-
-![Untitled](7%203%208%20Anae%203670e/Untitled%2016.png)
-
+<img src="/wef-nexus-online-course/assets/case-components.jpg">
 <small>Source: El Joauhari et al. (2021)</small>
 
 All following information is gathered from the final year project on renewable energy production from wastewater of students from the Arab University of Beirut (El Joauhari, Nassreddine, Mgharbel, & Izmerly, 2021).
@@ -219,30 +214,16 @@ The optimum volume of the digester calculates as the product of the volumetric f
 
 ### **Performance of Anaerobic Digestion (Mesophilic Fermentation)**
 
-**Effects of temperature and solid retention time (SRT) on methane production and volatile solids destruction**
+<img src="/wef-nexus-online-course/assets/srt.jpg">
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%2017.png)
 
-**Operation Parameters at Tibnine:**
-
-![Untitled](7%203%208%20Anae%203670e/Untitled%2018.png)
-
-Performance Improvements
+**Performance Improvements**
 For efficient anaerobic digestion, the process must be in steady-state and optimum operating conditions. The optimum operating temperature for mesophilic fermentation ranges between 30°C and 38°C. However, sharp and frequent temperature fluctuations affect the microorganisms. These can occur at temperature changes greater than 1°C/d. Therefore, the operating temperature in the digester has to be kept constant. Further, the microorganisms require sufficient time to reproduce and metabolize the volatile solids (compare figure), expressed as solid retention time (SRT). In the case study, the students selected a solid retention time of 22 days and an operating temperature of 35°C.
 
 **Energy Yield**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%2019.png)
-
-El Joauhari et al. (2021)
-
-**Applied Conversion Factors**
-1 kg of destructed volatile solid
-≙ 1 m³ of Biogas
-1 m³ of Biogas contents 0.6 m³ of Methane
-Energy content of Methane: 34 MJ/m³
-
-Compare IRENA (2016)
+<img src="/wef-nexus-online-course/assets/yields.jpg">
+<small>El Joauhari et al. (2021)</small>
 
 **Energy Yield**
 The mesophilic, anaerobic digestion is estimated to reduce the volatile solid by 61.25 %, corresponding to volatile solid destruction of 228. Kg/day. Specific gas production for volatile solids from wastewater sludge is assumed to be 1 m³/kg. This results in daily biogas production of 228.62 m³/d. Assuming a methane content of 60%, the daily methane production is 137.17 m³/d. With methane having a heating value of 34MJ/m³, the daily chemical energy generation sums up to 4,664 MJ/d. The electrical energy production 𝐸_𝑒𝑙 calculates as the difference between chemical energy generated 𝐸_(𝑐,𝑡) and chemical energy consumed for heating 𝐸_(𝑐, ℎ)multiplied by the biogas engine efficiency µ_𝑏𝑒:
