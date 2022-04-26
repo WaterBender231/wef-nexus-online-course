@@ -227,9 +227,12 @@ For efficient anaerobic digestion, the process must be in steady-state and optim
 
 **Energy Yield**
 The mesophilic, anaerobic digestion is estimated to reduce the volatile solid by 61.25 %, corresponding to volatile solid destruction of 228. Kg/day. Specific gas production for volatile solids from wastewater sludge is assumed to be 1 m³/kg. This results in daily biogas production of 228.62 m³/d. Assuming a methane content of 60%, the daily methane production is 137.17 m³/d. With methane having a heating value of 34MJ/m³, the daily chemical energy generation sums up to 4,664 MJ/d. The electrical energy production 𝐸_𝑒𝑙 calculates as the difference between chemical energy generated 𝐸_(𝑐,𝑡) and chemical energy consumed for heating 𝐸_(𝑐, ℎ)multiplied by the biogas engine efficiency µ_𝑏𝑒:
-𝐸_𝑒𝑙=(𝐸_(𝑐,𝑡)−𝐸_(𝑐,ℎ) )∗µ_𝑏𝑒
-𝐸_𝑒𝑙=(4664 𝑀𝐽/𝑑−492.67 𝑀𝐽/𝑑)∗0.35∗(365/3600 𝑀𝑊ℎ)/𝑦∗𝑑/𝑀𝐽
-𝐸_𝑒𝑙=148.02 𝑀𝑊ℎ/𝑦
+
+- 𝐸_𝑒𝑙=(𝐸_(𝑐,𝑡)−𝐸_(𝑐,ℎ) )∗µ_𝑏𝑒
+- 𝐸_𝑒𝑙=(4664 𝑀𝐽/𝑑−492.67 𝑀𝐽/𝑑)∗0.35∗(365/3600 𝑀𝑊ℎ)/𝑦∗𝑑/𝑀𝐽
+- 𝐸_𝑒𝑙=148.02 𝑀𝑊ℎ/𝑦
+
+
 Subtracting the annual electricity demand for the mixing unit (0.16 MWh/y) and the water pump (24.12 MWh), the annual net electricity production is 123.75 MWh/y. Given the total electricity demand of the WWTP of 412 MWh/y, the resulting energy recovery potential is 30.0%.
 
 <br/> <br/>
@@ -240,6 +243,7 @@ Subtracting the annual electricity demand for the mixing unit (0.16 MWh/y) and t
 
 <small><b>References</b><br>
 Achinas, Spyridon; Achinas, Vasileios; Euverink, Gerrit Jan Willem (2017): A Technological Overview of Biogas Production from Biowaste. In Engineering 3 (3), pp. 299–307. DOI: 10.1016/J.ENG.2017.03.002 <br>
+<br>
 Ahmad, A., McCulloch, N., Al-Masri, M., & Ayoub, M. (2020). From dysfunctional to functional corruption: the politics of reform in lebanon's electricity sector. ACE SOAS Consortium. [https://www.aub.edu.lb/ifi/Documents/publications/working_papers/2020-2021/20201218_from_dysfunctional_to_functional_corruption_working_paper.pdf](https://www.aub.edu.lb/ifi/Documents/publications/working_papers/2020-2021/20201218_from_dysfunctional_to_functional_corruption_working_paper.pdf) <br>
 <br>
 BP (2021): Statistical Review of World Energy 2021. Available at [https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2021-full-report.pdfm](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2021-full-report.pdfm), last checked 23.11.2021 <br>

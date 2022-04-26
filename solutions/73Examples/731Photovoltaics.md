@@ -22,7 +22,7 @@ Further, especially in hot, dry, and sunny climates, shading can prevent depress
 
 <hr/>
 
-<img src="/wef-nexus-online-course/assets/agri-system.tif" alt="Agri-Systems"/>
+<img src="/wef-nexus-online-course/assets/agri-system.png" alt="Agri-Systems"/>
 
 <small> Overview of APV projects and facilities with location. The color gradient indicates the long-term average of daily/yearly sum of global horizontal radiation [kwh/m2]. The numbers indicate the location of the described facilities (Global horizontal irradiation map © 2018 The World Bank, Solar resource data: <a href="solargis.com">http://solargis.com/</a>, used under CC BY 3.0 IGO, modified from original) </small>
 
@@ -145,8 +145,6 @@ Additionally, the potential for electricity generation are huge. In Germany, cov
 Currently, the total capacity of agrivoltaics across the globae is around 2.8 GWpeak. The development shows an exponential increase. Agrivoltaics could prove to be one key technology to tackle multiple issues at once. With rising temperatures and less water availability, the relevance is likely to continue to increase over the next decades.
 
 <hr/>
-
-## **Challenges related to APV – Investment costs**
 
 <img src="/wef-nexus-online-course/assets/APV-challenge.JPG" alt="Agrivoltaic system - Costs "/>
 <small>Fraunhofer ISE (2020)</small>
