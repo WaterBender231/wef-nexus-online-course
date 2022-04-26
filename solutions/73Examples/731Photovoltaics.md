@@ -134,8 +134,7 @@ Plant growth and yield depend strongly on the availability of light. Optimum lev
 
 ### **APV: Investment costs, economics and potential**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%209.png)
-
+<img src="/wef-nexus-online-course/assets/AVP-economics.JPG" alt="Agrivoltaic system and components"/>
 <small>Adapted from Fraunhofer ISE (2021) </small>
 
 From an economic perspective, the installation of agrivoltaic systems on cropland is more expensive than ground-mounted systems, but comparable to small-scale rooftop PV. The costs across the lifetime (20 years) are averaging around 6.5 ct/kWh for a system on permanent crops (low clearance height) and around 10 ct/kWh for a mounted system (up to 6 meters above the ground) (Fraunhofer ISE 2020). If the electricity can be used at the site, it will therefore be cheaper than the grid in most areas. As can be seen in the illustration, the levelized costs of electricity are on average lower than most conventional energy carriers.
@@ -153,8 +152,7 @@ Currently, the total capacity of agrivoltaics across the globae is around 2.8 GW
 
 ### **Challenges related to APV – Investment costs**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%2010.png)
-
+<img src="/wef-nexus-online-course/assets/APV-challenge.JPG" alt="Agrivoltaic system - Costs "/>
 </small>Fraunhofer ISE (2020)</small>
 
 Even though the levelized costs of electricity are comparatively low, the investment costs are still significant. The figure illustrates the costs of different items. According to these numbers the total costs are around 1,500 €/kWp for high-mounted systems and around 1.100 € for constructions with a low clearance height (Fraunhofer ISE 2020).
@@ -169,8 +167,7 @@ the growth of agrivoltaics.
 
 **Case Study 1: Agrivoltaics Curacaví Chile, Site Conditions**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%2011.png)
-
+<img src="/wef-nexus-online-course/assets/case-chile.JPG" alt="Case Study Chile"/>
 <small>Source: Microsoft Bing (2021), Jung & Salmon 2021  Source (both, right side): www.renewables.ninja and Gelaro et al. (2017)</small>
 
 **Overall Setting**
@@ -192,19 +189,26 @@ The water scarcity and high demand lead to competition for water from different 
 
 ### **Electrical yield and electricity cost estimation (Curacaví)**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%2012.png)
-
-<small>Title</small>
+<img src="/wef-nexus-online-course/assets/LCOE-AVP.JPG" alt="Costs - Case Study Chile"/>
+<small>Source: Fraunhofer ISE (2020) </small>
 
 **Yield**
 Frauenhofer (2020) applied the photovoltaic yield model of renewables.ninja for the given set-up and coordinates: The annual energy production sums up to 18899 kWh for 2019 (Pfeinninger and Staffell). Monthly maximas are in the southern hemisphere's summer (December, January), and monthly minimas in the southern hemisphere's winter (June, July). The observed electricity production from April 2019 to March 2020 sums up to 8157 kWh (Jung and Salmon 2021). The big difference in annual production can mainly be explained by a defect and measurement shortcomings on-site: 
-Defect: Inverter did not produce energy from 9th of September to 22nd of October 2019
-Electricity production is higher in winter than in  summer, potentially power capacity loss due to the defect in September
-Days of zero electrical yield in May and June (error) 
-Thereby the maximum power values are very similar: renewables.ninja: 10.29 kW; 3rd of January, 11 am to 12 am; measured on site: 10.32 kW, 8th. September 2019, 4 pm to 5 pm.
+
+- Defect: Inverter did not produce energy from 9th of September to 22nd of October 2019
+
+- Electricity production is higher in winter than in  summer, potentially power capacity loss due to the defect in September
+
+- Days of zero electrical yield in May and June (error) 
+
+Thereby the maximum power values are very similar: 
+
+- renewables.ninja: 10.29 kW; 3rd of January, 11 am to 12 am; measured on site: 10.32 kW, 8th. September 2019, 4 pm to 5 pm
+
 The crop yield is estimated to remain at conventional levels through reduced heat stress & sunburn and increased soil moisture provided by shading while ensuring sufficient provision of sunlight.
+
 The multiple land-use benefits of Agrivoltaics can be expressed through the land equivalent ratio (LER). The LER is the sum of the respective yield ratios of dual land use to mono land use (Mead and Willey 1980; Trommsdorff et al. 2021):
-LER=  (Yield_a (dual))/(Yield_a (mono))+(Yield_b (dual))/(Yield_b (mono))
+> *LER=  (Yield_a (dual))/(Yield_a (mono))+(Yield_b (dual))/(Yield_b (mono))*
 
 **Cost Estimation**
 The levelized cost of electricity (LCOE) estimations by Fraunhofer ISE (2020) can be applied to approximate the estimate of the LCOE for the APV Curacaví. Given the medium clearance height of 4m, the high solar potential on-site, and assuming the availability of all components at global market prices, we estimate the LCOE to be around 7 €-ct/kWh. Considering Chilean households' electricity price of 0.156 €-ct/kWh (143 CLP/kWh, <a href="GlobalPetrolPrices.com">http://globalpetrolprices.com/</a> (2020)), expenditure savings can be reached through self-consumption. Furthermore, considering additional income through crop sales or self-consumption, we assume that agrivoltaics can benefit smallholder farmers in Chile.
@@ -212,9 +216,9 @@ The levelized cost of electricity (LCOE) estimations by Fraunhofer ISE (2020) ca
 
 **APV: Technology, Components and Performance**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%2013.png)
+<img src="/wef-nexus-online-course/assets/LCOE-AVP.JPG" alt="Costs - Case Study Chile"/>
+<small>Jung and Salmon (2021); Fraunhofer ISE (2020)</small>
 
-Jung and Salmon (2021)                                               Fraunhofer ISE (2020)
 
 Technologies & System Components
 The main components of the Agrivoltaic System are photovoltaic panels, inverters, crops, and the mounting structure:
@@ -231,7 +235,7 @@ The overall height of the installation reaches 4.78 m. The agrivoltaic system is
 
 **Summary Agrivoltaics**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%2014.png)
+<img src="/wef-nexus-online-course/assets/avp-performance.JPG" alt="Performance - Case Study Chile"/>
 
 Agrivoltaics brings opportunities to improve every aspect withtin the WEF Nexus. Furthermore, it can reduce competition for landuse and increase the income of farmers. It is however a rather new technology, where further research is needed.
 
