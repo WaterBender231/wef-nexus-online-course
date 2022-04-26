@@ -136,7 +136,7 @@ The worlds water data: <a href="https://www.worldwater.org/water-data/">https://
 </details>
 
 
-<details><summary><i>See More Data Sources for <b>Water Accessibility</b></i></summary>
+<!-- <details><summary><i>See More Data Sources for <b>Water Accessibility</b></i></summary>
 <p>
 AQUASTAT: <a href="http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en">http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en</a> <br>
 <br>
@@ -150,7 +150,7 @@ Transboundary Waters Assessment Programme <a href="http://twap-rivers.org/indica
 <br>
 Aqueduct <a href="https://www.worldwater.org/water-data/">https://www.worldwater.org/water-data/</a>
 </p>
-</details>
+</details> -->
 
 <details><summary><i>See More Data Sources for <b>Water Quality</b></i></summary>
 <p>
