@@ -15,10 +15,3 @@ parent: Solutions
 - Please further characterize your selected solutions. What are key considerations e.g., for implementing the solution?  
 
 
-
-You've finished all learning units, congratulations!{: .label .label-green } 
-
-<br>
-
-Do you have questions or ideas to share with us?
-[Contact us!](https://waterbender231.github.io/wef-nexus-online-course/contact/){: .btn .btn-outline }

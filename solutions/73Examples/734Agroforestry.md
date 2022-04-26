@@ -25,8 +25,7 @@ All in all, agroforestry is not a new technique, in some sort of way it is a 
 
 <h2> Impacts of agroforestry on the Water Energy Land Food (WELF) Nexus</h2><small>(Elagib and Al Saidi, 2020)</small>
 
-![Untitled](7%203%204%20Agro%205a577/Untitled%201.png)
-
+<img src="https://growahead.org/wp-content/uploads/welf.jpg">
 <small>Source: Elagib and Al-Saidi (2020)</small>
 
 When looking at the Nexus, it can be seen that there are potential effects on all aspects. A case study by Elagib and Al-Saidi (2020) highlights the impacts of agroforestry on the Water Energy Land Food (WELF) Nexus.
@@ -39,17 +38,7 @@ Agroforestry systems also allow for a more favourable micro-climate, which can a
 
 ## **Agroforestry System (FoFo SAF)**
 
-**Yield and Productivity**
-Estimated average Yield, market price and peak productivity [R$/hectare], of selected plants, PANC
-
-![Untitled](7%203%204%20Agro%205a577/Untitled%202.png)
-
-<small>Source.</small>
-
-**Cost and Revenue**
-Net Present Value of FoFo SAF (1 hectare) at a discount rate of 8.25 %
-
-![Untitled](7%203%204%20Agro%205a577/Untitled%203.png)
+<img src="https://growahead.org/wp-content/uploads/saf.JPG">
 
 <small>Source: Todeschini de Quadros (2017)</small>
 
@@ -65,7 +54,7 @@ The Net Present Value is sensitive to the discount rate (≙weighted cost of cap
 
 <h2>Benefits of Agroforestry compared to agricultural systems</h2><small>(Zhu et al., 2020)</small>
 
-![Untitled](7%203%204%20Agro%205a577/Untitled%204.png)
+<img src="https://growahead.org/wp-content/uploads/">
 
 <small>Source: Zhu et al. 2020</small>
 
@@ -91,7 +80,7 @@ According to FAO (2015), agroforestry can be especially beneficial to smallholde
 
 ## **Impacts of agroforestry**
 
-![Untitled](7%203%204%20Agro%205a577/Untitled%205.png)
+<img src="https://growahead.org/wp-content/uploads/agroforestry-interventions.JPG">
 
 <small>Sources: Zhu et al. 2020.</small>
 
@@ -123,7 +112,7 @@ Furthermore, in research, insecure land and resource tenure is often mentioned a
 
 The figure below highlights key interconnections between agroforestry systems and WEF-systems.
 
-![Untitled](7%203%204%20Agro%205a577/Untitled%207.png)
+<img src="/wef-nexus-online-course/assets/nexus-agrof.jpg">
 
 <small>"Integrating Agroforestry into WEF-Systems". Source: Alexandra Nauditt, Silvia Krautzik</small>
 

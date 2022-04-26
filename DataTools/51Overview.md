@@ -91,7 +91,7 @@ Governance analysis tools aim at assessing the institutions and persons involved
 
 
 
-[Continue to next section] (https://waterbender231.github.io/wef-nexus-online-course/tools/qualitative-approaches){: .btn .btn-purple .mr-4}
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/tools/qualitative-approaches){: .btn .btn-purple .mr-4}
 
 <hr/>
 
