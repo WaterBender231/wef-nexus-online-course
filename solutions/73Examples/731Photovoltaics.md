@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Agrivoltaics: generating electricity while saving water – increasing WEF resources productivity
 
-<img src="/wef-nexus-online-course/assets/agri-pv.jpg" alt="Agrivoltaics"/>
+<img src="/wef-nexus-online-course/assets/AVP.jpg">
 <p><small>PV magazine; Antoine Bolcato</small></p>
 
 <hr/>
@@ -44,10 +44,6 @@ Agrivoltaics have various synergistic effects linked to shading through the sola
 ### **Benefits** 
 
 1. **No competition for land resources**
-
-image
-<small>Title</small>
-
 One central issue with renewable energy systems is the competition for agrarian land. Wind turbines require a lot of space, ground-mounted solar PV is mostly used in flat and sunny areas that could be used for agriculture. Additionally, a variety of crops are grown solely for energetic use: in Germany, 14% of the agricultural area is used for bioenergy (Fachagentur Nachwachsende Rohstoffe 2020). As both the demand for food and energy is projected to increase (IRENA 2018; FAO 2017) , the conflict for land resources can be expected to grow. <br>
 <br>
 One approach to reduce land competition is the use of Agrivoltaics (AVP). The technology describes the use of photovoltaic systems above cropland, harvesting both solar energy and agricultural products, thus reducing land competition. In general, the dual use of land can affect  the efficiency of both systems, but allows for a higher total land use efficiency, as illustrated in the graphic.
@@ -150,10 +146,10 @@ Currently, the total capacity of agrivoltaics across the globae is around 2.8 GW
 
 <hr/>
 
-### **Challenges related to APV – Investment costs**
+## **Challenges related to APV – Investment costs**
 
 <img src="/wef-nexus-online-course/assets/APV-challenge.JPG" alt="Agrivoltaic system - Costs "/>
-</small>Fraunhofer ISE (2020)</small>
+<small>Fraunhofer ISE (2020)</small>
 
 Even though the levelized costs of electricity are comparatively low, the investment costs are still significant. The figure illustrates the costs of different items. According to these numbers the total costs are around 1,500 €/kWp for high-mounted systems and around 1.100 € for constructions with a low clearance height (Fraunhofer ISE 2020).
 
@@ -170,11 +166,13 @@ the growth of agrivoltaics.
 <img src="/wef-nexus-online-course/assets/case-chile.JPG" alt="Case Study Chile"/>
 <small>Source: Microsoft Bing (2021), Jung & Salmon 2021  Source (both, right side): www.renewables.ninja and Gelaro et al. (2017)</small>
 
-**Overall Setting**
+**Overall Setting** <br>
 In a cooperative research project, Fraunhofer Chile, the local government, and local partners have implemented three agrivoltaic systems (each 13 kWp), including monitoring devices in the surroundings of Santiago de Chile (El Monte, Curacaví, and Lampa). The study aims to create insights on crop benefits from reduced solar radiation and the adaption and optimization of agrivoltaics for specific climatic and economic conditions.
-Biophysical Site Conditions
 
-Typical for the central Chile region, the case study in the commune of Curacaví in the West of Santiago de Chile (-33.503917, -70.995556) has high annual solar radiation (2191 kWh∕m^2  a in 2019, Gelaro et al. (2017)) and low annual precipitation (average 511 mm/a, 96.6 mm∕a In 2019, Gelaro et al. (2017)). Average high temperatures range between 18°C in June and 31°C in January, while average low-temperature range between 6°C in June and 15°C in January. The pilot is installed on a horticultural field at a height ranging from 202m to 203 m above sea level featuring a slight slope from east to west, enabling irrigation by gravitation (Jung and Salmon 2021). Applying the Soil Classification Triangle (Cornell University 2010), the topsoil can be identified as sandy to medium loam (~ Sand: 525, Clay: 178, Silt: 297 g∕kg in the upper 1.5 m, <a href="soilgrids.info">http://soilgrids.info/</a>. (Hengl et al. 2017)) indicating good natural fertility and relatively good moisture retention.
+**Biophysical Site Conditions** <br>
+Typical for the central Chile region, the case study in the commune of Curacaví in the West of Santiago de Chile (-33.503917, -70.995556) has high annual solar radiation (2191 kWh∕m² in 2019, Gelaro et al. (2017)) and low annual precipitation (average 511 mm/a, 96.6 mm∕a in 2019, Gelaro et al. (2017)). Average high temperatures range between 18°C in June and 31°C in January, while average low-temperature range between 6°C in June and 15°C in January. 
+
+The pilot is installed on a horticultural field at a height ranging from 202m to 203 m above sea level featuring a slight slope from east to west, enabling irrigation by gravitation (Jung and Salmon 2021). Applying the Soil Classification Triangle (Cornell University 2010), the topsoil can be identified as sandy to medium loam (~ Sand: 525, Clay: 178, Silt: 297 g∕kg in the upper 1.5 m, <a href="soilgrids.info">http://soilgrids.info/</a>. (Hengl et al. 2017)) indicating good natural fertility and relatively good moisture retention.
 
 
 <hr/>
