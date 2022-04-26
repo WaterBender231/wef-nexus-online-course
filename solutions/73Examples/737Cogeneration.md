@@ -7,6 +7,8 @@ grand_parent: Solutions
 ---
 # 7.3.7 Water and Electricity Cogeneration
 
+<br>
+
 <img src="/wef-nexus-online-course/assets/cogeneration.png">
 
 Additional water-energy nexus synergies can be tapped when combining water and energy production in one system. For example, this can be reached via multistage solar photovoltaic membrane distillation (Wang et al., 2019) or photovoltaic-battery-reverse osmosis systems (Zein et al. 2018). A comparable system is visualized in the section applying an energy system modeling logic (oemof, Hilpert 2018). The reverse osmosis unit acts as a flexible load (demand-side management) and the water tank as indirect energy storage). Thereby, the components increase the energy uptake from the fluctuating solar energy resource and thus the overall (cost) efficiency of the system.

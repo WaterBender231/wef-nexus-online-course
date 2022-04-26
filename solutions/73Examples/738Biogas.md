@@ -7,8 +7,7 @@ grand_parent: Solutions
 ---
 # 7.3.8 Anaerobic digestion and biogas
 
-![Untitled](7%203%208%20Anae%203670e/Untitled.png)
-
+<img src="/wef-nexus-online-course/assets/FNR.png">
 <small>Source: FNR (2016)</small>
 
 ## **Introduction**
@@ -18,10 +17,7 @@ Anaerobic digestion describes the decomposition of organic matter by microbes in
 
 ### **Biogas capacities and usage**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%201.png)
-
-![Untitled](7%203%208%20Anae%203670e/Untitled%202.png)
-
+<img src="/wef-nexus-online-course/assets/">
 <small>Source: IEA 2020</small>
 
 Global biogas production has been increasing significantly within the last 10 years. Currently, the production capacity ranges around 33 Mtoe (For comparison, Germany’s total energy demand was around 290 Mtoe in 2020 (BP 2021)).  Europe and Germany in particular are responsible for the biggest share (IEA 2020). Around one third of the produced biogas is used for cogeneration (also called CHP – combined heat and power); another 31% is used solely for power generation. 27% is used to provide heat indoors and 8.5% are upgraded to biomethane, which can be distributed in the gas grid like natural gas (IEA 2020).
@@ -30,8 +26,7 @@ Global biogas production has been increasing significantly within the last 10 ye
 
 ### **Types of feedstock**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%203.png)
-
+<img src="/wef-nexus-online-course/assets/feedstock.png">
 <small>Biowaste to Biogas - GIZ</small>
 
 **Feedstock for biogas production**
@@ -51,8 +46,7 @@ The substrate should not consist of too much foreign substances. Furthermore, de
 
 ### **What part of the feedstock is used?**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%204.png)
-
+<img src="/wef-nexus-online-course/assets/feedstock-parts.JPG">
 <small>Kaltschmitt et al. 2009; design adapted from Felix Mayer M.Sc. </small>
 
 Regardless of the source of the input, when looking at the process of anaerobic digestion, the digestate is always made up of dry matter and water. The dry matter can be further broken down into organic dry matter (oDM) and inorganic dry matter. The oDM also has fermentable and non-fermentable parts. The share that is actually utilized from the fermentable parts serves to produce biogas, along with the utilized water. The remaining parts of the dry matter can be reused as a mineral fertilizer (Kaltschmitt et al. 2009).
@@ -61,7 +55,7 @@ Regardless of the source of the input, when looking at the process of anaerobic 
 
 ### **Different options in biogas production**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%205.png)
+<img src="/wef-nexus-online-course/assets/biogas-options.JPG">
 
 There are various parameters within the operation of a biogas plant, that steer the process of bacterial decomposition. The most important ones are illustrated here.
 
@@ -84,9 +78,7 @@ Depending on the appliance, it can make sense to physically separate different s
 
 ### **Production of Biogas – from high tech to low tech**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%206.png)
-
-![Untitled](7%203%208%20Anae%203670e/Untitled%207.png)
+<img src="/wef-nexus-online-course/assets/high-low-tech.JPG">
 
 <small>Source: (1) Wikimedia commons, (2) UNIDO 2020, <a href="https://www.unido.org/stories/forging-ahead-spite-covid-19-unido-biogas-project-south-africa">UNIDO Biogas Project</a></small>
 
@@ -99,9 +91,7 @@ The plant on the right does not feature any stirring, heating or the capacity to
 
 ### **Biogas yield**
 
-**Methane yield by crops [m³/tVS]**
-
-![Untitled](7%203%208%20Anae%203670e/Untitled%208.png)
+<img src="/wef-nexus-online-course/assets/biogas-yield.JPG">
 
 The methane yield in anaerobic digestion differs from crop to crop. Depending on the yield and on the local policies, it can be profitable to grow crops solely for energetic use. In Germany, the total area that was used to cultivate energy crops 2019 was at 2,310,000 hectares, making up for 14% of the total agricultural area (FNR 2021; Statistisches Bundesamt 2021). The use of agricultural land to cultivate energy crops increases concerns of water and food security and is subject to arguments. In terms of yield however, energy crops excel in comparison to residues from animals or plants, as highlighted in the graph. Waste on the other hand has a comparatively low specific yield, but is available in huge amounts.
 
@@ -111,14 +101,16 @@ In 2013, the FAO estimated a total volume of food wasteage alone at around 1.6 b
 
 **Biogas production and waste management**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%209.png)
-
-![Untitled](7%203%208%20Anae%203670e/Untitled%2010.png)
+<img src="/wef-nexus-online-course/assets/waste-generation.png">
 
 **Potential of waste**
 When looking at the global numbers and their projections, it can be seen that the total amount of waste is expected to almost double by 2050. Even though there are major differences between income levels of countries, the organic fraction always makes up for the largest share in the composition of waste (Kaza et al. 2018).
 
 As most of it is thrown away right now, anaerobic digestion can also help to reduce stress on landfills and potentially decrease land requirements for it. Furthermore, anaerobic digestion decreases greenhouse gas emissions, since the methane is burned and converted to CO2, which is less potent as a greenhouse gas.
+
+
+<img src="/wef-nexus-online-course/assets/waste-composition.png">
+
 
 **Challenges in waste management**
 One major challenge is the collection and preparation of the waste, as currently the waste collection rates range from 96% (high income countries), to 51 % (lower-middle income) and 39% (low income) (Kaza et al. 2018). Additionally, especially in lower income countries, the biowaste may be used e.g. as  animal feed, and thus has some value already.
@@ -126,8 +118,7 @@ One major challenge is the collection and preparation of the waste, as currently
 
 **Cleaning processes and storage**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%2011.png)
-
+<img src="/wef-nexus-online-course/assets/cleaning-biogas..JPG">
 <small>Sources: FNR 2016</small>
 
 Biogas consists of various components: Methane (50-75%); CO2 (25-45%); H2O (2-7%); H2S (<1%); N2 (<2%); O2 (<2%) and H2 (<1%). Additionally, there can be trace elements (FNR 2016).
@@ -144,8 +135,7 @@ In order to storage biogas adequately, it should be compressed to save storage c
 
 ### **Biogas to increase energy security**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%2012.png)
-
+<img src="/wef-nexus-online-course/assets/">
 <small>table: Kossmann et al. n.d.; cited from Vögeli et al. 2014</small>
 
 Anaerobic digestion can greatly increase energy security, since biogas is a non-fossil fuel that is easily storable and transportable. As shown in the previous sections, most biogas is used for power and/or heat generation. Furthermore, if the biogas is purified to biomethane, it can be injected into the natural gas grid or be compressed and used as a fuel for vehicles (Kaltschmitt et al. 2009).
@@ -159,7 +149,7 @@ The co-production of nutrient-rich wet fertilizer can provide favorable conditio
 
 **Parameters for calculations**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%2013.png)
+<img src="/wef-nexus-online-course/assets/">
 
 Parameters to plan and construct a biogas plant (after Kaltschmitt et al. 2009)
 
@@ -189,9 +179,9 @@ Where rs = relative share and Y_spec = specific yield in [m³/t_oDM]
 
 **Case Study Tibnine, Site Conditions**
 
-![Untitled](7%203%208%20Anae%203670e/Untitled%2014.png)
+<img src="/wef-nexus-online-course/assets/">
 
-www.renewables.ninja and Gelaro et al. (2017)
+<small>www.renewables.ninja and Gelaro et al. (2017)</small>
 
 **Overall Setting**
 The present case study is based on a final year project from students of Beirut Arab University (El Joauhari et al., 2021). The students investigated the potential of integrating anaerobic digestion as sludge treatment and renewable energy production process to Tibnine Wastewater Treatment Plant (WWTP), located at an altitude of 648 m above sea level in Bint Jbeil District in the South of Lebanon (33.2005, 35.4050).
