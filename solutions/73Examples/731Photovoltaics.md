@@ -11,7 +11,7 @@ nav_order: 1
 ## Agrivoltaics: generating electricity while saving water – increasing WEF resources productivity
 
 <img src="/wef-nexus-online-course/assets/agri-pv.jpg" alt="Agrivoltaics">
-<p><small>PVmagazine; Antoine Bolcato</small></p>
+<p><small>PV magazine; Antoine Bolcato</small></p>
 
 <hr/>
 
