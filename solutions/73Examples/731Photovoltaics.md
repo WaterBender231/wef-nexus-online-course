@@ -214,32 +214,43 @@ The multiple land-use benefits of Agrivoltaics can be expressed through the land
 The levelized cost of electricity (LCOE) estimations by Fraunhofer ISE (2020) can be applied to approximate the estimate of the LCOE for the APV Curacaví. Given the medium clearance height of 4m, the high solar potential on-site, and assuming the availability of all components at global market prices, we estimate the LCOE to be around 7 €-ct/kWh. Considering Chilean households' electricity price of 0.156 €-ct/kWh (143 CLP/kWh, <a href="GlobalPetrolPrices.com">http://globalpetrolprices.com/</a> (2020)), expenditure savings can be reached through self-consumption. Furthermore, considering additional income through crop sales or self-consumption, we assume that agrivoltaics can benefit smallholder farmers in Chile.
 
 
-**APV: Technology, Components and Performance**
+<hr/>
+
+## **APV: Technology, Components and Performance**
 
 <img src="/wef-nexus-online-course/assets/LCOE-AVP.JPG" alt="Costs - Case Study Chile"/>
 <small>Jung and Salmon (2021); Fraunhofer ISE (2020)</small>
 
 
-Technologies & System Components
+## Technologies & System Components
 The main components of the Agrivoltaic System are photovoltaic panels, inverters, crops, and the mounting structure:
-Photovoltaic Panels
+
+- Photovoltaic Panels
 Photovoltaic cells within the photovoltaic panel convert the sunlight's energy to electric energy using the photovoltaic effect (Rappaport, 1959). At the Curacaví case study, 48 panels from Jinko Solar, with a capacity of 260 Wp each and a maximum efficiency of 16.19%, are installed. Overall, they sum up to a total panel surface area of 76.8 𝑚^2 and provide a peak power of 12.48 kWp. The azimuth of the panels is 295° NW, in line with the field's orientation, and an inclination of 27°. This alignment allows a homogenous light distribution underneath the PV panels (Jung & Salmon, 2021).
-Inverters
+
+- Inverters
 Inverters convert the direct current (DC) from the photovoltaic panels into alternating current (AC). Alternating current is widely used to power most of our devices. However, many devices (light bulbs, USB-charger, refrigerator, TV) exist as DC versions. Thus, inverters and their conversion losses can be omitted by fully relying on DC devices. At the Curacaví Agrivoltaic Project, three inverters of 2.5 kWp and one inverter of 10 kWp are installed. They are connected to four different beneficiaries applying the local net-billing policy.
-Crops
+
+- Crops
 In the case study, broccoli, cauliflower, and herbs are cultivated. Broccoli & cauliflower rather prefer sunny but mild climates.
-Mounting Structure
+
+- Mounting Structure
 The mounting structure for the photovoltaic system's elevation consists of galvanized metal posts and is based on concrete. The structure elevates the photovoltaics panels and allows a clearance height of 3,5 m so that agricultural machinery, especially tractors, can be deployed below (Jung & Salmon, 2021).
-Overall dimensions
-The overall height of the installation reaches 4.78 m. The agrivoltaic system is formed by tree sub-structure modules whit a width of 8 m and a length of 6.9 m adding up to a total length of 28 m, leading to a total area of 224 𝑚^2 The width of 8 m was chosen to meet the dimensional demands of the deployed agricultural machines (Jung & Salmon, 2021)
+
+- Overall dimensions
+The overall height of the installation reaches 4.78 m. The agrivoltaic system is formed by tree sub-structure modules whit a width of 8 m and a length of 6.9 m adding up to a total length of 28 m, leading to a total area of 224 𝑚^2 The width of 8 m was chosen to meet the dimensional demands of the deployed agricultural machines (Jung & Salmon, 2021).
+
+<hr/>
 
 **Summary Agrivoltaics**
 
-<img src="/wef-nexus-online-course/assets/avp-performance.JPG" alt="Performance - Case Study Chile"/>
+<img src="/wef-nexus-online-course/assets/summary-avp.png" alt="AVP summary"/>
 
 Agrivoltaics brings opportunities to improve every aspect withtin the WEF Nexus. Furthermore, it can reduce competition for landuse and increase the income of farmers. It is however a rather new technology, where further research is needed.
 
-As Weselek et al. (2019) put it: „As only very few studies address the impact of this technology on crop yields and quality, further investigations incorporating different climatic conditions, crop species and varieties are indispensable for the evaluation of its applicability in prospective agricultural system”
+As Weselek et al. (2019) put it: 
+> „As only very few studies address the impact of this technology on crop yields and quality, further investigations incorporating different climatic conditions, crop species and varieties are indispensable for the evaluation of its applicability in prospective agricultural system”
+
 
 <br/> <br/>
 [Next solution: Irrigation Systems](https://waterbender231.github.io/wef-nexus-online-course/solutions/examples/irrigation-systems){: .btn .btn-purple .mr-4}
