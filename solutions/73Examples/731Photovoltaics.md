@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Agrivoltaics: generating electricity while saving water – increasing WEF resources productivity
 
-<img src="/wef-nexus-online-course/assets/agri-pv.jpg" alt="Agrivoltaics">
+<img src="/wef-nexus-online-course/assets/agri-pv.jpg" alt="Agrivoltaics"/>
 <p><small>PV magazine; Antoine Bolcato</small></p>
 
 <hr/>
@@ -22,7 +22,7 @@ Further, especially in hot, dry, and sunny climates, shading can prevent depress
 
 <hr/>
 
-<img src="/wef-nexus-online-course/assets/agri-system.tif" alt="Agri-Systems">
+<img src="/wef-nexus-online-course/assets/agri-system.tif" alt="Agri-Systems"/>
 
 <small> Overview of APV projects and facilities with location. The color gradient indicates the long-term average of daily/yearly sum of global horizontal radiation [kwh/m2]. The numbers indicate the location of the described facilities (Global horizontal irradiation map © 2018 The World Bank, Solar resource data: <a href="solargis.com">http://solargis.com/</a>, used under CC BY 3.0 IGO, modified from original) </small>
 
@@ -31,7 +31,7 @@ Further, especially in hot, dry, and sunny climates, shading can prevent depress
 
 ### **Agrivoltaics: how to use the increased WEF productivity**
 
-<img src="/wef-nexus-online-course/assets/multiple-land-use.jpg" alt="Agrivoltaics">
+<img src="/wef-nexus-online-course/assets/multiple-land-use.jpg" alt="Agrivoltaics"/>
 
 <small>Fraunhofer ISE </small>
 
@@ -54,7 +54,7 @@ One approach to reduce land competition is the use of Agrivoltaics (AVP). The te
 
 2. **Shadowing effects on crops**
 
-<img src="/wef-nexus-online-course/assets/shadowing-crops.JPG" alt="Shadowing effects on crops">
+<img src="/wef-nexus-online-course/assets/shadowing-crops.JPG" alt="Shadowing effects on crops"/> <br>
 <small>Images from: 1) Fraunhofer ISE (2020) and 2) Sinovoltaics.com</small>
 
 While the total efficiency of the PV systems may decrease, the dual use of land can actually lead to an increase in yield of crops.
@@ -66,7 +66,7 @@ For most crops, moderate shading, meaning reducing the insolation by 20-30%, giv
 
 3. **Impacts on generation, crop yield and water efficiency**
 
-<img src="/wef-nexus-online-course/assets/selected-plant-effects.png" alt="APV effects on selected plants">
+<img src="/wef-nexus-online-course/assets/selected-plant-effects.png" alt="APV effects on selected plants"/>
 <small>Graph adapted from Barron-Gafford et al. (2019)</small>
 
 Using synergetic effects to (ideally)
@@ -89,9 +89,9 @@ In addition, the efficiency of PV systems decreases with increasing surface temp
 
 ### **Agrivoltaic system and components**
 
-![Untitled](7%203%201%20Inte%20ff8f0/Untitled%208.png)
+<img src="/wef-nexus-online-course/assets/system components.jpg" alt="Agrivoltaic system and components"/>
 
-<small>Images from (1) M. Thrommsdorf at Wikimedia commons (2) brgfx at <a href="freepik.com">http://freepik.com/</a></small>
+<small>Images from (1) M. Thrommsdorf at Wikimedia commons (2) brgfx at freepik.com</small>
 
 **Components**
 An APV system consists of the standard PV components:
