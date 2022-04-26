@@ -25,7 +25,7 @@ All in all, agroforestry is not a new technique, in some sort of way it is a 
 
 <h2> Impacts of agroforestry on the Water Energy Land Food (WELF) Nexus</h2><small>(Elagib and Al Saidi, 2020)</small>
 
-<img src="https://growahead.org/wp-content/uploads/welf.jpg">
+<img src="/wef-nexus-online-course/assets/welf.jpg">
 <small>Source: Elagib and Al-Saidi (2020)</small>
 
 When looking at the Nexus, it can be seen that there are potential effects on all aspects. A case study by Elagib and Al-Saidi (2020) highlights the impacts of agroforestry on the Water Energy Land Food (WELF) Nexus.
@@ -38,7 +38,7 @@ Agroforestry systems also allow for a more favourable micro-climate, which can a
 
 ## **Agroforestry System (FoFo SAF)**
 
-<img src="https://growahead.org/wp-content/uploads/saf.JPG">
+<img src="/wef-nexus-online-course/assets/saf.JPG">
 
 <small>Source: Todeschini de Quadros (2017)</small>
 
@@ -54,8 +54,7 @@ The Net Present Value is sensitive to the discount rate (≙weighted cost of cap
 
 <h2>Benefits of Agroforestry compared to agricultural systems</h2><small>(Zhu et al., 2020)</small>
 
-<img src="https://growahead.org/wp-content/uploads/">
-
+<img src="/wef-nexus-online-course/assets/agroforestry-system.jpg">
 <small>Source: Zhu et al. 2020</small>
 
 ### **WEFE benefits**
@@ -80,8 +79,7 @@ According to FAO (2015), agroforestry can be especially beneficial to smallholde
 
 ## **Impacts of agroforestry**
 
-<img src="https://growahead.org/wp-content/uploads/agroforestry-interventions.JPG">
-
+<img src="/wef-nexus-online-course/assets/agroforestry-interventions.JPG">
 <small>Sources: Zhu et al. 2020.</small>
 
 Conducting an evidence-based synthesis, Zhu et al. (2020) found that agroforestry systems reduce surface runoff, soil erosion, and related organic carbon and nutrient losses on average by 58%, 65%, 9%, and 50%, respectively. Moreover, they found that agroforestry systems lower the impact of herbicides, pesticides, and other pollutants on water resources by 49% on average.
@@ -94,8 +92,7 @@ These findings are supported by Castle et al. (2021). The authors of the review 
 
 ## **Agroforestry and its theory of change**
 
-![Untitled](7%203%204%20Agro%205a577/Untitled%206.png)
-
+<img src="/wef-nexus-online-course/assets/ToC.JPG">
 <small>AF: Agroforestry. Illustration from Miller et al. (2020).</small>
 
 A study by Miller etal. (2020) developed a theory of change for successful agroforestry interventions. The ideal system provides positive final outcomes on all the examined aspects of agricultural productivity, ecosystem services and human well-being. It highlights the importance of proper crop selection adopted to the local circumstances and education in the first steps (Miller et al. 2020).
@@ -112,8 +109,7 @@ Furthermore, in research, insecure land and resource tenure is often mentioned a
 
 The figure below highlights key interconnections between agroforestry systems and WEF-systems.
 
-<img src="/wef-nexus-online-course/assets/nexus-agrof.jpg">
-
+<img src="/wef-nexus-online-course/assets/nexus-agrof.jpg"/>
 <small>"Integrating Agroforestry into WEF-Systems". Source: Alexandra Nauditt, Silvia Krautzik</small>
 
 
