@@ -65,7 +65,7 @@ to the WEF-Nexus online course. Our website is under construction. You can find 
 <ul class="list-style-none">
 <li class="d-inline-block mr-1"> <a href="https://www.th-koeln.de/personen/alexandra.nauditt/"><img src="https://www.th-koeln.de/pseimg/568a6307a083b51fb3e3c6375bd20a894d817e11.png" width="32" height="32" alt="Alexandra Nauditt"></a></li>
 <li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/silvia-marie-krautzik-61202a132/"><img src="/wef-nexus-online-course/assets/sk_profile.jpg" width="32" height="32" alt="Silvia Krautzik"></a></li>
-<li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/thao-trinh-53a650188/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGCcWZbKwDjjA/profile-displayphoto-shrink_400_400/0/1647439778091?e=1652918400&v=beta&t=T-oNmO6xJS9XkuKeHodhj85F8uPWSuedFeVMI8oP460" width="32" height="32" alt="Thao Trinh"></a>
+<li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/thao-trinh-53a650188/"><img src="/wef-nexus-online-course/assets/default_contributor.png" width="32" height="32" alt="Thao Trinh"></a>
 </li>
 <li class="d-inline-block mr-1"> <a href="https://www.daad.de/de/"><img src="/wef-nexus-online-course/assets/DAADLogo.jpg" width="32" height="32" alt="DAAD"></a></li>
 <li class="d-inline-block mr-1"> <a href="http://www.jf-gestaltung.de/"><img src="/wef-nexus-online-course/assets/default_contributor.png" width="32" height="32" alt="JF Gestaltung"></a></li>
