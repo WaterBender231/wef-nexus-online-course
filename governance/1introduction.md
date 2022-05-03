@@ -14,9 +14,13 @@ Governance is a crucial factor in ensuring sustainable resource management. Howe
 ## 6.1.2  Why put “governance” into the nexus approach? 
 
 The nexus approach serves multiple purposes. This is because the nexus approach is an <br>
+
 &rarr; analytical tool (quantitative and/or qualitative methods to understand interactions among WEF- systems), <br>
+
 &rarr; a conceptual framework (understanding of WEF linkages to promote coherence in policy-making and enhance sustainability), <br>
+
 &rarr; a discourse analysis (used for problem framing) <br>
+
 &rarr; and a governance concept (Albrecht et al., 2018; Wiegleb & Bruns, 2018).
 
 Currently, the scientific discourse on WEF nexus approaches heavily relies on a technical point of view when analyzing problems and suggesting solutions. When working from a socio-ecological point of view, scholars have to take power relations and social inequalities into account. Similarly, Pahl-Wostl et al., 2019 criticized that the WEF nexus assessments neglect the 
@@ -72,7 +76,7 @@ Lastly, the overall visibility for nexus governance or politics is low and thus 
 
 
 <br/> <br/>
-[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/){: .btn .btn-purple .mr-4}
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/governance/){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
 <hr/>
