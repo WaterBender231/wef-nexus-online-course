@@ -82,7 +82,7 @@ together 4%).
 
 ## **3.2.5 From Energy Source to Consumption: Energy Flows**
 
-<img src="/wef-nexus-online-course/assets/" alt="Energy Flow Diagramm">
+<img src="/wef-nexus-online-course/assets/flow-diagram.png" alt="Energy Flow Diagramm">
 <p><small>LLNC (2019).</small></p>
 <p><small>  </small></p>
 
