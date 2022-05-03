@@ -17,7 +17,7 @@ Anaerobic digestion describes the decomposition of organic matter by microbes in
 
 ### **Biogas capacities and usage**
 
-<img src="/wef-nexus-online-course/assets/">
+<img src="/wef-nexus-online-course/assets/biogas-use.png">
 <small>Source: IEA 2020</small>
 
 Global biogas production has been increasing significantly within the last 10 years. Currently, the production capacity ranges around 33 Mtoe (For comparison, Germany’s total energy demand was around 290 Mtoe in 2020 (BP 2021)).  Europe and Germany in particular are responsible for the biggest share (IEA 2020). Around one third of the produced biogas is used for cogeneration (also called CHP – combined heat and power); another 31% is used solely for power generation. 27% is used to provide heat indoors and 8.5% are upgraded to biomethane, which can be distributed in the gas grid like natural gas (IEA 2020).
@@ -26,7 +26,7 @@ Global biogas production has been increasing significantly within the last 10 ye
 
 ### **Types of feedstock**
 
-<img src="/wef-nexus-online-course/assets/feedstock.png">
+<img src="/wef-nexus-online-course/assets/feedstock-biogas.png">
 <small>Biowaste to Biogas - GIZ</small>
 
 **Feedstock for biogas production**
@@ -46,7 +46,7 @@ The substrate should not consist of too much foreign substances. Furthermore, de
 
 ### **What part of the feedstock is used?**
 
-<img src="/wef-nexus-online-course/assets/feedstock-parts.JPG">
+<img src="/wef-nexus-online-course/assets/feedstock-biogas.png">
 <small>Kaltschmitt et al. 2009; design adapted from Felix Mayer M.Sc. </small>
 
 Regardless of the source of the input, when looking at the process of anaerobic digestion, the digestate is always made up of dry matter and water. The dry matter can be further broken down into organic dry matter (oDM) and inorganic dry matter. The oDM also has fermentable and non-fermentable parts. The share that is actually utilized from the fermentable parts serves to produce biogas, along with the utilized water. The remaining parts of the dry matter can be reused as a mineral fertilizer (Kaltschmitt et al. 2009).
@@ -55,7 +55,7 @@ Regardless of the source of the input, when looking at the process of anaerobic 
 
 ### **Different options in biogas production**
 
-<img src="/wef-nexus-online-course/assets/biogas-options.JPG">
+<img src="/wef-nexus-online-course/assets/options-biogas.png">
 
 There are various parameters within the operation of a biogas plant, that steer the process of bacterial decomposition. The most important ones are illustrated here.
 
