@@ -170,7 +170,7 @@ In a cooperative research project, Fraunhofer Chile, the local government, and l
 **Biophysical Site Conditions** <br>
 Typical for the central Chile region, the case study in the commune of Curacaví in the West of Santiago de Chile (-33.503917, -70.995556) has high annual solar radiation (2191 kWh∕m² in 2019, Gelaro et al. (2017)) and low annual precipitation (average 511 mm/a, 96.6 mm∕a in 2019, Gelaro et al. (2017)). Average high temperatures range between 18°C in June and 31°C in January, while average low-temperature range between 6°C in June and 15°C in January. 
 
-The pilot is installed on a horticultural field at a height ranging from 202m to 203 m above sea level featuring a slight slope from east to west, enabling irrigation by gravitation (Jung and Salmon 2021). Applying the Soil Classification Triangle (Cornell University 2010), the topsoil can be identified as sandy to medium loam (~ Sand: 525, Clay: 178, Silt: 297 g∕kg in the upper 1.5 m, <a href="soilgrids.info">http://soilgrids.info/</a>. (Hengl et al. 2017)) indicating good natural fertility and relatively good moisture retention.
+The pilot is installed on a horticultural field at a height ranging from 202m to 203 m above sea level featuring a slight slope from east to west, enabling irrigation by gravitation (Jung and Salmon 2021). Applying the Soil Classification Triangle (Cornell University 2010), the topsoil can be identified as sandy to medium loam (~ Sand: 525, Clay: 178, Silt: 297 g∕kg in the upper 1.5 m, <a href="soilgrids.info">Soilgrids</a>); indicating good natural fertility and relatively good moisture retention (Hengl et al. 2017).
 
 
 <hr/>
