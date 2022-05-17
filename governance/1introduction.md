@@ -7,7 +7,11 @@ parent: Governance
 # **6.1 WEF nexus governance**
 
 ## 6.1.1 Contextual Introduction
-Governance is a crucial factor in ensuring sustainable resource management. However, there is still a lack of comprehensive frameworks that can support and guide the design and/or evaluation of effective policies. The nexus approach aims for sustainable resource management by increasing synergies and reducing trade-offs between the water, energy, and food sector. However, achieving multi-sectoral management goals does not only require nexus sound solutions (see <a href="https://waterbender231.github.io/wef-nexus-online-course/solutions/">Learning Unit 07</a>) but also effective institutional coordination and policies across sectors. Thus, governance plays a crucial role in achieving the nexus goals.
+Governance is a crucial factor in ensuring sustainable resource management. However, there is still a lack of comprehensive frameworks that can support and guide the design and/or evaluation of effective policies. The nexus approach aims for sustainable resource management by increasing synergies and reducing trade-offs between the water, energy, and food sector. However, achieving multi-sectoral management goals does not only require nexus sound solutions (see <a href="https://waterbender231.github.io/wef-nexus-online-course/solutions/">Learning Unit 07</a>) but also effective institutional coordination and policies across sectors. 
+
+One could say that there are two dimensions to the implementation of the WEF-nexus approach:
+1. Understanding and quantifying the physical links between elements and
+2. Understanding the management and governance structures in order to inform decision-making and promote integrated resources management
 
 <hr/>
 
