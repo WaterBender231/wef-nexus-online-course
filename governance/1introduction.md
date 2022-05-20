@@ -80,7 +80,7 @@ Lastly, the overall visibility for nexus governance or politics is low and thus 
 
 
 <br/> <br/>
-[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/governance/){: .btn .btn-purple .mr-4}
+[Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/governance/instruments){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
 <hr/>
