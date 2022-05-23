@@ -59,8 +59,54 @@ The following tools can be used to involve public participation:
 
 <hr/>
 
+## Background of the Fertiliser Ordinance Amendment case study​
+
+Within Germany, the federal state assumes the responsibility for environmental protection. However, the protection of water bodies in Germany is strongly dictated by European Union (EU) legal guidelines.​
+
+The European Commission (EC) Nitrates Directive is a key instrument in improving the groundwater quality. According to the European Commission, Germany had repeatedly violated the EC Nitrates Directive in recent years. Thus, the EC sued Germany before the European Court of Justice.​
+
+Through the violation of the Nitrate Directive, the amendment of the fertiliser ordinance in Germany was initiated. ​
+
+### Legal and political background:​
+Under EU law, Germany is obliged to comply to EU directives. In the event of non-compliance, the European Commission can refer the matter to the European Court of Justice. Germany thus risks breaking European law and paying heavy fines. It is also politically inadvisable to ignore EU law, especially given Germany’s prominence in the union. ​
+
+​
+<hr/>
+​
+img
+
+<small>Based on the diagram which explains the intersectoral coordination instruments in German political processes, this diagram shows how these instruments were used in this specific case study. ​</small>
 
 
+The process took place as follows: ​
+​
+
+(1) Inter-Ministerial cooperation: ​
+The lead ministry responsible for the matter was Federal Ministry of Food and Agriculture. (2) This ministry initiated early contact with other affected ministries. (3) The affected ministries were: the Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety and the Federal Ministry for Economic Affairs and Energy. The Federal Ministry of Food and Agriculture, informed them about his plans and was principally responsible for the management of the cooperative work. ​
+
+Aside from the numerous discussions at the ministerial level, a permanent working group was established to revise estimates of nutrient quantities in soils. ​
+
+
+(4, 5, 6) Federal Government: ​
+Because of the complicated and important character of the fertiliser ordinance the Federal Government was involved since the beginning in the process. The leading institutions were the German Parliamentary Committee for Food and Agriculture and the Committee for the Environment, Nature Conservation, Building and Nuclear Safety.​
+
+ 
+(7) Involvement of federal states and communal organisations: ​
+In order to evaluate the fertiliser ordinance, the Federal Ministry of Food and Agriculture employed a Federal-State Working Group. The working group brought together actors from different sectors and administrative levels.  ​
+
+As further steps, regular discussions and informal meetings took place between the lead ministry and the representatives of the federal states and communal organisations.  ​
+
+ 
+(8) Technical Expertise: ​
+The scientific councils principally involved were: The Scientific Advisory Council for Fertiliser and the Scientific Advisory Board on Agricultural Policy, Food and Consumer Health Protection (both appointed by the Federal Ministry of Food and Agriculture) as well as the German Advisory Council on the Environment (appointed by the Federal Government).​
+
+Representatives of the councils were summoned to various hearings in the ministries. In addition, all three scientific councils have released a joint statement regarding the proposals from the Federal-State Working Group Evaluating the Fertiliser Ordinance. ​
+
+ 
+(9) Public Participation: ​
+The fertiliser law requires the involvement of the public and of all actors affected by the project in the form of position statements. The Federal Ministry of Food and Agriculture considered and evaluated the statements they received.​
+
+​
 <br/> <br/>
 [Continue to case study II](https://waterbender231.github.io/wef-nexus-online-course/governance/case-studies/groundwater-in-germany){: .btn .btn-purple .mr-4}
 <br/> <br/>
