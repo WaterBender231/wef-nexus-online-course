@@ -6,12 +6,57 @@ parent: 6.3 Case Studies
 grand_parent: Governance
 ---
 
-# **6.3.1 Case Study II - Groundwater Management in the Hessian Ried in Germany**
+# **6.3.2 Case Study II - Groundwater Management in the Hessian Ried in Germany**
+
+<img src="/wef-nexus-online-course/assets/banner_c2.jpg" alt="Banner - Case II "/>
 
 The case study is an example of the application of following WEF-Nexus coordination instruments: ​
 - Communicative instrument: Ground Water Management Plan ​
 - Legislative policy instrument: Targeted groundwater extraction values​
 - Organizational instrument: Round table discussions ​
+
+<hr/>
+
+## Groundwater recharge
+
+<img src="/wef-nexus-online-course/assets/Groundwater_recharge.jpg" alt=""/>
+<small>Source: Adapted from the Wasserverband Hessiches Ried</small>
+
+The diagram above summarizes the groundwater recharge: The water from the Rhine River is transported through a pipe system to the water treatment plant in Bibesheim. Though the treatment process in Bibesheim the water obtains drinking water quality. The drinking water quality is required to  avoid groundwater pollution through the groundwater recharge process. After reaching the drinking water quality the water is distributed for the groundwater recharge and for agriculture. 
+
+<hr/>
+
+## Groundwater monitoring network in the Hessian Ried 
+
+<img src="/wef-nexus-online-course/assets/hessian_ried.png" alt=""/>
+<small>Source: Hessian Agency for Nature Conservation, Environment and Geology (HLNUG), available at: <a href="https://www.hlnug.de/static/pegel/wiskiweb2/index.html">https://www.hlnug.de/static/pegel/wiskiweb2/index.html</a>
+
+The groundwater level in the Hessian Ried is measured at about 850 monitoring stations. 
+
+<hr/>
+
+## Solution: Groundwater Management
+### Measured groundwater levels at a station in the Hessian Ried
+
+
+<img src="/wef-nexus-online-course/assets/measurements.png" alt=""/>
+<small>Rueppel & Gutzke, 2004 </small>
+
+Based on sixty years of experience in monitoring groundwater levels in the Hessian Ried, the district government defined target values for the groundwater level which are adequate for the environment. The measured values in the monitoring stations and the expected water demand are used to control the groundwater recharge in accordance with the target value.
+By water levels below the target value the infiltration takes place. By high levels it doesn´t.           
+
+<hr/>
+
+
+The round table brought together all relevant stakeholders including:
+
+Regional government authorities
+Representatives of different interests (forestry, water suppliers, environmental associations, nature conservation associations, farmer associations, action groups against waterlogging in houses)
+Districts, cities and municipalities.
+
+
+
+
 
 
 ## Background of the case study​
