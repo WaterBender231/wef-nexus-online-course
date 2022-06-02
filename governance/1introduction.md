@@ -78,7 +78,6 @@ Secondly, the nexus governance literature lacks available participatory approach
 
 Lastly, the overall visibility for nexus governance or politics is low and thus hinders the development of concepts further (Urbinatti et al., 2020).
 
-
 <br/> <br/>
 [Continue to next section](https://waterbender231.github.io/wef-nexus-online-course/governance/instruments){: .btn .btn-purple .mr-4}
 <br/> <br/>
