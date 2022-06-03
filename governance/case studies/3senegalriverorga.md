@@ -171,36 +171,31 @@ The river infrastructure in the basin is a property of all Member States (as def
 <hr/>
 
 <p><small><b>References</b><br>
-De Strasser, L., Lipponen, A., Howells, M., Stec, S. and Bréthaut, Ch .2016. A Methodology to Assess the Water Energy Food Ecosystems Nexus in Transboundary River Basins. In: Water 2016, 8, 59; Available from: https://www.mdpi.com/2073-4441/8/2/59 ​
-
-Dombrowsky, I. and Hensengerth, O., 2018. Governing the Water-Energy-Food Nexus Related to Hydropower on Shared Rivers—The Role of Regional Organizations. Front. Environ. Sci. 6:153. doi: 10.3389/fenvs.2018.00153 ​
-
-IUCN (2019). Increasing returns on investment opportunities by applying a nexus approach: Best practice nexus case studies. Belgrade, Serbia: IUCN. pp. 18-23. https://portals.iucn.org/library/node/48721​
-
-Makane M. M. 2014. A Model for African Shared Water Resources: The Senegal River Legal System. ​
-
-Manikowski S., Strapasson, A. 2016. Sustainability Assessment of Large Irrigation Dams in Senegal: A Cost-Benefit Analysis for the Senegal River Valley. Front. Environ. Sci. 4:18. doi: 10.3389/fenvs.2016.00018​
-
-Medinilla, An. and Sergejeff, K. 2021. Supporting transboundary water cooperation: learning from water-stressed basins in West Africa. ECDPM Making policies work. Discussion paper No. 309. Available from: https://uploads.water-energy-food.org/ECDPM-paper.pdf  ​
-
-OMVS. 2002. Senegal River Basin Development Organization. What it is? What it does? A successful example of sub-regional integration and cooperation in relation to the coordinated and concerted development of a river basin in Africa. http://www.omvs.org/content/documenth%C3%A8que​
-
-
-Paisley R., K., Denoon R. T., de Chaisemartin, M. 2020. International river basin organizations and benefit sharing arrangements in the Columbia and Senegal international river basins: Past, present, and future. In: River Basin Organizations in Water Diplomacy edited by Kittikhoun, A., Schmeier, S. 978-0-367-21813-3 (ISBN).​
-
-Scheumann, W., and Tigrek, S., 2015. Regional energy trading—a new avenue for resolving a regional water dispute? Int. J. Water Govern. 1, 1–22. doi: 10.7564/14-ijwg46​
-
-
-UNEP /, 2014. Governing the water-energy-food nexus: opportunities for basin organisations. First International Environment Forum for Basin Organizations. Towards Sustainable Freshwater Governance. 26–28 November 2014, Nairobi, Kenya. Technical background document for theme 2: “Water-Energy-Food Nexus” (Nairobi: United Nations Environment Programme). Available from: https://wedocs.unep.org/bitstream/handle/20.500.11822/9954/water-energy-food.pdf?sequence=1&isAllowed=y  ​
-
-UNECE (United Nations Economic Commission for Europe), 2015. Reconciling Resource Uses in Transboundary Basins: Assessment of the Water-Food-Energy-Ecosystems Nexus. New York, Geneva: United Nations. Available from: https://unece.org/fileadmin/DAM/env/water/publications/WAT_Nexus/ece_mp.wat_46_eng.pdf ​
-
-United Nations World Water Development Report. 2003. Water for People Water for Life. Paris, UNESCO and New York, Berghahn Books, Chapter 20: Senegal River Basin, Guinea, Mali, Mauritania, Senegal p. 447-461.
-
-
-Vick, M., J. 2006. The Senegal River Basin: A Retrospective and Prospective Look at the Legal Regime. 46 Nat. Resources J. 211. ​
-
-
+<i>De Strasser, L., Lipponen, A., Howells, M., Stec, S. and Bréthaut, Ch .2016. A Methodology to Assess the Water Energy Food Ecosystems Nexus in Transboundary River Basins. In: Water 2016, 8, 59; Available from: <a href="https://www.mdpi.com/2073-4441/8/2/59">https://www.mdpi.com/2073-4441/8/2/59</a><br>
+<br>
+Dombrowsky, I. and Hensengerth, O., 2018. Governing the Water-Energy-Food Nexus Related to Hydropower on Shared Rivers—The Role of Regional Organizations. Front. Environ. Sci. 6:153. doi: 10.3389/fenvs.2018.00153<br>
+<br>​
+IUCN (2019). Increasing returns on investment opportunities by applying a nexus approach: Best practice nexus case studies. Belgrade, Serbia: IUCN. pp. 18-23. <a href="https://portals.iucn.org/library/node/48721​">https://portals.iucn.org/library/node/48721​</a> <br>
+<br>
+Makane M. M. 2014. A Model for African Shared Water Resources: The Senegal River Legal System. ​<br>
+<br>
+Manikowski S., Strapasson, A. 2016. Sustainability Assessment of Large Irrigation Dams in Senegal: A Cost-Benefit Analysis for the Senegal River Valley. Front. Environ. Sci. 4:18. doi: 10.3389/fenvs.2016.00018​ <br>
+<br>
+Medinilla, An. and Sergejeff, K. 2021. Supporting transboundary water cooperation: learning from water-stressed basins in West Africa. ECDPM Making policies work. Discussion paper No. 309. Available from: <a href="https://uploads.water-energy-food.org/ECDPM-paper.pdf">https://uploads.water-energy-food.org/ECDPM-paper.pdf</a> <br>
+<br>
+OMVS. 2002. Senegal River Basin Development Organization. What it is? What it does? A successful example of sub-regional integration and cooperation in relation to the coordinated and concerted development of a river basin in Africa. <a href="http://www.omvs.org/content/documenth%C3%A8que​">http://www.omvs.org/content/documenth%C3%A8que​</a><br>
+<br>
+Paisley R., K., Denoon R. T., de Chaisemartin, M. 2020. International river basin organizations and benefit sharing arrangements in the Columbia and Senegal international river basins: Past, present, and future. In: River Basin Organizations in Water Diplomacy edited by Kittikhoun, A., Schmeier, S. 978-0-367-21813-3 (ISBN).​ <br>
+<br>
+Scheumann, W., and Tigrek, S., 2015. Regional energy trading—a new avenue for resolving a regional water dispute? Int. J. Water Govern. 1, 1–22. doi: 10.7564/14-ijwg46​ <br>
+<br>
+UNEP /, 2014. Governing the water-energy-food nexus: opportunities for basin organisations. First International Environment Forum for Basin Organizations. Towards Sustainable Freshwater Governance. 26–28 November 2014, Nairobi, Kenya. Technical background document for theme 2: “Water-Energy-Food Nexus” (Nairobi: United Nations Environment Programme). Available from: <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/9954/water-energy-food.pdf?sequence=1&isAllowed=y">https://wedocs.unep.org/bitstream/handle/20.500.11822/9954/water-energy-food.pdf?sequence=1&isAllowed=y</a><br>
+<br>
+UNECE (United Nations Economic Commission for Europe), 2015. Reconciling Resource Uses in Transboundary Basins: Assessment of the Water-Food-Energy-Ecosystems Nexus. New York, Geneva: United Nations. Available from: <a href="https://unece.org/fileadmin/DAM/env/water/publications/WAT_Nexus/ece_mp.wat_46_eng.pdf">https://unece.org/fileadmin/DAM/env/water/publications/WAT_Nexus/ece_mp.wat_46_eng.pdf</a><br>
+<br>
+United Nations World Water Development Report. 2003. Water for People Water for Life. Paris, UNESCO and New York, Berghahn Books, Chapter 20: Senegal River Basin, Guinea, Mali, Mauritania, Senegal p. 447-461.<br>
+<br>
+Vick, M., J. 2006. The Senegal River Basin: A Retrospective and Prospective Look at the Legal Regime. 46 Nat. Resources J. 211. ​<br> </i></small>
 
 
 ​
