@@ -72,9 +72,6 @@ Instruments relevant for the WEF-Nexus are: ​
 Further aspects relevant for the nexus perspective in all countries: anthropogenic pollution caused by the discharge of industrial and agricultural chemicals into river; droughts; high poverty level (more than 50% of the population live on less than US $2 per day); high dependence on agriculture for income and food security   ​
 
 
-​<hr/>
-
-
 <img src="/wef-nexus-online-course/assets/establishment.jpg" alt="Sengeal Basin - History"/>
 <small>Convention Creating the OMVS signed by the parties; <a href="http://www.omvs.org/content/documenth%C3%A8que​">http://www.omvs.org/content/documenth%C3%A8que​</a></small>
 
@@ -171,6 +168,12 @@ The river infrastructure in the basin is a property of all Member States (as def
 - Develop own guidelines on sustainable hydropower how did e.g. International Commission for the Protection of the - Danube River (ICPDR, 2013) and the Mekong River Commission (MRC, 2009) 
 - Establish a joint data infrastructure: collect, store and share data (Dombrowsky and Hensengerth, 2018) 
 
+
+
+<br/> <br/>
+[Continue to Solutions](https://waterbender231.github.io/wef-nexus-online-course/solutions/
+{: .btn .btn-purple .mr-4}
+<br/> <br/>
 
 <hr/>
 
