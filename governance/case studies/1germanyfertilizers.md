@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 6.3.1 Case Study I - Fertiliser Ordinance Amendment in Germany
+title: 6.2.1 Case Study I - Fertiliser Ordinance Amendment in Germany
 permalink: /governance/case-studies/fertilisers-in-germany
-parent: 6.3 Case Studies
+parent: 6.2 Case Studies
 grand_parent: Governance
 nav_order: 1
 ---
@@ -25,9 +25,6 @@ AND
 
 ## 2. Intersectoral coordination in German political processes
 ### Objective: Explain the intersectoral coordination in German political process
-
-
-<img src="/wef-nexus-online-course/assets/intersectoral_coordination_DE.jpg" alt="Diagram"/>
 
 The process takes place in the following order (numbers from 1 to 12 on the diagram): 
 
@@ -62,25 +59,27 @@ The following tools can be used to involve public participation:
 
 <hr/>
 
-## Background of the Fertiliser Ordinance Amendment case study​
+## Background of the Fertiliser Ordinance Amendment case study​ - in a nutshell:
 
+- Germany violated the European Commission (EC) Nitrates Directive​
+
+- This initiated the amendment of the fertiliser ordinance in Germany:​ with the objective to achieve a reduction in fertiliser use in agriculture, to protect natural resources and reduce the costs involved in water treatment. ​
+
+- It was a complex process with the involvement of different sectors and actors, which required both horizontal and vertical cooperation mechanisms ​
+
+​
 Within Germany, the federal state assumes the responsibility for environmental protection. However, the protection of water bodies in Germany is strongly dictated by European Union (EU) legal guidelines.​
 
 The European Commission (EC) Nitrates Directive is a key instrument in improving the groundwater quality. According to the European Commission, Germany had repeatedly violated the EC Nitrates Directive in recent years. Thus, the EC sued Germany before the European Court of Justice.​
 
 Through the violation of the Nitrate Directive, the amendment of the fertiliser ordinance in Germany was initiated. ​
 
-### Legal and political background:​
+**Legal and political background:​**
 Under EU law, Germany is obliged to comply to EU directives. In the event of non-compliance, the European Commission can refer the matter to the European Court of Justice. Germany thus risks breaking European law and paying heavy fines. It is also politically inadvisable to ignore EU law, especially given Germany’s prominence in the union. ​
 
-​
 <hr/>
 ​
-
-## Horizontal and vertical cooperation: 
-### The example of the fertiliser ordinance amendment
-
-<img src="/wef-nexus-online-course/assets/cooperation_vertical_horizontal_DE.jpg" alt="Diagram"/>
+img
 
 <small>Based on the diagram which explains the intersectoral coordination instruments in German political processes, this diagram shows how these instruments were used in this specific case study. ​</small>
 
@@ -113,12 +112,7 @@ Representatives of the councils were summoned to various hearings in the ministr
 (9) Public Participation: ​
 The fertiliser law requires the involvement of the public and of all actors affected by the project in the form of position statements. The Federal Ministry of Food and Agriculture considered and evaluated the statements they received.​
 
-
-<hr/>
-
-<img src="/wef-nexus-online-course/assets/summary_case_I.jpg" alt="Summary - Case I "/>
-
-
+​
 <br/> <br/>
 [Continue to case study II](https://waterbender231.github.io/wef-nexus-online-course/governance/case-studies/groundwater-in-germany){: .btn .btn-purple .mr-4}
 <br/> <br/>
@@ -129,7 +123,7 @@ The fertiliser law requires the involvement of the public and of all actors affe
 <small><b>References<br></b>
 <i>Blumstein, S., Kramer, A., Carius, A., adelphi (12. März 2017). Koordination sektoraler Interessen im Nexus zwischen Wasser, Energie und Landwirtschaft. Mechanismen und Instrumente Deutschland, Im Auftrag von: Gesellschaft für Internationale Zusammenarbeit. <br>
 <br>
-Federal Ministry of Food and Agriculture, Ordinance. Redefining best practice in the application of fertilizer. Working Translation of of 26 May 2017. <a href="https://www.bmel.de/SharedDocs/Downloads/DE/_Landwirtschaft/Pflanzenbau/DueV-Englisch.pdf?__blob=publicationFile&v=2">https://www.bmel.de/SharedDocs/Downloads/DE/_Landwirtschaft/Pflanzenbau/DueV-Englisch.pdf?__blob=publicationFile&v=2</a> <br>
+Federal Ministry of Food and Agiculture, Ordinance. Redefining best practice in the application of fertilizer. Working Translation of of 26 May 2017. <a href="https://www.bmel.de/SharedDocs/Downloads/DE/_Landwirtschaft/Pflanzenbau/DueV-Englisch.pdf?__blob=publicationFile&v=2">https://www.bmel.de/SharedDocs/Downloads/DE/_Landwirtschaft/Pflanzenbau/DueV-Englisch.pdf?__blob=publicationFile&v=2</a> <br>
 <br>
 </i></small>
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 6.3.3 Case Study III - Senegal River Basin Development Organization
+title: 6.2.3 Case Study III - Senegal River Basin Development Organization
 permalink: /governance/case-studies/senegal-river-basin-organization
-parent: 6.3 Case Studies
+parent: 6.2 Case Studies
 grand_parent: Governance
 ---
 
-# **6.3.3 Case Study III - Senegal River Basin Development Organization**
+# **6.2.3 Case Study III - Senegal River Basin Development Organization**
 The case study „Senegal River Basin Development Organization” demonstrates instruments of coordinated decision making for dealing with the WEF-Nexus at river basin scale. ​
 
 The analysis of the case study is structured as follows: ​
@@ -21,7 +21,7 @@ The analysis of the case study is structured as follows: ​
 <div>
 <div style="float: left">
 <figure>
-<img src="/wef-nexus-online-course/assets/around-the-world.gif" width="170" height="32">
+<img src="/wef-nexus-online-course/assets/omvs.jpg" width="170" height="32">
 <figcaption><small><small>Source: <a href="http://www.omvs.org/">http://www.omvs.org/</a></small></small></figcaption>
 </figure>
 </div>
@@ -46,13 +46,15 @@ Furthermore, as suggested by the United Nations Environment Programme (UNEP) riv
 
 The Convention on the Protection and Use of Transboundary Watercourses and International Lakes (the Water Convention) operates under the umbrella of the United Nations Economic Commission for Europe (UNECE) and is an intergovernmental platform for the advancement of cooperation in transboundary river basins. The Water Convention developed a methodology for assessing nexus issues in transboundary basins and applied the methodology at different basins in Europe. ​
 
-<details><summary><b>Those who are interested at the methodology will find the description here </b></summary>
+<hr/>
+
+<small><b>Those who are interested at the methodology will find the description here </b>
 <p>
 UNECE, 2018. Methodology for assessing the water-food-energy-ecosystems nexus in transboundary basins and experiences from its application: synthesis. Available from: <a href="https://unece.org/environment-policy/publications/methodology-assessing-water-food-energy-ecosystems-nexus">https://unece.org/environment-policy/publications/methodology-assessing-water-food-energy-ecosystems-nexus</a>
 <br>  ​
-Results of the assessment of the water-food-energy ecosystems nexus for different basins in Europe are available from: <a href="https://grid-arendal.maps.arcgis.com/apps/Cascade/index.html?appid=7101ef4dfcfb40e98cdc31b2e9d7da10">https://grid-arendal.maps.arcgis.com/apps/Cascade/index.html?appid=7101ef4dfcfb40e98cdc31b2e9d7da10 </a> </details>
+Results of the assessment of the water-food-energy ecosystems nexus for different basins in Europe are available from: <a href="https://grid-arendal.maps.arcgis.com/apps/Cascade/index.html?appid=7101ef4dfcfb40e98cdc31b2e9d7da10">https://grid-arendal.maps.arcgis.com/apps/Cascade/index.html?appid=7101ef4dfcfb40e98cdc31b2e9d7da10 </a> </small>
 
-​
+
 <hr/>
 
 ## Senegal River Basin

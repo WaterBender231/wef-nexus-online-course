@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 6.3.2 Case Study II - Groundwater Management in the Hessian Ried in Germany
+title: 6.2.2 Case Study II - Groundwater Management in the Hessian Ried in Germany
 permalink: /governance/case-studies/groundwater-in-germany
-parent: 6.3 Case Studies
+parent: 6.2 Case Studies
 grand_parent: Governance
 ---
 
-# **6.3.2 Case Study II - Groundwater Management in the Hessian Ried in Germany**
+# **6.2.2 Case Study II - Groundwater Management in the Hessian Ried in Germany**
 
 <img src="/wef-nexus-online-course/assets/banner_c2.jpg" alt="Banner - Case II "/>
 
