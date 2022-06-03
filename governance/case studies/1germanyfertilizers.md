@@ -27,7 +27,7 @@ AND
 ### Objective: Explain the intersectoral coordination in German political process
 
 
-<img src="/wef-nexus-online-course/assets/intersectoral_coord_DE.png" alt="Case Study I - Banner"/>
+<img src="/wef-nexus-online-course/assets/politcal-process.jpg" alt="Politcal Process - Overview"/>
 
 
 The process takes place in the following order (numbers from 1 to 12 on the diagram): 

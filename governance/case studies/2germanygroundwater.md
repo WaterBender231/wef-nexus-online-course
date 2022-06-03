@@ -20,6 +20,7 @@ The case study is an example of the application of following WEF-Nexus coordinat
 ## The Hessian Ried
 
 <img src="/wef-nexus-online-course/assets/hessian-ried.jpg" alt="Hessian Ried"/>
+<br>
 <small>Rueppel & Gutzke, 2004​</small>
 
 The Hessian Ried, located south of Frankfurt, extends over an area of approximately 1,250 km<sup>2</sup>. The landscape is a part of the Upper Rhine Plain, and prior to human intervention was a swamp area and part of the natural inundation zone of the Rhine River.​ Through widespread drainage and agricultural utilisation, the landscape was starkly changed.​
@@ -56,6 +57,7 @@ Extreme dry years in 1970s drastically increased the demand for water - especial
 
 
 <img src="/wef-nexus-online-course/assets/dry-years.jpg" alt="Dry Hessian Ried"/>
+<br>
 <small>Rueppel & Gutzke, 2004​</small>​
 
 <hr/>
@@ -176,7 +178,9 @@ Generally, the various actors are willing to cooperate if they see a usefulness 
 
 **Positive results coming from this cooperation:** Success of the agricultural cooperation was seen in the form of a declining nitrate concentration in the water. This became apparent after several years due to long residence times of the nitrogen in the soil. ​
 
+
 ​<hr/>
+
 
 ## Summary: Nexus relevant instruments in the Hessien Ried ​
 
