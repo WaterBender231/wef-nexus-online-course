@@ -5,4 +5,4 @@ permalink: /solutions/examples
 parent: Solutions
 has_children: true
 ---
-# 7.3 Nexus integrated techhnologies
+# 7.3 Nexus integrated technologies
