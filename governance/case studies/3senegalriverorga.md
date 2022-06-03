@@ -14,7 +14,7 @@ The analysis of the case study is structured as follows: ​
 2. WEF-Nexus related conflicts in the region​
 3. Identification and description of WEF-Nexus relevant instruments. ​
 
-​<hr/>
+<hr/>
 
 ## River basin organizations as WEF-Nexus coordination instutions - key questions: 
 
@@ -71,8 +71,6 @@ Further aspects relevant for the nexus perspective in all countries: anthropogen
 
 ​<hr/>
 
-## Establishment of the Senegal River Basin Development Organization  ​
-
 <img src="/wef-nexus-online-course/assets/establishment.jpg" alt="Sengeal Basin - History"/>
 <small>Convention Creating the OMVS signed by the parties; <a href="http://www.omvs.org/content/documenth%C3%A8que​">http://www.omvs.org/content/documenth%C3%A8que​</a></small>
 
@@ -97,8 +95,6 @@ Construction of two dams: Manantali and Diama for energy production and expansio
 
 ## First experiences: ​Lessons learned from WEF-Nexus perspective​
 
-The construction of dams and water infrastructure improved access to energy and irrigation water in the Senegal River Valley (OMVS, 2002; Manikowski and Strapasson, 2016). 
-
 <div>
 <div style="float: left">
 <figure>
@@ -107,10 +103,13 @@ The construction of dams and water infrastructure improved access to energy and 
 </figure>
 </div>
 <div>
+</div>
+</div>
+The construction of dams and water infrastructure improved access to energy and irrigation water in the Senegal River Valley (OMVS, 2002; Manikowski and Strapasson, 2016). 
+
+
 <br>
-<b>Key questions:</b>
-</div>
-</div>
+
 Positive impacts of the dams construction: <br>
 - Improved access to irrigation water (OMVS, 2002; UN, 2003; Vick 2006)​ <br>
 e.g. Senegal increased its potential for irrigated agriculture in the Senegal River Valley from about 10,000 ha to 240,000 ha (Manikowsky and Strapasson, 2016)​<br>
@@ -118,7 +117,7 @@ e.g. Senegal increased its potential for irrigated agriculture in the Senegal Ri
 - Energy: 800 GWh/ year of ​ hydropower production ​<br>
 <hr/>
 
-## Negative Impacts of the dam
+## Negative impacts of the dam
 
 - Reduction of recession agriculture ​
 - Reduction of pasturelands​
