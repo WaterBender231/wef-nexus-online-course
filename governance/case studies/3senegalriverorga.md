@@ -14,6 +14,8 @@ The analysis of the case study is structured as follows: ​
 2. WEF-Nexus related conflicts in the region​
 3. Identification and description of WEF-Nexus relevant instruments. ​
 
+
+
 <hr/>
 
 ## River basin organizations as WEF-Nexus coordination instutions - key questions: 
