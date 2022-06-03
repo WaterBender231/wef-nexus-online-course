@@ -18,22 +18,8 @@ The analysis of the case study is structured as follows: ​
 
 ## River basin organizations as WEF-Nexus coordination instutions - key questions: 
 
-<div>
-<div style="float: left">
-<figure>
-<img src="/wef-nexus-online-course/assets/omvs.jpg" width="170" height="32">
-<figcaption><small><small>Source: <a href="http://www.omvs.org/">http://www.omvs.org/</a></small></small></figcaption>
-</figure>
-</div>
-<div>
-<br>
-<b>Key questions:</b>
-</div>
-</div>
-Why could river basin organisations be the adequate institutions for a coordination between the WEF-sectors? <br>
-How could river basin organizations support WEF-Nexus governance at regional scales?<br>
-
-<br>
+1. Why could river basin organisations be the adequate institutions for a coordination between the WEF-sectors? <br>
+2. How could river basin organizations support WEF-Nexus governance at regional scales?<br>
 
 <hr/>
 
@@ -49,10 +35,9 @@ The Convention on the Protection and Use of Transboundary Watercourses and Inter
 <hr/>
 
 <small><b>Those who are interested at the methodology will find the description here </b>
-<p>
 UNECE, 2018. Methodology for assessing the water-food-energy-ecosystems nexus in transboundary basins and experiences from its application: synthesis. Available from: <a href="https://unece.org/environment-policy/publications/methodology-assessing-water-food-energy-ecosystems-nexus">https://unece.org/environment-policy/publications/methodology-assessing-water-food-energy-ecosystems-nexus</a>
 <br>  ​
-Results of the assessment of the water-food-energy ecosystems nexus for different basins in Europe are available from: <a href="https://grid-arendal.maps.arcgis.com/apps/Cascade/index.html?appid=7101ef4dfcfb40e98cdc31b2e9d7da10">https://grid-arendal.maps.arcgis.com/apps/Cascade/index.html?appid=7101ef4dfcfb40e98cdc31b2e9d7da10 </a> </small>
+Results of the assessment of the water-food-energy ecosystems nexus for different basins in Europe are available from: <a href="https://grid-arendal.maps.arcgis.com/apps/Cascade/index.html?appid=7101ef4dfcfb40e98cdc31b2e9d7da10">https://grid-arendal.maps.arcgis.com/apps/Cascade/index.html?appid=7101ef4dfcfb40e98cdc31b2e9d7da10 </a></small>
 
 
 <hr/>
@@ -185,7 +170,7 @@ The river infrastructure in the basin is a property of all Member States (as def
 
 <hr/>
 
-References
+<p><small><b>References</b><br>
 De Strasser, L., Lipponen, A., Howells, M., Stec, S. and Bréthaut, Ch .2016. A Methodology to Assess the Water Energy Food Ecosystems Nexus in Transboundary River Basins. In: Water 2016, 8, 59; Available from: https://www.mdpi.com/2073-4441/8/2/59 ​
 
 Dombrowsky, I. and Hensengerth, O., 2018. Governing the Water-Energy-Food Nexus Related to Hydropower on Shared Rivers—The Role of Regional Organizations. Front. Environ. Sci. 6:153. doi: 10.3389/fenvs.2018.00153 ​
