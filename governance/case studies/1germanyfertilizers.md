@@ -26,6 +26,10 @@ AND
 ## 2. Intersectoral coordination in German political processes
 ### Objective: Explain the intersectoral coordination in German political process
 
+
+<img src="/wef-nexus-online-course/assets/intersectoral_coord_DE.png" alt="Case Study I - Banner"/>
+
+
 The process takes place in the following order (numbers from 1 to 12 on the diagram): 
 
 Inter-ministerial horizontal coordination: 
@@ -79,7 +83,7 @@ Under EU law, Germany is obliged to comply to EU directives. In the event of non
 
 <hr/>
 ​
-img
+<img src="/wef-nexus-online-course/assets/eu-co.jpg" alt="Flow Diagram"/>
 
 <small>Based on the diagram which explains the intersectoral coordination instruments in German political processes, this diagram shows how these instruments were used in this specific case study. ​</small>
 
@@ -112,7 +116,18 @@ Representatives of the councils were summoned to various hearings in the ministr
 (9) Public Participation: ​
 The fertiliser law requires the involvement of the public and of all actors affected by the project in the form of position statements. The Federal Ministry of Food and Agriculture considered and evaluated the statements they received.​
 
-​
+<hr/>
+
+## Decision of the Court of Justice of the European Union (CJEU) ​
+
+- Germany revised its fertiliser ordinance in 2017 and set:​
+
+1. new limits for nitrogen fertilisation,​
+2. extended time-frame for fertiliser bans,​
+3. fertiliser-free areas around water bodies. ​
+4. Decision of the CJEU (June 2018): it is still insufficient.​
+
+
 <br/> <br/>
 [Continue to case study II](https://waterbender231.github.io/wef-nexus-online-course/governance/case-studies/groundwater-in-germany){: .btn .btn-purple .mr-4}
 <br/> <br/>
@@ -123,7 +138,7 @@ The fertiliser law requires the involvement of the public and of all actors affe
 <small><b>References<br></b>
 <i>Blumstein, S., Kramer, A., Carius, A., adelphi (12. März 2017). Koordination sektoraler Interessen im Nexus zwischen Wasser, Energie und Landwirtschaft. Mechanismen und Instrumente Deutschland, Im Auftrag von: Gesellschaft für Internationale Zusammenarbeit. <br>
 <br>
-Federal Ministry of Food and Agiculture, Ordinance. Redefining best practice in the application of fertilizer. Working Translation of of 26 May 2017. <a href="https://www.bmel.de/SharedDocs/Downloads/DE/_Landwirtschaft/Pflanzenbau/DueV-Englisch.pdf?__blob=publicationFile&v=2">https://www.bmel.de/SharedDocs/Downloads/DE/_Landwirtschaft/Pflanzenbau/DueV-Englisch.pdf?__blob=publicationFile&v=2</a> <br>
+Federal Ministry of Food and Agriculture, Ordinance. Redefining best practice in the application of fertilizer. Working Translation of of 26 May 2017. <a href="https://www.bmel.de/SharedDocs/Downloads/DE/_Landwirtschaft/Pflanzenbau/DueV-Englisch.pdf?__blob=publicationFile&v=2">https://www.bmel.de/SharedDocs/Downloads/DE/_Landwirtschaft/Pflanzenbau/DueV-Englisch.pdf?__blob=publicationFile&v=2</a> <br>
 <br>
 </i></small>
 
