@@ -71,7 +71,9 @@ Instruments relevant for the WEF-Nexus are: ​
 
 Further aspects relevant for the nexus perspective in all countries: anthropogenic pollution caused by the discharge of industrial and agricultural chemicals into river; droughts; high poverty level (more than 50% of the population live on less than US $2 per day); high dependence on agriculture for income and food security   ​
 
+
 ​<hr/>
+
 
 <img src="/wef-nexus-online-course/assets/establishment.jpg" alt="Sengeal Basin - History"/>
 <small>Convention Creating the OMVS signed by the parties; <a href="http://www.omvs.org/content/documenth%C3%A8que​">http://www.omvs.org/content/documenth%C3%A8que​</a></small>
@@ -150,6 +152,7 @@ The river infrastructure in the basin is a property of all Member States (as def
 ## Benefits of OMVS​
 
 <img src="/wef-nexus-online-course/assets/senegal-boats.jpg" width="170" height="32">
+<br>
 <small>​Senegal River, Source: OMVS​</small>
 
 - Scholars consider the OMVS as an unique experiment in transboundary water management, and one that has shown to produce clear benefits to its member states, even in a context of extreme political instability.​ <br>

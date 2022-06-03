@@ -111,7 +111,9 @@ In face of the unstable groundwater levels, the Hessian State decided to stabili
 1. Groundwater recharge to ensure water availability for irrigation and drinking water supply.​
 2. Groundwater monitoring network with defined targeted groundwater levels.​
 
+
 </hr>
+
 
 ## Overview: groundwater recharge in the Hessian Ried
 
@@ -122,7 +124,7 @@ Though the treatment process in Bibesheim the water obtains drinking water quali
 After reaching the drinking water quality the water is distributed for the groundwater recharge and for agriculture. ​
 
 <br/> <br/>
-[Continue to case study II](https://waterbender231.github.io/wef-nexus-online-course/governance/case-studies/senegal-river-basin-organization){: .btn .btn-purple .mr-4}
+[Continue to case study III](https://waterbender231.github.io/wef-nexus-online-course/governance/case-studies/senegal-river-basin-organization){: .btn .btn-purple .mr-4}
 <br/> <br/>
 
 
