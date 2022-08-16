@@ -71,9 +71,3 @@ to the WEF-Nexus online course. Our website is under construction. You can find 
 <li class="d-inline-block mr-1"> <a href="http://www.jf-gestaltung.de/"><img src="/wef-nexus-online-course/assets/default_contributor.png" width="32" height="32" alt="JF Gestaltung"></a></li>
 </ul>
 
-
-
-
-## Welcome,
-
-With this document, we would like to provide ITT MSc and Ph.D. students with some basic guidelines on meeting internationally recognized scientific work standards. They might vary slightly among disciplines. You need to consider these rules when writing any text, including research reports, essays, scientific articles, or theses. 
