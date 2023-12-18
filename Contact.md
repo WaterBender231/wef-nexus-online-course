@@ -26,7 +26,7 @@ Silvia Krautzik <br>
 Institute for Technology and Resources Management in the Tropics and Subtropics (ITT) </i>
 <br>
 
-E-Mail: <a href = "mailto: silvia_marie.krautzik@th-koeln.de</a>
+E-Mail: <a href = "mailto: silvia_marie.krautzik@th-koeln.de">silvia_marie.krautzik@th-koeln.de</a>
 
 <hr/>
 
