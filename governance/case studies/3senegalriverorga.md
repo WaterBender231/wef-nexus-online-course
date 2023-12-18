@@ -171,8 +171,7 @@ The river infrastructure in the basin is a property of all Member States (as def
 
 
 <br/> <br/>
-[Continue to Solutions](https://waterbender231.github.io/wef-nexus-online-course/solutions/
-{: .btn .btn-purple .mr-4}
+[Go to next learning unit](https://waterbender231.github.io/wef-nexus-online-course/solutions/){: .btn .btn-green }
 <br/> <br/>
 
 <hr/>
