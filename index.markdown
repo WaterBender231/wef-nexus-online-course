@@ -27,10 +27,13 @@ nav_order: 1
 <br/> <br/> -->
 
 ## Welcome 
-to the WEF-Nexus online course. Our website is under construction. You can find more content about the WEF-Nexus here soon! 
+The WEF-Nexus Online Course was developed as part of the project “From Data to Decision – Assessment of the Water-Energy-Food (WEF) Security Nexus” (WEF-Nexus) conducted in the framework of the DAAD (German Academic Exchange Service) Programme “Qualification of Young Researchers from Developing Countries – Training courses for Scholarship Holders of the In-Country/In-Region Programme in Germany” funded by the Federal Ministry for Economic Cooperation and Development (BMZ). <br> 
+The WEF-Nexus project was carried out by the Institute for Technology and Resources Management in the Tropics and Subtropics (ITT), TH Köln. Within this project three summer schools on WEF-Nexus were organized each bringing together about 25 DAAD scholarship holders from Africa, Latin America and South-East Asia. Each summer school was scheduled for four weeks. 
+Trough the WEF-Nexus Online Course we aim at disseminating knowledge and educational materials developed within the project across all interested groups in accordance with the open educational resources principle.    
+
 <br>
 <br>
-<small>This online course will familiarize you with the concept of the <b>W</b>ater-<b>E</b>nergy-<b>F</b>ood-Nexus and intersectoral thinking. You will gain an overview of the State-of-the-Art literature related to the WEF-Nexus and we provide you with exercise questions that help you reflect on key aspects of the introduced materials. Additionally, you will be able to define nexus systems in for a case study region of your choice and you will learn approaches of how to quantify sectors and interconnections of the system. Lastly, this course will introduce you to governance aspects of a nexus system as well as possible solutions for key problems in case study areas. Finding and evaluating possible solutions is an essential part of this course and prepares you to become a problemsolver with a nexus perspective.</small>
+<small><b>Outline:</b>This online course will familiarize you with the concept of the <b>W</b>ater-<b>E</b>nergy-<b>F</b>ood-Nexus and intersectoral thinking. You will gain an overview of the State-of-the-Art literature related to the WEF-Nexus and we provide you with exercise questions that help you reflect on key aspects of the introduced materials. Additionally, you will be able to define nexus systems in for a case study region of your choice and you will learn approaches of how to quantify sectors and interconnections of the system. Lastly, this course will introduce you to governance aspects of a nexus system as well as possible solutions for key problems in case study areas. Finding and evaluating possible solutions is an essential part of this course and prepares you to become a problemsolver with a nexus perspective.</small>
 <br> 
 <hr/>  
 
