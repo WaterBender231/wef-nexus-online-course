@@ -61,7 +61,7 @@ The quantitative analysis and the use of tools relies on data that are observed 
 <div style="float: right">
 <figure>
 <img src="/wef-nexus-online-course/assets/document.gif" width="170" height="32">
-<figcaption><small><small><a href="https://www.flaticon.com/free-animated-icons/document" title="document animated icons">Document animated icons created by Freepik - Flaticon</a></small></small></figcaption>
+<!-- <figcaption><small><small><a href="https://www.flaticon.com/free-animated-icons/document" title="document animated icons">Document animated icons created by Freepik - Flaticon</a></small></small></figcaption> -->
 </figure>
 </div>
 <div>
