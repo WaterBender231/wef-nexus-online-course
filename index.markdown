@@ -27,9 +27,9 @@ nav_order: 1
 <br/> <br/> -->
 
 ## Welcome 
-<small>The WEF-Nexus Online Course was developed as part of the project “From Data to Decision – Assessment of the Water-Energy-Food (WEF) Security Nexus” (WEF-Nexus) conducted in the framework of the DAAD (German Academic Exchange Service) Programme “Qualification of Young Researchers from Developing Countries – Training courses for Scholarship Holders of the In-Country/In-Region Programme in Germany” funded by the Federal Ministry for Economic Cooperation and Development (BMZ). <br> 
+The WEF-Nexus Online Course was developed as part of the project “From Data to Decision – Assessment of the Water-Energy-Food (WEF) Security Nexus” (WEF-Nexus) conducted in the framework of the DAAD (German Academic Exchange Service) Programme “Qualification of Young Researchers from Developing Countries – Training courses for Scholarship Holders of the In-Country/In-Region Programme in Germany” funded by the Federal Ministry for Economic Cooperation and Development (BMZ). <br> <br>
 The WEF-Nexus project was carried out by the Institute for Technology and Resources Management in the Tropics and Subtropics (ITT), TH Köln. Within this project three summer schools on WEF-Nexus were organized each bringing together about 25 DAAD scholarship holders from Africa, Latin America and South-East Asia. Each summer school was scheduled for four weeks. 
-Trough the WEF-Nexus Online Course we aim at disseminating knowledge and educational materials developed within the project across all interested groups in accordance with the open educational resources principle.   </small> 
+Trough the WEF-Nexus Online Course we aim at disseminating knowledge and educational materials developed within the project across all interested groups in accordance with the open educational resources principle.  
 
 <br>
 <br>
