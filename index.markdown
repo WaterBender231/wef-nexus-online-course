@@ -59,7 +59,7 @@ Trough the WEF-Nexus Online Course we aim at disseminating knowledge and educati
 <li class="d-inline-block mr-1"> <a href="https://www.th-koeln.de/personen/lars.ribbe/"><img src="https://www.th-koeln.de/pseimg/0f80822b8435059013c7d78225da1d56060405ab.png" width="32" height="32" alt="Lars Ribbe"></a></li>
 <li class="d-inline-block mr-1"> <a href="https://www.th-koeln.de/personen/justyna.sycz/"><img src="https://watersecurity.info/wp-content/uploads/2019/05/WSCC19_JustynaSycz.jpg" width="32" height="32" alt="Justyna Sycz"></a></li>
 <li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/silvia-marie-krautzik-61202a132/"><img src="/wef-nexus-online-course/assets/sk_profile.jpg" width="32" height="32" alt="Silvia Krautzik"></a></li>
-<li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/jakob-schmid-1a9331172/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQGGmKeQGAmqBA/profile-displayphoto-shrink_400_400/0/1633425413307?e=1652918400&v=beta&t=JheuMuTVhMUKr2rACq21dMpLXhk0j80nPySnEWQHrVU" width="32" height="32" alt="Jakob Schmid"></a></li>
+<li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/jakob-schmid-1a9331172/"><img src="" width="32" height="32" alt="Jakob Schmid"></a></li>
 <li class="d-inline-block mr-1"> <a href="https://www.linkedin.com/in/daniel-knopp-baa16514a/"><img src="/wef-nexus-online-course/assets/default_contributor.png" width="32" height="32" alt="Daniel Knopp"></a>
 </li>
 </ul>
