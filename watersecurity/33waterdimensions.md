@@ -50,7 +50,7 @@ ADB (2013) follows a different approach which also related water availability wi
 
 <hr/>
 
-<h2>2.3 Indices to measure water accessibility <small>(<a href="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">view table</a>)</small></h2> 
+<h2>2.4 Indices to measure water accessibility <small>(<a href="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">view table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 <small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water accessibility</a></small></small>
