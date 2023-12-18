@@ -6,7 +6,7 @@ parent: Introduction
 ---
 # **1.1 Background: Why does WEF-Nexus thinking matter?**
 
-## Challenges for achieving WEF-Security
+## 1.1.1 Challenges for achieving WEF-Security
 
 ### Present Challenges:
 
@@ -29,7 +29,7 @@ The world population is likely to increase to over 8 billion by 2030 and 9.5 or 
 
 <hr/>
 
-<h2>1.1. The Sustainable Development Goals <br>
+<h2>1.1.2 The Sustainable Development Goals <br>
 - Water, Energy, and Food Security are key pillars of development!</h2>
 
 ![SDG-Goals](/wef-nexus-online-course/assets/SDG_Goals.png)
@@ -53,7 +53,7 @@ Therefore, the Sustainable Development Goals (SDGs) address the areas of action 
 
 <hr/>
 
-<h2>1.1. 2. Nexus Concepts and History <br>
+<h2>1.1.3 Nexus Concepts and History <br>
 - Sector specific goals may interfere with interests of other sectors</h2>
 
 ![US Department](/wef-nexus-online-course/assets/USDepartmentEnergy.png)
@@ -107,7 +107,7 @@ These trade-offs are the reason why a Nexus approach is needed: in order to syst
 
 <hr/>
 
-## 2.1 The Bonn 2011 Nexus Conference: The Water, Energy and Food Security Nexus
+## 1.1.4 The Bonn 2011 Nexus Conference: The Water, Energy and Food Security Nexus
 
 ![Hoff 2011](/wef-nexus-online-course/assets/hoff_2011.png)
 
@@ -123,7 +123,7 @@ This “first” Nexus concept (Hoff, 2011) looked at the security of water supp
 
 <hr/>
 
-## 2.2 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU
+## 1.1.5 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU
 
 ![Ecosystem Perspective, GIZ/EU 2016](/wef-nexus-online-course/assets/EWEF_GIZ.png)
 
@@ -136,7 +136,7 @@ The Nexus Dialogue Program was coordinated by the European Commission (EC, DG DE
 
 <hr/>
 
-## 2.3 What are the benefits of WEF Nexus thinking?
+## 1.1.6 What are the benefits of WEF Nexus thinking?
 
 - It helps to understand the complex and interrelated nature of different systems
 - Identifies and evaluates trade-offs and synergies between different sectors to support decision making
@@ -170,23 +170,23 @@ Alexandratos N, Bruinsma J. 2012. World agriculture towards 2030/2050 (Available
 CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS) (2020.), ‘Food Security’,
 <a href="https://ccafs.cgiar.org/bigfacts/#theme=food-security">https://ccafs.cgiar.org/bigfacts/#theme=food-security </a> (Accessed on 02.8.2020)</i> <br>
 <br>
-<b>1.2 The Sustainable Development Goals - Water, Energy, and Food Security: pillars of development!</b> <br>
+<b>1.1.2 The Sustainable Development Goals - Water, Energy, and Food Security: pillars of development!</b> <br>
 <i>United Nations General Assembly (2015) Transforming our world: the 2030 Agenda for Sustainable Development,
 <a href="https://sustainabledevelopment.un.org/post2015/transformingourworld">https://sustainabledevelopment.un.org/post2015/transformingourworld.</a><br>
 <br>
 UN 2020, The Sustainable Development Goals, <a href="https://www.un.org/sustainabledevelopment">https://www.un.org/sustainabledevelopment/</a></i> <br>
 <br>
-<b>2. Why Nexus Thinking? Sector specific goals may interfere with interests of other sectors </b> <br>
+<b>1.1.3 Why Nexus Thinking? Sector specific goals may interfere with interests of other sectors </b> <br>
 <i>U.S. Department of Energy (2006), ‘Energy Demands on Water Resources’, Report to Congress on the Interdependence of Energy and Water, <a href="https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB2011103657.xhtml">https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB2011103657.xhtml</a><br>
 <br>
 LaB (2010), ‘Fertilizers and their Impact on Watershed Ecology’, Available from: <a href="http://lab.visual-logic.com/2010/02/864/">http://lab.visual-logic.com/2010/02/864/</a></i> <br>
 <br>
-<b>2.1 The Bonn 2011 Nexus Conference: The Water, Energy and Food Security Nexus</b> <br>
+<b>1.1.4 The Bonn 2011 Nexus Conference: The Water, Energy and Food Security Nexus</b> <br>
 <i>WEF (2009) Water Security: The Water-Food-Energy-Climate Nexus, <a href="https://www.weforum.org/reports/water-security-water-energy-food">https://www.weforum.org/reports/water-security-water-energy-food/climate-nexus</a><br>
 <br>
 Hoff, H. (2011). Understanding the Nexus. Background Paper for the Bonn2011 Conference: The Water, Energy and Food Security Nexus. Stockholm Environment Institute, Stockholm</i><br>
 <br>
-<b>2.2 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU</b><br>
+<b>1.1.5 WEF Nexus from the ecosystem perspective: The Nexus Dialogue Program – GIZ/EU</b><br>
 <i>GIZ (2016), ‘Water, Energy & food Nexus in a Nutshell’, Available from: <a href="www.water-energy-food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue">http://food.org/fileadmin/user_upload/files/2016/documents/nexus-secretariat/nexus-dialogues/Water-Energy-Food_Nexus-Dialogue/Programme_Phase1_2016-18.pdf</a></i> 
 </small>
 </p>
