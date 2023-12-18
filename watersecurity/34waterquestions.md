@@ -4,7 +4,7 @@ title: 2.4 Questions
 permalink: /watersecurity/questions
 parent: Water Security
 ---
-# 3.4 Self-Assessment
+# 2.4 Self-Assessment
 <br>
 
 - Please name the most common dimensions to measure water security
