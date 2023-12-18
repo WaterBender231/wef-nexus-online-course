@@ -18,5 +18,17 @@ Please contact us via E-Mail if you have questions, comments or suggestions.
 
 <hr/>
 
+
+### **Technical and Website-related Contact**
+<br>
+Silvia Krautzik <br>
+<i>Fakultät für Raumentwicklung und Infrastruktursysteme <br>
+Institute for Technology and Resources Management in the Tropics and Subtropics (ITT) </i>
+<br>
+
+E-Mail: <a href = "mailto: silvia_marie.krautzik@th-koeln.de</a>
+
+<hr/>
+
 **Recommended Citation:**
 WEF-Nexus Online Course, (2022): *“Title of Web Page.”*, published on GitHub, March 2022, Available at *URL* [last access: *date*].
