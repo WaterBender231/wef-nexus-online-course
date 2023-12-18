@@ -103,7 +103,7 @@ The Asian Development Bank (2013) added urban and economy, while Grey and Sadoff
 
 <hr/>
 
-<h2> 2.2 Varying Water Security assessment frameworks <small>(<a href="/wef-nexus-online-course/assets/watersec-table.pdf">view table</a>)</small></h2> 
+<h2> 2.1.4 Varying Water Security assessment frameworks <small>(<a href="/wef-nexus-online-course/assets/watersec-table.pdf">view table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/watersec-table.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 
@@ -142,5 +142,5 @@ Siwar C, Ahmed F (2014) Concepts, dimensions and elements of water security. Pak
 <br>
 OECD, 2013. Water Security for Better Lives, OECD Studies on Water, OECD Publishing. <a href="http://dx.doi.org/10.1787/9789264202405-en">http://dx.doi.org/10.1787/9789264202405-en</a> </i><br>
 <br>
-<b>2.2 Varying Water Security assessment frameworks</b><br>
+<b>2.1.4 Varying Water Security assessment frameworks</b><br>
 <i>Vörösmarty, C. J., McIntyre, P. B., Gessner, M. O., Dudgeon, D., Prusevich, A., Green, P., … Davies, P. M. (2010). Global threats to human water security and river biodiversity. Nature, 467(7315), 555–561. <a href="https://doi.org/10.1038/nature09440">https://doi.org/10.1038/nature09440</a></i></small>
