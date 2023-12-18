@@ -10,7 +10,7 @@ For the scope of this learning unit, we selected the dimensions availability, ac
 
 <hr/>
 
-<h2>2.3 Indices to measure water availability <small>(<a href="/wef-nexus-online-course/assets/indices-water-availability.pdf">view  table</a>)</small></h2> 
+<h2>2.3.1 Indices to measure water availability <small>(<a href="/wef-nexus-online-course/assets/indices-water-availability.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-availability.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 <small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water availability</a></small></small>
@@ -50,7 +50,7 @@ ADB (2013) follows a different approach which also related water availability wi
 
 <hr/>
 
-<h2>2.4 Indices to measure water accessibility <small>(<a href="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">view table</a>)</small></h2> 
+<h2>2.3.2 Indices to measure water accessibility <small>(<a href="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">view table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-accessibility.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 <small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water accessibility</a></small></small>
@@ -64,7 +64,7 @@ Under another category called “Hygiene and sanitation”, they include number 
 
 <hr/>
 
-<h2>2.5 Indices to measure water safety and quality <small>(<a href="/wef-nexus-online-course/assets/indices-water-quality.pdf">view  table</a>)</small></h2> 
+<h2>2.3.3 Indices to measure water safety and quality <small>(<a href="/wef-nexus-online-course/assets/indices-water-quality.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-quality.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 <small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water quality</a></small></small>
@@ -82,7 +82,7 @@ Garrick and Hall (2014) propose a **risk-based framework** which differentiates 
 
 <hr/>
 
-<h2>2.6 Indices to measure water governance performance <small>(<a href="/wef-nexus-online-course/assets/indices-water-governance.pdf">view  table</a>)</small></h2> 
+<h2>2.3.4 Indices to measure water governance performance <small>(<a href="/wef-nexus-online-course/assets/indices-water-governance.pdf">view  table</a>)</small></h2> 
 
 <iframe width="100%" height="500" src="/wef-nexus-online-course/assets/indices-water-governance.pdf">If you are seeing this text, the preview of the PDF failed. Most likely this happened because your browser does not support this technical feature.</iframe>
 <small><small><a href="https://waterbender231.github.io/wef-nexus-online-course/watersecurity/dimensions#data-overview">See more data sources for water governance</a></small></small>
